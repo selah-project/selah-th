@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "และยาห์เวห์ตรัสแก่โมเชและแก่อาฮารอน บนภูเขาโฮร์ ริมเขตแดนแผ่นดินอาดอม ว่า",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "แก่"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "และแก่"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "อาฮารอน"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "บนภูเขา"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "นั้น"
+    },
+    {
+      "surface": "על",
+      "gloss": "ริม"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "เขตแดน"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "แผ่นดิน"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "อาดอม"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:43:12.529553454Z",
+  "model": "glm-5.3"
+}

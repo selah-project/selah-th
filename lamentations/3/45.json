@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "lamentations 3:45",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "เศษและของเน่าเสีย พระองค์ทรงวางเราไว้ท่ามกลาง ⟨the⟩ ประชาชนต่าง ๆ",
+  "tokens": [
+    {
+      "surface": "סחי",
+      "gloss": "เศษที่กวาดทิ้ง"
+    },
+    {
+      "surface": "ומאוס",
+      "gloss": "และของเน่าเสีย"
+    },
+    {
+      "surface": "תשימנו",
+      "gloss": "พระองค์ทรงวางเรา"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ท่ามกลาง"
+    },
+    {
+      "surface": "העמים",
+      "gloss": "ประชาชนต่าง ๆ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:01.090487638Z",
+  "model": "glm-5.3"
+}

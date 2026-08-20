@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "2-chronicles 4:10",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และ ⟨את⟩ ทะเลนั้นทรงตั้งไว้ข้างไหล่ขวา ทางตะวันออก เยื้องทางใต้",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ทะเล"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ทะเล"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ตั้งไว้"
+    },
+    {
+      "surface": "מכתף",
+      "gloss": "จากไหล่"
+    },
+    {
+      "surface": "הימנית",
+      "gloss": "ขวา"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ทางตะวันออก"
+    },
+    {
+      "surface": "ממול",
+      "gloss": "เยื้อง"
+    },
+    {
+      "surface": "นגבה",
+      "gloss": "ทางใต้"
+    }
+  ],
+  "timestamp": "2026-08-20T13:57:59.433947065Z",
+  "model": "glm-5.3"
+}

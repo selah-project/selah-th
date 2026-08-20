@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 36:13",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 36,
+  "translation": "אֵלֶּה אלה המצות והמשפטים אשר צוה יהוה ביד משה אל בני ישראל בערבת מואב על ירדן ירחו",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "אלה"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "המצות"
+    },
+    {
+      "surface": "והמשפטים",
+      "gloss": "והמשפטים"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "אשר"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "צוה"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ביד"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישראל"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "בערבת"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "מואב"
+    },
+    {
+      "surface": "על",
+      "gloss": "על"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "ירדן"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "ירחו"
+    }
+  ],
+  "timestamp": "2026-08-20T07:51:13.749243491Z",
+  "model": "glm-5.3"
+}

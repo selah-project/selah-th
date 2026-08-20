@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และนกควาค และ ⟨את⟩ นกราชามา และ ⟨את⟩ นกกาน้ำ",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "และนกควาค"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "นกราชามา"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "นกราชามา"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "นกกาน้ำ"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "นกกาน้ำ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:57:20.009467035Z",
+  "model": "glm-5.3"
+}

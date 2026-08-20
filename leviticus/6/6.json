@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "ไฟนิรันดร์จะลุกโชนบนแท่นบูชา ห้ามมิดับ",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "ไฟ"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ตลอดไป"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "จะลุกโชน"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "แท่นบูชา"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "จะดับ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:21:40.933468992Z",
+  "model": "glm-5.3"
+}

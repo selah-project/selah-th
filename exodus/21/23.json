@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "และถ้ามีภัยร้ายแรงเกิดขึ้น และเจ้าจะให้ชีวิตแทนชีวิต",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "และถ้า"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "ภัยร้ายแรง"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "เกิดขึ้น"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "และเจ้าจะให้"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ชีวิต"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "แทน"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ชีวิต"
+    }
+  ],
+  "timestamp": "2026-08-20T07:10:44.607179139Z",
+  "model": "glm-5.3"
+}

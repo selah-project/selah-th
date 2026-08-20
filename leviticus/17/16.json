@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 17,
+  "translation": "และถ้าเขาไม่ซัก และไม่อาบน้ำเนื้อของตน เขาจะแบกความผิดของตนไว้",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "และถ้า"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "เขาซัก"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "และเนื้อของเขา"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "เขาอาบน้ำ"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "และแบกไว้"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "ความผิดของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:27:08.191508622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และโนอาห์เป็นบุตรชายอายุห้าร้อยปี และโนอาห์ให้กำเนิด ⟨את⟩ เชม ⟨את⟩ ฮาม และ ⟨את⟩ เยเฟท",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็น"
+    },
+    {
+      "surface": "נח",
+      "gloss": "โนอาห์"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรชาย"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ห้า"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "שนה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "และเขาให้กำเนิด"
+    },
+    {
+      "surface": "נח",
+      "gloss": "โนอาห์"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เชม"
+    },
+    {
+      "surface": "שם",
+      "gloss": "เชม"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ฮาม"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ฮาม"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "เยเฟท"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "เยเฟท"
+    }
+  ],
+  "timestamp": "2026-08-20T06:41:01.747403510Z",
+  "model": "glm-5.3"
+}

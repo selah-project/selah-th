@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "และเหนือกองทัพของตระกูลมันสสีห์คือกัมลีเอลบุตรชายเปดาห์-ซูร์",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "และเหนือ"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "กองทัพ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ตระกูล"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชาย"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "มันสสีห์"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "กัมลีเอล"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรชาย"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "เปดาห์-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ซูร์"
+    }
+  ],
+  "timestamp": "2026-08-20T07:38:36.854242769Z",
+  "model": "glm-5.3"
+}

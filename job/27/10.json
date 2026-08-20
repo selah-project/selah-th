@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "th",
+  "chapter": 27,
+  "translation": "หรือว่าเขาจะสำราญในชัดดาย จะร้องเรียกอาโลฮาห์ทุกเวลา",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "หรือว่า"
+    },
+    {
+      "surface": "על",
+      "gloss": "ใน"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "ชัดดาย"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "จะสำราญ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "จะร้องเรียก"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "อาโลฮาห์"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ทุก"
+    },
+    {
+      "surface": "עת",
+      "gloss": "เวลา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:39:34.997101739Z",
+  "model": "glm-5.3"
+}

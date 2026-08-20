@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "เจ้าทั้งหลายจะไม่ทำเช่นนั้น แด่ยาห์เวห์ เอโลฮิมของเจ้า",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "เจ้าทั้งหลายจะทำ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "เช่นนั้น"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "แด่ยาห์เวห์"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "เอโลฮิมของเจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:58:21.439129760Z",
+  "model": "glm-5.3"
+}

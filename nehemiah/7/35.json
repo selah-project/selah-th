@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 7:35",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรเหล่าแห่งฮาริม สามร้อยยี่สิบคน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรเหล่าแห่ง"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ฮาริม"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "และยี่สิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:17.261249795Z",
+  "model": "glm-5.3"
+}

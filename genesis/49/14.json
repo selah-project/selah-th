@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 49,
+  "translation": "ยิสสาคาร์ ⟨เป็น⟩ลาตัวแข็งแรง นอนขดอยู่ระหว่างคอกแกะ",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "ยิสสาคาร์"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "ลา"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "แข็งแรง"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "นอนขด"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ระหว่าง"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "คอกแกะ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:00:48.244798141Z",
+  "model": "glm-5.3"
+}

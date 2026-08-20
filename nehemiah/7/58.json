@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรของยาอาลา บุตรของดาร์โคน บุตรของกิดเดล",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "ยาอาลา"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "ดาร์โคน"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "กิดเดล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:31:05.038768385Z",
+  "model": "glm-5.3"
+}

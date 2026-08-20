@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 1:11",
+  "book": "song-of-songs",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "สร้อยแถวทองคำเราจะทำให้แก่เจ้า พร้อมกับลูกปัดเงิน",
+  "tokens": [
+    {
+      "surface": "תורי",
+      "gloss": "สร้อยแถว"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ทองคำ"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "เราจะทำ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "ให้แก่เจ้า"
+    },
+    {
+      "surface": "עם",
+      "gloss": "พร้อมกับ"
+    },
+    {
+      "surface": "נקדות",
+      "gloss": "ลูกปัดจุด"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "เงิน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:48:37.115954714Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "และยาฮซาห์ และเคเดโมท และเมฟาอัท",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "และยาฮซาห์"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "และเคเดโมท"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "และเมฟาอัท"
+    }
+  ],
+  "timestamp": "2026-08-20T08:12:19.633826084Z",
+  "model": "glm-5.3"
+}

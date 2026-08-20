@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และชลอโมห์เสด็จไปยังฮามัท-โซบาห์ และทรงมีชัยเหนือมัน",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "และเสด็จไป"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ชลอโมห์"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "ฮามัท"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "โซบาห์"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "และทรงมีชัย"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "เหนือมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T14:02:48.938340867Z",
+  "model": "glm-5.3"
+}

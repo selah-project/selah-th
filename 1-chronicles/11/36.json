@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 11:36",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "เฮเฟอร์คนเมเคราที อาหิยาห์คนเปโลนี",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "เฮเฟอร์"
+    },
+    {
+      "surface": "המכרתי",
+      "gloss": "คนเมเคราที"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "อาหิยาห์"
+    },
+    {
+      "surface": "הפלני",
+      "gloss": "คนเปโลนี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:44:27.600377403Z",
+  "model": "glm-5.3"
+}

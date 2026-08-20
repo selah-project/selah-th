@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "และยาห์เวห์ตรัสกับเยฮอชูอา กษัตริย์ทูลว่า",
+  "tokens": [],
+  "timestamp": "2026-08-20T08:15:21.020515831Z",
+  "model": "glm-5.3"
+}

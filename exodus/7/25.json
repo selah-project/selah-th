@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และครบเจ็ดวัน ภายหลังที่ยาห์เวห์ทรงประหาร ⟨את⟩ แม่น้ำ",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "และครบ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "วัน"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "ภายหลัง"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "ทรงประหาร"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "แม่น้ำ"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "แม่น้ำ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:04:42.370686531Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 46,
+  "translation": "และบุตรชายของเศบูลูน เซเรด เอโลน และยาห์เลเอล",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรชายของ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "เศบูลูน"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "เซเรด"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "และเอโลน"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "และยาห์เลเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T06:58:48.729924548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "คนที่สิบเจ็ด คือ เฮซีร์ คนที่สิบแปด คือ ฮัปปิตเซส",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "แก่เฮซีร์"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "แก่ฮัปปิตเซส"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "แปด"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:52:28.315210791Z",
+  "model": "glm-5.3"
+}

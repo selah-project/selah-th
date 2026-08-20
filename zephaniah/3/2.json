@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 3:2",
+  "book": "zephaniah",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "เธอไม่ฟังเสียง ไม่รับการตักเตือน ในยาห์เวห์เธอไม่วางใจ ต่อเอโลฮิมของเธอเธอไม่เข้าใกล้",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "ฟัง"
+    },
+    {
+      "surface": "בקול",
+      "gloss": "เสียง"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "לקחה",
+      "gloss": "รับ"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "การตักเตือน"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ในยาห์เวห์"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "בטחה",
+      "gloss": "วางใจ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ต่อ"
+    },
+    {
+      "surface": "אלהיה",
+      "gloss": "เอโลฮิมของเธอ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "קרבה",
+      "gloss": "เข้าใกล้"
+    }
+  ],
+  "timestamp": "2026-08-20T11:05:16.594024555Z",
+  "model": "glm-5.3"
+}

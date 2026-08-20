@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "และบุตรชายของเยคอนยาห์ ⟨อาสีร⟩ เชอัลทีเอลบุตรชายของเขา",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรชายของ"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "เยคอนยาห์"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "อาสีร"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "เชอัลทีเอล"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรชายของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:39:39.147380504Z",
+  "model": "glm-5.3"
+}

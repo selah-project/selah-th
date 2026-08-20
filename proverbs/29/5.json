@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 29:5",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 29,
+  "translation": "ชายผู้ประจบลื่นไหลแก่เพื่อนของเขา กางแหออกไว้ที่ฝ่าเท้าของเขา",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "ชาย"
+    },
+    {
+      "surface": "מחליק",
+      "gloss": "ประจบลื่นไหล"
+    },
+    {
+      "surface": "על",
+      "gloss": "แก่"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "เพื่อนของเขา"
+    },
+    {
+      "surface": "רשת",
+      "gloss": "แห"
+    },
+    {
+      "surface": "פורש",
+      "gloss": "กางออกไว้"
+    },
+    {
+      "surface": "על",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "פעמיו",
+      "gloss": "ฝ่าเท้าของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T14:53:44.392818278Z",
+  "model": "glm-5.3"
+}

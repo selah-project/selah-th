@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ฝูงอูฐ สี่ร้อยสามสิบห้า ฝูงลาตัวผู้ หกพันเจ็ดร้อยยี่สิบ",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "ฝูงอูฐ"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "สี่"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "สามสิบ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "และห้า"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "ฝูงลาตัวผู้"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "หก"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "และยี่สิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:31:03.022918120Z",
+  "model": "glm-5.3"
+}

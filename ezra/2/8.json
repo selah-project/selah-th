@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezra 2:8",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรหลานของซัททูอา เก้าร้อยสี่สิบห้าคน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรหลานของ"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ซัททูอา"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "เก้า"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "และสี่สิบ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "และห้า"
+    }
+  ],
+  "timestamp": "2026-08-20T13:18:34.870908573Z",
+  "model": "glm-5.3"
+}

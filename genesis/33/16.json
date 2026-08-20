@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 33,
+  "translation": "และในวันนั้นเอซาฟกลับไปตามทางของเขา สู่เซอีราห์",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "และกลับไป"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ในวัน"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "นั้น"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "เอซาฟ"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "ตามทางของเขา"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "สู่เซอีราห์"
+    }
+  ],
+  "timestamp": "2026-08-20T06:53:19.223364091Z",
+  "model": "glm-5.3"
+}

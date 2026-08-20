@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 12:19",
+  "book": "1-kings",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "และอิสราเอลก็กบฏต่อวงศ์วานของดาวิด จนถึงวันนี้",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "และกบฏ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "อิสราเอล"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ต่อวงศ์วานของ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ดาวิด"
+    },
+    {
+      "surface": "עד",
+      "gloss": "จนถึง"
+    },
+    {
+      "surface": "היום",
+      "gloss": "วัน"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "นี้"
+    }
+  ],
+  "timestamp": "2026-08-20T09:00:40.187208666Z",
+  "model": "glm-5.3"
+}

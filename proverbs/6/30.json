@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 6:30",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "⟨ผู้คน⟩ไม่ดูถูกขโมย เมื่อเขาขโมยเพื่อเติมเต็มชีวใจของเขา เมื่อเขาหิว",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יבוזו",
+      "gloss": "ดูถูก"
+    },
+    {
+      "surface": "לגנב",
+      "gloss": "ขโมย"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เมื่อ"
+    },
+    {
+      "surface": "יגנוב",
+      "gloss": "เขาขโมย"
+    },
+    {
+      "surface": "למלא",
+      "gloss": "เพื่อเติมเต็ม"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "ชีวใจของเขา"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เมื่อ"
+    },
+    {
+      "surface": "ירעב",
+      "gloss": "เขาหิว"
+    }
+  ],
+  "timestamp": "2026-08-20T12:11:40.953348612Z",
+  "model": "glm-5.3"
+}

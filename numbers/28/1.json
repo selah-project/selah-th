@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 28:1",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "และยาห์เวห์ตรัสกับโมเชห์ว่า",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเชห์"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:47:29.206522964Z",
+  "model": "glm-5.3"
+}

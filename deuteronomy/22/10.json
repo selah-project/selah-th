@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "เจ้าจะไถด้วยวัวและด้วยลาพร้อมกันหามิได้",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "หามิได้"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "เจ้าจะไถ"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "ด้วยวัว"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "และด้วยลา"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "พร้อมกัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:59:55.264957376Z",
+  "model": "glm-5.3"
+}

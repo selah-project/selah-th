@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และบุตรของเอทาน: อาซารยาห์",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรของ"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "เอทาน"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "อาซารยาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:37:01.676240628Z",
+  "model": "glm-5.3"
+}

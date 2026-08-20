@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "อย่าให้ใจของเจ้าอิจฉาคนบาป แต่จงอยู่ในความยำเกรงยาห์เวห์ตลอดทั้งวัน",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "อิจฉา"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ใจของเจ้า"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "ในคนบาป"
+    },
+    {
+      "surface": "כי",
+      "gloss": "แต่"
+    },
+    {
+      "surface": "אם",
+      "gloss": "เพียง"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "ในความยำเกรง"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ตลอดทั้ง"
+    },
+    {
+      "surface": "היום",
+      "gloss": "วัน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:21:28.869718880Z",
+  "model": "glm-5.3"
+}

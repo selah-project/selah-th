@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "และโมเชก็เดินไป และตรัส⟨את⟩ถ้อยคำเหล่านี้ ถึงอิสราเอลทั้งปวง",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "และเดินไป"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ถ้อยคำเหล่านี้"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ถ้อยคำ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "เหล่านี้"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งปวง"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "อิสราเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T08:06:01.086212776Z",
+  "model": "glm-5.3"
+}

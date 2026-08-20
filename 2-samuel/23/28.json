@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "ทซัลโมนชาวอาโฮฮา มาฮะรายชาวเนโทฟาท",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "ทซัลโมน"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "ชาวอาโฮฮา"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "มาฮะราย"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "ชาวเนโทฟาท"
+    }
+  ],
+  "timestamp": "2026-08-20T08:52:51.068788550Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezra 2:12",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรชายของอัซกัด หนึ่งพันสองร้อยยี่สิบสองคน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "อัซกัด"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "หนึ่งพัน"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "สองร้อย"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ยี่สิบ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "และสอง"
+    }
+  ],
+  "timestamp": "2026-08-20T13:18:48.391237939Z",
+  "model": "glm-5.3"
+}

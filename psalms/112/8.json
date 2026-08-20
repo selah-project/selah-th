@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 112:8",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 112,
+  "translation": "ใจของเขาหยั่งราก ไม่กลัว จนกว่าเขาจะเห็น ⟨את⟩ ศัตรูของเขา",
+  "tokens": [
+    {
+      "surface": "סמוך",
+      "gloss": "หยั่งราก"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ใจของเขา"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "กลัว"
+    },
+    {
+      "surface": "עד",
+      "gloss": "จนกว่า"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "เห็น"
+    },
+    {
+      "surface": "בצריו",
+      "gloss": "ศัตรูของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T14:51:46.914938199Z",
+  "model": "glm-5.3"
+}

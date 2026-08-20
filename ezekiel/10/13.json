@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 10:13",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "แก่⟨the⟩ล้อ เขาเรียกในหูของข้าพเจ้าว่า วงล้อ",
+  "tokens": [
+    {
+      "surface": "לאופנים",
+      "gloss": "แก่ล้อ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "แก่พวกมัน"
+    },
+    {
+      "surface": "קורא",
+      "gloss": "เขาเรียก"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "วงล้อ"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "ในหูของข้าพเจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T10:19:16.108350710Z",
+  "model": "glm-5.3"
+}

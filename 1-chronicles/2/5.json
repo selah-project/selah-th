@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรของเปเรส: เฮสโรน และฮามูล",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "เปเรส"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "เฮสโรน"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "และฮามูล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:37:01.675697254Z",
+  "model": "glm-5.3"
+}

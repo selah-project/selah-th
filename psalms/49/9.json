@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 49:9",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 49,
+  "translation": "และแพงเกินไป ⟨คือ⟩ ค่าไถ่ของชีวิต<them> และมันหยุดลงตลอดนิรันดร์",
+  "tokens": [
+    {
+      "surface": "ויקר",
+      "gloss": "และแพงเกินไป"
+    },
+    {
+      "surface": "פדיון",
+      "gloss": "ค่าไถ่"
+    },
+    {
+      "surface": "נפשם",
+      "gloss": "ชีวิตของ<them>"
+    },
+    {
+      "surface": "וחדל",
+      "gloss": "และหยุดลง"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ตลอดนิรันดร์"
+    }
+  ],
+  "timestamp": "2026-08-20T11:29:33.142491232Z",
+  "model": "glm-5.3"
+}

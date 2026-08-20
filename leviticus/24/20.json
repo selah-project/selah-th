@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 24:20",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "การหักครั้งแทนการหัก ตาแทนตา ฟันแทนฟัน ตามที่เขากระทำความพิการในมนุษย์ ฉันใดก็ฉันนั้นจะถูกกระทำในตัวเขา",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "การหัก"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "แทน"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "การหัก"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ตา"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "แทน"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ตา"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ฟัน"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "แทน"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ฟัน"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ตามที่"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "เขากระทำ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "ความพิการ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ในมนุษย์"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ฉันใด"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "จะถูกกระทำ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ในตัวเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:30:08.547913148Z",
+  "model": "glm-5.3"
+}

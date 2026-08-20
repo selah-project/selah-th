@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "และเอลิชามา และเอลียาดา และเอลิเปเลท เก้าคน",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "และเอลิชามา"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "และเอลียาดา"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "และเอลิเปเลท"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "เก้าคน"
+    }
+  ],
+  "timestamp": "2026-08-20T13:38:56.212282898Z",
+  "model": "glm-5.3"
+}

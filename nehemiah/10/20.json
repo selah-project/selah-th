@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 10:20",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "ฮารีฟ อานาโทท โนวาย",
+  "tokens": [
+    {
+      "surface": "חריף",
+      "gloss": "ฮารีฟ"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "อานาโทท"
+    },
+    {
+      "surface": "נובי",
+      "gloss": "โนวาย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:32:40.236067344Z",
+  "model": "glm-5.3"
+}

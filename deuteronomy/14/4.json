@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 14:4",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "นี่คือสัตว์ที่เจ้าจะกินได้ คือวัว ลูกแกะฝูงแกะ และลูกแกะฝูงแพะ",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "นี่"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "สัตว์"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "เจ้าจะกิน"
+    },
+    {
+      "surface": "שור",
+      "gloss": "วัว"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ลูกแกะ"
+    },
+    {
+      "surface": "כשבים",
+      "gloss": "ฝูงแกะ"
+    },
+    {
+      "surface": "ושה",
+      "gloss": "และลูกแกะ"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ฝูงแพะ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:57:36.829735358Z",
+  "model": "glm-5.3"
+}

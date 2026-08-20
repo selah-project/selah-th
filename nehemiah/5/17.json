@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 5:17",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และ⟨the⟩ชาวยิว และ⟨the⟩เจ้าหน้าที่ หนึ่งร้อย และห้าสิบ คน และ⟨those⟩ผู้มา ถึงเรา จาก ⟨the⟩ประชาชาติ ซึ่ง รอบๆเรา อยู่ ณ โต๊ะของฉัน",
+  "tokens": [
+    {
+      "surface": "והיהודים",
+      "gloss": "และ⟨the⟩ชาวยิว"
+    },
+    {
+      "surface": "והסגנים",
+      "gloss": "และ⟨the⟩เจ้าหน้าที่"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "หนึ่งร้อย"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "และห้าสิบ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "คน"
+    },
+    {
+      "surface": "והבאים",
+      "gloss": "และ⟨those⟩ผู้มา"
+    },
+    {
+      "surface": "אלינו",
+      "gloss": "ถึงเรา"
+    },
+    {
+      "surface": "מן",
+      "gloss": "จาก"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "⟨the⟩ประชาชาติ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "סביבתינו",
+      "gloss": "รอบๆเรา"
+    },
+    {
+      "surface": "על",
+      "gloss": "ณ"
+    },
+    {
+      "surface": "שלחני",
+      "gloss": "โต๊ะของฉัน"
+    }
+  ],
+  "timestamp": "2026-08-20T13:28:11.933779272Z",
+  "model": "glm-5.3"
+}

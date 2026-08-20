@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "และยาห์เวห์ตรัสกับโมเซห์ว่า",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเซห์"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:12:49.324881030Z",
+  "model": "glm-5.3"
+}

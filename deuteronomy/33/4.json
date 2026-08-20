@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 33,
+  "translation": "โทราห์ โมเชทรงบัญญัติแก่เรา เป็นมรดกของชุมนุมชนยาอาโคฟ",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "โทราห์"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ทรงบัญญัติ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "แก่เรา"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "มรดก"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "ของชุมนุมชน"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ยาอาโคฟ"
+    }
+  ],
+  "timestamp": "2026-08-20T08:06:36.993919960Z",
+  "model": "glm-5.3"
+}

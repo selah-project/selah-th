@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "เจ้ากำลังข้ามวันนี้ ⟨את⟩ เขตแดนโมอาบ คือ ⟨את⟩ อาร",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "เจ้า"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ข้าม"
+    },
+    {
+      "surface": "היום",
+      "gloss": "วันนี้"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เขตแดนโมอาบ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "เขตแดน"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "โมอาบ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "อาร"
+    },
+    {
+      "surface": "ער",
+      "gloss": "อาร"
+    }
+  ],
+  "timestamp": "2026-08-20T07:52:06.926822482Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "และคนาอันให้กำเนิด ⟨את⟩ ซีโดนบุตรหัวปีของเขา และ ⟨את⟩ เฮธ",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "และคนาอัน"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ซีโดน"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ซีโดน"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "บุตรหัวปีของเขา"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "เฮธ"
+    },
+    {
+      "surface": "חת",
+      "gloss": "เฮธ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:36:29.880932638Z",
+  "model": "glm-5.3"
+}

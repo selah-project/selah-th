@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 4:2",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "เพราะการสอนที่ดีฉันให้แก่ท่านทั้งหลาย ⟨⟨את⟩⟩โตราของฉันอย่าทิ้ง",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "การสอน"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ที่ดี"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "ฉันให้"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "แก่ท่านทั้งหลาย"
+    },
+    {
+      "surface": "תורתי",
+      "gloss": "โตราของฉัน"
+    },
+    {
+      "surface": "אל",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תעזבו",
+      "gloss": "ทิ้ง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:10:16.036158858Z",
+  "model": "glm-5.3"
+}

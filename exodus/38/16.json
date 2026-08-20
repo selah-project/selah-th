@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 38:16",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 38,
+  "translation": "ม่านทั้งหมดของลานรอบ ๆ ⟨เป็น⟩ ผ้าป่านขาวเนื้อฟาดเกลียว",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "קלעי",
+      "gloss": "ม่านของ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ลาน"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "รอบ ๆ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "ผ้าป่านขาว"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "เนื้อฟาดเกลียว"
+    }
+  ],
+  "timestamp": "2026-08-20T07:18:22.150172403Z",
+  "model": "glm-5.3"
+}

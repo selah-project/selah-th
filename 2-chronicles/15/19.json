@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 15:19",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "และสงครามไม่มี ⟨จนถึง⟩ ปีที่สามสิบและห้า แห่งรัชกาลของอาสา",
+  "tokens": [
+    {
+      "surface": "ומלחמה",
+      "gloss": "และสงคราม"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "มี"
+    },
+    {
+      "surface": "עד",
+      "gloss": "จนถึง"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ปีที่"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "สามสิบ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "และห้า"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "แห่งรัชกาล"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "ของอาสา"
+    }
+  ],
+  "timestamp": "2026-08-20T14:04:35.300376574Z",
+  "model": "glm-5.3"
+}

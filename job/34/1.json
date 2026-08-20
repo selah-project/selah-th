@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 34:1",
+  "book": "job",
+  "lang": "th",
+  "chapter": 34,
+  "translation": "และเอลีฮูทรงตอบและกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "และทรงตอบ"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "เอลีฮู"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "และกล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T12:43:44.742509382Z",
+  "model": "glm-5.3"
+}

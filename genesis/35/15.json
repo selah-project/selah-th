@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 35:15",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 35,
+  "translation": "และยาอาโคฟเรียก ⟨את⟩ นามของสถานที่นั้น ซึ่งเอโลฮิมตรัสกับ ⟨את⟩ เขาที่นั่น ว่าเบท-เอล",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "และเรียก"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ยาอาโคฟ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "นาม"
+    },
+    {
+      "surface": "שם",
+      "gloss": "นาม"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "ของสถานที่นั้น"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ตรัส"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "เขา"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ที่นั่น"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "เอโลฮิม"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบท"
+    },
+    {
+      "surface": "אל",
+      "gloss": "เอล"
+    }
+  ],
+  "timestamp": "2026-08-20T06:53:36.206530390Z",
+  "model": "glm-5.3"
+}

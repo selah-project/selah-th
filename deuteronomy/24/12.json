@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "และถ้าเขาเป็นคนยากจน อย่านอนหลับกับสิ่งค้ำประกันของเขา",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "และถ้า"
+    },
+    {
+      "surface": "איש",
+      "gloss": "คน"
+    },
+    {
+      "surface": "עני",
+      "gloss": "ยากจน"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "เขาเป็น"
+    },
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "เจ้านอนหลับ"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "กับสิ่งค้ำประกันของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T08:01:25.830344094Z",
+  "model": "glm-5.3"
+}

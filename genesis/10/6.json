@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "และบุตรชายของฮาม ⟨คือ⟩ คูช และมิทสรายิม และฟูท และคนาอัน",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรชายของ"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ฮาม"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "คูช"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "และมิทสรายิม"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "และฟูท"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "และคนาอัน"
+    }
+  ],
+  "timestamp": "2026-08-20T06:41:48.092157538Z",
+  "model": "glm-5.3"
+}

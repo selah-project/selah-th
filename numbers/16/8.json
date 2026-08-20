@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 16:8",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 16,
+  "translation": "และโมเชกล่าวกับคอรัคว่า โปรดฟังเถิด โอบุตรชายของเลวี",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "และโมเชกล่าว"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "คอรัค"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "จงฟัง"
+    },
+    {
+      "surface": "נא",
+      "gloss": "โปรด"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "เลวี"
+    }
+  ],
+  "timestamp": "2026-08-20T07:41:37.252938138Z",
+  "model": "glm-5.3"
+}

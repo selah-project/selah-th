@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และดาวิดอยู่ในป้อม เพราะเหตุนั้นเขาเรียกมันว่าเมืองของดาวิด",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "และอยู่"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ดาวิด"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "ในป้อม"
+    },
+    {
+      "surface": "על",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "เหตุนั้น"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "เขาเรียก"
+    },
+    {
+      "surface": "לו",
+      "gloss": "มัน"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "เมือง"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ของดาวิด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:43:39.707792123Z",
+  "model": "glm-5.3"
+}

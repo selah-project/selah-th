@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "ทรัพย์จากความไร้แก่นจะน้อยลง แต่ผู้ที่สะสมโดยมือจะเพิ่มพูน",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ทรัพย์"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "จากความไร้แก่น"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "จะน้อยลง"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "แต่ผู้ที่สะสม"
+    },
+    {
+      "surface": "על",
+      "gloss": "โดย"
+    },
+    {
+      "surface": "יד",
+      "gloss": "มือ"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "จะเพิ่มพูน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:14:06.721930050Z",
+  "model": "glm-5.3"
+}

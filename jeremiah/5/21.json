@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 5:21",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "ฟัง⟨ ⟩นะ ⟨את⟩สิ่งนี้ โอ ชนผู้โง่เขลา และไร้ใจ มีตาแต่ไม่เห็น มีหูแต่ไม่ได้ยิน",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "ฟัง"
+    },
+    {
+      "surface": "נא",
+      "gloss": "นะ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "⟨את⟩สิ่งนี้",
+      "marks": "สิ่งนี้"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ชน"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "โง่เขลา"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "และไร้"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ใจ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ตา"
+    },
+    {
+      "surface": "להם",
+      "gloss": "มีแก่เขา"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "แต่ไม่"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "เห็น"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "หู"
+    },
+    {
+      "surface": "להם",
+      "gloss": "มีแก่เขา"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "แต่ไม่"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ได้ยิน"
+    }
+  ],
+  "timestamp": "2026-08-20T14:38:48.589621068Z",
+  "model": "glm-5.3"
+}

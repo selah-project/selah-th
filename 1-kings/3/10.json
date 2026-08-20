@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 3:10",
+  "book": "1-kings",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "และถ้อยคำนั้นดีในพระนัยของอาโดนาย เพราะชลอโมห์ได้ขอสิ่งนี้",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "และดี"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ถ้อยคำ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ในพระนัย"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "อาโดนาย"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ขอ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ชลอโมห์"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ถ้อยคำนี้"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "ถ้อยคำ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "นี้"
+    }
+  ],
+  "timestamp": "2026-08-20T08:55:25.750532199Z",
+  "model": "glm-5.3"
+}

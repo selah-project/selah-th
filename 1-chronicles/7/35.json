@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และบุตรชายของเฮเลม พี่น้องของเขา โศฟัค อิมนาห์ เชเลช และอามัล",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "และบุตรชายของ"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "เฮเลม"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "พี่น้องของเขา"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "โศฟัค"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "และอิมนาห์"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "และเชเลช"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "และอามัล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:42:12.499807667Z",
+  "model": "glm-5.3"
+}

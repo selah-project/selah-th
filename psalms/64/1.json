@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 64:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 64,
+  "translation": "แก่ผู้นำการขับร้อง มิซมอรของดาวิด",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "แก่ผู้นำการขับร้อง"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "มิซมอร"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ของดาวิด"
+    }
+  ],
+  "timestamp": "2026-08-20T11:35:45.354024995Z",
+  "model": "glm-5.3"
+}

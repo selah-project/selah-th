@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 12:16",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "กษัตริย์แห่งมักเคดาห์หนึ่ง กษัตริย์แห่งเบธ-เอลหนึ่ง",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "กษัตริย์"
+    },
+    {
+      "surface": "מקדה",
+      "gloss": "มักเคดาห์"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "กษัตริย์"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบธ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "เอล"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    }
+  ],
+  "timestamp": "2026-08-20T08:11:34.741517460Z",
+  "model": "glm-5.3"
+}

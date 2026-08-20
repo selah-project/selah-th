@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 23:32",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "ท่านจะไม่ตัดพันธกับเขา และกับเอโลฮิมของเขา",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ท่านจะตัด"
+    },
+    {
+      "surface": "להם",
+      "gloss": "กับเขา"
+    },
+    {
+      "surface": "ולאלהיהם",
+      "gloss": "และกับเอโลฮิมของเขา"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "พันธ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:11:32.559001582Z",
+  "model": "glm-5.3"
+}

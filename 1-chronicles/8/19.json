@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และยาอากิม และซิครี และซับดี",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "และยาอากิม"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "และซิครี"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "และซับดี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:41:54.317010528Z",
+  "model": "glm-5.3"
+}

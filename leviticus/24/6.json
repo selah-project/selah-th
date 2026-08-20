@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 24:6",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "และเจ้าจะวาง ⟨את⟩ พวกมันเป็นสองแถว แถวละหก บนโต๊ะบริสุทธิ์ต่อพระพักตร์ยาห์เวห์",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "และเจ้าจะวาง"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩ พวกมัน",
+      "marks": "สองแถว"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "מערכות",
+      "gloss": "แถว"
+    },
+    {
+      "surface": "שש",
+      "gloss": "หก"
+    },
+    {
+      "surface": "המערכת",
+      "gloss": "⟨the⟩ แถว"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "⟨the⟩ โต๊ะ"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "บริสุทธิ์"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ต่อพระพักตร์"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T07:30:21.410734906Z",
+  "model": "glm-5.3"
+}

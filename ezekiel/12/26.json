@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 12:26",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "และเกิดขึ้น דวาของยาห์เวห์ มาถึงฉัน กล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเกิดขึ้น"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ดวา"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "มาถึงฉัน"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T10:19:20.100195576Z",
+  "model": "glm-5.3"
+}

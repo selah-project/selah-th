@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 21:1",
+  "book": "job",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "ฝ่ายอิยโยฟทูลตอบและกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ทูลตอบ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "อิยโยฟ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "และกล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T12:38:08.854538781Z",
+  "model": "glm-5.3"
+}

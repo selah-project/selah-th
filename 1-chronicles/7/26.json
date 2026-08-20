@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ลาดานบุตรของเขา อัมมีฮูดบุตรของเขา เอลีชามาบุตรของเขา",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "ลาดาน"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "อัมมีฮูด"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "เอลีชามา"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:42:15.630897779Z",
+  "model": "glm-5.3"
+}

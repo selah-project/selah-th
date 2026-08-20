@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 50,
+  "translation": "และขึ้นไปกับเขา ทั้งรถรบ ทั้งพลม้า และค่ายพักนั้นหนักหนักยิ่งนัก",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "และขึ้นไป"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "กับเขา"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ทั้ง"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "รถรบ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ทั้ง"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "พลม้า"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็น"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ค่ายพักนั้น"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "หนัก"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ยิ่งนัก"
+    }
+  ],
+  "timestamp": "2026-08-20T07:01:36.782261082Z",
+  "model": "glm-5.3"
+}

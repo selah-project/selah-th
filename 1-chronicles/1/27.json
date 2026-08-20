@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "อัฟราม — คือ⟨เขา⟩อัฟราฮัม",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "อัฟราม"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "คือ⟨เขา⟩"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "อัฟราฮัม"
+    }
+  ],
+  "timestamp": "2026-08-20T13:35:56.473666553Z",
+  "model": "glm-5.3"
+}

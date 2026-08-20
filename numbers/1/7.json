@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "สำหรับเยฮูดาห์ — นัชชอน บุตรอัมมีนาดับ",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "สำหรับเยฮูดาห์"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "นัชชอน"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "อัมมีนาดับ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:32:17.081699955Z",
+  "model": "glm-5.3"
+}

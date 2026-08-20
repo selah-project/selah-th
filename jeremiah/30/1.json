@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 30,
+  "translation": "พระดำรัสซึ่งมาถึงยิรมียาห์จาก⟨את⟩ยาห์เวห์ เพื่อกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "พระดำรัส"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "היה",
+      "gloss": "มาถึง"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ยิรมียาห์"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ จาก"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "เพื่อกล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T09:58:48.470520618Z",
+  "model": "glm-5.3"
+}

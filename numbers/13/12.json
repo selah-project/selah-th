@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "แห่งตระกูลของดาน อัมมีเอลบุตรของเกมัลลี",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "แห่งตระกูลของ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ดาน"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "อัมมีเอล"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "เกมัลลี"
+    }
+  ],
+  "timestamp": "2026-08-20T07:39:26.777077820Z",
+  "model": "glm-5.3"
+}

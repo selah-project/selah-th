@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรของเลวานาห์ บุตรของฮากาบาห์ บุตรของชัลมาย",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "เลวานาห์"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "ฮากาบาห์"
+    },
+    {
+      "surface": "บני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "ชัลมาย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:41.834687490Z",
+  "model": "glm-5.3"
+}

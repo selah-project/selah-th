@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 19:11",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "ผู้ใดที่ถูกกับซาก คือทุกชีวิตของมนุษย์ เขาเป็นมลทินเจ็ดวัน",
+  "tokens": [
+    {
+      "surface": "הנגע",
+      "gloss": "ผู้ถูกกับ"
+    },
+    {
+      "surface": "במת",
+      "gloss": "ซาก"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "คือทุก"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ชีวิต"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ของมนุษย์"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "เป็นมลทิน"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "วัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:44:40.669855378Z",
+  "model": "glm-5.3"
+}

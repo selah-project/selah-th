@@ -1,0 +1,22 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 26:18",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "ที่ปารบารทางตะวันตกสี่คน ที่ทางเดินสองคน ที่ปารบาร",
+  "tokens": [
+    {
+      "surface": "לפרבר",
+      "gloss": "ที่ปารบาร"
+    },
+    {
+      "surface": "ลมเสียตะวันตก",
+      "gloss": "",
+      "k": "ลมเสียตะวันตก"
+    }
+  ],
+  "timestamp": "2026-08-20T13:54:41.678995505Z",
+  "model": "glm-5.3"
+}

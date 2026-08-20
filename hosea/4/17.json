@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "אֶפְרַיִם ผูกพันกับรูปเคารพ — จงปล่อยเขาเถอะ",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "ผูกพันกับ"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "รูปเคารพ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "אֶפְרַיִם"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "จงปล่อย"
+    },
+    {
+      "surface": "לו",
+      "gloss": "เขา"
+    }
+  ],
+  "timestamp": "2026-08-20T10:45:48.303962480Z",
+  "model": "glm-5.3"
+}

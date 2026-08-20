@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ดีที่จะคอย⟨the⟩และนิ่งเงียบ เพื่อความรอดของยาห์เวห์",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ดี"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "และคอย"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "และนิ่งเงียบ"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "เพื่อความรอด"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ของยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T12:55:15.331606669Z",
+  "model": "glm-5.3"
+}

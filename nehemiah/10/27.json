@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "และอาฮิยาห์ ฮานาน อานาน",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "และอาฮิยาห์"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ฮานาน"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "อานาน"
+    }
+  ],
+  "timestamp": "2026-08-20T13:32:35.124803681Z",
+  "model": "glm-5.3"
+}

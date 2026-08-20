@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และในบิลฮาห์ และในเอเซม และในโทลาด",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "และในบิลฮาห์"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "และในเอเซม"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "และในโทลาด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:40:08.701702070Z",
+  "model": "glm-5.3"
+}

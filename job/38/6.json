@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 38:6",
+  "book": "job",
+  "lang": "th",
+  "chapter": 38,
+  "translation": "บนสิ่งใดเสาฐานของมันถูกจมลง หรือใครทรงวางหินมุมของมัน",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "מה",
+      "gloss": "สิ่งใด"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "เสาฐานของมัน"
+    },
+    {
+      "surface": "הטבעו",
+      "gloss": "ถูกจมลง"
+    },
+    {
+      "surface": "או",
+      "gloss": "หรือ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ใคร"
+    },
+    {
+      "surface": "ירה",
+      "gloss": "ทรงวาง"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "หิน"
+    },
+    {
+      "surface": "פנתה",
+      "gloss": "มุมของมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:45:23.690401702Z",
+  "model": "glm-5.3"
+}

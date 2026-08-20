@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และนัคชอนให้กำเนิด ⟨את⟩ ซัลมา และซัลมาให้กำเนิด ⟨את⟩ โบอัซ",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "และนัคชอน"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ซัลมา"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "ซัลมา"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "และซัลมา"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "โบอัซ"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "โบอัซ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:37:06.938290626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "หญิงนั้นกล่าวแก่งูว่า จากผลแห่งต้นไม้ทั้งปวงของสวน เรากินได้",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "กล่าว"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "หญิงนั้น"
+    },
+    {
+      "surface": "אל",
+      "gloss": "แก่"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "งู"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "จากผล"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ต้นไม้"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "ของสวน"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "เรากิน"
+    }
+  ],
+  "timestamp": "2026-08-20T06:39:53.064394377Z",
+  "model": "glm-5.3"
+}

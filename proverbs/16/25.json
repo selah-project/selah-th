@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 16:25",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 16,
+  "translation": "มีทางหนึ่ง ⟨ที่⟩ ดูตรงต่อพระตามนุษย์ แต่ปลายทางนั้นคือหนทางแห่งความตาย",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "มี"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ทาง"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ตรง"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ต่อพระตา"
+    },
+    {
+      "surface": "איש",
+      "gloss": "มนุษย์"
+    },
+    {
+      "surface": "ואחריתה",
+      "gloss": "แต่ปลายทางนั้น"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "หนทาง"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ความตาย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:16:46.638411928Z",
+  "model": "glm-5.3"
+}

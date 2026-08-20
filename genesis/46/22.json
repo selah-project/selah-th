@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 46,
+  "translation": "เหล่านี้คือบุตรชายของราเชล ซึ่งเกิดแก่ยาอาโคฟ ทุกชีวิตสิบสี่",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "เหล่านี้"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ราเชล"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "เกิดแก่"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "ยาอาโคฟ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ชีวิต"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "สี่"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T06:58:42.555713987Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "เพราะเขาไม่รู้ว่าจะเป็นสิ่งใด เพราะเมื่อมันจะเป็น ใครจะบอกแก่เขา",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "เขาไม่"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "รู้"
+    },
+    {
+      "surface": "מה",
+      "gloss": "ว่าสิ่งใด"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "จะเป็น"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "เมื่อ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "มันจะเป็น"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ใคร"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "จะบอก"
+    },
+    {
+      "surface": "לו",
+      "gloss": "แก่เขา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:02:10.937863885Z",
+  "model": "glm-5.3"
+}

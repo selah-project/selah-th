@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "หมีซุ่มโจมตี — พระองค์เป็นเช่นนั้นแก่ข้า สิงโตในที่ซ่อนเร้น",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "หมี"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "ซุ่มโจมตี"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "พระองค์เป็น"
+    },
+    {
+      "surface": "לי",
+      "gloss": "แก่ข้า"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "สิงโต"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "ในที่ซ่อนเร้น"
+    }
+  ],
+  "timestamp": "2026-08-20T12:53:59.918947114Z",
+  "model": "glm-5.3"
+}

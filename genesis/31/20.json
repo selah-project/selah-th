@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 31:20",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "ฝ่ายยาอาโคฟได้ขโมย ⟨את⟩ ใจของลาบันชาวอารัม โดยไม่บอกเขาว่า ⟨เขา⟩ กำลังหนีไป",
+  "tokens": [
+    {
+      "surface": "ויגנב",
+      "gloss": "และ...ขโมย"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ยาอาโคฟ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ใจของลาบัน"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ใจ"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ลาบัน"
+    },
+    {
+      "surface": "הארמי",
+      "gloss": "ชาวอารัม"
+    },
+    {
+      "surface": "על",
+      "gloss": "โดย"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "הגיד",
+      "gloss": "บอก"
+    },
+    {
+      "surface": "לו",
+      "gloss": "เขา"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ว่า"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "กำลังหนีไป"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨เขา⟩"
+    }
+  ],
+  "timestamp": "2026-08-20T14:20:55.890078145Z",
+  "model": "glm-5.3"
+}

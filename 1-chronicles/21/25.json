@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "และดาวีดให้แก่ออร์นันในที่นั้น เงินตราเชขelทองคำ น้ำหนักหกร้อย",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "และให้"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ดาวีด"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "แก่ออร์นัน"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ในที่นั้น"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "เชขel (หน่วยน้ำหนัก)"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ทองคำ"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "น้ำหนัก"
+    },
+    {
+      "surface": "שש",
+      "gloss": "หก"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:48:55.656770362Z",
+  "model": "glm-5.3"
+}

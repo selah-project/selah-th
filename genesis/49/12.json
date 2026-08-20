@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 49:12",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 49,
+  "translation": "เป็นประกายเข้ม ดวงตา จากไวน์ และขาว ฟัน จากนม",
+  "tokens": [
+    {
+      "surface": "חכלילי",
+      "gloss": "เป็นประกายเข้ม"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ดวงตา"
+    },
+    {
+      "surface": "מיין",
+      "gloss": "จากไวน์"
+    },
+    {
+      "surface": "ולבן",
+      "gloss": "และขาว"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ฟัน"
+    },
+    {
+      "surface": "מחלב",
+      "gloss": "จากนม"
+    }
+  ],
+  "timestamp": "2026-08-20T07:01:00.566408337Z",
+  "model": "glm-5.3"
+}

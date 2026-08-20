@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และ ⟨את⟩ ฐานทั้งหลายเขาทำ และ ⟨את⟩ อ่างทั้งหลายเขาทำไว้บนฐาน",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ฐานทั้งหลาย"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ฐานทั้งหลาย"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "เขาทำ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "อ่างทั้งหลาย"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "อ่างทั้งหลาย"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "เขาทำ"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "ฐานทั้งหลาย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:58:39.409941507Z",
+  "model": "glm-5.3"
+}

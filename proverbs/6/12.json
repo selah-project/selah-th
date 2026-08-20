@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 6:12",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "คนไร้ค่า ชายแห่งความชั่วร้าย เดินด้วยปากบิดเบือน",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "คน"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ไร้ค่า"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ชาย"
+    },
+    {
+      "surface": "און",
+      "gloss": "ความชั่วร้าย"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "เดิน"
+    },
+    {
+      "surface": "עקשות",
+      "gloss": "ความบิดเบือน"
+    },
+    {
+      "surface": "פה",
+      "gloss": "ปาก"
+    }
+  ],
+  "timestamp": "2026-08-20T12:11:03.173377292Z",
+  "model": "glm-5.3"
+}

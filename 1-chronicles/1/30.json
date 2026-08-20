@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 1:30",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "มิชมา และดูมาห์ มัสซา ฮาดัด และเตมา",
+  "tokens": [
+    {
+      "surface": "משמע",
+      "gloss": "มิชมา"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "และดูมาห์"
+    },
+    {
+      "surface": "มשא",
+      "gloss": "มัสซา"
+    },
+    {
+      "surface": "חדד",
+      "gloss": "ฮาดัด"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "และเตมา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:36:30.592351569Z",
+  "model": "glm-5.3"
+}

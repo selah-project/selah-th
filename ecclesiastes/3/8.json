@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 3:8",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "เวลาที่จะรัก และเวลาที่จะเกลียดชัง เวลาแห่งสงคราม และเวลาแห่งสันติ",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "เวลา"
+    },
+    {
+      "surface": "לאהב",
+      "gloss": "ที่จะรัก"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "และเวลา"
+    },
+    {
+      "surface": "לשנא",
+      "gloss": "ที่จะเกลียดชัง"
+    },
+    {
+      "surface": "עת",
+      "gloss": "เวลา"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "สงคราม"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "และเวลา"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "สันติ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:58:05.501708741Z",
+  "model": "glm-5.3"
+}

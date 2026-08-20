@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "แต่ว่าเนื้อ ในชีวิตของมัน คือเลือดของมัน เจ้าทั้งหลายอย่ากิน",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "แต่ว่า"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "เนื้อ"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "ในชีวิตของมัน"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "เลือดของมัน"
+    },
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "กิน"
+    }
+  ],
+  "timestamp": "2026-08-20T06:42:14.354975899Z",
+  "model": "glm-5.3"
+}

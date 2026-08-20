@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "จงไป กล่าวแก่พวกเขาว่า จงกลับสู่ตนเอง ไปยังเต็นท์ของพวกท่าน",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "จงไป"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "กล่าว"
+    },
+    {
+      "surface": "להם",
+      "gloss": "แก่พวกเขา"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "จงกลับ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "สู่ตนเอง"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "ไปยังเต็นท์ของพวกท่าน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:53:51.072079377Z",
+  "model": "glm-5.3"
+}

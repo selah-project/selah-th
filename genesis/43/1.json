@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 43,
+  "translation": "และความหิวโหยก็หนักหน่วงอยู่ใน⟨the⟩แผ่นดินโลก",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "และความหิวโหย"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "หนักหน่วง"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ในแผ่นดินโลก"
+    }
+  ],
+  "timestamp": "2026-08-20T06:58:15.569632629Z",
+  "model": "glm-5.3"
+}

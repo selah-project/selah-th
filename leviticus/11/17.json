@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และ ⟨את⟩ นกเคาแอ และ ⟨את⟩ นกทะเลสาลาช และ ⟨את⟩ นกยานโชพ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "นกเคาแอ"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "นกเคาแอ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "นกทะเลสาลาช"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "นกทะเลสาลาช"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "นกยานโชพ"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "นกยานโชพ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:23:20.969544278Z",
+  "model": "glm-5.3"
+}

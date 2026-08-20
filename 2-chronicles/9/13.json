@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-chronicles 9:13",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "และน้ำหนักของทองคำซึ่งเข้ามาถึงชลอโมห์ในปีหนึ่ง เป็นหกร้อยหกสิบหกตำลึงทองคำ",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็น"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "น้ำหนัก"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ของทองคำ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "בא",
+      "gloss": "เข้ามา"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ถึงชลอโมห์"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "ในปี"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "שש",
+      "gloss": "หก"
+    },
+    {
+      "surface": "มאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "และหกสิบ"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "และหก"
+    },
+    {
+      "surface": "ככרי",
+      "gloss": "ตำลึง"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ทองคำ"
+    }
+  ],
+  "timestamp": "2026-08-20T14:02:08.368620786Z",
+  "model": "glm-5.3"
+}

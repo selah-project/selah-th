@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และยิชปาน และเอเวอร์ และเอลีเอล",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "และยิชปาน"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "และเอเวอร์"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "และเอลีเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:40:57.873122505Z",
+  "model": "glm-5.3"
+}

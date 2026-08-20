@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "และ⟨ถ้า⟩ผู้ชายคนใดนั้นปะทะชีวิตของมนุษย์ ต้องถูกประหารชีวิตโดยแน่นอน",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "และผู้ชาย"
+    },
+    {
+      "surface": "כי",
+      "gloss": "⟨ถ้า⟩"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "นั้นปะทะ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทุก"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ชีวิต"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "ของมนุษย์"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ตาย"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ถูกทำให้ตาย"
+    }
+  ],
+  "timestamp": "2026-08-20T07:30:08.547337904Z",
+  "model": "glm-5.3"
+}

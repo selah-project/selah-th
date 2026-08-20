@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 38,
+  "translation": "และสำหรับด้านหน้า คือด้านตะวันออก ห้าสิบศ肘",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "และสำหรับด้าน"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ด้านหน้า"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "คือด้านตะวันออก"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ห้าสิบ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ศ肘"
+    }
+  ],
+  "timestamp": "2026-08-20T07:18:22.149416979Z",
+  "model": "glm-5.3"
+}

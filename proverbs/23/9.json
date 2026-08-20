@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 23:9",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "อย่าพูดในหูของคนโง่ เพราะเขาจะเหยียดหยามปัญญาแห่งวาจาของเจ้า",
+  "tokens": [
+    {
+      "surface": "באזני",
+      "gloss": "ในหูของ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "คนโง่"
+    },
+    {
+      "surface": "אל",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "พูด"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "יבוז",
+      "gloss": "จะเหยียดหยาม"
+    },
+    {
+      "surface": "לשכל",
+      "gloss": "ปัญญา"
+    },
+    {
+      "surface": "מליך",
+      "gloss": "วาจาของเจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T12:21:01.700926553Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 3:21",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "แหวนประดับ และกำไลจมูก",
+  "tokens": [
+    {
+      "surface": "הטבעות",
+      "gloss": "แหวนประดับ"
+    },
+    {
+      "surface": "ונזמי",
+      "gloss": "และกำไล"
+    },
+    {
+      "surface": "האף",
+      "gloss": "จมูก"
+    }
+  ],
+  "timestamp": "2026-08-20T09:20:00.425593366Z",
+  "model": "glm-5.3"
+}

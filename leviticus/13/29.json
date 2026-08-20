@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "และเมื่อชายหรือหญิงมีความพิการในตัว ที่ศีรษะหรือที่เครา",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "และชาย"
+    },
+    {
+      "surface": "או",
+      "gloss": "หรือ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "หญิง"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เมื่อ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "มี"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ในตัวเขา"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "ความพิการ"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "ที่ศีรษะ"
+    },
+    {
+      "surface": "או",
+      "gloss": "หรือ"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "ที่เครา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:24:39.223862326Z",
+  "model": "glm-5.3"
+}

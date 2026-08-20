@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "และเจ้าจะใส่เข้าไปในหีบ ⟨את⟩ พยาน ซึ่งเราจะให้แก่เจ้า",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "และเจ้าจะให้\/วาง"
+    },
+    {
+      "surface": "אל",
+      "gloss": "เข้าไปใน"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "หีบ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "พยาน"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "พยาน"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "เราจะให้"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "แก่เจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:12:22.786631589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 82,
+  "ref": "numbers 7:82",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "แพะผู้หนึ่งตัว เพื่อเป็นเครื่องสังเวยไถ่บาป",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "แพะขนยาว"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ของแพะ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "เพื่อเครื่องสังเวยไถ่บาป"
+    }
+  ],
+  "timestamp": "2026-08-20T07:37:57.381818086Z",
+  "model": "glm-5.3"
+}

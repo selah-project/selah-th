@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "⟨the⟩ที่ห้า เนทันยาฮู บุตรชายของเขาและพี่น้องของเขา สิบสอง",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "⟨the⟩ที่ห้า"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "เนทันยาฮู"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "บุตรชายของเขา"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "และพี่น้องของเขา"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:52:05.523005473Z",
+  "model": "glm-5.3"
+}

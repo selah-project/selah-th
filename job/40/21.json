@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 40:21",
+  "book": "job",
+  "lang": "th",
+  "chapter": 40,
+  "translation": "ใต้ต้นบัวเขานอนลง ในที่ซ่อนแห่งกกและหนองน้ำ",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ใต้"
+    },
+    {
+      "surface": "צאלים",
+      "gloss": "ต้นบัว"
+    },
+    {
+      "surface": "ישכב",
+      "gloss": "เขานอนลง"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "ในที่ซ่อน"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "กก"
+    },
+    {
+      "surface": "ובצה",
+      "gloss": "และหนองน้ำ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:46:30.372282936Z",
+  "model": "glm-5.3"
+}

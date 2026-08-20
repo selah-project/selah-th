@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 8:3",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และ ⟨את⟩ ชุมชนทั้งหมดจงชุมนุมกัน ณ ประตูทางเข้าเต็นท์แห่งการประชุม",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "ชุมชนทั้งหมด"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ชุมชน"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "จงชุมนุม"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ณ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ประตูทางเข้า"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "เต็นท์"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "แห่งการประชุม"
+    }
+  ],
+  "timestamp": "2026-08-20T07:22:17.500505352Z",
+  "model": "glm-5.3"
+}

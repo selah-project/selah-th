@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "วันนี้พวกท่านกำลังออกมา ในเดือนอาวีฟ",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "วันนี้"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "พวกท่าน"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "กำลังออกมา"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ในเดือน"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "อาวีฟ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:07:18.061032916Z",
+  "model": "glm-5.3"
+}

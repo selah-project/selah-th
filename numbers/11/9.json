@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และเมื่อน้ำค้างลงมาบนค่ายในกลางคืน มานาก็ลงมาบนมัน",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "เมื่อลงมาของ"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "น้ำค้าง"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "ค่าย"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "กลางคืน"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ลงมา"
+    },
+    {
+      "surface": "המן",
+      "gloss": "มานา"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "บนมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:40:07.473863504Z",
+  "model": "glm-5.3"
+}

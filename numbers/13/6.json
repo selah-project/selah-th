@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 13:6",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "แห่งตระกูลของเยฮูดาห์ คาเลฟ บุตรของเยฟุนเนห์",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "แห่งตระกูลของ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "เยฮูดาห์"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "คาเลฟ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "เยฟุนเนห์"
+    }
+  ],
+  "timestamp": "2026-08-20T07:39:54.755323115Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 15:26",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "อามาม และเชมา และโมลาดาห์",
+  "tokens": [
+    {
+      "surface": "אמם",
+      "gloss": "อามาม"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "และเชมา"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "และโมลาดาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:12.300666323Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "ฉันทำขึ้นเพื่อตัวฉันเอง สวนต่าง ๆ และพฤกษาสวน และฉันปลูกไว้ในนั้นต้นไม้แห่งผลทุกชนิด",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "ฉันทำ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "เพื่อตัวฉันเอง"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "สวนต่าง ๆ"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "และพฤกษาสวน"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "และฉันปลูก"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "ในนั้น"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "ต้นไม้"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทุก"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ผล"
+    }
+  ],
+  "timestamp": "2026-08-20T12:58:59.535063604Z",
+  "model": "glm-5.3"
+}

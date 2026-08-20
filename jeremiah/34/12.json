@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 34,
+  "translation": "และพระวจนะของยาห์เวห์มาถึงยิรมียาหู จากยาห์เวห์ ⟨את⟩ ว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และมาบังเกิด"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "พระวจนะ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ยิรมียาหู"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "จาก⟨את⟩",
+      "marks": "ยาห์เวห์"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T10:01:48.564481341Z",
+  "model": "glm-5.3"
+}

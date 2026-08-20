@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 36,
+  "translation": "นี่คือบุตรชายของเอเทอร์: บิลฮาน และซาอาวาน และอาคาน",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "นี่คือ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "เอเทอร์"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "บิลฮาน"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "และซาอาวาน"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "และอาคาน"
+    }
+  ],
+  "timestamp": "2026-08-20T06:53:15.696153173Z",
+  "model": "glm-5.3"
+}

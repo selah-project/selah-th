@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรของซัคคาย เจ็ดร้อยหกสิบ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ซัคคาย"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "และหกสิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:16.544242204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และยาห์เวห์ตรัสกับเยโฮชูอาว่า",
+  "tokens": [
+    {
+      "surface": "ויאมר",
+      "gloss": "และตรัสว่า"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "เยโฮชูอา"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T08:08:02.742725519Z",
+  "model": "glm-5.3"
+}

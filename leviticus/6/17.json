@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 6:17",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "และยาห์เวห์ตรัสกับโมเชהเพื่อกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเชה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "เพื่อกล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:21:54.028171466Z",
+  "model": "glm-5.3"
+}

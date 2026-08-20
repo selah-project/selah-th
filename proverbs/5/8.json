@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 5:8",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "จงให้ทางของเจ้าห่างไกลจากนาง และอย่าเข้าใกล้ประตูเรือนของนาง",
+  "tokens": [
+    {
+      "surface": "הרחק",
+      "gloss": "จงให้ห่างไกล"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "จากนาง"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "ทางของเจ้า"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "และอย่า"
+    },
+    {
+      "surface": "תקרב",
+      "gloss": "เข้าใกล้"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ประตู"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "เรือนของนาง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:09:04.307917563Z",
+  "model": "glm-5.3"
+}

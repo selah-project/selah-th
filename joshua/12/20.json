@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 12:20",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "กษัตริย์แห่งชิมรอน-เมโรนหนึ่ง กษัตริย์แห่งอัคชาฟหนึ่ง",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "กษัตริย์"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "ชิมรอน"
+    },
+    {
+      "surface": "מראון",
+      "gloss": "เมโรน"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "กษัตริย์"
+    },
+    {
+      "surface": "אכשף",
+      "gloss": "อัคชาฟ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    }
+  ],
+  "timestamp": "2026-08-20T08:11:36.573740347Z",
+  "model": "glm-5.3"
+}

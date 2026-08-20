@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และแก่บุตรชายของยิสสาคาร์ โทลา และปูอาห์ ยาชูบ และชิมโรน สี่คน",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "และแก่บุตรชายของ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ยิสสาคาร์"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "โทลา"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "และปูอาห์"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "ยาชูบ"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "และชิมโรน"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "สี่"
+    }
+  ],
+  "timestamp": "2026-08-20T13:43:00.902969357Z",
+  "model": "glm-5.3"
+}

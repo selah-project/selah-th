@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 6:19",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "บุตรเอลกานาห์ บุตรเยโรฮัม บุตรเอลิเอล บุตรโทอาห์",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "เอลกานาห์"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "เยโรฮัม"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "เอลิเอล"
+    },
+    {
+      "surface": "บן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "תוח",
+      "gloss": "โทอาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:41:17.353861395Z",
+  "model": "glm-5.3"
+}

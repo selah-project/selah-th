@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "ในรถศึกคันแรกมีม้าสีแดง และในรถศึกคันที่สองมีม้าสีดำ",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "ในรถศึก"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "คันแรก"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ม้า"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "สีแดง"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "และในรถศึก"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "คันที่สอง"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ม้า"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "สีดำ"
+    }
+  ],
+  "timestamp": "2026-08-20T11:09:27.757879167Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 32:26",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 32,
+  "translation": "และพระดำรัสของยาห์เวห์มาถึงเยรามียาห์ว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็นมา"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "พระดำรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ของยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "เยรามียาห์"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T10:00:17.143975339Z",
+  "model": "glm-5.3"
+}

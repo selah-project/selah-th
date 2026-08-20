@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 1:15",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "สิ่งที่บิดเบี้ยวไปแล้วไม่อาจทำให้ตรงได้ และสิ่งที่ขาดหายไปไม่อาจนับได้",
+  "tokens": [
+    {
+      "surface": "מעות",
+      "gloss": "สิ่งที่บิดเบี้ยวไป"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "อาจ"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "ทำให้ตรง"
+    },
+    {
+      "surface": "וחסרון",
+      "gloss": "และสิ่งที่ขาดหายไป"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "อาจ"
+    },
+    {
+      "surface": "להמנות",
+      "gloss": "นับ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:58:22.513436424Z",
+  "model": "glm-5.3"
+}

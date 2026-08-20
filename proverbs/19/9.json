@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "พยานเท็จจะไม่รอดพ้นโทษ และผู้ปล่อยคำมุสาจะพินาศ",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "พยาน"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "เท็จ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "รอดพ้นโทษ"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "และผู้ปล่อย"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "คำมุสา"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "จะพินาศ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:19:23.557242635Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 32:2",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 32,
+  "translation": "ואז חיל מלך בבל צרים על ירושלם וירמיהו הנביא היה כלוא בחצר המטרה אשר בית מלך יהודה",
+  "tokens": [
+    {
+      "surface": "ואז",
+      "gloss": "ואז"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "חיל"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "בבל"
+    },
+    {
+      "surface": "צרים",
+      "gloss": "צרים"
+    },
+    {
+      "surface": "על",
+      "gloss": "על"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "ירושלם"
+    },
+    {
+      "surface": "וירמיהו",
+      "gloss": "וירמיהו"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "הנביא"
+    },
+    {
+      "surface": "היה",
+      "gloss": "היה"
+    },
+    {
+      "surface": "כלוא",
+      "gloss": "כלוא"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "בחצר"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "המטרה"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "אשר"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ยาฮודה"
+    }
+  ],
+  "timestamp": "2026-08-20T09:59:47.043709376Z",
+  "model": "glm-5.3"
+}

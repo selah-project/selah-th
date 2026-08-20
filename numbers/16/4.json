@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 16,
+  "translation": "และโมเชได้ยิน และซบหน้าลงกับพื้น",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "และได้ยิน"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "และซบลง"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "หน้าของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:42:00.872808088Z",
+  "model": "glm-5.3"
+}

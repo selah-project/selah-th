@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-kings 7:43",
+  "book": "1-kings",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และ ⟨את⟩ แท่นสิบฐาน และ ⟨את⟩ อ่างสิบใบบนแท่นเหล่านั้น",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "แท่นสิบฐาน"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "แท่น"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "อ่างสิบใบ"
+    },
+    {
+      "surface": "הכירת",
+      "gloss": "อ่าง"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "แท่น"
+    }
+  ],
+  "timestamp": "2026-08-20T08:56:47.777459268Z",
+  "model": "glm-5.3"
+}

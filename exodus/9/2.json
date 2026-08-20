@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 9:2",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "เพราะว่า ดูสิ ถ้าเจ้าปฏิเสธที่จะปล่อยไป และเจ้ายังกุมคล้อง ⟨את⟩ ⟨they⟩ ไว้อีก",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะว่า"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ถ้า"
+    },
+    {
+      "surface": "มאן",
+      "gloss": "ปฏิเสธ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "เจ้า"
+    },
+    {
+      "surface": "לשלח",
+      "gloss": "ที่จะปล่อยไป"
+    },
+    {
+      "surface": "ועודך",
+      "gloss": "และเจ้ายัง"
+    },
+    {
+      "surface": "מחזיק",
+      "gloss": "กุมคล้อง"
+    },
+    {
+      "surface": "בם",
+      "gloss": "⟨they⟩"
+    }
+  ],
+  "timestamp": "2026-08-20T07:04:47.544976496Z",
+  "model": "glm-5.3"
+}

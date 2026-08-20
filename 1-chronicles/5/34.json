@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 5:34",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และอาหิทูบกำเนิด ⟨את⟩ ศาโดก และศาโดกกำเนิด ⟨את⟩ อาหีมาอัส",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "และอาหิทูบ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ศาโดก"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ศาโดก"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "และศาโดก"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "อาหีมาอัส"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "อาหีมาอัส"
+    }
+  ],
+  "timestamp": "2026-08-20T13:40:16.254184597Z",
+  "model": "glm-5.3"
+}

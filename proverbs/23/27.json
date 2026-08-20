@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "ด้วยว่าหญิงโสเภณีเป็นเหวลึก และหญิงต่างชาติเป็นบ่อแคบ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ด้วยว่า"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "เหว"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "ลึก"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "หญิงโสเภณี"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "และบ่อ"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "แคบ"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "หญิงต่างชาติ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:20:36.258763905Z",
+  "model": "glm-5.3"
+}

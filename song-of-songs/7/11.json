@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ฉันเป็นของที่รักของฉัน และความปรารถนาของเขาอยู่ต่อฉัน",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ฉัน"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "เป็นของที่รักของฉัน"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "และต่อฉัน"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "ความปรารถนาของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:51:24.684153510Z",
+  "model": "glm-5.3"
+}

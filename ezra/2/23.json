@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezra 2:23",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "ชายแห่งอานาโทท หนึ่งร้อยยี่สิบแปด",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ชายแห่ง"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "อานาโทท"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "หนึ่งร้อย"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ยี่สิบ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "แปด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:18:14.229111140Z",
+  "model": "glm-5.3"
+}

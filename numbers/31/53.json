@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "เหล่าคนทหาร⟨the⟩ได้ปล้นสะดม ทุกคนเพื่อตนเอง",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "เหล่าคน"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "ทหาร"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "ได้ปล้นสะดม"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ทุกคน"
+    },
+    {
+      "surface": "לו",
+      "gloss": "เพื่อตนเอง"
+    }
+  ],
+  "timestamp": "2026-08-20T07:48:22.949692587Z",
+  "model": "glm-5.3"
+}

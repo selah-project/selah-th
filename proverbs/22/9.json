@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 22:9",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "ผู้มีตาดี ⟨เขา⟩ จะได้รับพร เพราะเขาให้จากอาหารของเขาแก่คนขัดสน",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ดี"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ตา"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨เขา⟩"
+    },
+    {
+      "surface": "ยברך",
+      "gloss": "จะได้รับพร"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "ให้"
+    },
+    {
+      "surface": "מלחמו",
+      "gloss": "จากอาหารของเขา"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "แก่คนขัดสน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:20:02.078806852Z",
+  "model": "glm-5.3"
+}

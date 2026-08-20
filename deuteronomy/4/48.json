@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "ตั้งแต่อาโรเออร์ ซึ่งอยู่ริมตลิ่งลำธารอารโนน จนถึงภูเขาสิโยน คือเฮรโมน",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "ตั้งแต่อาโรเออร์"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "על",
+      "gloss": "อยู่ริม"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "ตลิ่งของ"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "ลำธาร"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "อารโนน"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "จนถึง"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ภูเขา"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "สิโยน"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "คือ"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "เฮรโมน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:54:56.138024315Z",
+  "model": "glm-5.3"
+}

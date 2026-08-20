@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "แห่งนัฟทาลี อาคีราบุตรเอนาน",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "แห่งนัฟทาลี"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "อาคีรา"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "เอนาน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:32:05.841826223Z",
+  "model": "glm-5.3"
+}

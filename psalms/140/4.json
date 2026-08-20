@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 140:4",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 140,
+  "translation": "ลิ้นของเขาคมดังงู พิษของอึ่งอ่างอยู่ใต้ริมฝีปากของเขา เซลาห์",
+  "tokens": [
+    {
+      "surface": "שננו",
+      "gloss": "คม"
+    },
+    {
+      "surface": "לשונם",
+      "gloss": "ลิ้นของเขา"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "ดัง"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "งู"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "พิษ"
+    },
+    {
+      "surface": "עכשוב",
+      "gloss": "อึ่งอ่าง"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ใต้"
+    },
+    {
+      "surface": "שפתימו",
+      "gloss": "ริมฝีปากของเขา"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "เซลาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T12:05:00.925444096Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "บุตรชายของเอซาว: เอลีฟาซ เรอูเอล และเยอูช และเยาลาม และโคราห์",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "เอซาว"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "เอลีฟาซ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "เรอูเอล"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "และเยอูช"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "และเยาลาม"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "และโคราห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:36:38.671165335Z",
+  "model": "glm-5.3"
+}

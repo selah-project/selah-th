@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "อย่าให้การ ⟨ในฐานะ⟩ ปากคำเท็จต่อ ⟨เพื่อนบ้านของเจ้า⟩",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "ให้การ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ต่อเพื่อนบ้านของเจ้า"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ปากพยาน"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "เท็จ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:08:02.875763284Z",
+  "model": "glm-5.3"
+}

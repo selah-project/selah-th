@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 108,
+  "translation": "เพลง เพลงสรรเสริญ ของดาวีด",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "เพลง"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "เพลงสรรเสริญ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ของดาวีด"
+    }
+  ],
+  "timestamp": "2026-08-20T11:54:41.071083400Z",
+  "model": "glm-5.3"
+}

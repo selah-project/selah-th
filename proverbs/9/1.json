@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 9:1",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "ฝ่ายปัญญาทรงสร้างบ้านของนาง นางสกัดเสาของนาง — เจ็ดต้น",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "ฝ่ายปัญญา"
+    },
+    {
+      "surface": "בנתה",
+      "gloss": "ทรงสร้าง"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "บ้านของนาง"
+    },
+    {
+      "surface": "חצבה",
+      "gloss": "นางสกัด"
+    },
+    {
+      "surface": "עמודיה",
+      "gloss": "เสาของนาง"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "เจ็ดต้น"
+    }
+  ],
+  "timestamp": "2026-08-20T12:12:47.214871629Z",
+  "model": "glm-5.3"
+}

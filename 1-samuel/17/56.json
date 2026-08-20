@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "th",
+  "chapter": 17,
+  "translation": "และมหาบถตรัสว่า ท่านจงถามดูว่า ผู้หนุ่มนี้เป็นบุตรของใคร",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "และตรัสว่า"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "มหาบถ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "จงถามดู"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "ท่าน"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ของใคร"
+    },
+    {
+      "surface": "זה",
+      "gloss": "นี้"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "ผู้หนุ่ม"
+    }
+  ],
+  "timestamp": "2026-08-20T14:30:12.630568233Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 36:30",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 36,
+  "translation": "และมีแปดแผ่นไม้ และฐานของมันเงิน สิบหกฐาน สองฐาน สองฐานใต้แผ่นไม้แผ่นเดียว",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "และมี"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "แปด"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "แผ่นไม้"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "และฐานของมัน"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "เงิน"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "หก"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ฐาน"
+    },
+    {
+      "surface": "שני",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ฐาน"
+    },
+    {
+      "surface": "שני",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "ฐาน"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ใต้"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "แผ่นไม้"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "เดียว"
+    }
+  ],
+  "timestamp": "2026-08-20T07:17:57.956739935Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 1:6",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "และแต่ละตัว ⟨มี⟩ สี่หน้า และแต่ละตัว ⟨มี⟩ สี่ปีกสำหรับมันทั้งหลาย",
+  "tokens": [],
+  "timestamp": "2026-08-20T10:13:49.899064673Z",
+  "model": "glm-5.3"
+}

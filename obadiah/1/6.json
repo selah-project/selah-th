@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "อย่างไรที่เอซาวถูกค้นหา! ที่ซ่อนเร้นของเขาถูกไหลออก",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "อย่างไร"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "ถูกค้นหา"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "เอซาว"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "ถูกไหลออก"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "ที่ซ่อนเร้นของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T10:57:57.198392515Z",
+  "model": "glm-5.3"
+}

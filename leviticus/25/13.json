@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 25:13",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "ในปีโยเวลนี้ ทั้งท่านจะหวนคืน ทุกคนสู่ที่ดินที่ถือครองของตน",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ในปี"
+    },
+    {
+      "surface": "היובל",
+      "gloss": "โยเวล"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "นี้"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "ทั้งท่านจะหวนคืน"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ทุกคน"
+    },
+    {
+      "surface": "אל",
+      "gloss": "สู่"
+    },
+    {
+      "surface": "אחזתו",
+      "gloss": "ที่ดินที่ถือครองของตน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:31:08.062388598Z",
+  "model": "glm-5.3"
+}

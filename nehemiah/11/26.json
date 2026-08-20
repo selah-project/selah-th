@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และในเยชูอา และในโมลาดาห์ และในเบท-ปาเลท",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "และในเยชูอา"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "และในโมลาดาห์"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "และในเบท"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ปาเลท"
+    }
+  ],
+  "timestamp": "2026-08-20T13:33:00.637423022Z",
+  "model": "glm-5.3"
+}

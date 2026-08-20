@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 7:56",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ทัพพีทองคำหนึ่งชิ้น หนักสิบเชเขล เต็มด้วยเครื่องหอม",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ทัพพี"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ทองคำ"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "เต็ม"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "เครื่องหอม"
+    }
+  ],
+  "timestamp": "2026-08-20T07:36:29.642007427Z",
+  "model": "glm-5.3"
+}

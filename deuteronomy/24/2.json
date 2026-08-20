@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "และนางออกจากบ้านของเขา และไป และเป็นภรรยาของชายคนอื่น",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "และนางออก"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "จากบ้านของเขา"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "และนางไป"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "และนางเป็น"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "ของชาย"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "คนอื่น"
+    }
+  ],
+  "timestamp": "2026-08-20T08:02:23.715475444Z",
+  "model": "glm-5.3"
+}

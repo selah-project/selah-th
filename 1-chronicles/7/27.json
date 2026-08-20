@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 7:27",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "นูนบุตรของเขา เยโฮชูอาบุตรของเขา",
+  "tokens": [
+    {
+      "surface": "נון",
+      "gloss": "นูน"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "เยโฮชูอา"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:42:15.631015811Z",
+  "model": "glm-5.3"
+}

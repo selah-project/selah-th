@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 18,
+  "translation": "เจ้าจะเป็นคนดีพร้อมต่อพระพักตร์ยาห์เวห์ เอโลฮิมของเจ้า",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "ดีพร้อม"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "เจ้าจะเป็น"
+    },
+    {
+      "surface": "עם",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "เอโลฮิมของเจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T08:00:20.139143650Z",
+  "model": "glm-5.3"
+}

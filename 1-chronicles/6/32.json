@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "บุตรของมาหลี บุตรของมูชี บุตรของเมรารี บุตรของเลวี",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "มาหลี"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "มูชี"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "เมรารี"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "เลวี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:41:24.453503286Z",
+  "model": "glm-5.3"
+}

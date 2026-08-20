@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "แพะผู้หนึ่งตัว เป็นเครื่องบูชาไถ่บาป",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "แพะผู้"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ของฝูงแพะ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "เป็นเครื่องบูชาไถ่บาป"
+    }
+  ],
+  "timestamp": "2026-08-20T07:36:01.899596985Z",
+  "model": "glm-5.3"
+}

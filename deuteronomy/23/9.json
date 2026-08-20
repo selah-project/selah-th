@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "บุตรชายที่เกิดแก่พวกเขา — ชั่วอายุที่สาม — เข้ามาในที่ชุมนุมของยาห์เวห์ได้",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "บุตรชาย"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "เกิดแก่"
+    },
+    {
+      "surface": "להם",
+      "gloss": "พวกเขา"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ชั่วอายุ"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "ที่สาม"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "เข้ามา"
+    },
+    {
+      "surface": "להם",
+      "gloss": "แก่พวกเขา"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "ในที่ชุมนุม"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:01:17.426395666Z",
+  "model": "glm-5.3"
+}

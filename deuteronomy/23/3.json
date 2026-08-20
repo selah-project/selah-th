@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 23:3",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "มัมเซรจะไม่เข้าสู่ชุมนุมของยาห์เวห์ แม้แต่ชั่วคนที่สิบของเขาจะไม่เข้าสู่ชุมนุมของยาห์เวห์",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "จะไม่"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "เข้า"
+    },
+    {
+      "surface": "ממזר",
+      "gloss": "มัมเซร"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "สู่ชุมนุม"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "גם",
+      "gloss": "แม้แต่"
+    },
+    {
+      "surface": "דור",
+      "gloss": "ชั่วคน"
+    },
+    {
+      "surface": "עשירי",
+      "gloss": "ที่สิบ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "จะไม่"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "เข้า"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ของเขา"
+    },
+    {
+      "surface": "בקהล",
+      "gloss": "สู่ชุมนุม"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:02:12.401740788Z",
+  "model": "glm-5.3"
+}

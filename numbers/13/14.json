@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "สำหรับตระกูลนัฟทาลี นัคบีบุตรวอฟซี",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "สำหรับตระกูล"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "นัฟทาลี"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "นัคบี"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "วอฟซี"
+    }
+  ],
+  "timestamp": "2026-08-20T14:26:44.292028851Z",
+  "model": "glm-5.3"
+}

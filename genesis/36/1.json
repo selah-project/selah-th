@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 36,
+  "translation": "และนี่คือลำดับเชื้อสายของเอซาว เขาคือเอโดม",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "และนี่"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "ลำดับเชื้อสาย"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "เอซาว"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "เขาคือ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "เอโดม"
+    }
+  ],
+  "timestamp": "2026-08-20T06:53:54.047429252Z",
+  "model": "glm-5.3"
+}

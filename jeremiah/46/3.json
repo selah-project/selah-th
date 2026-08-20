@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 46:3",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 46,
+  "translation": "จัดแถวโล่เล็กและโล่ใหญ่ แล้วเข้าใกล้สู่การรบ",
+  "tokens": [
+    {
+      "surface": "ערכו",
+      "gloss": "จัดแถว"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "โล่เล็ก"
+    },
+    {
+      "surface": "וצנה",
+      "gloss": "และโล่ใหญ่"
+    },
+    {
+      "surface": "וגשו",
+      "gloss": "แล้วเข้าใกล้"
+    },
+    {
+      "surface": "למלחמה",
+      "gloss": "สู่การรบ"
+    }
+  ],
+  "timestamp": "2026-08-20T10:08:09.942804502Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "หมุนไปทางใต้ และวนไปทางเหนือ วนแล้ววน ลมหมุนเวียนไป และบนวงจรของมัน ลมหวนกลับมา",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "หมุน\/เดินไป"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ยัง"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "ใต้"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "และวน"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ยัง"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "วน"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "วนเวียน"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "เดินไป"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "הרוח ลม"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "และบน"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "วงจรของมัน"
+    },
+    {
+      "surface": "שב",
+      "gloss": "หวนกลับ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "ลม"
+    }
+  ],
+  "timestamp": "2026-08-20T12:58:57.929996238Z",
+  "model": "glm-5.3"
+}

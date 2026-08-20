@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "nehemiah 7:37",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรของโลด ฮาดิด และโอโน เจ็ดร้อยยี่สิบหนึ่ง",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "לד",
+      "gloss": "โลด"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "ฮาดิด"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "และโอโน"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ยี่สิบ"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "และหนึ่ง"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:51.761149348Z",
+  "model": "glm-5.3"
+}

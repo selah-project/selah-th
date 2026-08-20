@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 17:18",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 17,
+  "translation": "คนขาดใจตบฝ่ามือ กลายเป็นผู้ค้ำประกันต่อหน้าเพื่อนของตน",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "คน"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ขาด"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ใจ"
+    },
+    {
+      "surface": "תוקע",
+      "gloss": "ตบ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ฝ่ามือ"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "กลายเป็นผู้ค้ำประกัน"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "สิ่งค้ำประกัน"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ต่อหน้า"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "เพื่อนของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:17:31.321338002Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 7:28",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และยาห์เวห์ตรัสกับโมเชห์กล่าวว่า",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเชห์"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:22:10.728607349Z",
+  "model": "glm-5.3"
+}

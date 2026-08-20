@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ในวันที่สิบสอง ⟨เป็น⟩ ประมุขแห่งบุตรของนัฟทาลี อาคีราบุตรเอนัน",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ในวัน"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "วัน"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ประมุข"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "แห่งบุตรของ"
+    },
+    {
+      "surface": "นפתלי",
+      "gloss": "นัฟทาลี"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "อาคีรา"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "เอนัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:37:52.195290103Z",
+  "model": "glm-5.3"
+}

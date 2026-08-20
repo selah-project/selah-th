@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 12:1",
+  "book": "job",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "และอียูบทูลตอบและกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "และทูลตอบ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "อียูบ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "และกล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T12:32:18.337141545Z",
+  "model": "glm-5.3"
+}

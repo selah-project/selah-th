@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 31:46",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "และ⟨ที่⟩มนุษย์หนึ่งหมื่นหกพันคน",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "และชีวิต"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "มนุษย์"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "หก"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "หนึ่งพัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:48:28.829669199Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และยาห์เวห์ทรงให้ข้าพเจ้าเห็นสี่ช่างฝีมือ",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "และทรงให้ข้าพเจ้าเห็น"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "สี่"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "ช่างฝีมือ"
+    }
+  ],
+  "timestamp": "2026-08-20T11:08:48.094253575Z",
+  "model": "glm-5.3"
+}

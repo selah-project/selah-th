@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 6:10",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "นอนอีกนิด ง่วงอีกหน่อย กอดอุ้มมืออีกเล็กน้อย เพื่อนอนหลับ",
+  "tokens": [
+    {
+      "surface": "מעט",
+      "gloss": "นิด"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "การนอน"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "หน่อย"
+    },
+    {
+      "surface": "תנומות",
+      "gloss": "ความง่วง"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "เล็กน้อย"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "การกอดอุ้ม"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "มือทั้งสอง"
+    },
+    {
+      "surface": "לשכב",
+      "gloss": "เพื่อนอนหลับ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:11:03.173105250Z",
+  "model": "glm-5.3"
+}

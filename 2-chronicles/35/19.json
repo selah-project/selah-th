@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 35:19",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 35,
+  "translation": "ในปีที่สิบแปดแห่งรัชกาลโยชิยาหู ⟨is⟩ ปัสกานี้ได้ถูกกระทำ",
+  "tokens": [
+    {
+      "surface": "בשמונה",
+      "gloss": "ในแปด"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "למלכות",
+      "gloss": "แห่งรัชกาล"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "โยชิยาหู"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "ได้ถูกกระทำ"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "ปัสกา"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "นี้"
+    }
+  ],
+  "timestamp": "2026-08-20T14:18:19.763943955Z",
+  "model": "glm-5.3"
+}

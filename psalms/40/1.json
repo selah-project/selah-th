@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 40,
+  "translation": "แก่ผู้ควบคุมเพลง ของดาวิด เพลงสรรเสริญ",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "แก่ผู้ควบคุมเพลง"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ของดาวิด"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "เพลงสรรเสริญ"
+    }
+  ],
+  "timestamp": "2026-08-20T11:27:48.911864335Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "ข้าพเจ้าเห็นทาสขี่อยู่บนหลังม้า และเจ้านายทั้งหลายเดินเหมือนทาสบนแผ่นดินโลก",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "ข้าพเจ้าเห็น"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "ทาส"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "ม้า"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "และเจ้านาย"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "เดิน"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "เหมือนทาส"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "แผ่นดินโลก"
+    }
+  ],
+  "timestamp": "2026-08-20T13:01:01.354971308Z",
+  "model": "glm-5.3"
+}

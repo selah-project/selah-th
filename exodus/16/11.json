@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 16,
+  "translation": "และยาห์เวห์ตรัส แก่โมเช ว่า",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "แก่"
+    },
+    {
+      "surface": "มשה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:08:20.071208340Z",
+  "model": "glm-5.3"
+}

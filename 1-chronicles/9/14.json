@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 9:14",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "และจากคนเลวี ชมายาห์บุตรฮัชชูบ บุตรอัสริกัม บุตรฮัชาบยาห์ จากบุตรของเมรารี",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "และจาก"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "คนเลวี"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "ชมายาห์"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "חשוב",
+      "gloss": "ฮัชชูบ"
+    },
+    {
+      "surface": "บן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "עזריקם",
+      "gloss": "อัสริกัม"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ฮัชาบยาห์"
+    },
+    {
+      "surface": "מן",
+      "gloss": "จาก"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "เมรารี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:44:06.824729263Z",
+  "model": "glm-5.3"
+}

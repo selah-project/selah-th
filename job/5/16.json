@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 5:16",
+  "book": "job",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และ ⟨there⟩ ⟨is⟩ ความหวังแก่ ⟨the⟩ คนขัดสน และความอธรรมปิดปากของมันเสีย",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "และมีขึ้น"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "แก่คนขัดสน"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ความหวัง"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "และความอธรรม"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "ปิด"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "ปากของมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:29:50.477377020Z",
+  "model": "glm-5.3"
+}

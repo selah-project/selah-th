@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 19:21",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "มากมาย ⟨เป็น⟩แ_plans ในใจของมนุษย์ แต่คำปรึกษาของยาห์เวห์ นั่นแหละจะตั้งมั่น",
+  "tokens": [
+    {
+      "surface": "רבות",
+      "gloss": "มากมาย"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "แ_plans"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "ในใจ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ของมนุษย์"
+    },
+    {
+      "surface": "ועצת",
+      "gloss": "แต่คำปรึกษาของ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "היא",
+      "gloss": "นั่นแหละ"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "จะตั้งมั่น"
+    }
+  ],
+  "timestamp": "2026-08-20T12:19:03.923832480Z",
+  "model": "glm-5.3"
+}

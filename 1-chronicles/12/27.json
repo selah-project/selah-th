@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 12:27",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "จากบรรดาบุตรชายของเลวี สี่พันหกร้อย",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "จาก"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "เลวี"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "สี่"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "และหก"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:46:39.646223442Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 20:15",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "อย่าลักขโมย",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "ลักขโมย"
+    }
+  ],
+  "timestamp": "2026-08-20T07:08:02.875596630Z",
+  "model": "glm-5.3"
+}

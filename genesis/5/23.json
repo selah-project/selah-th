@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และทุกวันของฮานอคเป็นห้าและหกสิบปี และสามร้อยปี",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "เป็น"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "วันของ"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "ฮานอค"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ห้า"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "และหกสิบ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "และสาม"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    }
+  ],
+  "timestamp": "2026-08-20T06:40:43.607292993Z",
+  "model": "glm-5.3"
+}

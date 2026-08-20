@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "สำหรับทุกสิ่งมีเวลากำหนด และฤดูกาลสำหรับทุกความประสงค์ ใต้⟨the⟩ฟ้าสวรรค์",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "สำหรับทุกสิ่ง"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "เวลากำหนด"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "และฤดูกาล"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "สำหรับทุก"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ความประสงค์"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ใต้"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "ฟ้าสวรรค์"
+    }
+  ],
+  "timestamp": "2026-08-20T12:58:42.111040857Z",
+  "model": "glm-5.3"
+}

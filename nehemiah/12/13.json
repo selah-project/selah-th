@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "แห่งเอซรา มาเชูลัม แห่งอะมาร์ยา เยโฮคานัน",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "แห่งเอซรา"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "มาเชูลัม"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "แห่งอะมาร์ยา"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "เยโฮคานัน"
+    }
+  ],
+  "timestamp": "2026-08-20T13:33:14.625113335Z",
+  "model": "glm-5.3"
+}

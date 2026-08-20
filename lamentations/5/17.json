@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "เพราะสิ่งนี้ ใจของเรา⟨ได้⟩ป่วยหนัก เพราะสิ่งเหล่านี้ ดวงตาของเรา⟨ได้⟩มืดลง",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "สิ่งนี้"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨ได้⟩เป็น"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "ป่วยหนัก"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ใจของเรา"
+    },
+    {
+      "surface": "על",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "สิ่งเหล่านี้"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "มืดลง"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "ดวงตาของเรา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:57:31.195731068Z",
+  "model": "glm-5.3"
+}

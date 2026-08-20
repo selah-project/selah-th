@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "พวกชายแห่งเบทอัซมาเวท สี่สิบสอง",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "พวกชายแห่ง"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบท"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "อัซมาเวท"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "สี่สิบ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "สอง"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:31.932397950Z",
+  "model": "glm-5.3"
+}

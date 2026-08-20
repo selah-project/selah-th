@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 15:18",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "ยาห์เวห์ทรงครองราชย์เป็นนิตย์และตลอดไป",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "ימלך",
+      "gloss": "ทรงครองราชย์"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "เป็นนิตย์"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "และตลอดไป"
+    }
+  ],
+  "timestamp": "2026-08-20T07:07:50.307965075Z",
+  "model": "glm-5.3"
+}

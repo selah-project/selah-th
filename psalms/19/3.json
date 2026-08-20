@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 19:3",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "วันแก่วันพล่าววาจา และคืนแก่คืนสำแดงความรู้",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "วัน"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "แก่วัน"
+    },
+    {
+      "surface": "יביע",
+      "gloss": "พล่าว"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "วาจา"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "และคืน"
+    },
+    {
+      "surface": "ללילה",
+      "gloss": "แก่คืน"
+    },
+    {
+      "surface": "יחוה",
+      "gloss": "สำแดง"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ความรู้"
+    }
+  ],
+  "timestamp": "2026-08-20T11:20:16.361617059Z",
+  "model": "glm-5.3"
+}

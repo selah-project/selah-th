@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 15:31",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "หูที่ฟังการตักเตือนอันเป็นชีวิต จะพำนักท่ามกลางคนฉลาด",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "หู"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ที่ฟัง"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "การตักเตือน"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "อันเป็นชีวิต"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "ท่ามกลาง"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "คนฉลาด"
+    },
+    {
+      "surface": "תלין",
+      "gloss": "จะพำนัก"
+    }
+  ],
+  "timestamp": "2026-08-20T12:17:20.577294056Z",
+  "model": "glm-5.3"
+}

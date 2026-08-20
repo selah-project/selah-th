@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 78:14",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 78,
+  "translation": "และทรงนำพวกเขาด้วยเมฆในกลางวัน และตลอดทั้งคืนด้วยแสงไฟ",
+  "tokens": [
+    {
+      "surface": "וינחם",
+      "gloss": "และทรงนำ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "ด้วยเมฆ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "ในกลางวัน"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "และตลอดทั้ง"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "คืน"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ด้วยแสง"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ไฟ"
+    }
+  ],
+  "timestamp": "2026-08-20T11:41:02.778298424Z",
+  "model": "glm-5.3"
+}

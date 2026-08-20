@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 11:2",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "เมื่อความอวดดีมา ความอัปยศก็มา แต่⟨את⟩ คนถ่อมตัว ⟨มี⟩ สติปัญญา",
+  "tokens": [
+    {
+      "surface": "בא",
+      "gloss": "มา"
+    },
+    {
+      "surface": "זדון",
+      "gloss": "ความอวดดี"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "ก็มา"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "ความอัปยศ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "คนถ่อมตัว"
+    },
+    {
+      "surface": "צנועים",
+      "gloss": "คนถ่อมตัว"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "สติปัญญา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:14:33.427899855Z",
+  "model": "glm-5.3"
+}

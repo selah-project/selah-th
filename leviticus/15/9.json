@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "leviticus 15:9",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "และอานทุกใบที่ผู้มีภาวะนั้นขี่ขึ้นไป จะเป็นมลทิน",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "และทุก"
+    },
+    {
+      "surface": "המרכב",
+      "gloss": "อาน"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "ירכב",
+      "gloss": "เขาขี่"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "บนมัน"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "ผู้มีภาวะนั้น"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "จะเป็นมลทิน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:26:18.689368498Z",
+  "model": "glm-5.3"
+}

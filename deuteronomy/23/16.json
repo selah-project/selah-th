@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "อย่าส่งมอบทาสให้แก่นายของเขา ผู้ซึ่งหนีรอดมายังเจ้าจากท่ามกลางนายของเขา",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "เจ้าส่งมอบ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ทาส"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ให้แก่"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "นายของเขา"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ผู้ซึ่ง"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "หนีรอดมา"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ยังเจ้า"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "จากท่ามกลาง"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "นายของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T08:01:34.414034027Z",
+  "model": "glm-5.3"
+}

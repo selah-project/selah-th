@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 31:47",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "และลาบันเรียกมันว่า เยฆัร ซาฮาดูธา ส่วนยาอาโคฟเรียกมันว่า กัลเอด",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "และเรียก"
+    },
+    {
+      "surface": "לו",
+      "gloss": "มัน"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "ลาบัน"
+    },
+    {
+      "surface": "יגר",
+      "gloss": "เยฆัร"
+    },
+    {
+      "surface": "שהדותא",
+      "gloss": "ซาฮาดูธา"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "ส่วนยาอาโคฟ"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "เรียก"
+    },
+    {
+      "surface": "לו",
+      "gloss": "มัน"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "กัลเอด"
+    }
+  ],
+  "timestamp": "2026-08-20T06:52:24.546340753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "เว้นแต่เลือด อย่ากินเลย เจ้าทั้งหลายจะเทมันลงบนแผ่นดินโลกเหมือนน้ำ",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "เว้นแต่"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "เลือด"
+    },
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "เจ้าทั้งหลาย...กิน"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "แผ่นดินโลก"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "เจ้าจะเทมัน"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "เหมือนน้ำ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:57:48.841742107Z",
+  "model": "glm-5.3"
+}

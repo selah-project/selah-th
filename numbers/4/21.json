@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และยาห์เวห์ตรัสกับโมเชห์กล่าวว่า",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T14:26:47.641446403Z",
+  "model": "glm-5.3"
+}

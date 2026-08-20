@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 52,
+  "translation": "เจ้ารักถ้อยคำที่กลืนกลับทั้งปวด ลิ้นแห่งการล่อลวง",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "เจ้ารัก"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งปวง"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "ถ้อยคำ"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "กลืนกิน"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ลิ้น"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "การล่อลวง"
+    }
+  ],
+  "timestamp": "2026-08-20T11:32:26.866619966Z",
+  "model": "glm-5.3"
+}

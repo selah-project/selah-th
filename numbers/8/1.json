@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 8:1",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และยาห์เวห์ตรัสกับโมเชห์กล่าวว่า",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเชห์"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:38:48.317129343Z",
+  "model": "glm-5.3"
+}

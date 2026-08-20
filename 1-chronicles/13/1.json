@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 13:1",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "และดาวีดปรึกษากับเหล่าผู้ครองพันและผู้ครองร้อย กับผู้นำทุกคน",
+  "tokens": [
+    {
+      "surface": "ויועץ",
+      "gloss": "ปรึกษา"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ดาวีด"
+    },
+    {
+      "surface": "עם",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "เหล่าผู้ครอง"
+    },
+    {
+      "surface": "האלפים",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "והמאות",
+      "gloss": "และร้อย"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ทุก"
+    },
+    {
+      "surface": "נגיד",
+      "gloss": "ผู้นำ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:48:19.460035820Z",
+  "model": "glm-5.3"
+}

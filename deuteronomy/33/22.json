@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 33,
+  "translation": "และแก่ดานเขากล่าวว่า ดานคือลูกแมวของสิงโต มันจะพุ่งกระโดดจากห่ากจาก ⟨the⟩ บาชาน",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "และแก่ดาน"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "เขากล่าวว่า"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ดาน"
+    },
+    {
+      "surface": "גור",
+      "gloss": "ลูกแมว"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "ของสิงโต"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "มันจะพุ่งกระโดด"
+    },
+    {
+      "surface": "מן",
+      "gloss": "จาก"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "บาชาน"
+    }
+  ],
+  "timestamp": "2026-08-20T08:05:08.775016370Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "สิบศอก⟨is⟩ความยาวของ⟨the⟩แผ่นไม้ และศอกหนึ่งกับครึ่งศอก⟨is⟩ความกว้างของ⟨the⟩แผ่นไม้หนึ่ง",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ศอก"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ความยาว"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ของแผ่นไม้"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "และศอก"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "และครึ่ง"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "ของศอก"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "ความกว้าง"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "ของแผ่นไม้"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "หนึ่ง"
+    }
+  ],
+  "timestamp": "2026-08-20T07:13:07.435024114Z",
+  "model": "glm-5.3"
+}

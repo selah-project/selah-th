@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "โนฮาห์คนที่สี่ และราฟาห์คนที่ห้า",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "โนฮาห์"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "คนที่สี่"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "และราฟาห์"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "คนที่ห้า"
+    }
+  ],
+  "timestamp": "2026-08-20T13:42:14.853977510Z",
+  "model": "glm-5.3"
+}

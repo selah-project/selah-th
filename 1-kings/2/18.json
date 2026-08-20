@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และบัท-เชบากล่าวว่า ดี ข้าพเจ้าจะกล่าวแทนเจ้าแก่ฮกหาก",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "และนางกล่าว"
+    },
+    {
+      "surface": "בת",
+      "gloss": "บัท"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "-เชบา"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ดี"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ข้าพเจ้า"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "จะกล่าว"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "แทนเจ้า"
+    },
+    {
+      "surface": "אל",
+      "gloss": "แก่"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ฮกหาก"
+    }
+  ],
+  "timestamp": "2026-08-20T08:55:48.490981807Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 7:2",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "עמוד בשער בית יהוה וקראת שם את הדבר הזה ואמרת שמעו דבר יהוה כל יהודה הבאים בשערים האלה להשתחות ליהוה",
+  "tokens": [
+    {
+      "surface": "עמד",
+      "gloss": "עמוד"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "בשער"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "וקראת",
+      "gloss": "וקראת"
+    },
+    {
+      "surface": "שם",
+      "gloss": "שם"
+    },
+    {
+      "surface": "את",
+      "gloss": "את"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "הדבר"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "הזה"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "ואמרת"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "שמעו"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "דבר"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "כל",
+      "gloss": "כל"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "יהודה"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "הבאים"
+    },
+    {
+      "surface": "בשערים",
+      "gloss": "בשערים"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "האלה"
+    },
+    {
+      "surface": "להשתחות",
+      "gloss": "להשתחות"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "ליהוה"
+    }
+  ],
+  "timestamp": "2026-08-20T09:44:39.218107485Z",
+  "model": "glm-5.3"
+}

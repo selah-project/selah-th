@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ให้เขาวางปากของเขาลงในฝุ่นดิน บางทีอาจยังมีความหวังอยู่",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ให้วาง"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "ในฝุ่นดิน"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "ปากของเขา"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "บางที"
+    },
+    {
+      "surface": "יש",
+      "gloss": "มีอยู่"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "ความหวัง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:55:08.846975694Z",
+  "model": "glm-5.3"
+}

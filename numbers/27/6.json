@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 27,
+  "translation": "และยาห์เวห์ตรัสกับโมเชกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:47:49.937131730Z",
+  "model": "glm-5.3"
+}

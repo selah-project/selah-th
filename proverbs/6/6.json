@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 6:6",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "จงไปหามด เจ้าคนเกียจคร้าน จงดูทางเดินของมัน และจงมีสติปัญญา",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "จงไป"
+    },
+    {
+      "surface": "אל",
+      "gloss": "หา"
+    },
+    {
+      "surface": "נמלה",
+      "gloss": "มด"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "เจ้าคนเกียจคร้าน"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "จงดู"
+    },
+    {
+      "surface": "דרכיה",
+      "gloss": "ทางเดินของมัน"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "และจงมีสติปัญญา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:11:00.464394545Z",
+  "model": "glm-5.3"
+}

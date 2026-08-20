@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "אני คือ ⟨אנสี่⟩ הגבר אשר ראה את העני שלו בשבט של עברתו",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "אני"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "האיש"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ראה"
+    },
+    {
+      "surface": "עני",
+      "gloss": "עני"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "בשבט"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "של עברתו"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:40.625486943Z",
+  "model": "glm-5.3"
+}

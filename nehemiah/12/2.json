@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 12:2",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "อามารยาห์ มัลลูค ฮัททูช",
+  "tokens": [
+    {
+      "surface": "אמריה",
+      "gloss": "อามารยาห์"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "มัลลูค"
+    },
+    {
+      "surface": "חטוש",
+      "gloss": "ฮัททูช"
+    }
+  ],
+  "timestamp": "2026-08-20T13:33:55.054534517Z",
+  "model": "glm-5.3"
+}

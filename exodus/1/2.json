@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 1:2",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "เรอูเบน ชิมออน เลวี และยูดาห์",
+  "tokens": [
+    {
+      "surface": "ראובן",
+      "gloss": "เรอูเบน"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ชิมออน"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "เลวี"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "และยูดาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T07:01:38.894474126Z",
+  "model": "glm-5.3"
+}

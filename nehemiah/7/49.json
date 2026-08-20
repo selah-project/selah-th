@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "nehemiah 7:49",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรของฮานัน บุตรของกิดเดล บุตรของกาฮาร์",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "ฮานัน"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "กิดเดล"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "กาฮาร์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:25.759421141Z",
+  "model": "glm-5.3"
+}

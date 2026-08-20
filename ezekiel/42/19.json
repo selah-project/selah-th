@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 42,
+  "translation": "เขาวนไปยังทิศตะวันตก เขาวัด ห้าร้อยคาน ด้วยคานวัด",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "เขาวนไป"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ยัง"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ทิศ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ตะวันตก\/ทะเล"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "เขาวัด"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ห้า"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "คาน"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "ด้วยคาน"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "วัด"
+    }
+  ],
+  "timestamp": "2026-08-20T10:41:28.432480189Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "nehemiah 7:46",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "พวกเนทินิม บุตรของซีฮา บุตรของฮาซูฟา บุตรของทับบาโอท",
+  "tokens": [
+    {
+      "surface": "הנתינים",
+      "gloss": "พวกเนทินิม"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "צחא",
+      "gloss": "ซีฮา"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "חשפא",
+      "gloss": "ฮาซูฟา"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "ทับบาโอท"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:41.834449033Z",
+  "model": "glm-5.3"
+}

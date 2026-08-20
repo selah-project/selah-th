@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 18,
+  "translation": "และเบธ-ฮาอาราบาห์ และเซมาราอิม และเบธ-เอล",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "และเบธ"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "ฮาอาราบาห์"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "และเซมาราอิม"
+    },
+    {
+      "surface": "แลอเบת",
+      "gloss": "และเบธ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "เอล"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:52.566804512Z",
+  "model": "glm-5.3"
+}

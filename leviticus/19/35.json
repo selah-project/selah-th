@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "อย่ากระทำความอยุติธรรมในคดี ในการวัด ในการชั่ง และในการตวง",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "กระทำ"
+    },
+    {
+      "surface": "עול",
+      "gloss": "ความอยุติธรรม"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ในคดี"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ในการวัด"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "ในการชั่ง"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "และในการตวง"
+    }
+  ],
+  "timestamp": "2026-08-20T07:29:06.148593536Z",
+  "model": "glm-5.3"
+}

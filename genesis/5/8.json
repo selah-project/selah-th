@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และบรรดาวันทั้งหลายของเชท ⟨เป็น⟩ สิบสองปีและเก้าร้อยปี และเขาก็ตาย",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "และเป็น"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหลาย"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "บรรดาวันของ"
+    },
+    {
+      "surface": "שת",
+      "gloss": "เชท"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "และเก้า"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "และเขาตาย"
+    }
+  ],
+  "timestamp": "2026-08-20T06:40:17.195437903Z",
+  "model": "glm-5.3"
+}

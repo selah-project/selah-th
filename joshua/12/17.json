@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "กษัตริย์แห่งทัปปูอาห์หนึ่ง กษัตริย์แห่งเฮเฟอร์หนึ่ง",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "กษัตริย์"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "ทัปปูอาห์"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "กษัตริย์"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "เฮเฟอร์"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    }
+  ],
+  "timestamp": "2026-08-20T08:11:36.573254025Z",
+  "model": "glm-5.3"
+}

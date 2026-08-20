@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "แต่ในวันที่เนื้อดิบปรากฏในเขา เขาจะเป็นมลทิน",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "และในวัน"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "ปรากฏ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ในเขา"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "เนื้อ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "ดิบ"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "เขาจะเป็นมลทิน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:24:43.113019394Z",
+  "model": "glm-5.3"
+}

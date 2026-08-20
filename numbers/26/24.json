@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 26:24",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "ยาชูฟ ตระกูลของชาวยาชูฟี ชิมรอน ตระกูลของชาวชิมรอนี",
+  "tokens": [
+    {
+      "surface": "לישוב",
+      "gloss": "ยาชูฟ"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ตระกูล"
+    },
+    {
+      "surface": "הישובי",
+      "gloss": "ชาวยาชูฟี"
+    },
+    {
+      "surface": "לשמרן",
+      "gloss": "ชิมรอน"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ตระกูล"
+    },
+    {
+      "surface": "השמרני",
+      "gloss": "ชาวชิมรอนี"
+    }
+  ],
+  "timestamp": "2026-08-20T07:46:17.578427077Z",
+  "model": "glm-5.3"
+}

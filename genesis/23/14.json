@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "และเอฟรอนตอบ ⟨את⟩ อับราฮัมว่ากับเขาว่า",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "และ...ตอบ"
+    },
+    {
+      "surface": "עפרון",
+      "gloss": "เอฟรอน"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "อับราฮัม"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "อับราฮัม"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    },
+    {
+      "surface": "לו",
+      "gloss": "กับเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T06:46:34.680454445Z",
+  "model": "glm-5.3"
+}

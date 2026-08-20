@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ตาของฉันไหลหลั่งลง และไม่หยุดนิ่ง โดยไม่มีการหยุดพัก",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "ตาของฉัน"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "ไหลหลั่งลง"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "หยุดนิ่ง"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "โดยไม่มี"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "การหยุดพัก"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:04.502193462Z",
+  "model": "glm-5.3"
+}

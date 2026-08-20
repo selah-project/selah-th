@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "นกทุกชนิดที่สะอาด เจ้าจะกิน",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ทุก"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "นก"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "ที่สะอาด"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "เจ้าจะกิน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:57:15.201698788Z",
+  "model": "glm-5.3"
+}

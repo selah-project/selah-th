@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 48,
+  "translation": "และติดเขตแดนนัฟทาลี จากเขตทางตะวันออก ถึงเขตทางทะเล เมนัชเชห์ หนึ่ง",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "และติด"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "เขตแดน"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "นัฟทาลี"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "จากเขต"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ทางตะวันออก"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "เขต"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ทางทะเล"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "เมนัชเชห์"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    }
+  ],
+  "timestamp": "2026-08-20T10:44:53.558702172Z",
+  "model": "glm-5.3"
+}

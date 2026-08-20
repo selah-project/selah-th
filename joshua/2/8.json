@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "ฝ่ายพวกเขายังไม่ได้นอนลง นางก็ขึ้นไปหาพวกเขาบนดาดฟ้า",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "ฝ่ายพวกเขา"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "ยังไม่"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "นอนลง"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "นาง"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "ขึ้นไป"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "หาพวกเขา"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "ดาดฟ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T08:07:36.343069251Z",
+  "model": "glm-5.3"
+}

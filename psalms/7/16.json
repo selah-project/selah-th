@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 7:16",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "⟨เขา⟩ขุดหลุมและเจาะลึกมัน และ⟨เขา⟩ตกลงไปในกอดซึ่ง⟨เขา⟩ทำ",
+  "tokens": [
+    {
+      "surface": "בור",
+      "gloss": "หลุม"
+    },
+    {
+      "surface": "כרה",
+      "gloss": "ขุด"
+    },
+    {
+      "surface": "ויחפרהו",
+      "gloss": "และเจาะลึกมัน"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "และตกลงไป"
+    },
+    {
+      "surface": "בשחת",
+      "gloss": "ในกอด"
+    },
+    {
+      "surface": "יפעל",
+      "gloss": "ทำ"
+    }
+  ],
+  "timestamp": "2026-08-20T11:14:39.598017217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "เพราะว่าหลายครั้งหลายคราว ใจเจ้าก็รู้ว่าเจ้าเองก็ได้สาปแช่งคนอื่น⟨ๆ มาแล้ว⟩",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะว่า"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ก็"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "ครั้ง"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "หลายหลาย"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "รู้"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "ใจเจ้า"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ว่า"
+    },
+    {
+      "surface": "גם",
+      "gloss": "เจ้าเองก็"
+    },
+    {
+      "surface": "את",
+      "gloss": "เจ้า"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "สาปแช่ง"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "คนอื่น"
+    }
+  ],
+  "timestamp": "2026-08-20T13:00:42.244735948Z",
+  "model": "glm-5.3"
+}

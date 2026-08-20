@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 42:31",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 42,
+  "translation": "และเรากล่าวแก่ท่านว่า เราเป็น⟨คน⟩ซื่อตรง เราไม่ได้เป็นสายลับ",
+  "tokens": [
+    {
+      "surface": "ונאמר",
+      "gloss": "และเรากล่าว"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "แก่ท่าน"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "ซื่อตรง"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "เรา"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "เป็น"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "สายลับ"
+    }
+  ],
+  "timestamp": "2026-08-20T06:58:10.393006908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "และเยฮูทำลาย ⟨את⟩ บาอัลเสียจากอิสราเอล",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "และทำลาย"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "เยฮู"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "บาอัล"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "บาอัล"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "จากอิสราเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T09:11:40.323654986Z",
+  "model": "glm-5.3"
+}

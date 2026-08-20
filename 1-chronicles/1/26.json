@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "เสรูก นาโคร เทราค",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "เสรูก"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "นาโคร"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "เทราค"
+    }
+  ],
+  "timestamp": "2026-08-20T13:35:56.473501019Z",
+  "model": "glm-5.3"
+}

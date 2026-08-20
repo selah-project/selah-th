@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 4:15",
+  "book": "song-of-songs",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "พุ่มน้ำแห่งสวนทั้งหลาย บ่อน้ำแห่งชีวิต และธาราไหลจากเลบานอน",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "พุ่มน้ำ"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "แห่งสวนทั้งหลาย"
+    },
+    {
+      "surface": "באר",
+      "gloss": "บ่อน้ำ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "น้ำ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "แห่งชีวิต"
+    },
+    {
+      "surface": "ונזלים",
+      "gloss": "และธาราไหล"
+    },
+    {
+      "surface": "מן",
+      "gloss": "จาก"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "เลบานอน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:49:23.232924923Z",
+  "model": "glm-5.3"
+}

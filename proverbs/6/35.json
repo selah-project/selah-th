@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 6:35",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "เขาจะไม่เชยชมสินไถ่ใด ๆ และจะไม่ยอมรับ แม้เจ้าจะเพิ่มสินบนสักเท่าใด",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "เชยชม"
+    },
+    {
+      "surface": "פני",
+      "gloss": "หน้า"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "כפר",
+      "gloss": "สินไถ่"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "יאבה",
+      "gloss": "ยอมรับ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "แม้"
+    },
+    {
+      "surface": "תרבה",
+      "gloss": "เพิ่ม"
+    },
+    {
+      "surface": "שחד",
+      "gloss": "สินบน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:10:53.832637957Z",
+  "model": "glm-5.3"
+}

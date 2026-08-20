@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "เอลอาซาร์ให้กำเนิด ⟨את⟩ ปินฮัส ปินฮัสให้กำเนิด ⟨את⟩ อาบีชัว",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "เอลอาซาร์"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ปินฮัส"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ปินฮัส"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "ปินฮัส"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "อาบีชัว"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "อาบีชัว"
+    }
+  ],
+  "timestamp": "2026-08-20T13:40:06.004050886Z",
+  "model": "glm-5.3"
+}

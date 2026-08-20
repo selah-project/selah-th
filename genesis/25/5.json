@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "และอัฟราฮัมให้ ⟨את⟩ ทั้งหมดซึ่งเป็นของเขาแก่ยิทสฮัก",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "และให้"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "อัฟราฮัม"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ทั้งหมดซึ่งเป็นของเขา"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ของเขา"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "แก่ยิทสฮัก"
+    }
+  ],
+  "timestamp": "2026-08-20T06:48:36.409284944Z",
+  "model": "glm-5.3"
+}

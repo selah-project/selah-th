@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "เพราะเจ้ากองถ่านแดงไว้บนศีรษะเขา และยาห์เวห์จะทรงตอบแทนเจ้า",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "ถ่านแดง"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "เจ้า"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "กอง"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ศีรษะเขา"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "และยาห์เวห์"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "จะทรงตอบแทน"
+    },
+    {
+      "surface": "לך",
+      "gloss": "เจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T12:21:44.649499481Z",
+  "model": "glm-5.3"
+}

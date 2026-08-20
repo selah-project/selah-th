@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 27,
+  "translation": "และถ้าเป็นเพศหญิง ค่าที่เจ้ากำหนดคือสามสิบเชเคล",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "และถ้า"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "เพศหญิง"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "เป็น"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "และจะเป็น"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "ค่าที่เจ้ากำหนด"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "สามสิบ"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "เชเคล"
+    }
+  ],
+  "timestamp": "2026-08-20T07:33:30.566918341Z",
+  "model": "glm-5.3"
+}

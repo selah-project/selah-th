@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "สิบเอ็ดวัน จากโฮเรบ ทางผ่านภูเขาเสอีร์ ถึงคาเดชบาร์เนอา",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "วัน"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "จากโฮเรบ"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ทางผ่าน"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ภูเขา"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "เสอีร์"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "คาเดช"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "บาร์เนอา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:52:47.626959745Z",
+  "model": "glm-5.3"
+}

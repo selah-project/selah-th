@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezra 2:56",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรแห่งยาอาลา บุตรแห่งดาร์คอน บุตรแห่งกิดเดล",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "ยาอาลา"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "ดาร์คอน"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "กิดเดล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:21:16.083207047Z",
+  "model": "glm-5.3"
+}

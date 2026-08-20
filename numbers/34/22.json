@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 34:22",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 34,
+  "translation": "และแก่ตระกูลของบุตรชายดาน ผู้นำ ⟨คือ⟩ บุกกี บุตรชายโยกลี",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "และแก่ตระกูลของ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชาย"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ดาน"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "ผู้นำ"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "บุกกี"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรชาย"
+    },
+    {
+      "surface": "יגלי",
+      "gloss": "โยกลี"
+    }
+  ],
+  "timestamp": "2026-08-20T07:50:41.925111944Z",
+  "model": "glm-5.3"
+}

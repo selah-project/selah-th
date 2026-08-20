@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และ ⟨את⟩ กัท และ ⟨את⟩ มาเรชาห์ และ ⟨את⟩ ซีฟ",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "กัท"
+    },
+    {
+      "surface": "גת",
+      "gloss": "กัท"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "มาเรชาห์"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "มาเรชาห์"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "ซีฟ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "ซีฟ"
+    }
+  ],
+  "timestamp": "2026-08-20T14:00:59.555359426Z",
+  "model": "glm-5.3"
+}

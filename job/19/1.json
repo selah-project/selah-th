@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 19:1",
+  "book": "job",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "ฝ่ายอิย็อบทูลตอบและกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ทูลตอบ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "ฝ่ายอิย็อบ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "และกล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T12:35:53.271651941Z",
+  "model": "glm-5.3"
+}

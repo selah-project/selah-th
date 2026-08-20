@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 5:20",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "เหตุใด ⟨พระองค์⟩จึงทรงลืมเราตลอดกาล ทรงทอดทิ้งเราตลอดหลายวัน",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "เหตุใด"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ตลอดกาล"
+    },
+    {
+      "surface": "תשכחנו",
+      "gloss": "ทรงลืมเรา"
+    },
+    {
+      "surface": "תעזבנו",
+      "gloss": "ทรงทอดทิ้งเรา"
+    },
+    {
+      "surface": "לארך",
+      "gloss": "ตลอด"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "หลายวัน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:57:31.196227684Z",
+  "model": "glm-5.3"
+}

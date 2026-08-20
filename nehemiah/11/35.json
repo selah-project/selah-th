@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "nehemiah 11:35",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "โลด และโอโน หุบเขาแห่งช่างฝีมือ",
+  "tokens": [
+    {
+      "surface": "לד",
+      "gloss": "โลด"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "และโอโน"
+    },
+    {
+      "surface": "גי",
+      "gloss": "หุบเขา"
+    },
+    {
+      "surface": "החרשים",
+      "gloss": "แห่งช่างฝีมือ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:34:28.069364987Z",
+  "model": "glm-5.3"
+}

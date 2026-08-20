@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "บุตรชายของลาดาน ประมุขคือเยฮีเอล และเซทัม และโยเอล สามคน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "ลาดาน"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "ประมุข"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "เยฮีเอล"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "และเซทัม"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "และโยเอล"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "สาม"
+    }
+  ],
+  "timestamp": "2026-08-20T13:52:06.356098344Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "lamentations 3:39",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "มนุษย์ที่เป็นๆอยู่จะคร่ำครวญทำไม บุรุษเพราะบาปกรรมของเขา",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "ทำไม"
+    },
+    {
+      "surface": "יתאונן",
+      "gloss": "คร่ำครวญ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "มนุษย์"
+    },
+    {
+      "surface": "חי",
+      "gloss": "เป็นๆอยู่"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "บุรุษ"
+    },
+    {
+      "surface": "על",
+      "gloss": "เพราะ\/บน"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "บาปกรรมของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:57.085815895Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "leviticus 23:42",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "ในเพิงอยู่เจ้าทั้งหลายจ dwelling เจ็ดวัน ทุกคนที่เกิดในยิสราเอลจะอยู่ในเพิง",
+  "tokens": [
+    {
+      "surface": "בסכת",
+      "gloss": "ในเพิง"
+    },
+    {
+      "surface": "תשבו",
+      "gloss": "เจ้าทั้งหลายจงอยู่"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "วัน"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทุกคน"
+    },
+    {
+      "surface": "האזרח",
+      "gloss": "ผู้เกิดใน"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "ในยิสราเอล"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "จะอยู่"
+    },
+    {
+      "surface": "בסכת",
+      "gloss": "ในเพิง"
+    }
+  ],
+  "timestamp": "2026-08-20T07:30:32.585105697Z",
+  "model": "glm-5.3"
+}

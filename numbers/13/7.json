@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 13:7",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "แห่งตระกูลของยิสสาคาร์ ยิกอัล บุตรของโยเซฟ",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "แห่งตระกูลของ"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "ยิสสาคาร์"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "ยิกอัล"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "โยเซฟ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:39:54.755449121Z",
+  "model": "glm-5.3"
+}

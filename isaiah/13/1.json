@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "ภาระพยากรณ์เกี่ยวกับบาเวล ซึ่งเยชายาฮู บุตรชายของอาโมทซ์ เห็น",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ภาระพยากรณ์"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "บาเวล"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "เห็น"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "เยชายาฮู"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรชาย"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "อาโมทซ์"
+    }
+  ],
+  "timestamp": "2026-08-20T09:23:43.963760446Z",
+  "model": "glm-5.3"
+}

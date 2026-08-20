@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 114:8",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 114,
+  "translation": "ผู้ทรงพลิก ⟨the⟩ ศิลาให้กลายเป็นหนองน้ำ ⟨the⟩ หินเหล็กไฟให้กลายเป็นบ่อน้ำพุ",
+  "tokens": [
+    {
+      "surface": "ההפכי",
+      "gloss": "ผู้ทรงพลิก"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "ศิลา"
+    },
+    {
+      "surface": "אגם",
+      "gloss": "หนองน้ำ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "น้ำ"
+    },
+    {
+      "surface": "חלמיש",
+      "gloss": "หินเหล็กไฟ"
+    },
+    {
+      "surface": "למעינו",
+      "gloss": "บ่อน้ำพุ"
+    },
+    {
+      "surface": "มים",
+      "gloss": "น้ำ"
+    }
+  ],
+  "timestamp": "2026-08-20T11:55:06.035416956Z",
+  "model": "glm-5.3"
+}

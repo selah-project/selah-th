@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "เสื้อคลุมของเจ้ามิได้เก่าขาดจากตัวเจ้า และเท้าของเจ้ามิได้บวม นี่สี่สิบปี",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "เสื้อคลุมของเจ้า"
+    },
+    {
+      "surface": "לא",
+      "gloss": "มิได้"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "เก่าขาด"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "จากตัวเจ้า"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "และเท้าของเจ้า"
+    },
+    {
+      "surface": "לא",
+      "gloss": "มิได้"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "บวม"
+    },
+    {
+      "surface": "זה",
+      "gloss": "นี่"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "สี่สิบ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    }
+  ],
+  "timestamp": "2026-08-20T07:56:22.083059475Z",
+  "model": "glm-5.3"
+}

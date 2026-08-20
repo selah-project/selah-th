@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 2:14",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และตระกูลกาด และผู้นำของบุตรชายกาด คือเอลยาซาฟ บุตรของเรอูเอล",
+  "tokens": [
+    {
+      "surface": "ומטה",
+      "gloss": "และตระกูล"
+    },
+    {
+      "surface": "גד",
+      "gloss": "กาด"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "และผู้นำ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ของบุตรชาย"
+    },
+    {
+      "surface": "גד",
+      "gloss": "กาด"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "เอลยาซาฟ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "เรอูเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T07:35:02.296253822Z",
+  "model": "glm-5.3"
+}

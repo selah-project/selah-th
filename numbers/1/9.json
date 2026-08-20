@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "สำหรับเผ่าเซวูลูน อาลีอาฟ บุตรเคโลน",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "สำหรับเผ่าเซวูลูน"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "อาลีอาฟ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "เคโลน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:32:08.801080489Z",
+  "model": "glm-5.3"
+}

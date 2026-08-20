@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 13:8",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "แห่งตระกูลของเอฟรายิม โฮเชอา บุตรของนูน",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "แห่งตระกูลของ"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "เอฟรายิม"
+    },
+    {
+      "surface": "הושע",
+      "gloss": "โฮเชอา"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "נון",
+      "gloss": "นูน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:39:54.755594315Z",
+  "model": "glm-5.3"
+}

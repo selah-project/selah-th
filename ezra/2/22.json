@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "ชายแห่งเนโทฟาห์ ห้าสิบหก",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ชายแห่ง"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "เนโทฟาห์"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ห้าสิบ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "หก"
+    }
+  ],
+  "timestamp": "2026-08-20T13:18:14.228945786Z",
+  "model": "glm-5.3"
+}

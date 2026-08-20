@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "ezra 10:40",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "มัคนัดบัย ชาชัย ชาไร",
+  "tokens": [
+    {
+      "surface": "מכנדבי",
+      "gloss": "มัคนัดบัย"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "ชาชัย"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ชาไร"
+    }
+  ],
+  "timestamp": "2026-08-20T13:24:33.439487368Z",
+  "model": "glm-5.3"
+}

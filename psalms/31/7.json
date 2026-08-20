@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 31:7",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "לֵאלֹהִים אֶקְרָא",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": ""
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": ""
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ראית",
+      "gloss": ""
+    },
+    {
+      "surface": "את",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "עניי",
+      "gloss": ""
+    },
+    {
+      "surface": "ידעת",
+      "gloss": ""
+    },
+    {
+      "surface": "בצרות",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-20T11:23:10.472478545Z",
+  "model": "glm-5.3"
+}

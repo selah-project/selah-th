@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "ถ้างูกัดโดยไม่มีเสียงกระซิบมนตร์ ก็ไม่มีประโยชน์แก่นายแห่งลิ้น",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ถ้า"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "กัด"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "งู"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "โดยไม่มี"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "เสียงกระซิบมนตร์"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "และไม่มี"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "ประโยชน์"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "แก่นาย"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "แห่งลิ้น"
+    }
+  ],
+  "timestamp": "2026-08-20T13:00:13.804337736Z",
+  "model": "glm-5.3"
+}

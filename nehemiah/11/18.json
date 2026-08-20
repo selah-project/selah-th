@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 11:18",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "คนเลวีทั้งหมดใน⟨the⟩เมืองบริสุทธิ์ มีจำนวนสองร้อยแปดสิบสี่คน",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "คนเลวี"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ในเมือง"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "บริสุทธิ์"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "สองร้อย"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "แปดสิบ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "และสี่"
+    }
+  ],
+  "timestamp": "2026-08-20T13:34:41.881798347Z",
+  "model": "glm-5.3"
+}

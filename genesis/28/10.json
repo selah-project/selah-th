@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "และยาอาโคฟออกจากเบเออร์-เชบา และเดินไปยังฮาราน",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "และออก"
+    },
+    {
+      "surface": "ยעקב",
+      "gloss": "ยาอาโคฟ"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "จากเบเออร์"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "เชบา"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "และเดินไป"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "ยังฮาราน"
+    }
+  ],
+  "timestamp": "2026-08-20T06:50:48.892580185Z",
+  "model": "glm-5.3"
+}

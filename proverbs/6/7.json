@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "ซึ่งไม่มีแก่มันผู้บัญชาการ ผู้ควมงาน และผู้ปกครอง",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ไม่มี"
+    },
+    {
+      "surface": "לה",
+      "gloss": "แก่มัน"
+    },
+    {
+      "surface": "קצין",
+      "gloss": "ผู้บัญชาการ"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "ผู้คุมงาน"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "และผู้ปกครอง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:11:00.464540381Z",
+  "model": "glm-5.3"
+}

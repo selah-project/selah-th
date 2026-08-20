@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และในเบทูเอล และในฮอร์มาห์ และในซิกลาก",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "และในเบทูเอล"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "และในฮอร์มาห์"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "และในซิกลาก"
+    }
+  ],
+  "timestamp": "2026-08-20T13:40:08.701922492Z",
+  "model": "glm-5.3"
+}

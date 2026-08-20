@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 12:24",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "เจ้าจะไม่กินมัน เจ้าจะเทมันลงบน ⟨the⟩ แผ่นดินเหมือน ⟨the⟩ น้ำ",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תאכלנו",
+      "gloss": "เจ้าจะกินมัน"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ แผ่นดิน"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "เจ้าจะเทมัน"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "เหมือนน้ำ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:58:23.641701545Z",
+  "model": "glm-5.3"
+}

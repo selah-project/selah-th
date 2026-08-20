@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "lamentations 3:25",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ยาห์เวห์ทรงดีต่וผู้ที่คอย⟨the⟩องค์ท่าน ต่อנเฟชที่แสวงหาพระองค์",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ทรงดี"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "לקוו",
+      "gloss": "ต่อผู้ที่คอย"
+    },
+    {
+      "surface": "לנפש",
+      "gloss": "ต่อนเฟช"
+    },
+    {
+      "surface": "תדרשנו",
+      "gloss": "ที่แสวงหาพระองค์"
+    }
+  ],
+  "timestamp": "2026-08-20T12:55:15.331368551Z",
+  "model": "glm-5.3"
+}

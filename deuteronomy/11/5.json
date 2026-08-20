@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 11:5",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และ אֲשֶׁר עשה แก่ลู่ทั้งหลาย במדבร จน בֹּאֲכֶם עד הַמָּקוֹם הַזֶּה",
+  "tokens": [
+    {
+      "surface": "ואשר",
+      "gloss": "และสิ่งซึ่ง"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ทรงกระทำ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "แก่พวกลู่"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "ในถิ่นทุรกันดาร"
+    },
+    {
+      "surface": "עד",
+      "gloss": "จนถึง"
+    },
+    {
+      "surface": "באכם",
+      "gloss": "การที่ลู่มาถึง"
+    },
+    {
+      "surface": "עד",
+      "gloss": "จนถึง"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "สถานที่นี้"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "นี้"
+    }
+  ],
+  "timestamp": "2026-08-20T14:28:36.850315607Z",
+  "model": "glm-5.3"
+}

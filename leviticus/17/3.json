@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 17,
+  "translation": " Anyone from the house of Israel who slaughters an ox, or a lamb, or a goat within the camp, or who slaughters ⟨it⟩ outside the camp",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "Anyone"
+    },
+    {
+      "surface": "איש",
+      "gloss": "anyone"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "from the house of"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "Yisrael"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "who"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "slaughters"
+    },
+    {
+      "surface": "שור",
+      "gloss": "an ox"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "a lamb"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "עז",
+      "gloss": "a goat"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "within the camp"
+    },
+    {
+      "surface": "או",
+      "gloss": "or"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "who"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "slaughters"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "outside"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "of the camp"
+    }
+  ],
+  "timestamp": "2026-08-20T14:23:14.612145377Z",
+  "model": "glm-5.3"
+}

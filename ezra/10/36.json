@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "ezra 10:36",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "วันยาห์ เมเรโมท เอลยาชีบ",
+  "tokens": [
+    {
+      "surface": "וניה",
+      "gloss": "วันยาห์"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "เมเรโมท"
+    },
+    {
+      "surface": "אלישיב",
+      "gloss": "เอลยาชีบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:25:20.394733563Z",
+  "model": "glm-5.3"
+}

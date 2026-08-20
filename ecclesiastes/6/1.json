@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "มีความชั่วร้ายหนึ่งซึ่งข้าพเจ้าเห็นใต้ ⟨ה⟩ ดวงอาทิตย์ และมัน ⟨is⟩ ใหญ่หลวงเหนือมนุษย์",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "มี"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ความชั่วร้าย"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ข้าพเจ้าเห็น"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ใต้"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ดวงอาทิตย์"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "และใหญ่หลวง"
+    },
+    {
+      "surface": "היא",
+      "gloss": "มัน"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "มนุษย์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:02:17.906699340Z",
+  "model": "glm-5.3"
+}

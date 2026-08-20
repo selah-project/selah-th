@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "และฮารับบิท และคิชโยน และอาเบศ",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "และฮารับบิท"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "และคิชโยน"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "และอาเบศ"
+    }
+  ],
+  "timestamp": "2026-08-20T08:14:44.117721328Z",
+  "model": "glm-5.3"
+}

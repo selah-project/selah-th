@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "พวกชายแห่งอานาโทท หนึ่งร้อยยี่สิบแปด",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "พวกชายแห่ง"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "อานาโทท"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "หนึ่งร้อย"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ยี่สิบ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "แปด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:31.932270461Z",
+  "model": "glm-5.3"
+}

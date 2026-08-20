@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 58:9",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 58,
+  "translation": "אָז֤ תִּקְרָא֙ וְיהוָה֣ יַעֲנֶ֔ה",
+  "tokens": [],
+  "timestamp": "2026-08-20T09:38:41.350828919Z",
+  "model": "glm-5.3"
+}

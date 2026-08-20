@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 27,
+  "translation": "และโมเชกล่าวกับยาห์เวห์ทูลว่า",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และกล่าว"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ทูลว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:47:39.645779703Z",
+  "model": "glm-5.3"
+}

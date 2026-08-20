@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "judges 6:23",
+  "book": "judges",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "และยาห์เวห์ตรัสกับเขาว่า สันติสุขแก่เจ้า อย่ากลัวเลย เจ้าจะไม่ตาย",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "לו",
+      "gloss": "กับเขา"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "สันติสุข"
+    },
+    {
+      "surface": "לך",
+      "gloss": "แก่เจ้า"
+    },
+    {
+      "surface": "אל",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "กลัว"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "เจ้าจะตาย"
+    }
+  ],
+  "timestamp": "2026-08-20T08:19:37.850800963Z",
+  "model": "glm-5.3"
+}

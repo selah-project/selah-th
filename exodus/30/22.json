@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 30:22",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 30,
+  "translation": "และยาห์เวห์ตรัสแก่โมเช ว่า",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และพระองค์ตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "แก่"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:13:48.261105575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 34:21",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 34,
+  "translation": "แก่ตระกูลของบิญยามิน อาลีดัด บุตรชายคิสโลน",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "แก่ตระกูลของ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "บิญยามิน"
+    },
+    {
+      "surface": "אלידד",
+      "gloss": "อาลีดัด"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรชาย"
+    },
+    {
+      "surface": "כסלון",
+      "gloss": "คิสโลน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:50:41.924874828Z",
+  "model": "glm-5.3"
+}

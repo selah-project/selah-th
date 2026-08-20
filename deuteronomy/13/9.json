@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "อย่ายอมตามเขา และอย่าฟังเขา และอย่าให้ตาของเจ้าเว้นวางเขา และอย่าไว้ชีวิต และอย่าปิดบัง ⟨เพื่อ⟩ เขา",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "ยอมตาม"
+    },
+    {
+      "surface": "לו",
+      "gloss": "เขา"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และอย่า"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "ฟัง"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "เขา"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และอย่า"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "เว้นวาง"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ตาของเจ้า"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "เขา"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และอย่า"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "ไว้ชีวิต"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และอย่า"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ปิดบัง"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "เขา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:57:30.570451087Z",
+  "model": "glm-5.3"
+}

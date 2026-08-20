@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "และดานิเยลคงอยู่ถึงปีที่หนึ่งแห่งโคเรชกษัตริย์",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็น\/คงอยู่"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "ดานิเยล"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "แห่งโคเรช"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "กษัตริย์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:06:26.720926758Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 26:6",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "เท้าจะย่ำมันเหยียบ เท้าของคนยากจน ฝีเท้าของคนขัดสน",
+  "tokens": [
+    {
+      "surface": "תרמסנה",
+      "gloss": "จะย่ำเหยียบมัน"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "เท้า"
+    },
+    {
+      "surface": "רגלי",
+      "gloss": "เท้าของ"
+    },
+    {
+      "surface": "עני",
+      "gloss": "คนยากจน"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "ฝีเท้าของ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "คนขัดสน"
+    }
+  ],
+  "timestamp": "2026-08-20T09:26:30.985215971Z",
+  "model": "glm-5.3"
+}

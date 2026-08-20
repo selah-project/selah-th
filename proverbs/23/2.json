@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 23:2",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "และจงวางมีด⟨ไว้⟩ที่ลำคอเจ้า หากเจ้า⟨เป็น⟩ผู้ใหญ่แห่ง⟨การ⟩ appetite",
+  "tokens": [
+    {
+      "surface": "ושמת",
+      "gloss": "และจงวาง"
+    },
+    {
+      "surface": "שכין",
+      "gloss": "มีด"
+    },
+    {
+      "surface": "בלעך",
+      "gloss": "ที่ลำคอเจ้า"
+    },
+    {
+      "surface": "אם",
+      "gloss": "หาก"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ผู้ใหญ่"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "อัตตา\/appetite"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "เจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T12:21:48.443053907Z",
+  "model": "glm-5.3"
+}

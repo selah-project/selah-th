@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 16:32",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 16,
+  "translation": "ผู้ใจเย็นช้าโกรธดีกว่าวีรชน และผู้ครองใจตนดีกว่าผู้ยึดเมือง",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ดีกว่า"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ช้า"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "ความโกรธ"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "วีรชน"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "และผู้ครอง"
+    },
+    {
+      "surface": "ברוחו",
+      "gloss": "ใจของตน"
+    },
+    {
+      "surface": "מלכד",
+      "gloss": "ผู้ยึด"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "เมือง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:16:47.219164697Z",
+  "model": "glm-5.3"
+}

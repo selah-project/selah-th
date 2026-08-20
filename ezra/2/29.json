@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรของเนโบ ห้าสิบสอง",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "เนโบ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ห้าสิบ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "สอง"
+    }
+  ],
+  "timestamp": "2026-08-20T13:19:29.367049248Z",
+  "model": "glm-5.3"
+}

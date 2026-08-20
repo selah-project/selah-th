@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezra 2:7",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรหลานของเอลาม หนึ่งพันสองร้อยห้าสิบสี่คน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรหลานของ"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "เอลาม"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "หนึ่งพัน"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "สองร้อย"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ห้าสิบ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "และสี่"
+    }
+  ],
+  "timestamp": "2026-08-20T13:18:34.870798448Z",
+  "model": "glm-5.3"
+}

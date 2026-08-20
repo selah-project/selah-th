@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "แพะผู้หนึ่งตัว เพื่อเป็นเครื่องบูชาไถ่บาป",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "แพะผู้"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ของพวกแพะ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "เพื่อบูชาไถ่บาป"
+    }
+  ],
+  "timestamp": "2026-08-20T07:37:52.873310564Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "และชาวยาเบชกิลอัดทั้งหมดได้ยิน ⟨את⟩ ทุกสิ่งซึ่งคนฟลิชทีมทำแก่ชาอูล",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "พวกเขาได้ยิน"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "ยาเบช"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "กิลอัด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ทุกสิ่ง"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทุกสิ่ง"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "ทำ"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "คนฟลิชทีม"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "แก่ชาอูล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:45:03.912599589Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และยาห์เวห์ตรัสกับโมเชและกับอาฮารอนกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "และกับ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "อาฮารอน"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:35:06.900917317Z",
+  "model": "glm-5.3"
+}

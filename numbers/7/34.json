@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 7:34",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "แพะผู้หนึ่งตัว เพื่อเป็นเครื่องสะสาบบาป",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "แพะผู้"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ของแพะ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่งตัว"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "เพื่อเป็นเครื่องสะสาบบาป"
+    }
+  ],
+  "timestamp": "2026-08-20T07:36:08.221727713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "פי צדיק ינוב חכמה  ולשון תהפכות תכרת",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "פי"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "צדיק"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "ינוב"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "חכמה"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "ולשון"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "תהפכות"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "תכרת"
+    }
+  ],
+  "timestamp": "2026-08-20T12:13:19.012192738Z",
+  "model": "glm-5.3"
+}

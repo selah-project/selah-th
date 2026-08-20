@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 83,
+  "translation": "เกบาล และอัมโมน และอามาเลค เปเลเชต พร้อมกับผู้อาศัยในซอร์",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "เกบาล"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "และอัมโมน"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "และอามาเลค"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "เปเลเชต"
+    },
+    {
+      "surface": "עם",
+      "gloss": "พร้อมกับ"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ผู้อาศัย"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ซอร์"
+    }
+  ],
+  "timestamp": "2026-08-20T11:43:05.921348829Z",
+  "model": "glm-5.3"
+}

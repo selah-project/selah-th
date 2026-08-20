@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 2:2",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และยาห์เวห์ตรัสแก่ข้าพเจ้า กล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "แก่ข้าพเจ้า"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:51:59.954665633Z",
+  "model": "glm-5.3"
+}

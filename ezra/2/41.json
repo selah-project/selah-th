@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "⟨บรรดา⟩นักร้อง บุตรของอัสฟ หนึ่งร้อยยี่สิบแปด",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "นักร้อง"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "อัสฟ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "หนึ่งร้อย"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ยี่สิบ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "แปด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:21:07.955113627Z",
+  "model": "glm-5.3"
+}

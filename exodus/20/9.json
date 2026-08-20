@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "หกวันเจ้าจะทำงาน และทำงานทั้งปวงของเจ้า",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "หกวัน"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "วัน"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "เจ้าจะทำงาน"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "และทำ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งปวง"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "งานของเจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:09:56.771417493Z",
+  "model": "glm-5.3"
+}

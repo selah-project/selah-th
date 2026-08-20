@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 31:22",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "และโมเชเขียน ⟨את⟩ เพลงนี้ในวันนั้น และสอนมันแก่ ⟨את⟩ บุตรชายของยิสราเอล",
+  "tokens": [
+    {
+      "surface": "ויכתב",
+      "gloss": "และเขียน"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เพลงนี้"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "เพลง"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "นี้"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ในวัน"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "นั้น"
+    },
+    {
+      "surface": "וילמדה",
+      "gloss": "และสอนมัน"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "บุตรชายของยิสราเอล"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ยิสราเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T08:06:26.416660365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรของปารอช สองพันหนึ่งร้อยเจ็ดสิบสอง",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "ปารอช"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "สองพัน"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "หนึ่งร้อย"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "เจ็ดสิบ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "และสอง"
+    }
+  ],
+  "timestamp": "2026-08-20T13:20:12.904405799Z",
+  "model": "glm-5.3"
+}

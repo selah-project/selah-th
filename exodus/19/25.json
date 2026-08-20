@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 19:25",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "และโมเชลงมายัง ⟨the⟩ ประชาชน และกล่าวแก่พวกเขา",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "และลงมา"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ยัง"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ ประชาชน"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "และกล่าว"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "แก่พวกเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:07:54.726602540Z",
+  "model": "glm-5.3"
+}

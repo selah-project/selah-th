@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 48,
+  "translation": "และเหนือดีโบน และเหนือเนโบ และเหนือเบธดิบลาทายิม",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "และเหนือ"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "ดีโบน"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "และเหนือ"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "เนโบ"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "และเหนือ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบธ"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "ดิบลาทายิม"
+    }
+  ],
+  "timestamp": "2026-08-20T10:09:03.153495633Z",
+  "model": "glm-5.3"
+}

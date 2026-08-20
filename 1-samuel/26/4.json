@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "และดาวิดส่งสายลับไป และรู้ว่าชะอูลมาถึงแน่นอนแล้ว",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "และส่ง"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ดาวิด"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "สายลับ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "และรู้"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ว่า"
+    },
+    {
+      "surface": "בא",
+      "gloss": "มาถึง"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ชะอูล"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ยัง"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "แน่นอน"
+    }
+  ],
+  "timestamp": "2026-08-20T08:39:38.527002730Z",
+  "model": "glm-5.3"
+}

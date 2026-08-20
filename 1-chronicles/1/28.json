@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "บุตรทั้งหลายของอัฟราฮัม ยิทสฮัก และยิชมาเอล",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรทั้งหลายของ"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "อัฟราฮัม"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ยิทสฮัก"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "และยิชมาเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:35:56.473807469Z",
+  "model": "glm-5.3"
+}

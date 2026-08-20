@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "และดันนาห์ และคิรยาท-สันนาห์ ⟨หล่อนคือ⟩ เดบิร",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "และดันนาห์"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "และคิรยาท"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "สันนาห์"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨หล่อนคือ⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "เดบิร"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:18.026933827Z",
+  "model": "glm-5.3"
+}

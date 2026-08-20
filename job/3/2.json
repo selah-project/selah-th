@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "และอียอบตอบและกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "และตอบ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "อียอบ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "และกล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T12:27:03.205937662Z",
+  "model": "glm-5.3"
+}

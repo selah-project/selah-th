@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "ผู้หญิงทำเวทมนตร์ — ห้ามให้เธอมีชีวิตอยู่",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "ผู้หญิงทำเวทมนตร์"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ห้าม"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "ให้มีชีวิตอยู่"
+    }
+  ],
+  "timestamp": "2026-08-20T07:11:03.108960950Z",
+  "model": "glm-5.3"
+}

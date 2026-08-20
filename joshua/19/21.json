@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "และเรเมท และเอน-กันนิม และเอน-ฮัดดาห์ และเบธ-พัตเซตส์",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "และเรเมท"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "และเอน"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "กันนิม"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "และเอน"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "ฮัดดาห์"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "และเบธ"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "พัตเซตส์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:14:57.668978733Z",
+  "model": "glm-5.3"
+}

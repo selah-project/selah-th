@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "amos 2:13",
+  "book": "amos",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "ดูนะ ยาห์เวห์ทรงบีบพวกเจ้าให้กดทับ เหมือนรถที่บรรทุก<span style=\"display:none\">span<\/span>รวงข้าวเต็มคันบีบอยู่",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ดูนะ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "מעיק",
+      "gloss": "ทรงบีบพวกเจ้าให้กดทับ"
+    },
+    {
+      "surface": "תחתיכם",
+      "gloss": "ใต้พวกเจ้า"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "เหมือน"
+    },
+    {
+      "surface": "תעיק",
+      "gloss": "บีบ"
+    },
+    {
+      "surface": "העגלה",
+      "gloss": "รถ"
+    },
+    {
+      "surface": "המלאה",
+      "gloss": "ที่เต็ม"
+    },
+    {
+      "surface": "לה",
+      "gloss": "ของมัน"
+    },
+    {
+      "surface": "עמיר",
+      "gloss": "รวงข้าว"
+    }
+  ],
+  "timestamp": "2026-08-20T10:51:53.590884470Z",
+  "model": "glm-5.3"
+}

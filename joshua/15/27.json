@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "และฮาทซาร์-กัดดาห์ และเฮชมอน และเบท-ปาเลท",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "และฮาทซาร์"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "กัดดาห์"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "และเฮชมอน"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "และเบท"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "ปาเลท"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:12.300831817Z",
+  "model": "glm-5.3"
+}

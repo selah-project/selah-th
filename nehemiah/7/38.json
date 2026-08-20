@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรของเสนาอาห์ สามพันเก้าร้อยสามสิบ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "เสนาอาห์"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "เก้า"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "และสามสิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:51.761394849Z",
+  "model": "glm-5.3"
+}

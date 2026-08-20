@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-kings 18:35",
+  "book": "1-kings",
+  "lang": "th",
+  "chapter": 18,
+  "translation": "และน้ำไหลล้อมรอบแท่นบูชา และทั้ง ⟨את⟩ คูน้ำก็เต็มด้วยน้ำ",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "และไหล"
+    },
+    {
+      "surface": "המים",
+      "gloss": "น้ำ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "ล้อมรอบ"
+    },
+    {
+      "surface": "למזבח",
+      "gloss": "รอบแท่นบูชา"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "และทั้ง"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "คูน้ำ"
+    },
+    {
+      "surface": "התעלה",
+      "gloss": "คูน้ำ"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "เต็ม"
+    },
+    {
+      "surface": "מים",
+      "gloss": "น้ำ"
+    }
+  ],
+  "timestamp": "2026-08-20T09:04:38.878650165Z",
+  "model": "glm-5.3"
+}

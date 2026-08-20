@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "จนถึงเมื่อไรฉันจะเห็นธง ฉันจะได้ยินเสียงชอฟาร",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "จนถึง"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "เมื่อไร"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "ฉันจะเห็น"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ธง"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "ฉันจะได้ยิน"
+    },
+    {
+      "surface": "קול",
+      "gloss": "เสียง"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "ชอฟาร"
+    }
+  ],
+  "timestamp": "2026-08-20T09:43:04.959164603Z",
+  "model": "glm-5.3"
+}

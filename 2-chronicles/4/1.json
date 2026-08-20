@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 4:1",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และเขาทำแท่นบูชาหนึ่ง ทองแดง ยี่สิบศ cubit ความยาวของมัน และยี่สิบศ cubit ความกว้างของมัน และสิบศ cubit ความสูงของมัน",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "และเขาทำ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "แท่นบูชา"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ทองแดง"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ยี่สิบ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ศ cubit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ความยาวของมัน"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "และยี่สิบ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ศ cubit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ความกว้างของมัน"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "และสิบ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ศ cubit"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ความสูงของมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T15:01:12.847097312Z",
+  "model": "glm-5.3"
+}

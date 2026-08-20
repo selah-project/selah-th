@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 27:20",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 27,
+  "translation": "เดดานคือพ่อค้าของเจ้า ด้วยผ้าปูสำหรับขี่ม้า",
+  "tokens": [
+    {
+      "surface": "דדן",
+      "gloss": "เดดาน"
+    },
+    {
+      "surface": "רכלתך",
+      "gloss": "พ่อค้าของเจ้า"
+    },
+    {
+      "surface": "בבגדי",
+      "gloss": "ด้วยผ้า"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ปู"
+    },
+    {
+      "surface": "לרכבה",
+      "gloss": "สำหรับขี่"
+    }
+  ],
+  "timestamp": "2026-08-20T10:32:13.735434872Z",
+  "model": "glm-5.3"
+}

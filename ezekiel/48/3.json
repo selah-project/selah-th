@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 48,
+  "translation": "และติดเขตแดนอาชเฮร์ จากเขตทางตะวันออก และถึงเขตทางทะเล นัฟทาลี หนึ่ง",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "และติด"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "เขตแดน"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "อาชเฮร์"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "จากเขต"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "ทางตะวันออก"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "และถึง"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "เขต"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ทางทะเล"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "นัฟทาลี"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    }
+  ],
+  "timestamp": "2026-08-20T10:44:53.557947587Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "ชนชาติที่ดุดันในสีหน้า ซึ่งจะไม่เชิดหน้าคนชรา และจะไม่กรุณาเด็กหนุ่ม",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "ชนชาติ"
+    },
+    {
+      "surface": "עז",
+      "gloss": "ดุดัน"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ในสีหน้า"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "จะเชิดหน้า"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "หน้า"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "ต่อคนชรา"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "และเด็กหนุ่ม"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "จะกรุณา"
+    }
+  ],
+  "timestamp": "2026-08-20T08:04:02.122609010Z",
+  "model": "glm-5.3"
+}

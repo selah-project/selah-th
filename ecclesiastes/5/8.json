@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และผลประโยชน์ของแผ่นดินในทุกสิ่ง — ⟨คือ⟩ กษัตริย์ ⟨โดย⟩ทุ่งนาถูกทำการ",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "และผลประโยชน์"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ของแผ่นดิน"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ในทุกสิ่ง"
+    },
+    {
+      "surface": "היא",
+      "gloss": "มัน"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "กษัตริย์"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "ทุ่งนา"
+    },
+    {
+      "surface": "נעบד",
+      "gloss": "ถูกทำการ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:00:33.716917128Z",
+  "model": "glm-5.3"
+}

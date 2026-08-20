@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 33,
+  "translation": "ท่านตั้งแท่นบูชาไว้ที่นั่น และเรียกมันว่า 'เอล เอโลฮี ยิสราเอล'",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "ท่านตั้ง"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ไว้ที่นั่น"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "แท่นบูชา"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "และเรียก"
+    },
+    {
+      "surface": "לו",
+      "gloss": "มัน"
+    },
+    {
+      "surface": "אל",
+      "gloss": "เอล"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "เอโลฮี"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ยิสราเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T06:53:20.921574427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 32:1",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 32,
+  "translation": "הדבר אשר היה אל ירמיהו מאת יהוה בשנת העשרית לצדקיהו מלך יהודה היא השנה שמנה עשרה שנה לנבוכדראצר",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "พระดำรัด"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "אשר"
+    },
+    {
+      "surface": "היה",
+      "gloss": "היה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ยิรมียาฮู"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "מאת"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "בשנת",
+      "gloss": "בשנת"
+    },
+    {
+      "surface": "העשרית",
+      "gloss": "העשרית"
+    },
+    {
+      "surface": "לצדקיהו",
+      "gloss": "לצדקיהו"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ยาฮודה"
+    },
+    {
+      "surface": "היא",
+      "gloss": "היא"
+    },
+    {
+      "surface": "השנה",
+      "gloss": "השנה"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "שמנה"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "עשרה"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "שנה"
+    },
+    {
+      "surface": "לנבוכדראצר",
+      "gloss": "לנבוכדראצר"
+    }
+  ],
+  "timestamp": "2026-08-20T09:59:47.040946199Z",
+  "model": "glm-5.3"
+}

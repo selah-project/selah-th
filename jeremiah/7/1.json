@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 7:1",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "הדברת אשר היה אל ירמיהו מאת יהוה לאמר",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "הדברת"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "אשר"
+    },
+    {
+      "surface": "היה",
+      "gloss": "היה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ירמיהו"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "מאת"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "לאמר"
+    }
+  ],
+  "timestamp": "2026-08-20T09:44:39.217581766Z",
+  "model": "glm-5.3"
+}

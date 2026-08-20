@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 18:1",
+  "book": "job",
+  "lang": "th",
+  "chapter": 18,
+  "translation": "ฝ่ายบิลดัดชูฮายิตจึงตอบและกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "จึงตอบ"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "บิลดัด"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "ชูฮายิต"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "และกล่าว"
+    }
+  ],
+  "timestamp": "2026-08-20T12:35:41.271189599Z",
+  "model": "glm-5.3"
+}

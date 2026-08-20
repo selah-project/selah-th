@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "เรา ⟨ได้⟩เป็นลูกกำพร้า ไร้บิดา มารดาของเราเหมือนหญิงม่าย",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "ลูกกำพร้า"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "เราเป็น"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ไร้"
+    },
+    {
+      "surface": "אב",
+      "gloss": "บิดา"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "มารดาของเรา"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "เหมือนหญิงม่าย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:57:25.936882034Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "โอ บุตรมนุษย์ สองสตรี บุตรีของมารดาคนเดียวกัน ⟨เป็น⟩",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "มนุษย์"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "สตรี"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "บุตรี"
+    },
+    {
+      "surface": "אם",
+      "gloss": "มารดา"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "คนเดียวกัน"
+    },
+    {
+      "surface": "היו",
+      "gloss": "เป็น"
+    }
+  ],
+  "timestamp": "2026-08-20T10:27:59.753300028Z",
+  "model": "glm-5.3"
+}

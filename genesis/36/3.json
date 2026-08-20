@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 36,
+  "translation": "และ ⟨את⟩ บาเสมัท ธิดาของยิชมาเอล น้องสาวของเนบาโยท",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "บาเสมัท"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "บาเสมัท"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ธิดาของ"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "ยิชมาเอล"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "น้องสาวของ"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "เนบาโยท"
+    }
+  ],
+  "timestamp": "2026-08-20T06:53:54.047967707Z",
+  "model": "glm-5.3"
+}

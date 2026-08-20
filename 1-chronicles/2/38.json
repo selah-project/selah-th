@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 2:38",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และโอเวดให้กำเนิด ⟨את⟩ เยฮู และเยฮูให้กำเนิด ⟨את⟩ อาซาร์ยาห์",
+  "tokens": [
+    {
+      "surface": "ועובד",
+      "gloss": "และโอเวด"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เยฮู"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "เยฮู"
+    },
+    {
+      "surface": "ויהוא",
+      "gloss": "และเยฮู"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "อาซาร์ยาห์"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "อาซาร์ยาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:37:05.691955028Z",
+  "model": "glm-5.3"
+}

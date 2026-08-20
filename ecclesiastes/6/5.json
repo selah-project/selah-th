@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "แม้แต่ดวงอาทิตย์ ⟨เขา⟩ก็ไม่เห็น และไม่รู้จัก ⟨สิ่งใด⟩ — ความสงบของคนนี้ยิ่งกว่าคนนั้น",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "แม้แต่"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "ดวงอาทิตย์"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "เห็น"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "รู้จัก"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "ความสงบ"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "ของคนนี้"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "กว่าคนนั้น"
+    }
+  ],
+  "timestamp": "2026-08-20T13:01:16.764259798Z",
+  "model": "glm-5.3"
+}

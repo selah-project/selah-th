@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 34:17",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 34,
+  "translation": "เจ้าจะไม่ทำเทพหล่อให้แก่ตัวเจ้าเอง",
+  "tokens": [
+    {
+      "surface": "אלהי",
+      "gloss": "เทพ"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "หล่อ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "เจ้าจะทำ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "แก่ตัวเจ้าเอง"
+    }
+  ],
+  "timestamp": "2026-08-20T07:15:46.986492979Z",
+  "model": "glm-5.3"
+}

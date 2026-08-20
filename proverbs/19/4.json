@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "ทรัพย์สินเพิ่มมิตรมากมาย แต่คนจนนั้นถูกแยกจากมิตรของเขา",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "ทรัพย์สิน"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "เพิ่ม"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "มิตร"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "มากมาย"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "แต่คนจน"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "จากมิตรของเขา"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "ถูกแยก"
+    }
+  ],
+  "timestamp": "2026-08-20T12:19:13.361042942Z",
+  "model": "glm-5.3"
+}

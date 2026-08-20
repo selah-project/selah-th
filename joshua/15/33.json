@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "ใน⟨ที่⟩ราบต่ำ เอชตาออล และโซระห์ และอัชนะห์",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "ในราบต่ำ"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "เอชตาออล"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "และโซระห์"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "และอัชนะห์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:24.678341979Z",
+  "model": "glm-5.3"
+}

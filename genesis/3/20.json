@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "และอาดามเรียกนามภรรยาของเขาว่า คาวาห์ เพราะนางเป็นมารดาของทุกสิ่งมีชีวิต",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "และเรียก"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "อาดาม"
+    },
+    {
+      "surface": "שם",
+      "gloss": "นาม"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "ภรรยาของเขา"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "คาวาห์"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "นาง"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "เป็น"
+    },
+    {
+      "surface": "אם",
+      "gloss": "มารดา"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ของทุก"
+    },
+    {
+      "surface": "חי",
+      "gloss": "สิ่งมีชีวิต"
+    }
+  ],
+  "timestamp": "2026-08-20T06:40:22.506443340Z",
+  "model": "glm-5.3"
+}

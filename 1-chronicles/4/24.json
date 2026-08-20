@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "บุตรชายของชิมออนคือเนมูเอล และยามิน ยาริบ เซราห์ ชาอูล",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ชิมออน"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "เนมูเอล"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "และยามิน"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "ยาริบ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "เซราห์"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ชาอูล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:39:25.635247139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "และเกดอร์ และอาหฺโย และเศคาร์ยาห์ และมิคโลท",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "และเกดอร์"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "และอาหฺโย"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "และเศคาร์ยาห์"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "และมิคโลท"
+    }
+  ],
+  "timestamp": "2026-08-20T13:44:13.413801026Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 1:15",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "และ ⟨את⟩ ⟨the⟩ ฮิววี และ ⟨את⟩ ⟨the⟩ อารคี และ ⟨את⟩ ⟨the⟩ ซินี",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "ฮิววี"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "⟨the⟩ ฮิววี"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "อารคี"
+    },
+    {
+      "surface": "הערקי",
+      "gloss": "⟨the⟩ อารคี"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "ซินี"
+    },
+    {
+      "surface": "הסיני",
+      "gloss": "⟨the⟩ ซินี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:36:29.881420483Z",
+  "model": "glm-5.3"
+}

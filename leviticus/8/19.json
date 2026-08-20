@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และเขาเชือดมัน และโมเชโปรด ⟨את⟩ โลหิตบน ⟨the⟩ มิซเบอาช์ รอบด้าน",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "และเขาเชือดมัน"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "โปรด"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "โลหิต"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "โลหิต"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "มิซเบอาช์"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "รอบด้าน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:23:48.273971560Z",
+  "model": "glm-5.3"
+}

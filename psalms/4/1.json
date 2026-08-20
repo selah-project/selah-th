@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 4:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "แก่ผู้ขับ conducting ในเครื่องสาย มิซมอร์ ⟨ของ⟩ดาวิด",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "แก่ผู้ขับ conducting"
+    },
+    {
+      "surface": "בנגינות",
+      "gloss": "ในเครื่องสาย"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "มิซมอร์"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ของดาวิด"
+    }
+  ],
+  "timestamp": "2026-08-20T11:15:46.784822192Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "และปุโรหิตจะดู ⟨את⟩ รอยโรค และจะกัก ⟨את⟩ รอยโรคไว้เจ็ดวัน",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "และดู"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ปุโรหิต"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "รอยโรค"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "รอยโรค"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "และกักไว้"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "รอยโรค"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "รอยโรค"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "วัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:25:38.163546216Z",
+  "model": "glm-5.3"
+}

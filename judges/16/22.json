@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 16:22",
+  "book": "judges",
+  "lang": "th",
+  "chapter": 16,
+  "translation": "และผมของศีรษะเขาเริ่มงอกขึ้น ตามที่เขาถูกโกน",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "และเริ่ม"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ผม"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "ของศีรษะเขา"
+    },
+    {
+      "surface": "לצמח",
+      "gloss": "ที่จะงอกขึ้น"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ตามที่"
+    },
+    {
+      "surface": "גלח",
+      "gloss": "ถูกโกน"
+    }
+  ],
+  "timestamp": "2026-08-20T08:25:41.646156247Z",
+  "model": "glm-5.3"
+}

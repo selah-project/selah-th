@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "ฝ่ายพวกเจ้าด้วย ชาวคูช — ผู้ถูกดาบของเราแทงทะลุ — คือพวกเขา",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ด้วย"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "พวกเจ้า"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "ชาวคูช"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "ผู้ถูกแทงทะลุโดย"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "ดาบของเรา"
+    },
+    {
+      "surface": "המה",
+      "gloss": "พวกเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T11:05:01.157819450Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และเจ้าจะไม่ขโมย",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "เจ้าจะขโมย"
+    }
+  ],
+  "timestamp": "2026-08-20T07:53:21.004085599Z",
+  "model": "glm-5.3"
+}

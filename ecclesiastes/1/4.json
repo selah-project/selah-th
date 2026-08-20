@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "ชั่วคนหนึ่งผ่านไป และชั่วคนหนึ่งมา แต่แผ่นดินโลกยืนตรงอยู่ตลอดนิรันดร์",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ชั่วคน"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "ผ่านไป"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "และชั่วคน"
+    },
+    {
+      "surface": "בא",
+      "gloss": "มา"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "แต่แผ่นดินโลก"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ตลอดนิรันดร์"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "ยืนตรงอยู่"
+    }
+  ],
+  "timestamp": "2026-08-20T12:58:32.051441916Z",
+  "model": "glm-5.3"
+}

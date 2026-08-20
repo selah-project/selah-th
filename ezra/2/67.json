@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "ezra 2:67",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "อูฐของเขาสี่ร้อยสามสิบห้า ลาห้าพันเจ็ดร้อยยี่สิบ",
+  "tokens": [
+    {
+      "surface": "גמליהם",
+      "gloss": "อูฐของเขา"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "สี่"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "สามสิบ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "และห้า"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "ลา"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "หก"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "และยี่สิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:21:22.330333990Z",
+  "model": "glm-5.3"
+}

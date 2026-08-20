@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezra 2:15",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรชายของอาดีน สี่ร้อยห้าสิบสี่คน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "อาดีน"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "สี่"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ห้าสิบ"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "และสี่"
+    }
+  ],
+  "timestamp": "2026-08-20T13:19:09.107347112Z",
+  "model": "glm-5.3"
+}

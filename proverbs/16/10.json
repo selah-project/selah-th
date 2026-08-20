@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 16:10",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 16,
+  "translation": "การทำนายอยู่บนริมฝีปากของกษัตริย์ ในคำพิพากษาปากของเขาจะไม่ทรยศ",
+  "tokens": [
+    {
+      "surface": "קסם",
+      "gloss": "การทำนาย"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "ริมฝีปากของ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "กษัตริย์"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "ในคำพิพากษา"
+    },
+    {
+      "surface": "לא",
+      "gloss": "จะไม่"
+    },
+    {
+      "surface": "ימעל",
+      "gloss": "ทรยศ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "ปากของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:16:08.633433083Z",
+  "model": "glm-5.3"
+}

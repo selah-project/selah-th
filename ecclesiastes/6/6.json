@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "และถึงแม้ ⟨เขา⟩มีชีวิตอยู่พันปีสองเท่า แต่ไม่เห็นสิ่งดี ⟨เลย⟩ — ทุกคนไม่ไปสู่ที่เดียวกันหรือ",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "และถึงแม้"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "มีชีวิตอยู่"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "สองเท่า"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "แต่สิ่งดี"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "เห็น"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "หรือไม่"
+    },
+    {
+      "surface": "אל",
+      "gloss": "สู่"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "เดียวกัน"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ทุกคน"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "ไป"
+    }
+  ],
+  "timestamp": "2026-08-20T13:01:16.764518847Z",
+  "model": "glm-5.3"
+}

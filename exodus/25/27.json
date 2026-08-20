@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 25:27",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "ตรงข้ามกับขอบ ⟨is⟩ ที่ของวงแหวน เป็นที่สำหรับคานไว้ยก ⟨את⟩ โต๊ะ",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "ตรงข้ามกับ"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "ขอบ"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "⟨is⟩ ที่"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "ของวงแหวน"
+    },
+    {
+      "surface": "לבתים",
+      "gloss": "เป็นที่"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "สำหรับคาน"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "ไว้ยก"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "โต๊ะ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "โต๊ะ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:12:15.358978299Z",
+  "model": "glm-5.3"
+}

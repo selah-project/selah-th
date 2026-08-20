@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "บุตรชายของเลวี คือ เกอร์โชม เคฮาท และเมรารี",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "เลวี"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "เกอร์โชม"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "เคฮาท"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "และเมรารี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:40:42.953892007Z",
+  "model": "glm-5.3"
+}

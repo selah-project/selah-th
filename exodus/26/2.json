@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 26:2",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "ความยาวของผ้าม่านผืนเดียว ⟨is⟩ ยี่สิบแปดศ cubits —",
+  "tokens": [],
+  "timestamp": "2026-08-20T07:12:15.108078004Z",
+  "model": "glm-5.3"
+}

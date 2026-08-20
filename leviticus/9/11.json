@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "และ ⟨את⟩ เนื้อ และ ⟨את⟩ หนัง เขาเผาด้วยไฟ นอกค่ายพักแรม",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "เนื้อ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "เนื้อ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "หนัง"
+    },
+    {
+      "surface": "העור",
+      "gloss": "หนัง"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "เขาเผา"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ด้วยไฟ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "นอก"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ค่ายพักแรม"
+    }
+  ],
+  "timestamp": "2026-08-20T07:22:32.927800224Z",
+  "model": "glm-5.3"
+}

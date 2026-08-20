@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 5:7",
+  "book": "2-samuel",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และดาวิดยึด ⟨את⟩ ป้อมมั่นของทซิยอน ⟨มัน⟩คือเมืองของดาวิด",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "และยึด"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ดาวิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ป้อมมั่นของทซิยอน"
+    },
+    {
+      "surface": "מצדת",
+      "gloss": "ป้อมมั่น"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ทซิยอน"
+    },
+    {
+      "surface": "היא",
+      "gloss": "มันคือ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "เมือง"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ดาวิด"
+    }
+  ],
+  "timestamp": "2026-08-20T08:44:16.012927557Z",
+  "model": "glm-5.3"
+}

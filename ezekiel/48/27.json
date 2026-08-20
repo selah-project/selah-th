@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 48,
+  "translation": "และติดชายแดนเศบูลุน จากด้านตะวันออกจนถึงด้านทะเล กาดหนึ่งเขต",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "และติด"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ชายแดน"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "เศบูลุน"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "จากด้าน"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ตะวันออก"
+    },
+    {
+      "surface": "עד",
+      "gloss": "จนถึง"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ด้าน"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ทะเล (ตะวันตก)"
+    },
+    {
+      "surface": "גד",
+      "gloss": "กาด"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่งเขต"
+    }
+  ],
+  "timestamp": "2026-08-20T14:42:28.336255260Z",
+  "model": "glm-5.3"
+}

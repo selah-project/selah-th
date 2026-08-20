@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรหลานของอาเตร์ แห่งเฮเซคียาห์ เก้าสิบแปด",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรหลานของ"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "อาเตร์"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "แห่งเฮเซคียาห์"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "เก้าสิบ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "แปด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:14.424064471Z",
+  "model": "glm-5.3"
+}

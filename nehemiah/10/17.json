@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 10:17",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "อาโดนียาห์ บิกวาย อาดีน",
+  "tokens": [
+    {
+      "surface": "אדניה",
+      "gloss": "อาโดนียาห์"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "บิกวาย"
+    },
+    {
+      "surface": "עדין",
+      "gloss": "อาดีน"
+    }
+  ],
+  "timestamp": "2026-08-20T13:32:40.235697600Z",
+  "model": "glm-5.3"
+}

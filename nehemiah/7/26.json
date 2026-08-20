@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "พวกชายแห่งเบทเลเคมและเนโทฟาห์ หนึ่งร้อยแปดสิบแปด",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "พวกชายแห่ง"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบท"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "เลเคม"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "และเนโทฟาห์"
+    },
+    {
+      "surface": "มאה",
+      "gloss": "หนึ่งร้อย"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "แปดสิบ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "แปด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:31.932133713Z",
+  "model": "glm-5.3"
+}

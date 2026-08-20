@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "ทั้งหมดเหล่านี้ร่วมชุมนุมกันที่หุบเขาแห่งสิดดิม คือทะเลเค็ม",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "เหล่านี้"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "ร่วมชุมนุมกัน"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "หุบเขา"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "สิดดิม"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "คือ"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ทะเล"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "เค็ม"
+    }
+  ],
+  "timestamp": "2026-08-20T06:44:01.801123660Z",
+  "model": "glm-5.3"
+}

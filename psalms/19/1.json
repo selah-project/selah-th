@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "แก่ผู้อำนวยเพลง มิซมอร์ของดาวีด",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "แก่ผู้อำนวยเพลง"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "มิซมอร์"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ของดาวีด"
+    }
+  ],
+  "timestamp": "2026-08-20T11:20:16.361089709Z",
+  "model": "glm-5.3"
+}

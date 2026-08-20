@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 14:5",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "ยาห์เวห์ทรงหักไม้กระบองของคนอธรรม คทาของผู้ปกครอง",
+  "tokens": [
+    {
+      "surface": "שבר",
+      "gloss": "ทรงหัก"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "ไม้กระบอง"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ของคนอธรรม"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "คทา"
+    },
+    {
+      "surface": "משלים",
+      "gloss": "ของผู้ปกครอง"
+    }
+  ],
+  "timestamp": "2026-08-20T09:23:19.730214405Z",
+  "model": "glm-5.3"
+}

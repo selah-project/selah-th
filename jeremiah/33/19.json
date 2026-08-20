@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 33:19",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 33,
+  "translation": "และพระวจนะของยาห์เวห์ มาถึงเยรมียู เพื่อกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็นมา"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "พระวจนะ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "เยรมียู"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "เพื่อกล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T10:00:27.642496488Z",
+  "model": "glm-5.3"
+}

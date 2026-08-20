@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 34,
+  "translation": "ลองลิ้มรสและดูเถิด ว่ายาห์เวห์ทรงดี ความสุขแก่⟨the⟩ชายผู้ลี้ภัยในพระองค์",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "ลองลิ้มรส"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "และดูเถิด"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ว่า"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ทรงดี"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "ความสุขแก่"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "⟨the⟩ชาย"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "ลี้ภัย"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ในพระองค์"
+    }
+  ],
+  "timestamp": "2026-08-20T11:24:12.558204551Z",
+  "model": "glm-5.3"
+}

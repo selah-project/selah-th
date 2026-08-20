@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "ผู้เฝ้ารักษาบัญญัติจะไม่รู้เรื่องร้าย และเวลาและการพิพากษา — ใจของผู้เฉลียวฉลาดจะรู้",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "ผู้เฝ้ารักษา"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "บัญญัติ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "จะรู้"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "เรื่อง"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ร้าย"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "และเวลา"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "และการพิพากษา"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "จะรู้"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ใจ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "ของผู้เฉลียวฉลาด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:02:10.937435004Z",
+  "model": "glm-5.3"
+}

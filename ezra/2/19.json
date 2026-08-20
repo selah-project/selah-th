@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรของฮาชุม สองร้อยยี่สิบสาม",
+  "tokens": [
+    {
+      "surface": "בนי",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "ฮาชุม"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "สองร้อย"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ยี่สิบ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "และสาม"
+    }
+  ],
+  "timestamp": "2026-08-20T13:20:00.732278124Z",
+  "model": "glm-5.3"
+}

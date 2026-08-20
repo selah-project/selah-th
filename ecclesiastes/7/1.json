@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ชื่อดีกว่าน้ำมันหอม และวันแห่งความตายกว่าวันที่ท้องให้กำเนิด",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ดีกว่า"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ชื่อ"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "กว่าน้ำมันหอม"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "หอม"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "และวัน"
+    },
+    {
+      "surface": "המות",
+      "gloss": "แห่งความตาย"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "กว่าวัน"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "ที่ท้องให้กำเนิด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:01:48.163975309Z",
+  "model": "glm-5.3"
+}

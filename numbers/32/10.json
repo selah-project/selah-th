@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 32,
+  "translation": "และพระพิโรธของยาห์เวห์ลุกโชนในวันนั้น และพระองค์ทรงสาบานว่า",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "และลุกโชน"
+    },
+    {
+      "surface": "אף",
+      "gloss": "พระพิโรธ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ในวัน"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "นั้น"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "และทรงสาบาน"
+    },
+    {
+      "surface": "ลאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:49:23.139380463Z",
+  "model": "glm-5.3"
+}

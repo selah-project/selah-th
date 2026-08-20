@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "เยดิยาเอล บุตรชิมรี และโยฮา น้องชายของเขา ชาว ⟨the⟩ ทีซิ",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "เยดิยาเอล"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "ชิมรี"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "และโยฮา"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "น้องชายของเขา"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "ชาวทีซิ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:44:17.877513823Z",
+  "model": "glm-5.3"
+}

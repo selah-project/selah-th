@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "และ ⟨את⟩ เอวาล และ ⟨את⟩ อาวีมาเอล และ ⟨את⟩ เชวา",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "เอวาล"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "เอวาล"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "อาวีมาเอล"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "อาวีมาเอล"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "เชวา"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "เชวา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:35:55.962916358Z",
+  "model": "glm-5.3"
+}

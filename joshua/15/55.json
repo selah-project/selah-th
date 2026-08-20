@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "joshua 15:55",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "มาออน คารเมล และศิฟ และยุททาห์",
+  "tokens": [
+    {
+      "surface": "מעון",
+      "gloss": "มาออน"
+    },
+    {
+      "surface": "כרמל",
+      "gloss": "คารเมล"
+    },
+    {
+      "surface": "וזיף",
+      "gloss": "และศิฟ"
+    },
+    {
+      "surface": "ויוטה",
+      "gloss": "และยุททาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:19.641856773Z",
+  "model": "glm-5.3"
+}

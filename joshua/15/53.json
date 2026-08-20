@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "และยานุม และเบธ-ทัปปูอาค และอัฟเคฮาห์",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "และยานุม"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "และเบธ"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "ทัปปูอาค"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "และอัฟเคฮาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:19.641377845Z",
+  "model": "glm-5.3"
+}

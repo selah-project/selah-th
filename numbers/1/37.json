@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 1:37",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "ผู้ถูกนับของเผ่าบิญยามิน สามหมื่นห้าพันสี่ร้อย",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ผู้ถูกนับของ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "เผ่า"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "บิญยามิน"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ห้า"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "และสามสิบ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "และสี่"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    }
+  ],
+  "timestamp": "2026-08-20T07:32:26.418861966Z",
+  "model": "glm-5.3"
+}

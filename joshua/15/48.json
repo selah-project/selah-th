@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "และในภูเขา ชามีร์ และยัททีร์ และโชโคห์",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "และในภูเขา"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "ชามีร์"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "และยัททีร์"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "และโชโคห์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:27.685483102Z",
+  "model": "glm-5.3"
+}

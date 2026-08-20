@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และบัดนี้ ถึงพวกท่าน โอ เหล่าปุโรหิต ⟨is⟩ คำบัญชานี้",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "และบัดนี้"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "ถึงพวกท่าน"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "คำบัญชา ⟨the⟩"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "นี้"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "เหล่าปุโรหิต"
+    }
+  ],
+  "timestamp": "2026-08-20T11:12:34.074458799Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 16:1",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 16,
+  "translation": "และพระดำรัสของยาห์เวห์มาถึงข้าพเจ้าว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็น"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "พระดำรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ถึงข้าพเจ้า"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T09:49:03.063389198Z",
+  "model": "glm-5.3"
+}

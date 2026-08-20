@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 20:2",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "และตกลง พระวจนะของยาห์เวห์มาถึงข้าพเจ้า กล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และตกลง"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "พระวจนะ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "มาถึงข้าพเจ้า"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T10:25:42.964964612Z",
+  "model": "glm-5.3"
+}

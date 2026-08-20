@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ผู้ที่ทำงานนั้นได้กำไรอันใด ในสิ่งที่เขาเหนื่อยยากอยู่?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "อันใด"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "กำไร"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "ผู้ที่ทำงาน"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ในสิ่งที่"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "เขา"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "เหนื่อยยาก"
+    }
+  ],
+  "timestamp": "2026-08-20T12:58:16.627941265Z",
+  "model": "glm-5.3"
+}

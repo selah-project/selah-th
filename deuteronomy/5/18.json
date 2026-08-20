@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และเจ้าจะไม่ล่วงประเวณี",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "เจ้าจะล่วงประเวณี"
+    }
+  ],
+  "timestamp": "2026-08-20T07:53:21.003917038Z",
+  "model": "glm-5.3"
+}

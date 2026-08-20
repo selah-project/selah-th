@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "และยิซเรเอล และโยคเดอัม และซาโนอาค",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "และยิซเรเอล"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "และโยคเดอัม"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "และซาโนอาค"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:19.641988931Z",
+  "model": "glm-5.3"
+}

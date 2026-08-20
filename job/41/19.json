@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 41:19",
+  "book": "job",
+  "lang": "th",
+  "chapter": 41,
+  "translation": "เขาถือเหล็กเป็นฟาง ทองแดงเป็นไม้ผุ",
+  "tokens": [
+    {
+      "surface": "יחשב",
+      "gloss": "ถือว่า"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "เป็นฟาง"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "เหล็ก"
+    },
+    {
+      "surface": "לעץ",
+      "gloss": "เป็นไม้"
+    },
+    {
+      "surface": "רקבון",
+      "gloss": "ผุ"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "ทองแดง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:48:31.234256941Z",
+  "model": "glm-5.3"
+}

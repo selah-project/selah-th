@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 14:16",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "⟨את⟩ นกฮูกเล็ก และ ⟨את⟩ นกฮูกใหญ่ และนกทีเคียง",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "นกฮูกเล็ก"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "นกฮูกเล็ก"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "นกฮูกใหญ่"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "นกฮูกใหญ่"
+    },
+    {
+      "surface": "והתנשמת",
+      "gloss": "และนกทีเคียง"
+    }
+  ],
+  "timestamp": "2026-08-20T14:29:21.916732171Z",
+  "model": "glm-5.3"
+}

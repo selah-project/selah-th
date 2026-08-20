@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "รูปลักษณ์ของสัตว์ใด ๆ ที่อยู่บนแผ่นดิน รูปลักษณ์ของนกมีปีกใด ๆ ที่บินอยู่ในฟ้าสวรรค์",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "รูปลักษณ์"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "สัตว์"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "บนแผ่นดิน"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "รูปลักษณ์"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "นก"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "มีปีก"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "บิน"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ในฟ้าสวรรค์"
+    }
+  ],
+  "timestamp": "2026-08-20T07:54:25.639590673Z",
+  "model": "glm-5.3"
+}

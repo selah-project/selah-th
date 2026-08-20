@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "เพื่อบิดเบือนคดีของบุรุษเบื้องพระพักตร์พระผู้สูงสุด",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "เพื่อบิดเบือน"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "คดี"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "บุรุษ"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "เบื้องหน้า"
+    },
+    {
+      "surface": "פני",
+      "gloss": "พระพักตร์"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "พระผู้สูงสุด"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:21.082323315Z",
+  "model": "glm-5.3"
+}

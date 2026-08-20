@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 31:32",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "และ ⟨it was⟩ เครื่องที่ยึดได้ คือส่วนเหลือของของริบที่กองทัพได้ปล้น คือแกะหกแสนเจ็ดหมื่นห้าพัน",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และ ⟨it was⟩"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "เครื่องที่ยึดได้"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ส่วนเหลือ"
+    },
+    {
+      "surface": "הבז",
+      "gloss": "ของริบ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "ได้ปล้น"
+    },
+    {
+      "surface": "עם",
+      "gloss": "กองทัพ"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "แห่งกองทัพ"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "แกะ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "หก"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "และเจ็ดสิบ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "וחמשת",
+      "gloss": "และห้า"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "พัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:48:32.161758798Z",
+  "model": "glm-5.3"
+}

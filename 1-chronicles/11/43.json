@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "ฮานันบุตรชายของมาอาคาห์ และโยชาฟัตชาวมิทนี",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "ฮานัน"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรชาย"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "มาอาคาห์"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "และโยชาฟัต"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "ชาวมิทนี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:43:22.475979608Z",
+  "model": "glm-5.3"
+}

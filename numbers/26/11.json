@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "และบุตรชายของโคราห์ไม่ได้ตาย",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรชายของ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "โคราห์"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ตาย"
+    }
+  ],
+  "timestamp": "2026-08-20T07:46:47.058391325Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 23:23",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "บุตรชายของมูชี: มาห์ลี และเอเดร์ และเยริโมท สามคน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "มูชี"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "มาห์ลี"
+    },
+    {
+      "surface": "ועדר",
+      "gloss": "และเอเดร์"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "และเยริโมท"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "สามคน"
+    }
+  ],
+  "timestamp": "2026-08-20T15:00:30.207418867Z",
+  "model": "glm-5.3"
+}

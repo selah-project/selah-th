@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "และเอโลฮิมตรัส ⟨את⟩ ถ้อยคำทั้งปวงเหล่านี้ทั้งหมดว่า",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "เอโลฮิม"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ถ้อยคำทั้งปวง"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งปวง"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ถ้อยคำ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "เหล่านี้"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:08:18.266696272Z",
+  "model": "glm-5.3"
+}

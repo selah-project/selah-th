@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 11:38",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "โยเอล น้องชาย นาทัน มิบชาร บุตร הากรี",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "โยเอล"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "น้องชาย"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "นาทัน"
+    },
+    {
+      "surface": "מבחר",
+      "gloss": "มิบชาร"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "הגרי",
+      "gloss": "ฮากรี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:43:27.683118577Z",
+  "model": "glm-5.3"
+}

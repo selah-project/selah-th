@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "nehemiah 7:57",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรของעבדของเชโลโมห์ บุตรของโสทัย บุตรของโซเฟเรท บุตรของเปรูดา",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "עבดของ"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "เชโลโมห์"
+    },
+    {
+      "surface": "บני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "סוטי",
+      "gloss": "โสทัย"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "סופרת",
+      "gloss": "โซเฟเรท"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "פרידא",
+      "gloss": "เปรูดา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:31:05.038424521Z",
+  "model": "glm-5.3"
+}

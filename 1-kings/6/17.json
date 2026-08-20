@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 6:17",
+  "book": "1-kings",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "และสี่สิบศ cubit ⟨was⟩ ยาว ⟨เป็น⟩ พระนิเวศ คือหอสวดอันอยู่เบื้องหน้านั้น",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "และสี่สิศ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ศ cubit"
+    },
+    {
+      "surface": "היה",
+      "gloss": "เป็น"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "พระนิเวศ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "คือ"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "หอสวด"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "เบื้องหน้า"
+    }
+  ],
+  "timestamp": "2026-08-20T08:56:23.081857699Z",
+  "model": "glm-5.3"
+}

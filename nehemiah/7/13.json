@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 7:13",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรของซัตตูอา แปดร้อยสี่สิบห้า",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "ซัตตูอา"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "แปด"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "สี่สิบ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "และห้า"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:16.544037754Z",
+  "model": "glm-5.3"
+}

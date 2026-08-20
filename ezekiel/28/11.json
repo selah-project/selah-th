@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 28:11",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "และพระดำรัสของยาห์เวห์มาถึง ⟨ฉัน⟩ ว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็นอันมา"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "พระดำรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ถึงฉัน"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T10:30:30.635270645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "แห่งตระกูลของกาด เกอูเอลบุตรของมาคี",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "แห่งตระกูล"
+    },
+    {
+      "surface": "גד",
+      "gloss": "กาด"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "เกอูเอล"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "มาคี"
+    }
+  ],
+  "timestamp": "2026-08-20T14:26:42.990521808Z",
+  "model": "glm-5.3"
+}

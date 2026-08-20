@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 37:5",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 37,
+  "translation": "และเขานำ ⟨את⟩ คานเข้าไปในหูเหล็กที่อยู่บนข้างหีบ เพื่อหาม ⟨את⟩ หีบ",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "และเขานำเข้าไป"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "คาน"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "คาน"
+    },
+    {
+      "surface": "בטבעת",
+      "gloss": "ในหูเหล็ก"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "צלעת",
+      "gloss": "ข้าง"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "หีบ"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "เพื่อหาม"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "หีบ"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "หีบ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:18:12.179116119Z",
+  "model": "glm-5.3"
+}

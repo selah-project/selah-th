@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 128,
+  "translation": "ดูเถิด เพราะฉะนี้ ผู้ชายจะได้รับพร ผู้ยำเกรงยาห์เวห์",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ดูเถิด"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ฉะนี้"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "จะได้รับพร"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ผู้ชาย"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "ผู้ยำเกรง"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T12:01:58.512637796Z",
+  "model": "glm-5.3"
+}

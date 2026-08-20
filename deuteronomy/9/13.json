@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "และยาห์เวห์ตรัสกับฉันว่า ฉันได้เห็น ⟨את⟩ ประชาชนคนนี้ และดูสิ ประชาชนผู้แข็งคอคือ ⟨เขา⟩",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "กับฉัน"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ฉันได้เห็น"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ประชาชนคนนี้"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ประชาชน"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "คนนี้"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "และดูสิ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ประชาชน"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "แข็ง"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "คอ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "คือ ⟨เขา⟩"
+    }
+  ],
+  "timestamp": "2026-08-20T07:55:48.770441421Z",
+  "model": "glm-5.3"
+}

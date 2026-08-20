@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และเมโชบับ และยัมเลค และโยชาห์บุตรอมัสยาห์",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "และเมโชบับ"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "และยัมเลค"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "และโยชาห์"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "อมัสยาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:39:28.647432451Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "และดาวีดขึ้นไปตามถ้อยคำของกาด ซึ่งเขากล่าวไว้ในพระนามยาห์เวห์",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "และขึ้นไป"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ดาวีด"
+    },
+    {
+      "surface": "บדבר",
+      "gloss": "ตามถ้อยคำ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "ของกาด"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "กล่าวไว้"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "ในพระนาม"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:50:39.214568764Z",
+  "model": "glm-5.3"
+}

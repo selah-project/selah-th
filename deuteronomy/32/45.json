@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "deuteronomy 32:45",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 32,
+  "translation": "และโมเชสิ้นสุดการพูด ⟨את⟩ ถ้อยคำทั้งหมดนี้ ถึงอิสราเอลทั้งหมด",
+  "tokens": [
+    {
+      "surface": "ויכל",
+      "gloss": "และสิ้นสุด"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "การพูด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ถ้อยคำทั้งหมดนี้"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ถ้อยคำ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "นี้"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "อิสราเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T08:05:30.919530850Z",
+  "model": "glm-5.3"
+}

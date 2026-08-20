@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "มาหะไรยี ชาวเนโทฟัต เฮเลดบุตรของบาอานาห์ ชาวเนโทฟัต",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "มาหะไรยี"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "ชาวเนโทฟัต"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "เฮเลด"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "บาอานาห์"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "ชาวเนโทฟัต"
+    }
+  ],
+  "timestamp": "2026-08-20T13:44:44.798996532Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "ใจของสามีเธอไว้วางใจในตัวนาง และเขาไม่ขาดสิ่งมีค่า",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "ไว้วางใจ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ในตัวนาง"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ใจ"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "ของสามีเธอ"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "และสิ่งมีค่า"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ขาด"
+    }
+  ],
+  "timestamp": "2026-08-20T12:25:51.770906648Z",
+  "model": "glm-5.3"
+}

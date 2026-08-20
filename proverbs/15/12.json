@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 15:12",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "คนหยิ่งผยองไม่รักผู้ที่ตักเตือนตน เขาจะไม่ไปหาบรรดาคนมีปัญญา",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יאהב",
+      "gloss": "รัก"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "คนหยิ่งผยอง"
+    },
+    {
+      "surface": "הוכח",
+      "gloss": "ผู้ที่ตักเตือน"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ตน"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ไปหา"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "บรรดาคนมีปัญญา"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "จะไป"
+    }
+  ],
+  "timestamp": "2026-08-20T12:15:55.892969223Z",
+  "model": "glm-5.3"
+}

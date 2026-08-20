@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 6:8",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "เพราะอะไรที่ฉลาดมีเหลือกว่าคนโง่ อะไรที่คนจนผู้รู้ ⟨จะได้⟶ เดินอยู่ต่อหน้าผู้มีชีวิต",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "อะไร"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "ที่เหลือ-ยิ่งกว่า"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "ที่ฉลาด"
+    },
+    {
+      "surface": "מן",
+      "gloss": "กว่า"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "คนโง่"
+    },
+    {
+      "surface": "מה",
+      "gloss": "อะไร"
+    },
+    {
+      "surface": "לעני",
+      "gloss": "ที่คนจน"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "ผู้รู้"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "จะเดิน"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "ต่อหน้า"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "ผู้มีชีวิต"
+    }
+  ],
+  "timestamp": "2026-08-20T13:01:16.764793105Z",
+  "model": "glm-5.3"
+}

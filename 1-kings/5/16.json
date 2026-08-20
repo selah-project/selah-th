@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และชะลอโมห์ส่ง ⟨สาร⟩ ไปยังฮีรามว่า",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "และ...ส่ง"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ชะลอโมห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ไปยัง"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "ฮีราม"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T08:57:19.011266235Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "และเจ้าจะวางบนโต๊ะ ⟨the⟩ ขนมปังแห่งพระพักตร์เงินหน้ายาห์เวห์ตลอดไป",
+  "tokens": [
+    {
+      "surface": "วנתת",
+      "gloss": "และเจ้าจะวาง"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "โต๊ะ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ขนมปัง"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "พระพักตร์"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "เงินหน้า"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "ตลอดไป"
+    }
+  ],
+  "timestamp": "2026-08-20T07:12:41.294268882Z",
+  "model": "glm-5.3"
+}

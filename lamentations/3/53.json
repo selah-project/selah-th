@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "lamentations 3:53",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "เขาตัดขาดชีวิตของฉันในหลุม และขว้างก้อนหินมาที่ฉัน",
+  "tokens": [
+    {
+      "surface": "צמתו",
+      "gloss": "เขาตัดขาด"
+    },
+    {
+      "surface": "בבור",
+      "gloss": "ในหลุม"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ชีวิตของฉัน"
+    },
+    {
+      "surface": "וידו",
+      "gloss": "และขว้าง"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ก้อนหิน"
+    },
+    {
+      "surface": "בי",
+      "gloss": "มาที่ฉัน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:51.044594669Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 9:22",
+  "book": "judges",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "และอาบีเมเลคปกครองเหนือยิสราเอลสามปี",
+  "tokens": [
+    {
+      "surface": "וישר",
+      "gloss": "และปกครองเป็นเจ้า"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "อาบีเมเลค"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ยิสราเอล"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ปี"
+    }
+  ],
+  "timestamp": "2026-08-20T08:21:09.148279371Z",
+  "model": "glm-5.3"
+}

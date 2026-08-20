@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "ผู้รักเงินจะไม่อิ่มจากเงิน และผู้ใดรักทรัพย์สมบัติ ก็ไม่มีรายได้ ⟨เป็น⟩ — สิ่งนี้ก็เป็นความไร้ความหมาย",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "ผู้รัก"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "เงิน"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "จะอิ่ม"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "เงิน"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "และผู้ใด"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "รัก"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "ทรัพย์สมบัติ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "มีรายได้"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ก็"
+    },
+    {
+      "surface": "זה",
+      "gloss": "สิ่งนี้"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "ความไร้ความหมาย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:00:58.076787476Z",
+  "model": "glm-5.3"
+}

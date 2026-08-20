@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 25:23",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "ลมเหนือทำให้เกิดฝน และใบหน้าโกรธเคือง ⟨ซ่อน⟩ ลิ้นที่ใส่ความ",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "ลม"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "תחולל",
+      "gloss": "ทำให้เกิด"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "ฝน"
+    },
+    {
+      "surface": "ופנים",
+      "gloss": "และใบหน้า"
+    },
+    {
+      "surface": "נזעמים",
+      "gloss": "โกรธเคือง"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ลิ้น"
+    },
+    {
+      "surface": "סתר",
+      "gloss": "ที่ซ่อนเร้น"
+    }
+  ],
+  "timestamp": "2026-08-20T12:21:44.649679232Z",
+  "model": "glm-5.3"
+}

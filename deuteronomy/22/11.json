@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "เจ้าจะสวมผ้าที่ทอผสมกันหามิได้ — ขนแกะและป่านพร้อมกัน",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "หามิได้"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "เจ้าจะสวม"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "ผ้าที่ทอผสมกัน"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ขนแกะ"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "และป่าน"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "พร้อมกัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:59:55.265079516Z",
+  "model": "glm-5.3"
+}

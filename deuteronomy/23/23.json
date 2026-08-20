@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "และเมื่อเจ้างดเว้นจากการถวายสัตย์ จะไม่มีบาปในตัวเจ้า",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "และเมื่อ"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "เจ้างดเว้น"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "จากการถวายสัตย์"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "จะเป็น"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ในตัวเจ้า"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "บาป"
+    }
+  ],
+  "timestamp": "2026-08-20T08:01:41.565487359Z",
+  "model": "glm-5.3"
+}

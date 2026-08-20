@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 89,
+  "translation": "สาธุการแด่ยาห์เวห์ถึงนิรันดร์ อาเมน และอาเมน",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "สาธุการแด่"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ถึงนิรันดร์"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "อาเมน"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "และอาเมน"
+    }
+  ],
+  "timestamp": "2026-08-20T11:46:41.755223327Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 2:48",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "ภรรยาในของคาเลบ คือมาอาคาห์ ให้กำเนิดเชเบร์ และ⟨את⟩ ทีร์ฮานาห์",
+  "tokens": [
+    {
+      "surface": "פלגש",
+      "gloss": "ภรรยาใน"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "ของคาเลบ"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "มาอาคาห์"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "เชเบรร์"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "ทีร์ฮานาห์"
+    },
+    {
+      "surface": "תרחנה",
+      "gloss": "ทีร์ฮานาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:37:17.468935962Z",
+  "model": "glm-5.3"
+}

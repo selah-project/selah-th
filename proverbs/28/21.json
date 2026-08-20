@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "การเหลียวดูหน้าไม่ดี และเพราะเพียงแผ่นขนมปังแผ่นเดียว มนุษย์ก็ละเมิด",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "การเหลียวดู"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "หน้า"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ดี"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "และเพราะ"
+    },
+    {
+      "surface": "פת",
+      "gloss": "แผ่นเดียว"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "ขนมปัง"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "ละเมิด"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "มนุษย์"
+    }
+  ],
+  "timestamp": "2026-08-20T12:23:20.334052959Z",
+  "model": "glm-5.3"
+}

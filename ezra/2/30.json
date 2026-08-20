@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรของมักบิช หนึ่งร้อยห้าสิบหก",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "מגביש",
+      "gloss": "มักบิช"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "หนึ่งร้อย"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ห้าสิบ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "หก"
+    }
+  ],
+  "timestamp": "2026-08-20T13:19:29.367291994Z",
+  "model": "glm-5.3"
+}

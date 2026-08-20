@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "lamentations 3:37",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ใครเล่าพูดแล้ว⟨มัน⟩ก็เกิดขึ้น เมื่ออาโดนายมิได้ทรงบัญชา",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "ใคร"
+    },
+    {
+      "surface": "זה",
+      "gloss": "ผู้นี้"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "พูด"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "และมันก็เกิดขึ้น"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "อาโดนาย"
+    },
+    {
+      "surface": "לא",
+      "gloss": "มิได้"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ทรงบัญชา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:57.085333737Z",
+  "model": "glm-5.3"
+}

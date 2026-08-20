@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "psalms 66:18",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 66,
+  "translation": "ความอธรรม — ถ้าฉันเห็นชอบในใจของฉัน อาโดนายจะไม่ทรงฟัง",
+  "tokens": [
+    {
+      "surface": "און",
+      "gloss": "ความอธรรม"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ถ้า"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ฉันเห็น"
+    },
+    {
+      "surface": "בלבי",
+      "gloss": "ในใจของฉัน"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "จะทรงฟัง"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "อาโดนาย"
+    }
+  ],
+  "timestamp": "2026-08-20T11:34:31.767697668Z",
+  "model": "glm-5.3"
+}

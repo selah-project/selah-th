@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "⟨את⟩ อีกาทุกตัวตามชนิดของมัน",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "อีกาทุกตัว"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "อีกา"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "ตามชนิดของมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:23:22.626069250Z",
+  "model": "glm-5.3"
+}

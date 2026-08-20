@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "ในปีที่สี่ บ้านของยาห์เวห์ถูกวางรากฐาน ในเดือนซิฟ",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "ในปี"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "ที่สี่"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "วางรากฐาน"
+    },
+    {
+      "surface": "בית",
+      "gloss": "บ้าน"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "ในเดือน"
+    },
+    {
+      "surface": "זו",
+      "gloss": "ซิฟ"
+    }
+  ],
+  "timestamp": "2026-08-20T08:56:03.477937275Z",
+  "model": "glm-5.3"
+}

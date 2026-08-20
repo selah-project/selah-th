@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และ⟨את⟩ นกดาอาห์ และ⟨את⟩ นกอายาห์ ตามชนิดของมัน",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "นกดาอาห์"
+    },
+    {
+      "surface": "הדאה",
+      "gloss": "นกดาอาห์"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "นกอายาห์"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "นกอายาห์"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ตามชนิดของมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:23:22.625954897Z",
+  "model": "glm-5.3"
+}

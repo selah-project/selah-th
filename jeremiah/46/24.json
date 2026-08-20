@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 46:24",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 46,
+  "translation": "บุตรีอียิปต์ถูกทำให้ละอาย เธอถูกมอบไว้ในมือของชาวเหนือ",
+  "tokens": [
+    {
+      "surface": "הבישה",
+      "gloss": "ถูกทำให้ละอาย"
+    },
+    {
+      "surface": "בת",
+      "gloss": "บุตรี"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "อียิปต์"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "ถูกมอบไว้"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ในมือ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "ของชาว"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "เหนือ"
+    }
+  ],
+  "timestamp": "2026-08-20T10:06:28.416703087Z",
+  "model": "glm-5.3"
+}

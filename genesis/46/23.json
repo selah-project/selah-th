@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 46,
+  "translation": "และบุตรชายของดาน คือ ฮุชชิม",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรชายของ"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ดาน"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "ฮุชชิม"
+    }
+  ],
+  "timestamp": "2026-08-20T06:58:42.555863860Z",
+  "model": "glm-5.3"
+}

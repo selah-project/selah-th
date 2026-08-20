@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 34:1",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 34,
+  "translation": "และพระดำรัสของยาห์เวห์มาถึงข้าพเจ้ากล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็นไป"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "พระดำรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ถึงข้าพเจ้า"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T10:34:15.018491061Z",
+  "model": "glm-5.3"
+}

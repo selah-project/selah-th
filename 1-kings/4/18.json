@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 4:18",
+  "book": "1-kings",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "ชิมอี บุตร เอลา อยู่ในดินแดนเบนยามิน",
+  "tokens": [
+    {
+      "surface": "שמעי",
+      "gloss": "ชิมอี"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "אלא",
+      "gloss": "เอลา"
+    },
+    {
+      "surface": "בבנימן",
+      "gloss": "อยู่ในเบนยามิน"
+    }
+  ],
+  "timestamp": "2026-08-20T08:56:10.090752664Z",
+  "model": "glm-5.3"
+}

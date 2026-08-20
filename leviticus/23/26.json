@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 23:26",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "และยาห์เวห์ตรัสแก่โมเชห์ว่า",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และทรงตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "แก่"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:31:38.047458133Z",
+  "model": "glm-5.3"
+}

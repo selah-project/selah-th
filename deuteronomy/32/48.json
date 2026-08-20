@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 32:48",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 32,
+  "translation": "และยาห์เวห์ตรัสแก่โมเช ในวันนั้นเอง เพื่อกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "แก่"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "בעצם",
+      "gloss": "ใน...เอง"
+    },
+    {
+      "surface": "היום",
+      "gloss": "วันนั้น"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "นี้"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "เพื่อกล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T08:05:30.920176725Z",
+  "model": "glm-5.3"
+}

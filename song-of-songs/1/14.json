@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "song-of-songs 1:14",
+  "book": "song-of-songs",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "พวงดอกฮีนนาของดอดิ⟨คือ⟩ของฉัน ในไร่องุ่นแห่งเอน-เกดิ",
+  "tokens": [
+    {
+      "surface": "אשכל",
+      "gloss": "พวง"
+    },
+    {
+      "surface": "הכפר",
+      "gloss": "ดอกฮีนนา"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ดอดิของฉัน"
+    },
+    {
+      "surface": "לי",
+      "gloss": "แก่ฉัน"
+    },
+    {
+      "surface": "בכרמי",
+      "gloss": "ในไร่องุ่น"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ตาน้ำแห่ง"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "เกดิ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:48:48.654482048Z",
+  "model": "glm-5.3"
+}

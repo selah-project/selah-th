@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 9:19",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "และเขาฉวย ⟨ทาง⟩ ขวาแต่หิว และกิน ⟨ทาง⟩ ซ้ายแต่ไม่อิ่ม ต่างคนกินเนื้อแขนของตนเอง",
+  "tokens": [
+    {
+      "surface": "ויגזר",
+      "gloss": "และฉวย"
+    },
+    {
+      "surface": "על",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ขวา"
+    },
+    {
+      "surface": "ורעב",
+      "gloss": "แต่หิว"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "และกิน"
+    },
+    {
+      "surface": "על",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "שמאול",
+      "gloss": "ซ้าย"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "แต่ไม่"
+    },
+    {
+      "surface": "שבעו",
+      "gloss": "อิ่ม"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ต่างคน"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "เนื้อ"
+    },
+    {
+      "surface": "זרעו",
+      "gloss": "แขนของตน"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "กิน"
+    }
+  ],
+  "timestamp": "2026-08-20T09:22:31.256278517Z",
+  "model": "glm-5.3"
+}

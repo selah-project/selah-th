@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 2:12",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และทองคำของแผ่นดินนั้น ดี ที่นั่น ⟨is⟩ הבדolah และאבן השהם",
+  "tokens": [
+    {
+      "surface": "וזהב",
+      "gloss": "และทองคำ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "ของแผ่นดิน"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "นั้น"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ดี"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ที่นั่น"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "הבדolah (ยางไม่หอม)"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "และאบן (หิน)"
+    },
+    {
+      "surface": "השהם",
+      "gloss": "השהם"
+    }
+  ],
+  "timestamp": "2026-08-20T06:39:51.025017200Z",
+  "model": "glm-5.3"
+}

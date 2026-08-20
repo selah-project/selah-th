@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "lamentations 3:23",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ใหม่อยู่ทุกยามเช้า มากล้นคือความซื่อสัตย์ของพระองค์",
+  "tokens": [
+    {
+      "surface": "חדשים",
+      "gloss": "ใหม่"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "ทุกยามเช้า"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "มากล้น"
+    },
+    {
+      "surface": "אמונתך",
+      "gloss": "ความซื่อสัตย์ของพระองค์"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:04.244532433Z",
+  "model": "glm-5.3"
+}

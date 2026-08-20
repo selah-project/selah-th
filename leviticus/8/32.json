@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และสิ่งที่เหลือในเนื้อและในขนมปัง ในไฟพวกเจ้าจงเผา",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "และสิ่งที่เหลือ"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "ในเนื้อ"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "และในขนมปัง"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ในไฟ"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "พวกเจ้าจงเผา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:24:04.618304063Z",
+  "model": "glm-5.3"
+}

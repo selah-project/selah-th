@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 16,
+  "translation": "และหนึ่งโอเมร ⟨is⟩ส่วนสิบของหนึ่งเอฟาห์",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "และหนึ่งโอเมร"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "ส่วนสิบ"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "หนึ่งเอฟาห์"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "มันคือ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:08:26.693487144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรหลานของเชฟัตยาห์ สามร้อยเจ็ดสิบสอง",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรหลานของ"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "เชฟัตยาห์"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "เจ็ดสิบ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "และสอง"
+    }
+  ],
+  "timestamp": "2026-08-20T13:29:35.480163149Z",
+  "model": "glm-5.3"
+}

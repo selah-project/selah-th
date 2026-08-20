@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "ถ้อยคำของโคเฮเลท บุตรของดาวิด กษัตริย์ในเยรูชาลายิม",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ถ้อยคำของ"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "โคเฮเลท"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ดาวิด"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "กษัตริย์"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ในเยรูชาลายิม"
+    }
+  ],
+  "timestamp": "2026-08-20T12:58:32.050909491Z",
+  "model": "glm-5.3"
+}

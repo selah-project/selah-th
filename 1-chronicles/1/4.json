@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 1:4",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "โนอาค เชม ฮาม และยาเฟท",
+  "tokens": [
+    {
+      "surface": "נח",
+      "gloss": "โนอาค"
+    },
+    {
+      "surface": "שם",
+      "gloss": "เชม"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ฮาม"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "และยาเฟท"
+    }
+  ],
+  "timestamp": "2026-08-20T13:36:24.870306216Z",
+  "model": "glm-5.3"
+}

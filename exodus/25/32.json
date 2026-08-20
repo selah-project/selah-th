@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "exodus 25:32",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "และหกก้านออกจากข้างของมัน สามก้านของmenorahจากข้างหนึ่งของมัน และสามก้านของmenorahจากข้างที่สองของมัน",
+  "tokens": [
+    {
+      "surface": "וששה",
+      "gloss": "และหก"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "ก้าน"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "ออก"
+    },
+    {
+      "surface": "מצדיה",
+      "gloss": "จากข้างของมัน"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "קני",
+      "gloss": "ก้านของ"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "menorah"
+    },
+    {
+      "surface": "มצדה",
+      "gloss": "จากข้างของมัน"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "และสาม"
+    },
+    {
+      "surface": "קני",
+      "gloss": "ก้านของ"
+    },
+    {
+      "surface": "מנרה",
+      "gloss": "menorah"
+    },
+    {
+      "surface": "מצדה",
+      "gloss": "จากข้างของมัน"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ที่สอง"
+    }
+  ],
+  "timestamp": "2026-08-20T07:12:41.294628441Z",
+  "model": "glm-5.3"
+}

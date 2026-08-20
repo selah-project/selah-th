@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และเอสเทรร์กล่าวให้ตอบกลับไปยังมอรเดคายว่า",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "และกล่าว"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "เอสเทรร์"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "ให้ตอบกลับ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ไปยัง"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "มอรเดคาย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:03:56.795081610Z",
+  "model": "glm-5.3"
+}

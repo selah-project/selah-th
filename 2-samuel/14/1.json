@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และโยอาฟบุตรของเสรุยาห์รู้ว่าใจของกษัตริย์ทอดอยู่บนอับชาโลม",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "และรู้"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "โยอาฟ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "เสรุยาห์"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ว่า"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ใจ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ของกษัตริย์"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "อับชาโลม"
+    }
+  ],
+  "timestamp": "2026-08-20T08:46:56.422238069Z",
+  "model": "glm-5.3"
+}

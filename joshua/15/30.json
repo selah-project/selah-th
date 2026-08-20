@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "และเอลโทลัด และเคซิล และฮอร์มาห์",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "และเอลโทลัด"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "และเคซิล"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "และฮอร์มาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:31.994167904Z",
+  "model": "glm-5.3"
+}

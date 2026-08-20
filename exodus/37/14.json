@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 37:14",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 37,
+  "translation": "ติดอยู่ชิดกับ⟨the⟩ขอบ คือ⟨they were⟩วงแหวนเหล่านั้น เป็นที่สำหรับคานไว้ยก⟨את⟩โต๊ะ",
+  "tokens": [
+    {
+      "surface": "לעמת",
+      "gloss": "ติดชิดกับ"
+    },
+    {
+      "surface": "המסגרת",
+      "gloss": "ขอบ"
+    },
+    {
+      "surface": "היו",
+      "gloss": "เป็น"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "วงแหวน"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "ที่สำหรับ"
+    },
+    {
+      "surface": "לבדים",
+      "gloss": "คาน"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "เพื่อยก"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "โต๊ะ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "โต๊ะ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:18:45.013391139Z",
+  "model": "glm-5.3"
+}

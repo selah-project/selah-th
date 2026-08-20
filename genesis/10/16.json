@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 10:16",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "และ⟨את⟩ เยบูสี และ⟨את⟩ ฮะอะโมรี และ⟨את⟩ กิรกาชี",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "เยบูสี"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "เยบูสี"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "ฮะอะโมรี"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "ฮะอะโมรี"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "กิรกาชี"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "กิรกาชี"
+    }
+  ],
+  "timestamp": "2026-08-20T06:43:02.268785682Z",
+  "model": "glm-5.3"
+}

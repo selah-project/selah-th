@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 14:5",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "ด้วยว่าแม้แต่กวางเมียในทุ่งก็คลอดแล้วทิ้งลูกไว้ เพราะไม่มีหญ้างอกขึ้น",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ด้วยว่า"
+    },
+    {
+      "surface": "גם",
+      "gloss": "แม้แต่"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "กวางเมีย"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ในทุ่ง"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "คลอด"
+    },
+    {
+      "surface": "ועזוב",
+      "gloss": "แล้วทิ้งไว้"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "היה",
+      "gloss": "มี"
+    },
+    {
+      "surface": "דשא",
+      "gloss": "หญ้างอกขึ้น"
+    }
+  ],
+  "timestamp": "2026-08-20T09:47:56.486434549Z",
+  "model": "glm-5.3"
+}

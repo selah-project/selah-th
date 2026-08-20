@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 28:22",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "ผู้รีบเร่ง〈จะมั่งมี〉คือชายที่ตาชั่ว และเขารู้ไม่ว่าความขัดสนจะมาถึงเขา",
+  "tokens": [
+    {
+      "surface": "נבהל",
+      "gloss": "รีบเร่ง"
+    },
+    {
+      "surface": "להון",
+      "gloss": "จะมั่งมี"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ชาย"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ชั่ว"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ตา"
+    },
+    {
+      "surface": "วלא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "รู้"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ว่า"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "ความขัดสน"
+    },
+    {
+      "surface": "יבאנו",
+      "gloss": "จะมาถึงเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:23:20.334533399Z",
+  "model": "glm-5.3"
+}

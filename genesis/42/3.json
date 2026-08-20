@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 42,
+  "translation": "และพี่น้องของโยเซฟสิบคนลงไปเพื่อซื้อข้าวจากมิสรายิม",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "และลงไป"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "พี่น้องของ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "โยเซฟ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "เพื่อซื้อ"
+    },
+    {
+      "surface": "בר",
+      "gloss": "ข้าว"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "จากมิสรายิม"
+    }
+  ],
+  "timestamp": "2026-08-20T06:57:34.311420713Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 23:2",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "ผู้ถูกบุบอัณฑะและถูกตัดอวัยวะเพศ จะไม่เข้าสู่ชุมนุมของยาห์เวห์",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "จะไม่"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "เข้า"
+    },
+    {
+      "surface": "פצוע",
+      "gloss": "ผู้ถูกบุบ"
+    },
+    {
+      "surface": "דכא",
+      "gloss": "อัณฑะบุบ"
+    },
+    {
+      "surface": "וכרות",
+      "gloss": "และถูกตัด"
+    },
+    {
+      "surface": "שפכה",
+      "gloss": "อวัยวะเพศ"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "สู่ชุมนุม"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:02:12.401573320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "joshua 15:42",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "ลิบนาห์ และเอเทอร์ และอาชาน",
+  "tokens": [
+    {
+      "surface": "לבנה",
+      "gloss": "ลิบนาห์"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "และเอเทอร์"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "และอาชาน"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:08.112508548Z",
+  "model": "glm-5.3"
+}

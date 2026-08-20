@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "อ้าปากต่อต้านเรา คือปากของศัตรูทั้งปวงของเรา",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "อ้ากว้าง"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "ต่อต้านเรา"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ปากของเขา"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งปวง"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "ศัตรูของเรา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:01.090724554Z",
+  "model": "glm-5.3"
+}

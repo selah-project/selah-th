@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 48,
+  "translation": "และติดเขตแดนดาน จากเขตทางตะวันออก ถึงเขตทางทะเล อาชเฮร์ หนึ่ง",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "และติด"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "เขตแดน"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ดาน"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "จากเขต"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ทางตะวันออก"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "เขต"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ทางทะเล"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "อาชเฮร์"
+    },
+    {
+      "surface": "อาชเฮร์",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    }
+  ],
+  "timestamp": "2026-08-20T10:44:53.557200626Z",
+  "model": "glm-5.3"
+}

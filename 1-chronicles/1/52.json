@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 1:52",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "ผู้นำโอโฮลีบามาห์ ผู้นำเอลาห์ ผู้นำปีโนน",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "ผู้นำ"
+    },
+    {
+      "surface": "אהליבמה",
+      "gloss": "โอโฮลีบามาห์"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ผู้นำ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "เอลาห์"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "ผู้นำ"
+    },
+    {
+      "surface": "פינן",
+      "gloss": "ปีโนน"
+    }
+  ],
+  "timestamp": "2026-08-20T14:59:52.352449417Z",
+  "model": "glm-5.3"
+}

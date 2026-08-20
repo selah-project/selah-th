@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 40,
+  "translation": "และเขาวาง ⟨את⟩ ม่านบังประตูไว้ที่ประตูแห่งพลับพลา",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "และเขาวาง"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ม่านบังประตู"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "ม่านบัง"
+    },
+    {
+      "surface": "הפתח",
+      "gloss": "ประตู"
+    },
+    {
+      "surface": "למשכן",
+      "gloss": "แห่งพลับพลา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:19:47.449203537Z",
+  "model": "glm-5.3"
+}

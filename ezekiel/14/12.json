@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 14:12",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และถ้อยดำรัสของยาห์เวห์มาถึงเรา กล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และมันเป็นอันมาถึง"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ถ้อยดำรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ถึงเรา"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T10:22:08.712490791Z",
+  "model": "glm-5.3"
+}

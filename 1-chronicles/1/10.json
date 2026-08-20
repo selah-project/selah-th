@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 1:10",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "และคูชให้กำเนิด ⟨את⟩ นิมโรด ตัวเขาเริ่มเป็นผู้อภินัหกรรมในแผ่นดินโลก",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "และคูช"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "นิมโรด"
+    },
+    {
+      "surface": "נמרוד",
+      "gloss": "นิมโรด"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ตัวเขา"
+    },
+    {
+      "surface": "החל",
+      "gloss": "เริ่ม"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "เป็น"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "ผู้อภินัหกรรม"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ในแผ่นดินโลก"
+    }
+  ],
+  "timestamp": "2026-08-20T13:36:10.613713678Z",
+  "model": "glm-5.3"
+}

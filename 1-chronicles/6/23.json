@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 6:23",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "บุตรชายของยิทฮาร์ บุตรชายของคehath บุตรชายของเลวี บุตรชายของยิสราเอล",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ยิทฮาร์"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "คehath"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "เลวี"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ยิสราเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:41:10.512243778Z",
+  "model": "glm-5.3"
+}

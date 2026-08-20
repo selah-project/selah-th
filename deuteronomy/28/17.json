@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "สาปแช่ง⟨คือ⟩ตะกร้าของเจ้า และร่องนวดแป้งของเจ้า",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "สาปแช่ง"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "ตะกร้าของเจ้า"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "และร่องนวดแป้งของเจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T08:04:00.571124674Z",
+  "model": "glm-5.3"
+}

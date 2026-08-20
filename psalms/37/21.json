@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 37:21",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 37,
+  "translation": "คนชั่วกู้ยืมและไม่ใช้คืน ส่วนคนชอบธรรมกรุณาและให้",
+  "tokens": [
+    {
+      "surface": "לוה",
+      "gloss": "กู้ยืม"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "คนชั่ว"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "ใช้คืน"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "และคนชอบธรรม"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "กรุณา"
+    },
+    {
+      "surface": "ונותן",
+      "gloss": "และให้"
+    }
+  ],
+  "timestamp": "2026-08-20T11:26:19.235789503Z",
+  "model": "glm-5.3"
+}

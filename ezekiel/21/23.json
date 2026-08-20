@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 21:23",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "และพระดำรัสของยาห์เวห์มาถึงข้าพเจ้าว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็นขึ้น"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "พระดำรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "มาถึงข้าพเจ้า"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T10:25:48.690048238Z",
+  "model": "glm-5.3"
+}

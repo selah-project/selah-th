@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ปัญญาดีพร้อมกับมรดก และเป็นประโยชน์แก่ผู้เห็นดวงอาทิตย์",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ดี"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ปัญญา"
+    },
+    {
+      "surface": "עם",
+      "gloss": "พร้อมกับ"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "มรดก"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "และเป็นประโยชน์"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "แก่ผู้เห็น"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ดวงอาทิตย์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:00:29.947469699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 1:1",
+  "book": "song-of-songs",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "บทเพลงแห่งบทเพลงทั้งหลาย ซึ่งเป็นของชะโลโมห์",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "บทเพลง"
+    },
+    {
+      "surface": "השירים",
+      "gloss": "แห่งบทเพลงทั้งหลาย"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "ของชะโลโมห์"
+    }
+  ],
+  "timestamp": "2026-08-20T14:55:38.064917044Z",
+  "model": "glm-5.3"
+}

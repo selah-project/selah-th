@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 30,
+  "translation": "ใต้สามสิ่ง ⟨แผ่นดิน⟩ สั่นสะเทือน และใต้สี่สิ่ง ⟨มัน⟩ ไม่อาจแบกไว้ได้",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "ใต้"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "สามสิ่ง"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "สั่นสะเทือน"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "แผ่นดิน"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "และใต้"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "สี่สิ่ง"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "อาจ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "แบกไว้ได้"
+    }
+  ],
+  "timestamp": "2026-08-20T12:25:25.430220631Z",
+  "model": "glm-5.3"
+}

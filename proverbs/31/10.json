@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 31:10",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "หญิงแห่งคุณค่า ใครเล่าจะพบ? มูลค่าของนางไกลโพ้นจากไข่มุก",
+  "tokens": [
+    {
+      "surface": "אשת",
+      "gloss": "หญิงแห่ง"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "คุณค่า"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ใครเล่า"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "จะพบ"
+    },
+    {
+      "surface": "ורחק",
+      "gloss": "ไกลโพ้น"
+    },
+    {
+      "surface": "מפנינים",
+      "gloss": "จากไข่มุก"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "มูลค่าของนาง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:25:51.770761313Z",
+  "model": "glm-5.3"
+}

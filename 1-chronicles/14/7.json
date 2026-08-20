@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และเอลีชามา และเบอัลยาดา และเอลีเฟเลท",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "และเอลีชามา"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "และเบอัลยาดา"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "และเอลีเฟเลท"
+    }
+  ],
+  "timestamp": "2026-08-20T13:47:16.437012127Z",
+  "model": "glm-5.3"
+}

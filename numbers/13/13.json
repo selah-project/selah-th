@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 13:13",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "สำหรับตระกูลอาเชอร์ เสทูร์บุตรมีคาเอล",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "สำหรับตระกูล"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "อาเชอร์"
+    },
+    {
+      "surface": "סתור",
+      "gloss": "เสทูร์"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "מיכאל",
+      "gloss": "มีคาเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T14:26:44.291813841Z",
+  "model": "glm-5.3"
+}

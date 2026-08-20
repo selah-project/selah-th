@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และผู้ที่เข้าไปใน ⟨the⟩ บ้าน ตลอด ⟨the⟩ วันทั้งหลายที่ ⟨הסגיר⟩ ⟨את⟩ มันไว้ จะเป็นมลทินจนถึง ⟨the⟩ ค่ำ",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "และผู้ที่เข้าไป"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ใน"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "บ้าน"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ตลอดทั้งหมด"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "วันทั้งหลาย"
+    },
+    {
+      "surface": "הסגิר",
+      "gloss": "ปิดกั้นไว้"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "บ้าน"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "จะเป็นมลทิน"
+    },
+    {
+      "surface": "עד",
+      "gloss": "จนถึง"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "ค่ำ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:26:01.182791182Z",
+  "model": "glm-5.3"
+}

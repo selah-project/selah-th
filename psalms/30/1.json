@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 30,
+  "translation": "เพลงสรรเลง เพลงร้อง ⟨แห่ง⟩ การถวาย⟨⟨the⟩⟩พระนิเวศ แด่ดาวีด",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "เพลงสรรเลง"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "เพลงร้อง"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "การถวาย"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "⟨the⟩พระนิเวศ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "แด่ดาวีด"
+    }
+  ],
+  "timestamp": "2026-08-20T11:23:06.736819150Z",
+  "model": "glm-5.3"
+}

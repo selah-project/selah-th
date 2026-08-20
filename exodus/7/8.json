@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และยาห์เวห์ตรัสกับโมเชและกับอาฮารอนเพื่อกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "และ...ตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "และกับ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "อาฮารอน"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "เพื่อกล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:02:48.168484593Z",
+  "model": "glm-5.3"
+}

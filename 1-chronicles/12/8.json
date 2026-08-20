@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 12:8",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "และโยเอลาห์ และเซวาดยาห์ บุตรชายของเยโรฮัม จากเกโดร์",
+  "tokens": [
+    {
+      "surface": "ויועאלה",
+      "gloss": "และโยเอลาห์"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "และเซวาดยาห์"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "เยโรฮัม"
+    },
+    {
+      "surface": "מן",
+      "gloss": "จาก"
+    },
+    {
+      "surface": "הגדור",
+      "gloss": "เกโดร์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:45:25.607973806Z",
+  "model": "glm-5.3"
+}

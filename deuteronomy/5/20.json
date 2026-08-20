@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และเจ้าจะไม่ให้การเป็นพยานเท็จต่อเพื่อนบ้านของเจ้า",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "เจ้าจะตอบ (ให้การ)"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "ต่อเพื่อนบ้านของเจ้า"
+    },
+    {
+      "surface": "עד",
+      "gloss": "พยาน"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "เท็จ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:53:21.004238318Z",
+  "model": "glm-5.3"
+}

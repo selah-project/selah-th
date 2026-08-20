@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 4:11",
+  "book": "1-kings",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "เบน-อาบีนาดับ ทั้งนาฟัทโดร์ ทัปฟัทธิดาของชโลโมห์เป็นภริยาของเขา",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "אבינדב",
+      "gloss": "อาบีนาดับ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้ง"
+    },
+    {
+      "surface": "נפת",
+      "gloss": "นาฟัท"
+    },
+    {
+      "surface": "דאר",
+      "gloss": "โดร์"
+    },
+    {
+      "surface": "טפת",
+      "gloss": "ทัปฟัท"
+    },
+    {
+      "surface": "בת",
+      "gloss": "ธิดา"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "ชโลโมห์"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "เป็น"
+    },
+    {
+      "surface": "לו",
+      "gloss": "แก่เขา"
+    },
+    {
+      "surface": "לאשה",
+      "gloss": "เป็นภริยา"
+    }
+  ],
+  "timestamp": "2026-08-20T08:54:24.390114092Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 8:3",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "ข้างประตู ปากเมือง ⟨ที่⟩ทางเข้าแห่งซุ้มประตู ⟨เธอ⟩ร้องเรียก",
+  "tokens": [
+    {
+      "surface": "ליד",
+      "gloss": "ข้าง"
+    },
+    {
+      "surface": "שערים",
+      "gloss": "ประตู"
+    },
+    {
+      "surface": "לפי",
+      "gloss": "ปาก"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "เมือง"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "ทางเข้า"
+    },
+    {
+      "surface": "פתחים",
+      "gloss": "ซุ้มประตู"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "ร้องเรียก"
+    }
+  ],
+  "timestamp": "2026-08-20T12:12:25.843482680Z",
+  "model": "glm-5.3"
+}

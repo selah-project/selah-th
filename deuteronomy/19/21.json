@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 19:21",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "และตาของเจ้าอย่าได้ปรานี — ชีวิตเพื่อชีวิต ตาเพื่อตา ฟันเพื่อฟัน มือเพื่อมือ เท้าเพื่อเท้า",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "และอย่าได้"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "ปรานี"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "ตาของเจ้า"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ชีวิต"
+    },
+    {
+      "surface": "בנפש",
+      "gloss": "เพื่อชีวิต"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ตา"
+    },
+    {
+      "surface": "בעין",
+      "gloss": "เพื่อตา"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ฟัน"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "เพื่อฟัน"
+    },
+    {
+      "surface": "יד",
+      "gloss": "มือ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "เพื่อมือ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "เท้า"
+    },
+    {
+      "surface": "ברגל",
+      "gloss": "เพื่อเท้า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:59:04.535235634Z",
+  "model": "glm-5.3"
+}

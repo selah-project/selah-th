@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "ดิลอัน มิสเปห์ และโยคเทเอล",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "และดิลอัน"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "และมิสเปห์"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "และโยคเทเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:29.749692262Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 22:12",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "พู่ห้อยเจ้าจะทำไว้แก่ตัวเจ้า บนสี่มุมของเสื้อคลุมที่เจ้าคลุมกายด้วยมัน",
+  "tokens": [
+    {
+      "surface": "גדלים",
+      "gloss": "พู่ห้อย"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "เจ้าจะทำ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "แก่ตัวเจ้า"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "สี่"
+    },
+    {
+      "surface": "כנפות",
+      "gloss": "มุม"
+    },
+    {
+      "surface": "כסותך",
+      "gloss": "ของเสื้อคลุมของเจ้า"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "เจ้าคลุมกาย"
+    },
+    {
+      "surface": "בה",
+      "gloss": "ด้วยมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:59:55.265214650Z",
+  "model": "glm-5.3"
+}

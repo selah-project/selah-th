@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 118:13",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 118,
+  "translation": "ד ดันจนผลักฉันให้ล้ม แต่ยาห์เวห์ทรงช่วยฉัน",
+  "tokens": [
+    {
+      "surface": "דחה",
+      "gloss": "ดันจน"
+    },
+    {
+      "surface": "דחיתני",
+      "gloss": "ผลักฉัน"
+    },
+    {
+      "surface": "לנפל",
+      "gloss": "ให้ล้ม"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "แต่ยาห์เวห์"
+    },
+    {
+      "surface": "עזרני",
+      "gloss": "ทรงช่วยฉัน"
+    }
+  ],
+  "timestamp": "2026-08-20T11:57:18.285769530Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 11:33",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "อัซมาเวทคนบาฮารูมี เอลยาห์บาคนชาอัลโบนี",
+  "tokens": [
+    {
+      "surface": "עזמות",
+      "gloss": "อัซมาเวท"
+    },
+    {
+      "surface": "הבחרומי",
+      "gloss": "คนบาฮารูมี"
+    },
+    {
+      "surface": "אליחבא",
+      "gloss": "เอลยาห์บา"
+    },
+    {
+      "surface": "השעלבני",
+      "gloss": "คนชาอัลโบนี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:44:27.599866563Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 8:2",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "⟨เธอ⟩ยืนอยู่ ณ ยอดที่สูง ข้างทาง ณ ที่ซึ่งหลายทางบรรจบกัน",
+  "tokens": [
+    {
+      "surface": "בראש",
+      "gloss": "ณ ยอด"
+    },
+    {
+      "surface": "מרומים",
+      "gloss": "ที่สูง"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "เหนือ\/ข้าง"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ทาง"
+    },
+    {
+      "surface": "בית",
+      "gloss": "ที่ซึ่ง"
+    },
+    {
+      "surface": "נתิבות",
+      "gloss": "หลายทางบรรจบกัน"
+    },
+    {
+      "surface": "נצבה",
+      "gloss": "ยืนตั้ง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:12:25.843306575Z",
+  "model": "glm-5.3"
+}

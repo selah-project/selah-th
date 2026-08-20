@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "เพราะมีถ้อยคำมากมายที่เพิ่มพูนเฮเวล สิ่งใดเป็นส่วนเกินแก่มนุษย์",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "יש",
+      "gloss": "มี"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ถ้อยคำ"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "มากมาย"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "ที่เพิ่มพูน"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "เฮเวล"
+    },
+    {
+      "surface": "מה",
+      "gloss": "สิ่งใด"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "ส่วนเกิน"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "แก่มนุษย์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:01:59.783209759Z",
+  "model": "glm-5.3"
+}

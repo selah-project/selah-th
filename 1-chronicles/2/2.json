@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 2:2",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "ดาน โยเซฟ และบินยามิน นัฟทาลี กาด และอาเชอร์",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ดาน"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "โยเซฟ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "และบินยามิน"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "นัฟทาลี"
+    },
+    {
+      "surface": "גד",
+      "gloss": "กาด"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "และอาเชอร์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:37:50.318439081Z",
+  "model": "glm-5.3"
+}

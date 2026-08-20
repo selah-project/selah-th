@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 11:6",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และ ⟨את⟩ กระต่าย เพราะมันเคี้ยวเอื้อง แต่กีบไม่แยกกีบ มันเป็นมลทินแก่พวกเจ้า",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "กระต่าย"
+    },
+    {
+      "surface": "הארנבת",
+      "gloss": "กระต่าย"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "מעלת",
+      "gloss": "เคี้ยวเอื้อง"
+    },
+    {
+      "surface": "גרה",
+      "gloss": "เอื้อง"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "มัน"
+    },
+    {
+      "surface": "ופרסה",
+      "gloss": "แต่กีบ"
+    },
+    {
+      "surface": "ลא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "הפריסה",
+      "gloss": "แยกกีบ"
+    },
+    {
+      "surface": "טמאה",
+      "gloss": "เป็นมลทิน"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "มัน"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "แก่พวกเจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:23:32.051721516Z",
+  "model": "glm-5.3"
+}

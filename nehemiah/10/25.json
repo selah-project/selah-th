@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 10:25",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "ฮัลโลเฮช ปิลฮา โชเวก",
+  "tokens": [
+    {
+      "surface": "הלוחש",
+      "gloss": "ฮัลโลเฮช"
+    },
+    {
+      "surface": "פלחא",
+      "gloss": "ปิลฮา"
+    },
+    {
+      "surface": "שובק",
+      "gloss": "โชเวก"
+    }
+  ],
+  "timestamp": "2026-08-20T13:32:35.124452784Z",
+  "model": "glm-5.3"
+}

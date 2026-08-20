@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 12:28",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "และเยโฮยาดาอ์ ⟨เป็น⟩ผู้นำแห่งอาฮาโรน และกับเขาสามพันเจ็ดร้อย",
+  "tokens": [
+    {
+      "surface": "ויהוידע",
+      "gloss": "และเยโฮยาดาอ์"
+    },
+    {
+      "surface": "הנגיד",
+      "gloss": "ผู้นำ"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "แห่งอาฮาโรน"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "และกับเขา"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "และเจ็ด"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:46:39.646371332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 24:4",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "บนMenorah บริสุทธิ์ เขาจัดเตรียม ⟨את⟩ ตะเกียงทั้งหลาย เบื้องพระพักตร์ยาห์เวห์ เป็นนิตย์",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "המנרה",
+      "gloss": "Menorah"
+    },
+    {
+      "surface": "הטהרה",
+      "gloss": "บริสุทธิ์"
+    },
+    {
+      "surface": "יערך",
+      "gloss": "เขาจัดเตรียม"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ตะเกียงทั้งหลาย"
+    },
+    {
+      "surface": "הנרות",
+      "gloss": "ตะเกียงทั้งหลาย"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "เบื้องพระพักตร์"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "เป็นนิตย์"
+    }
+  ],
+  "timestamp": "2026-08-20T07:30:46.087991133Z",
+  "model": "glm-5.3"
+}

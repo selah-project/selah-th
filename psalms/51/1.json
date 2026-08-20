@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 51:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 51,
+  "translation": "แก่ผู้อำนวยเพลง บทมิซมอร์ ของดาวีด",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "แก่ผู้อำนวยเพลง"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "บทมิซมอร์"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ของดาวีด"
+    }
+  ],
+  "timestamp": "2026-08-20T11:31:37.795502013Z",
+  "model": "glm-5.3"
+}

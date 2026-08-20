@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 21:1",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "และพระดำรัสของยาห์เวห์มาถึงข้าพเจ้าว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็นที่"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "พระดำรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "มาถึงข้าพเจ้า"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T10:26:46.984480438Z",
+  "model": "glm-5.3"
+}

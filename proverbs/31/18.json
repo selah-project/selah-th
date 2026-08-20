@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 31:18",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "เธอลองรู้ว่าการค้าของนางดี ตะเกียงของนางจะไม่ดับในกลางคืน",
+  "tokens": [
+    {
+      "surface": "טעמה",
+      "gloss": "เธอลองรู้"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ว่า"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ดี"
+    },
+    {
+      "surface": "סחרה",
+      "gloss": "การค้าของนาง"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יכבה",
+      "gloss": "จะดับ"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "ในกลางคืน"
+    },
+    {
+      "surface": "נרה",
+      "gloss": "ตะเกียงของนาง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:25:56.976244219Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 22:14",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "⟨เขา⟩อ้าปากใส่ข้า เหมือนสิงห์ที่ฉีกเหยื่อและคำราม",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "อ้าปาก"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ใส่ข้า"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "ปากของเขา"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "สิงห์"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "ฉีกเหยื่อ"
+    },
+    {
+      "surface": "ושאג",
+      "gloss": "และคำราม"
+    }
+  ],
+  "timestamp": "2026-08-20T11:20:38.198775356Z",
+  "model": "glm-5.3"
+}

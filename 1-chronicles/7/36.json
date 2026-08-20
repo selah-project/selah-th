@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรชายของโศฟัค ซูอัค ฮารเนเฟอร์ ชูอัล เบรี และอิมราห์",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "โศฟัค"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "ซูอัค"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "และฮารเนเฟอร์"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "และชูอัล"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "และเบรี"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "และอิมราห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:42:12.499920639Z",
+  "model": "glm-5.3"
+}

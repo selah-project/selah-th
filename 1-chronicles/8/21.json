@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และอาดายาห์ และเบรายาห์ และชิมรัท บุตรชายของชิมอี",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "และอาดายาห์"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "และเบรายาห์"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "และชิมรัท"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ชิมอี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:40:57.872860653Z",
+  "model": "glm-5.3"
+}

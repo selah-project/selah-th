@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "เบเซร์ และโฮด และชัมมา และชิลชาห์ และยิทราน และเบเอราห์",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "เบเซร์"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "และโฮด"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "และชัมมา"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "และชิลชาห์"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "และยิทราน"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "และเบเอราห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:42:27.241871077Z",
+  "model": "glm-5.3"
+}

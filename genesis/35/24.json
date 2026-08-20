@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 35,
+  "translation": "บุตรชายของราเคล คือโยเซฟและเบนยามิน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชาย"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ราเคล"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "โยเซฟ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "และเบนยามิน"
+    }
+  ],
+  "timestamp": "2026-08-20T06:53:21.352603329Z",
+  "model": "glm-5.3"
+}

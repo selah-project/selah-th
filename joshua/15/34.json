@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "และซาโนอาห์ และเอน-กันนิม ทัปปัวห์ และเอนาม",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "และซาโนอาห์"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "และเอน"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "กันนิม"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "ทัปปัวห์"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "และเอนาม"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:24.678565938Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "แก่ผู้ควบคุมวง มำซโมร เพลงของดาวีด",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "แก่ผู้ควบคุมวง"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "มำซโมร"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ของดาวีด"
+    }
+  ],
+  "timestamp": "2026-08-20T11:17:48.442846051Z",
+  "model": "glm-5.3"
+}

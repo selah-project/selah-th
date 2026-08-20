@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 27:17",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 27,
+  "translation": "เหล็กลับเหล็กให้คม และคนหนึ่งลับดวงหน้าของเพื่อนของเขา",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "เหล็ก"
+    },
+    {
+      "surface": "בברזל",
+      "gloss": "เหล็ก"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ลับให้คม"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "และคนหนึ่ง"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "ลับให้คม"
+    },
+    {
+      "surface": "פני",
+      "gloss": "ดวงหน้า"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "ของเพื่อนของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:23:53.707346751Z",
+  "model": "glm-5.3"
+}

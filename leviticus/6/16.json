@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "และของถวายทั้งปวงของปุโรหิต จะเป็นทั้งหมด — ห้ามกิน",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "และทั้งปวง"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "ของถวาย"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ปุโรหิต"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "จะเป็น"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "จะถูกกิน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:21:43.603351543Z",
+  "model": "glm-5.3"
+}

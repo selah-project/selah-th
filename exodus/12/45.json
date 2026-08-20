@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "ผู้อาศัยและผู้จ้างวานจะไม่กินใน⟨สิ่งนั้น⟩",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "ผู้อาศัย"
+    },
+    {
+      "surface": "ושכיר",
+      "gloss": "และผู้จ้างวาน"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "จะกิน"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ใน⟨สิ่งนั้น⟩"
+    }
+  ],
+  "timestamp": "2026-08-20T07:06:43.112135523Z",
+  "model": "glm-5.3"
+}

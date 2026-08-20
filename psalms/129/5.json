@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 129,
+  "translation": "ให้ทั้งหมดที่เกลียดชังศีโอน ละอายและถอยหลังไป",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "ละอาย"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "และถอยหลังไป"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "ไปข้างหลัง"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "ผู้เกลียดชัง"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ศีโอน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:02:18.254325910Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 13:10",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "แห่งตระกูลของเซวูลูน กัดดีเอลบุตรของโซดี",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "แห่งตระกูลของ"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "เซวูลูน"
+    },
+    {
+      "surface": "גדיאל",
+      "gloss": "กัดดีเอล"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "סודי",
+      "gloss": "โซดี"
+    }
+  ],
+  "timestamp": "2026-08-20T07:39:26.776701734Z",
+  "model": "glm-5.3"
+}

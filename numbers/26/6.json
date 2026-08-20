@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 26:6",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "เฮสโรน — ตระกูลชาวเฮสโรนี; คาร์มี — ตระกูลชาวคาร์มี",
+  "tokens": [
+    {
+      "surface": "לחצרן",
+      "gloss": "เฮสโรน"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ตระกูล"
+    },
+    {
+      "surface": "החצרוני",
+      "gloss": "ชาวเฮสโรนี"
+    },
+    {
+      "surface": "לכרמי",
+      "gloss": "คาร์มี"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ตระกูล"
+    },
+    {
+      "surface": "הכרמי",
+      "gloss": "ชาวคาร์มี"
+    }
+  ],
+  "timestamp": "2026-08-20T07:46:17.540677360Z",
+  "model": "glm-5.3"
+}

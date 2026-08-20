@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 28:25",
+  "book": "job",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "เมื่อทรงกำหนดน้ำหนักแก่ลม และทรงตวงน้ำตามกำหนด measure",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "เมื่อทรงกำหนด"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "แก่ลม"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "น้ำหนัก"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "และน้ำ"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "ทรงตวง"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "ตามกำหนด"
+    }
+  ],
+  "timestamp": "2026-08-20T12:40:20.052976891Z",
+  "model": "glm-5.3"
+}

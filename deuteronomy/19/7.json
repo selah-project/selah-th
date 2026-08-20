@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "เหตุนั้นข้าพเจ้าจึงบัญชาท่านว่า สามเมืองท่านจะแยกไว้แก่ตนเอง",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "บน\/เหตุ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "เหตุนั้น"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ข้าพเจ้า"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "บัญชาท่าน"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "เมือง"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "ท่านจะแยกไว้"
+    },
+    {
+      "surface": "לך",
+      "gloss": "แก่ตนเอง"
+    }
+  ],
+  "timestamp": "2026-08-20T08:00:12.581417758Z",
+  "model": "glm-5.3"
+}

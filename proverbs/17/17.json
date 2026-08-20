@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 17,
+  "translation": "ในทุกเวลาเพื่อนจะรัก และพี่น้องถูกกำเนิดสำหรับความยากลำบาก",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ในทุก"
+    },
+    {
+      "surface": "עת",
+      "gloss": "เวลา"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "รัก"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "เพื่อน"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "และพี่น้อง"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "สำหรับความยากลำบาก"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "ถูกกำเนิด"
+    }
+  ],
+  "timestamp": "2026-08-20T12:17:31.321136518Z",
+  "model": "glm-5.3"
+}

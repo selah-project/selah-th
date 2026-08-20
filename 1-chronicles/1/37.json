@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "บุตรชายของเรอูเอล: นาฮัต เซราห์ ชัมมาห์ และมิซซาห์",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "เรอูเอล"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "นาฮัต"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "เซราห์"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ชัมมาห์"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "และมิซซาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:36:01.123400294Z",
+  "model": "glm-5.3"
+}

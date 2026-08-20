@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "น้ำไหลท่วมอยู่เหนือศีรษะของฉัน ฉันกล่าวว่า ฉันถูกตัดขาดแล้ว",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "ไหลท่วม"
+    },
+    {
+      "surface": "מים",
+      "gloss": "น้ำ"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ศีรษะของฉัน"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "ฉันกล่าวว่า"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "ฉันถูกตัดขาดแล้ว"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:51.044810984Z",
+  "model": "glm-5.3"
+}

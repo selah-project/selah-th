@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 1:18",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "และอาร์ปัคชาดให้กำเนิด ⟨את⟩ ชาลาห์ และชาลาห์ให้กำเนิด ⟨את⟩ เอเวอร์",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "และอาร์ปัคชาด"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ชาลาห์"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ชาลาห์"
+    },
+    {
+      "surface": "ושלח",
+      "gloss": "และชาลาห์"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เอเวอร์"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "เอเวอร์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:36:44.217893301Z",
+  "model": "glm-5.3"
+}

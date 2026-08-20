@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 3:7",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "และโนกาห์ และเนเฟก และยาฟิอา",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "และโนกาห์"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "และเนเฟก"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "และยาฟิอา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:38:56.212121752Z",
+  "model": "glm-5.3"
+}

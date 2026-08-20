@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 15:37",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "เซนัน ฮาดาชาห์ และมิกดัล-กาด",
+  "tokens": [
+    {
+      "surface": "צנן",
+      "gloss": "เซนัน"
+    },
+    {
+      "surface": "וחדשה",
+      "gloss": "และฮาดาชาห์"
+    },
+    {
+      "surface": "ומגדל",
+      "gloss": "และมิกดัล"
+    },
+    {
+      "surface": "גד",
+      "gloss": "กาด"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:29.749428696Z",
+  "model": "glm-5.3"
+}

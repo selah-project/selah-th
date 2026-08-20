@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "และอิสราเอลอาศัยอยู่ในแผ่นดินแห่งชาวเอมอรי",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "และอาศัยอยู่"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "อิสราเอล"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ในแผ่นดิน"
+    },
+    {
+      "surface": "האมרי",
+      "gloss": "ชาวเอมอรี"
+    }
+  ],
+  "timestamp": "2026-08-20T07:44:35.828753308Z",
+  "model": "glm-5.3"
+}

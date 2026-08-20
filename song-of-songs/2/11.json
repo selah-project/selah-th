@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 2:11",
+  "book": "song-of-songs",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "เพราะดูสิ ฤดูหนาวผ่านไปแล้ว ฝนก็เลื่อนผ่านไป เดินจากไปแล้ว",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ดูสิ"
+    },
+    {
+      "surface": "הסתו",
+      "gloss": "ฤดูหนาว"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "ผ่านไปแล้ว"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ฝน"
+    },
+    {
+      "surface": "חלף",
+      "gloss": "เลื่อนผ่านไป"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "เดินจากไป"
+    },
+    {
+      "surface": "לו",
+      "gloss": "แล้ว"
+    }
+  ],
+  "timestamp": "2026-08-20T12:48:38.236087617Z",
+  "model": "glm-5.3"
+}

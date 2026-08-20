@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และอาหิโย ชาชาก และเยเรโมท",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "และอาหิโย"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ชาชาก"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "และเยเรโมท"
+    }
+  ],
+  "timestamp": "2026-08-20T13:42:42.732751575Z",
+  "model": "glm-5.3"
+}

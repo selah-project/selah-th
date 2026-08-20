@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "ชายแห่งมิคมาส หนึ่งร้อยยี่สิบสอง",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ชายแห่ง"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "มิคมาส"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "หนึ่งร้อย"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ยี่สิบ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "และสอง"
+    }
+  ],
+  "timestamp": "2026-08-20T13:18:37.184522185Z",
+  "model": "glm-5.3"
+}

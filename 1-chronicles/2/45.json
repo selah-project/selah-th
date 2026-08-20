@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และบุตรของชัมมายคือมาออน และมาออนเป็นบิดาของเบท-ซูร์",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "และบุตรของ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "ชัมมาย"
+    },
+    {
+      "surface": "มעון",
+      "gloss": "มาออน"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "และมาออน"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "บิดาของ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบท-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ซูร์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:37:17.468290979Z",
+  "model": "glm-5.3"
+}

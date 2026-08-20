@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "esther 9:8",
+  "book": "esther",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "และ⟨את⟩ โปราทา และ⟨את⟩ อาดัลยา และ⟨את⟩ อาริดาทา",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "โปราทา"
+    },
+    {
+      "surface": "פורתא",
+      "gloss": "โปราทา"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "อาดัลยา"
+    },
+    {
+      "surface": "אדליא",
+      "gloss": "อาดัลยา"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "อาริดาทา"
+    },
+    {
+      "surface": "ארידתא",
+      "gloss": "อาริดาทา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:06:35.054944771Z",
+  "model": "glm-5.3"
+}

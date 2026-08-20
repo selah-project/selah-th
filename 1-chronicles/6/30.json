@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 6:30",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "บุตรของฮาชับยาห์ บุตรของอามัสยาห์ บุตรของฮิลกียาห์",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ฮาชับยาห์"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "อามัสยาห์"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "חלקיה",
+      "gloss": "ฮิลกียาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:41:24.453271542Z",
+  "model": "glm-5.3"
+}

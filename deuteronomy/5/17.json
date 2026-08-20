@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "เจ้าจะไม่ฆ่าคน",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "เจ้าจะฆ่าคน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:53:21.003621198Z",
+  "model": "glm-5.3"
+}

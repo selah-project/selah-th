@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 18,
+  "translation": "และเรเคม และยิรเปเอล และทาราลาห์",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "และเรเคม"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "และยิรเปเอล"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "และทาราลาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:14:01.646324059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 10:38",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "และบานี และบินนุย ชิมอี",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบานี"
+    },
+    {
+      "surface": "ובנוי",
+      "gloss": "และบินนุย"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ชิมอี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:24:33.439294020Z",
+  "model": "glm-5.3"
+}

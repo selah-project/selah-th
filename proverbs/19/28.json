@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 19:28",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "พยานไร้ค่าจะเยาะเยาะคดี และปากของคนอธรรมจะกลืนกินความชั่ว",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "พยาน"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ไร้ค่า"
+    },
+    {
+      "surface": "יליץ",
+      "gloss": "จะเยาะเยาะ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "คดี"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "และปาก"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ของคนอธรรม"
+    },
+    {
+      "surface": "יבלע",
+      "gloss": "จะกลืนกิน"
+    },
+    {
+      "surface": "און",
+      "gloss": "ความชั่ว"
+    }
+  ],
+  "timestamp": "2026-08-20T12:19:31.138611484Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 1:6",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "และบุตรชายของโกเมร อัชเคนาซ และดีฟัท และโทการมาห์",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรชายของ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "โกเมร"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "อัชเคนาซ"
+    },
+    {
+      "surface": "ודיפת",
+      "gloss": "และดีฟัท"
+    },
+    {
+      "surface": "ותוגרמה",
+      "gloss": "และโทการมาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:35:59.861397483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ในที่มืดมิดพระองค์ทรงให้ฉันอาศัย เหมือนคนตายแต่กาลโบราณ",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "ในที่มืดมิด"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "ทรงให้ฉันอาศัย"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "เหมือนคนตาย"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "แต่กาลโบราณ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:01.208929080Z",
+  "model": "glm-5.3"
+}

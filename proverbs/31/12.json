@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "นางทำดีแก่เขา ไม่ใช่ร้าย ตลอดทุกวันแห่งชีวิตของนาง",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "นางทำแก่เขา"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ดี"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ไม่ใช่"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ร้าย"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ตลอดทุก"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "วัน"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "แห่งชีวิตของนาง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:25:51.771048164Z",
+  "model": "glm-5.3"
+}

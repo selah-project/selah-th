@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 28:30",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "แพะผู้หนึ่ง เพื่อทำการลบล้าง ⟨เพื่อ⟩ ท่านทั้งหลาย",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "แพะผู้"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ของแพะ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "เพื่อลบล้าง"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "ท่านทั้งหลาย"
+    }
+  ],
+  "timestamp": "2026-08-20T07:47:05.581831488Z",
+  "model": "glm-5.3"
+}

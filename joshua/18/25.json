@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 18:25",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 18,
+  "translation": "กิเบออน และหารามาห์ และเบอโรท",
+  "tokens": [
+    {
+      "surface": "גבעון",
+      "gloss": "กิเบออน"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "และหารามาห์"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "และเบอโรท"
+    }
+  ],
+  "timestamp": "2026-08-20T08:14:01.645980747Z",
+  "model": "glm-5.3"
+}

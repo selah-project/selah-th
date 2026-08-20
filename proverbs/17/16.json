@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 17,
+  "translation": "ทำไมจึงมีราคาอยู่ในมือของคนโง่ เพื่อซื้อปัญญา ทั้งที่ไม่มีหัวใจอยู่เลย",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "ทำไม"
+    },
+    {
+      "surface": "זה",
+      "gloss": "จึง"
+    },
+    {
+      "surface": "มחיר",
+      "gloss": "ราคา"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ในมือ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "ของคนโง่"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "เพื่อซื้อ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ปัญญา"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "และหัวใจ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ไม่มี"
+    }
+  ],
+  "timestamp": "2026-08-20T12:17:18.403375346Z",
+  "model": "glm-5.3"
+}

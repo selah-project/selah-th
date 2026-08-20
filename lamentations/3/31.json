@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "เพราะอาโดนายจะไม่ทอดทิ้งไปตลอดกาล",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": "จะทอดทิ้ง"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ไปตลอดกาล"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "อาโดนาย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:55:08.847375700Z",
+  "model": "glm-5.3"
+}

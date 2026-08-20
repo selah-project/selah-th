@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "แต่เจ้าจะถูกนำลงไปยังเชโอล ถึงก้นบึงของหลุมลึก",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "แต่"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ยัง"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "เชโอล"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "เจ้าจะถูกนำลงไป"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "ก้นบึงของ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "หลุมลึก"
+    }
+  ],
+  "timestamp": "2026-08-20T09:23:09.457677045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "วายแก่เธอผู้กบฏและมลทิน เมือง⟨ที่⟩กดขี่",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "วาย"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "กบฏ"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "และมลทิน"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "เมือง"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "กดขี่"
+    }
+  ],
+  "timestamp": "2026-08-20T11:05:16.593819444Z",
+  "model": "glm-5.3"
+}

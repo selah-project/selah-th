@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "แก่ผู้ควบคุมวง มิซมอร์ ⟨את⟩ ของดาวิด",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "แก่ผู้ควบคุมวง"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "มิซมอร์"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ของดาวิด"
+    }
+  ],
+  "timestamp": "2026-08-20T11:20:22.859740439Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "และส่วนบรรณาการสำหรับยาห์เวห์จากแกะ ⟨เป็น⟩ หกร้อยเจ็ดสิบห้า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็น"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "ส่วนบรรณาการ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "สำหรับยาห์เวห์"
+    },
+    {
+      "surface": "מן",
+      "gloss": "จาก"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "แกะ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "หก"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ห้า"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "และเจ็ดสิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:48:25.520202546Z",
+  "model": "glm-5.3"
+}

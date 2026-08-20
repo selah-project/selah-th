@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 5:4",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "แต่ท้ายสุดของเธอขมร้ายดังสะเดา คมดังดาบสองคม",
+  "tokens": [
+    {
+      "surface": "ואחריתה",
+      "gloss": "และท้ายสุดของเธอ"
+    },
+    {
+      "surface": "מרה",
+      "gloss": "ขมร้าย"
+    },
+    {
+      "surface": "כלענה",
+      "gloss": "ดังสะเดา"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "คม"
+    },
+    {
+      "surface": "כחרב",
+      "gloss": "ดังดาบ"
+    },
+    {
+      "surface": "פיות",
+      "gloss": "สองคม"
+    }
+  ],
+  "timestamp": "2026-08-20T12:10:08.608933113Z",
+  "model": "glm-5.3"
+}

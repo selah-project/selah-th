@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "และอิบฮาร์ และเอลิชามา และเอลิเปเลท",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "และอิบฮาร์"
+    },
+    {
+      "surface": "วאלישמע",
+      "gloss": "และเอลิชามา"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "และเอลิเปเลท"
+    }
+  ],
+  "timestamp": "2026-08-20T13:38:56.211978602Z",
+  "model": "glm-5.3"
+}

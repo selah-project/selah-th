@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "และโนอาห์มีชีวิตอยู่หลัง⟨เหตุ⟩ มหาน้ำท่วม สามร้อยปีและห้าสิบปี",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "และมีชีวิตอยู่"
+    },
+    {
+      "surface": "נח",
+      "gloss": "โนอาห์"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "หลัง"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "มหาน้ำท่วม"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "มאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "และห้าสิบ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    }
+  ],
+  "timestamp": "2026-08-20T06:41:56.752337846Z",
+  "model": "glm-5.3"
+}

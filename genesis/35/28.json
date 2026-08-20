@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 35:28",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 35,
+  "translation": "และวันแห่งยิทสฮัก ⟨เป็น⟩ หนึ่งร้อยปี และแปดสิบปี",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "และเป็น"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "วันแห่ง"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ยิทสฮัก"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "หนึ่งร้อย"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "และแปดสิบ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    }
+  ],
+  "timestamp": "2026-08-20T06:54:21.600028614Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "พวกเขาคุกเข่าล้มลง แต่เราลุกขึ้นและยืนตรง",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "พวกเขา"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "คุกเข่า"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "และล้มลง"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "แต่เรา"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "ลุกขึ้น"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "และยืนตรง"
+    }
+  ],
+  "timestamp": "2026-08-20T14:49:35.051879132Z",
+  "model": "glm-5.3"
+}

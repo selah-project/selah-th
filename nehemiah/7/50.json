@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรของเรอายาห์ บุตรของเรทซิน บุตรของเนโคดา",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "เรอายาห์"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "เรทซิน"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "เนโคดา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:25.759659418Z",
+  "model": "glm-5.3"
+}

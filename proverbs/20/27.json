@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 20:27",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "ประทีปของยาห์เวห์คือลมหายใจของมนุษย์ ค้นหกทุกห้องช่องในท้อง",
+  "tokens": [
+    {
+      "surface": "נר",
+      "gloss": "ประทีป"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "ลมหายใจของ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "มนุษย์"
+    },
+    {
+      "surface": "חפש",
+      "gloss": "ค้นหา"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทุก"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ห้องช่องของ"
+    },
+    {
+      "surface": "בטן",
+      "gloss": "ท้อง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:19:01.418120403Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรของกิบบาร์ เก้าสิบห้า",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "กิบบาร์"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "เก้าสิบ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "และห้า"
+    }
+  ],
+  "timestamp": "2026-08-20T13:20:00.732416746Z",
+  "model": "glm-5.3"
+}

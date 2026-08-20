@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 22:26",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "อย่าเป็น⟨หนึ่ง⟩ในพวกตบมือ เป็นผู้ค้ำประกันหนี้ทั้งหลาย",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "เป็น"
+    },
+    {
+      "surface": "בתקעי",
+      "gloss": "ในพวกตบมือ"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ฝ่ามือ"
+    },
+    {
+      "surface": "בערבים",
+      "gloss": "ในผู้ค้ำประกัน"
+    },
+    {
+      "surface": "משאות",
+      "gloss": "หนี้ทั้งหลาย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:20:13.043922578Z",
+  "model": "glm-5.3"
+}

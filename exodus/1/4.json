@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 1:4",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "ดาน และนัฟทาลี กาด และอาเชอร์",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "ดาน"
+    },
+    {
+      "surface": "ונפתלי",
+      "gloss": "และนัฟทาลี"
+    },
+    {
+      "surface": "גד",
+      "gloss": "กาด"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "และอาเชอร์"
+    }
+  ],
+  "timestamp": "2026-08-20T07:01:38.894753673Z",
+  "model": "glm-5.3"
+}

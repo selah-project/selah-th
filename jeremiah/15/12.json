@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "เหล็กจะทำลายเหล็กจากทางเหนือ และทองสัมฤทธิ์หรือ",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "จะทำลาย"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "เหล็ก"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "เหล็ก"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "จากทางเหนือ"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "และทองสัมฤทธิ์"
+    }
+  ],
+  "timestamp": "2026-08-20T09:48:38.898106400Z",
+  "model": "glm-5.3"
+}

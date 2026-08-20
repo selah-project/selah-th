@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "อย่ากินสิ่งที่น่ารังเกียจใด ๆ",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "กิน"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ใด ๆ"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "สิ่งที่น่ารังเกียจ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:57:36.829466371Z",
+  "model": "glm-5.3"
+}

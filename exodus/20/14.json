@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 20:14",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "อย่าล่วงประเวณี",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "ล่วงประเวณี"
+    }
+  ],
+  "timestamp": "2026-08-20T07:08:02.875424196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "หรือผู้ใดซึ่งมีในตัวเขากระดูกเท้าหัก หรือกระดูกมือหัก",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "หรือ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ผู้ใด"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "มี"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ในตัวเขา"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "กระดูกหัก"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "เท้า"
+    },
+    {
+      "surface": "או",
+      "gloss": "หรือ"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "กระดูกหัก"
+    },
+    {
+      "surface": "יד",
+      "gloss": "มือ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:28:39.147438948Z",
+  "model": "glm-5.3"
+}

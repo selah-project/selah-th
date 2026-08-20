@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 17:6",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 17,
+  "translation": "ตามปากของพยานสองคน หรือพยานสามคน ผู้ที่ต้องตายจะถูกประหารตาย จะไม่ถูกประหารตามปากของพยานหนึ่งเดียว",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "ตาม"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ปากของ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "พยาน"
+    },
+    {
+      "surface": "או",
+      "gloss": "หรือ"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "עדים",
+      "gloss": "พยาน"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "จะถูกประหารตาย"
+    },
+    {
+      "surface": "המת",
+      "gloss": "ผู้ที่ต้องตาย"
+    },
+    {
+      "surface": "לא",
+      "gloss": "จะไม่"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "ถูกประหารตาย"
+    },
+    {
+      "surface": "על",
+      "gloss": "ตาม"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ปากของ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "พยาน"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่งเดียว"
+    }
+  ],
+  "timestamp": "2026-08-20T08:00:40.252141377Z",
+  "model": "glm-5.3"
+}

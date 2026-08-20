@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "2-samuel 23:27",
+  "book": "2-samuel",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "อาวีอาเซร์ชาวอานาโธท เมวุนนายชาวฮูชาท",
+  "tokens": [
+    {
+      "surface": "אביעזר",
+      "gloss": "อาวีอาเซร์"
+    },
+    {
+      "surface": "הענתתי",
+      "gloss": "ชาวอานาโธท"
+    },
+    {
+      "surface": "מבני",
+      "gloss": "เมวุนนาย"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "ชาวฮูชาท"
+    }
+  ],
+  "timestamp": "2026-08-20T08:52:51.068659397Z",
+  "model": "glm-5.3"
+}

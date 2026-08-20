@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และสัตว์ใหญ่ทั้งสี่ตัวขึ้นมาจากทะเล ต่างต้นหนึ่งจากอีกต้นหนึ่ง",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "และสี่"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "สัตว์"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "ใหญ่โต"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "ขึ้นมา"
+    },
+    {
+      "surface": "מן",
+      "gloss": "จาก"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "ทะเล"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "ต่างกัน"
+    },
+    {
+      "surface": "דא",
+      "gloss": "ต้นหนึ่ง"
+    },
+    {
+      "surface": "מן",
+      "gloss": "จาก"
+    },
+    {
+      "surface": "דא",
+      "gloss": "อีกต้นหนึ่ง"
+    }
+  ],
+  "timestamp": "2026-08-20T13:15:54.054757481Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 9:11",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "ด้วยว่าโดยเราวันของเจ้าจะทวีขึ้น และปีแห่งชีวิตจะเพิ่มแก่เจ้า",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ด้วยว่า"
+    },
+    {
+      "surface": "בי",
+      "gloss": "โดยเรา"
+    },
+    {
+      "surface": "ירבו",
+      "gloss": "จะทวีขึ้น"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "วันของเจ้า"
+    },
+    {
+      "surface": "ויוסיפו",
+      "gloss": "และจะเพิ่ม"
+    },
+    {
+      "surface": "לך",
+      "gloss": "แก่เจ้า"
+    },
+    {
+      "surface": "שנות",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "แห่งชีวิต"
+    }
+  ],
+  "timestamp": "2026-08-20T12:11:02.058034702Z",
+  "model": "glm-5.3"
+}

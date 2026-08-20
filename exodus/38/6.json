@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 38,
+  "translation": "และเขาทำ ⟨את⟩ คานหามจากไม้ชิตติม และหุ้มมันด้วยทองแดง",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "และเขาทำ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "คานหาม"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "คานหาม"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ไม้ของ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ชิตติม"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "และเขาหุ้ม"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ มัน"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "ทองแดง"
+    }
+  ],
+  "timestamp": "2026-08-20T07:18:20.567131983Z",
+  "model": "glm-5.3"
+}

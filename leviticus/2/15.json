@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 2:15",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และเจ้าจะเทน้ำมันบนมัน และเจ้าจะวางกำยานบนมัน เครื่องยกมันเป็น",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "และเจ้าจะเท"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "บนมัน"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "น้ำมัน"
+    },
+    {
+      "surface": "ושמת",
+      "gloss": "และเจ้าจะวาง"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "บนมัน"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "กำยาน"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "เครื่องยก"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "มันเป็น"
+    }
+  ],
+  "timestamp": "2026-08-20T07:19:39.653707716Z",
+  "model": "glm-5.3"
+}

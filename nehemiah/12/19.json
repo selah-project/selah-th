@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 12:19",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "และแห่งโยยาริบ มัตเทไน; แห่งเยดายาห์ อุซซี",
+  "tokens": [
+    {
+      "surface": "וליויריב",
+      "gloss": "และแห่งโยยาริบ"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "มัตเทไน"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "แห่งเยดายาห์"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "อุซซี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:34:02.462366406Z",
+  "model": "glm-5.3"
+}

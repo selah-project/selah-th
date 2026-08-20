@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "exodus 21:37",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "หากชายคนหนึ่งขโมยวัวหรือแกะ แล้วฆ่ามันหรือขายมัน เขาต้องชดใช้วัวห้าตัวแทน⟨the⟩วัว และแกะสี่ตัวแทน⟨the⟩แกะ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "หาก"
+    },
+    {
+      "surface": "יגנב",
+      "gloss": "ขโมย"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ชาย"
+    },
+    {
+      "surface": "שור",
+      "gloss": "วัว"
+    },
+    {
+      "surface": "או",
+      "gloss": "หรือ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "แกะ"
+    },
+    {
+      "surface": "וטבחו",
+      "gloss": "และฆ่ามัน"
+    },
+    {
+      "surface": "או",
+      "gloss": "หรือ"
+    },
+    {
+      "surface": "מכרו",
+      "gloss": "ขายมัน"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ห้า"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "วัว"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "เขาต้องชดใช้"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "แทน"
+    },
+    {
+      "surface": "השור",
+      "gloss": "วัว"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "และสี่"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "แกะ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "แทน"
+    },
+    {
+      "surface": "השה",
+      "gloss": "แกะ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:10:15.028907840Z",
+  "model": "glm-5.3"
+}

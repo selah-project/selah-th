@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 7:46",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "แพะผู้หนึ่ง เพื่อบูชาไถ่บาป",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "แพะผู้"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ของฝูงแพะ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "เพื่อบูชาไถ่บาป"
+    }
+  ],
+  "timestamp": "2026-08-20T07:36:19.010516523Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 92,
+  "translation": "ฝ่ายพระองค์ทรงสูงส่งเป็นนิตย์ โอ ยาห์เวห์",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "ฝ่ายพระองค์"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "สูงส่ง"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "เป็นนิตย์"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T11:46:59.715198180Z",
+  "model": "glm-5.3"
+}

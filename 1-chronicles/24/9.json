@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "ลำดับที่ห้าแก่มัลคิยาห์ ลำดับที่หกแก่มิยามิน",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "แก่มัลคิยาห์"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ลำดับที่ห้า"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "แก่มิยามิน"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ลำดับที่หก"
+    }
+  ],
+  "timestamp": "2026-08-20T13:52:02.855412423Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "จงให้ส่วนแบ่งแก่เจ็ดและแม้แต่แก่แปด เพราะเจ้าไม่รู้ว่าสิ่งใดจะบังเกิด — ภัยร้ายบนแผ่นดินโลก",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "จงให้"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "ส่วนแบ่ง"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "แก่เจ็ด"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "และแม้แต่"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "แก่แปด"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "เจ้ารู้"
+    },
+    {
+      "surface": "מה",
+      "gloss": "สิ่งใด"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "จะบังเกิด"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ภัยร้าย"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "แผ่นดินโลก"
+    }
+  ],
+  "timestamp": "2026-08-20T13:02:09.036449589Z",
+  "model": "glm-5.3"
+}

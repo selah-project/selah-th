@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "แห่งมัลลูคี โยนาทัน แห่งเชวันยาห์ โยเซฟ",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "แห่งมัลลูคี"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "โยนาทัน"
+    },
+    {
+      "surface": "לשבניה",
+      "gloss": "แห่งเชวันยาห์"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "โยเซฟ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:33:14.625330540Z",
+  "model": "glm-5.3"
+}

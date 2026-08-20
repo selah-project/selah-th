@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "แห่งคาริม อัดนา แห่งเมไรโยท เคลไค",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "แห่งคาริม"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "อัดนา"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "แห่งเมไรโยท"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "เคลไค"
+    }
+  ],
+  "timestamp": "2026-08-20T13:33:14.625517677Z",
+  "model": "glm-5.3"
+}

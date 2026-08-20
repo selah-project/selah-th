@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 115:6",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 115,
+  "translation": "หูมีแก่พวกมันแต่ไม่ได้ยิน จมูกมีแก่พวกมันแต่ไม่รู้กลิ่น",
+  "tokens": [
+    {
+      "surface": "אזנים",
+      "gloss": "หู"
+    },
+    {
+      "surface": "להם",
+      "gloss": "แก่พวกมัน"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "แต่ไม่"
+    },
+    {
+      "surface": "ישמעו",
+      "gloss": "ได้ยิน"
+    },
+    {
+      "surface": "אף",
+      "gloss": "จมูก"
+    },
+    {
+      "surface": "להם",
+      "gloss": "แก่พวกมัน"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "แต่ไม่"
+    },
+    {
+      "surface": "יריחון",
+      "gloss": "รู้กลิ่น"
+    }
+  ],
+  "timestamp": "2026-08-20T11:56:00.149802519Z",
+  "model": "glm-5.3"
+}

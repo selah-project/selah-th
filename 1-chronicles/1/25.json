@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 1:25",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "เอเบอร์ เปเลก เรอู",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "เอเบอร์"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "เปเลก"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "เรอู"
+    }
+  ],
+  "timestamp": "2026-08-20T13:35:56.473295336Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 12:14",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "กษัตริย์แห่งฮอร์มาห์หนึ่ง กษัตริย์แห่งอาราดหนึ่ง",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "กษัตริย์"
+    },
+    {
+      "surface": "חרמה",
+      "gloss": "ฮอร์มาห์"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "กษัตริย์"
+    },
+    {
+      "surface": "ערד",
+      "gloss": "อาราด"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    }
+  ],
+  "timestamp": "2026-08-20T08:11:34.741271939Z",
+  "model": "glm-5.3"
+}

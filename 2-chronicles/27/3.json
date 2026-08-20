@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 27:3",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 27,
+  "translation": "เขาสร้าง ⟨את⟩ ประตูบนของนิเวศของยาห์เวห์ และบนกำแพงเนินโอเฟลเขาสร้างอย่างมาก",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "เขา"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "สร้าง"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ประตู"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ประตู"
+    },
+    {
+      "surface": "בית",
+      "gloss": "นิเวศ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "บน"
+    },
+    {
+      "surface": "ובחומת",
+      "gloss": "และบนกำแพง"
+    },
+    {
+      "surface": "העפל",
+      "gloss": "เนินโอเฟล"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "สร้าง"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "อย่างมาก"
+    }
+  ],
+  "timestamp": "2026-08-20T14:11:59.691565273Z",
+  "model": "glm-5.3"
+}

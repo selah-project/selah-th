@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และเคลูบ พี่น้องของชูฮาห์ ให้กำเนิด ⟨את⟩ เมฮีร์ เขาคือบิดาของเอชตอน",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "และเคลูบ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "พี่น้องของ"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "ชูฮาห์"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เมฮีร์"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "เมฮีร์"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "เขาคือ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "บิดาของ"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "เอชตอน"
+    }
+  ],
+  "timestamp": "2026-08-20T13:39:52.915490735Z",
+  "model": "glm-5.3"
+}

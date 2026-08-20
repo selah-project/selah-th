@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "และยิทสฮักอาศัยอยู่ในเกราร",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "และอาศัยอยู่"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ยิทสฮัก"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "ในเกราร"
+    }
+  ],
+  "timestamp": "2026-08-20T06:49:06.983840194Z",
+  "model": "glm-5.3"
+}

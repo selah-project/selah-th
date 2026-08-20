@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "จี้ห้อย และกำไลข้อมือ และผ้าคลุมหน้า",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "จี้ห้อย"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "และกำไลข้อมือ"
+    },
+    {
+      "surface": "והרעלות",
+      "gloss": "และผ้าคลุมหน้า"
+    }
+  ],
+  "timestamp": "2026-08-20T09:20:01.854741342Z",
+  "model": "glm-5.3"
+}

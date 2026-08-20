@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "เสียงของที่รักของฉัน ดูสิ นี่เขามา กระโดดข้ามภูเขา โลดเหนือเนินเขา",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "เสียง"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ของที่รักของฉัน"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ดูสิ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "นี่"
+    },
+    {
+      "surface": "בא",
+      "gloss": "เขามา"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "กระโดดข้าม"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ภูเขา"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "โลด"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "เนินเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:49:43.702329463Z",
+  "model": "glm-5.3"
+}

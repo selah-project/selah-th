@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรชายแห่งกิบอน เก้าสิบห้า",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายแห่ง"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "กิบอน"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "เก้าสิบ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "ห้า"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:31.931912530Z",
+  "model": "glm-5.3"
+}

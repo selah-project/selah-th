@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "และคนยากจน ⟨he⟩ จงไม่เชิดชูในคดีความของเขา",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "และคนยากจน"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "เชิดชู"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ในคดีความของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T14:24:29.278131624Z",
+  "model": "glm-5.3"
+}

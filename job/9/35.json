@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "job 9:35",
+  "book": "job",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "ฉันจะพูดและไม่กลัวเขา เพราะ ⟨is⟩ ไม่เช่นนั้นกับฉัน",
+  "tokens": [
+    {
+      "surface": "אדברה",
+      "gloss": "ฉันจะพูด"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "איראנו",
+      "gloss": "ฉันกลัวเขา"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "כן",
+      "gloss": "เช่นนั้น"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ฉัน"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "กับฉัน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:31:16.242429303Z",
+  "model": "glm-5.3"
+}

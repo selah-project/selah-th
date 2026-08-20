@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "และหีบ⟨ของ⟩ยาห์เวห์อยู่ในทุ่งของคนฟลิชทีมเจ็ดเดือน",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็น"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "หีบ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ในทุ่ง"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "คนฟลิชทีม"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "เดือน"
+    }
+  ],
+  "timestamp": "2026-08-20T14:30:07.060894226Z",
+  "model": "glm-5.3"
+}

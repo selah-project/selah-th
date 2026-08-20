@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 35:19",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 35,
+  "translation": "และราเชลตาย และถูกฝังไว้ในทางไปเอฟราทาห์ คือเบทเลเคม",
+  "tokens": [
+    {
+      "surface": "ותמת",
+      "gloss": "และนางตาย"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ราเชล"
+    },
+    {
+      "surface": "ותקבר",
+      "gloss": "และถูกฝังไว้"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ในทางไป"
+    },
+    {
+      "surface": "אפרתה",
+      "gloss": "เอฟราทาห์"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "คือ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบท"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "เลเคม"
+    }
+  ],
+  "timestamp": "2026-08-20T06:53:26.324965520Z",
+  "model": "glm-5.3"
+}

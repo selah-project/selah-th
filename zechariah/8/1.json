@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 8:1",
+  "book": "zechariah",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และดวงพระดำรัสของยาห์เวห์จักรวาลมาถึง กล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และดวงพระดำรัส...มาถึง"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ดวงพระดำรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "จักรวาล"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T11:09:49.959229176Z",
+  "model": "glm-5.3"
+}

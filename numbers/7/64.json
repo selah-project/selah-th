@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "แพะตัวผู้หนึ่งตัว เป็นเครื่องบูชาไถ่บาป",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "แพะตัวผู้"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ของฝูงแพะ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "เพื่อเครื่องบูชาไถ่บาป"
+    }
+  ],
+  "timestamp": "2026-08-20T07:37:56.226713050Z",
+  "model": "glm-5.3"
+}

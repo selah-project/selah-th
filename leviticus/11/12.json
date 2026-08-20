@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "ทุกสิ่งซึ่งไม่มี ครีบ และเกล็ด ในน้ำ สิ่งน่าเกลียด มันเป็น แก่พวกเจ้า",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ทุกสิ่ง"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ไม่มี"
+    },
+    {
+      "surface": "לו",
+      "gloss": "มัน"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ครีบ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "และเกล็ด"
+    },
+    {
+      "surface": "במים",
+      "gloss": "ในน้ำ"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "สิ่งน่าเกลียด"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "มันเป็น"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "แก่พวกเจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:23:42.080700301Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,93 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "jeremiah 48:44",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 48,
+  "translation": "ผู้ที่หนี ⟨מפני⟩ מפני הפחד יפול אל הפחת และהעולה מן הפחת יילכד בפח — כי אנี่จะนำ אליה אל מואב שנת פקודתם — נאם יהוה",
+  "tokens": [
+    {
+      "surface": "הניס",
+      "gloss": "הניס"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "מפני"
+    },
+    {
+      "surface": "הפחד",
+      "gloss": "הפחד"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "יפל"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "הפחת",
+      "gloss": "הפחת"
+    },
+    {
+      "surface": "והעלה",
+      "gloss": "והעלה"
+    },
+    {
+      "surface": "מן",
+      "gloss": "מן"
+    },
+    {
+      "surface": "הפחת",
+      "gloss": "הפחת"
+    },
+    {
+      "surface": "ילכד",
+      "gloss": "ילכד"
+    },
+    {
+      "surface": "בפח",
+      "gloss": "בפח"
+    },
+    {
+      "surface": "כי",
+      "gloss": "כי"
+    },
+    {
+      "surface": "אביא",
+      "gloss": "אביא"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "אליה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "אל"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "שנת"
+    },
+    {
+      "surface": "פקדתם",
+      "gloss": "פקדתם"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "נאם"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    }
+  ],
+  "timestamp": "2026-08-20T10:09:20.058069694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 18:2",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 18,
+  "translation": "คนโง่ไม่ยินดีในความเข้าใจ หากแต่ในการเปิดเผยใจของตน",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "เขายินดี"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "คนโง่"
+    },
+    {
+      "surface": "בתבונה",
+      "gloss": "ในความเข้าใจ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "หากแต่"
+    },
+    {
+      "surface": "אם",
+      "gloss": "เว้นแต่"
+    },
+    {
+      "surface": "בהתגלות",
+      "gloss": "ในการเปิดเผย"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ใจของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:17:53.515407724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "และมีผู้บอกแก่ชาอูลว่า: ดูเถิด ดาวีdอยู่ในนาโยทที่รามาห์",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "และมีผู้บอก"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "แก่ชาอูล"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ดูเถิด"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ดาวีd"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "ในนาโยท"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "ที่รามาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:36:42.074764706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และยาห์เวห์ทรงเพิ่มการตรัสอีกถึงอาคาสว่า",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "และทรงเพิ่ม"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ตรัส"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "อาคาส"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T09:20:12.824581806Z",
+  "model": "glm-5.3"
+}

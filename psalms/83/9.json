@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 83:9",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 83,
+  "translation": "อัชชูรก็เข้าร่วมกับพวกเขา กลายเป็นแขนให้บุตรหลานของโลท เซลาห์",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ก็"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "อัชชูร"
+    },
+    {
+      "surface": "נלוה",
+      "gloss": "เข้าร่วม"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "กับพวกเขา"
+    },
+    {
+      "surface": "היו",
+      "gloss": "กลายเป็น"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "แขน"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ให้บุตรหลานของ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "โลท"
+    },
+    {
+      "surface": "סלה",
+      "gloss": "เซลาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T11:42:21.948376306Z",
+  "model": "glm-5.3"
+}

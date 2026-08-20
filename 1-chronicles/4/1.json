@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "บุตรของยิฮูดาห์: เปเรทซ์ เชทซรอน ว่าแคร์มี ว่าชูร์ และว่าโชวาล",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ยิฮูดาห์"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "เปเรทซ์"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "เชทซรอน"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "ว่าแคร์มี"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "ว่าชูร์"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "และว่าโชวาล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:40:37.348182509Z",
+  "model": "glm-5.3"
+}

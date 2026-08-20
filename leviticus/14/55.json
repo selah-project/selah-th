@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และสำหรับโรคเรื้อนของเสื้อผ้า และของบ้าน",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "และสำหรับโรคเรื้อน"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "เสื้อผ้า"
+    },
+    {
+      "surface": "วלבית",
+      "gloss": "และของบ้าน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:25:00.903617847Z",
+  "model": "glm-5.3"
+}

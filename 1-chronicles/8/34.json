@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 8:34",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และบุตรของเยโฮนาทาน ⟨is⟩ เมรีบบาอัล และเมรีบบาอัลให้กำเนิด ⟨את⟩ มีคาห์",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "และบุตร"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "เยโฮนาทาน"
+    },
+    {
+      "surface": "מריב",
+      "gloss": "เมรีบ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "บาอัล"
+    },
+    {
+      "surface": "ומריב",
+      "gloss": "และเมรีบ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "บาอัล"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "มีกาห์"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "มีกาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:43:31.409086700Z",
+  "model": "glm-5.3"
+}

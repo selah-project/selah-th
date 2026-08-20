@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "แต่โนอาห์หาพระคุณในพระเนตรของยาห์เวห์",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "แต่โนอาห์"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "หาพบ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "พระคุณ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "ในพระเนตร"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T06:41:08.630039442Z",
+  "model": "glm-5.3"
+}

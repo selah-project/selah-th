@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 37:19",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 37,
+  "translation": "และเขากล่าวต่อกัน ดูเถิด นายแห่งความฝันคนนี้มาแล้ว",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "และกล่าว"
+    },
+    {
+      "surface": "איש",
+      "gloss": "แต่ละคน"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ต่อ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "พี่น้องของเขา"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "ดูเถิด"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "นายแห่ง"
+    },
+    {
+      "surface": "החלמות",
+      "gloss": "ความฝัน"
+    },
+    {
+      "surface": "הלזה",
+      "gloss": "คนนี้"
+    },
+    {
+      "surface": "בא",
+      "gloss": "มา"
+    }
+  ],
+  "timestamp": "2026-08-20T06:54:49.476889433Z",
+  "model": "glm-5.3"
+}

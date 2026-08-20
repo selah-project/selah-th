@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "และคะนะอันให้กำเนิด ⟨את⟩ สีโดนบุตรหัวปีของเขา และ⟨את⟩ เคท",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "และคะนะอัน"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "สีโดน"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "สีโดน"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "บุตรหัวปีของเขา"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "เคท"
+    },
+    {
+      "surface": "חת",
+      "gloss": "เคท"
+    }
+  ],
+  "timestamp": "2026-08-20T06:43:02.268557364Z",
+  "model": "glm-5.3"
+}

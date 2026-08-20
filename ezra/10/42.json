@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "ชัลลุม อามารียาห์ โยเซฟ",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "ชัลลุม"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "อามารียาห์"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "โยเซฟ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:26:06.297531724Z",
+  "model": "glm-5.3"
+}

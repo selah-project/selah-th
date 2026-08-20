@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 26:19",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "และคนใช้ของยิทสฮักขุดในหุบเขา และพบที่นั่นบ่อน้ำ ⟨ที่⟩มีชีวิต",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "และขุด"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "คนใช้ของ"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "ยิทสฮัก"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "ในหุบเขา"
+    },
+    {
+      "surface": "וימצאו",
+      "gloss": "และพบ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ที่นั่น"
+    },
+    {
+      "surface": "באר",
+      "gloss": "บ่อ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "น้ำ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "มีชีวิต"
+    }
+  ],
+  "timestamp": "2026-08-20T06:48:38.886192628Z",
+  "model": "glm-5.3"
+}

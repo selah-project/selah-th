@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 37,
+  "translation": "และเขาทำไม้คานด้วยไม้ชิททิม และหุ้ม ⟨אתם⟩ ด้วยทองคำ",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "และเขาทำ"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "ไม้คาน"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ไม้"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ชิททิม"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "และเขาหุ้ม"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨אתם⟩",
+      "marks": "ไม้คาน"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ทองคำ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:18:32.765794051Z",
+  "model": "glm-5.3"
+}

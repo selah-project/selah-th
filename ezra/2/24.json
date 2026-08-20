@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรชายแห่งอัซมาเวท สี่สิบสอง",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายแห่ง"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "อัซมาเวท"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "สี่สิบ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "สอง"
+    }
+  ],
+  "timestamp": "2026-08-20T13:18:14.229220765Z",
+  "model": "glm-5.3"
+}

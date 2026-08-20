@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 27,
+  "translation": "และเจ้า โอบุตรมนุษย์ จงยกขึ้นเพลงไว้ทุกข์เหนือเมืองโซร์",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "และเจ้า"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "มนุษย์"
+    },
+    {
+      "surface": "שא",
+      "gloss": "จงยกขึ้น"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "צר",
+      "gloss": "โซร์"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "เพลงไว้ทุกข์"
+    }
+  ],
+  "timestamp": "2026-08-20T10:30:18.135830507Z",
+  "model": "glm-5.3"
+}

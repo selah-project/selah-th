@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "ezra 2:48",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรแห่งเรทซิน บุตรแห่งเนโคดา บุตรแห่งกัซซัม",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "เรทซิน"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "เนโคดา"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "กัซซัม"
+    }
+  ],
+  "timestamp": "2026-08-20T13:21:11.948731311Z",
+  "model": "glm-5.3"
+}

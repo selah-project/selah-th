@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 46:19",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 46,
+  "translation": "บุตรชายของราเชล ภรรยาของยาอาโคบ: โยเซฟ และบินยามิน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "ราเชล"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ภรรยาของ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ยาอาโคบ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "โยเซฟ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "และบินยามิน"
+    }
+  ],
+  "timestamp": "2026-08-20T06:58:49.410771220Z",
+  "model": "glm-5.3"
+}

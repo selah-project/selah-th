@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 34,
+  "translation": "และฮาโมร์บิดาของเชเคมออกไปหายาอาโคฟเพื่อพูดกับ ⟨את⟩ เขา",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "และออกไป"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ฮาโมร์"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "บิดาของ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "เชเคม"
+    },
+    {
+      "surface": "אל",
+      "gloss": "หา"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ยาอาโคฟ"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "เพื่อพูด"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "กับ ⟨את⟩ เขา"
+    }
+  ],
+  "timestamp": "2026-08-20T06:54:47.361212131Z",
+  "model": "glm-5.3"
+}

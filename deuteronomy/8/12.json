@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "อย่าให้เจ้ากินและอิ่มแล้ว และสร้างบ้านอันดีและอยู่อาศัยในนั้น",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "อย่าให้"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "เจ้ากิน"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "และอิ่ม"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "และบ้าน"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "อันดี"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "เจ้าสร้าง"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "และอยู่อาศัย"
+    }
+  ],
+  "timestamp": "2026-08-20T07:55:48.435739949Z",
+  "model": "glm-5.3"
+}

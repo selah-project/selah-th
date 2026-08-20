@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 12:21",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "แห่งฮิลกิยาห์ ฮาชาฟยาห์; แห่งเยดายาห์ เนทันเอล",
+  "tokens": [
+    {
+      "surface": "לחלקיה",
+      "gloss": "แห่งฮิลกิยาห์"
+    },
+    {
+      "surface": "חשביה",
+      "gloss": "ฮาชาฟยาห์"
+    },
+    {
+      "surface": "לידעיה",
+      "gloss": "แห่งเยดายาห์"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "เนทันเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:34:29.058125600Z",
+  "model": "glm-5.3"
+}

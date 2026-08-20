@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "และยาห์เวห์ตรัสแก่โมเชและแก่อาฮารอนในแผ่นดินมิสรายิมว่า",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "แก่"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "และแก่"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "อาฮารอน"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ในแผ่นดิน"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "มิสรายิม"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:06:16.269880622Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ฉันร้องอ้อนวอนพระนามของพระองค์ โอ้ ยาห์เวห์ จากหลุมลึกสุด",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "ฉันร้องอ้อนวอน"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "พระนามของพระองค์"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "จากหลุม"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "ลึกสุด"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:51.044956Z",
+  "model": "glm-5.3"
+}

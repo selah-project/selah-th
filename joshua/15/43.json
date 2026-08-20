@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 15:43",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "และยิฟทาห์ และอัชนาห์ และเนซิบ",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "และยิฟทาห์"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "และอัชนาห์"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "และเนซิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:08.112705053Z",
+  "model": "glm-5.3"
+}

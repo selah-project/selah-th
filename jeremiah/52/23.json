@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 52:23",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 52,
+  "translation": "และทับทิม ⟨were⟩ เก้าสิบหกลูกตามด้านข้าง ทับทิมทั้งหมด ⟨were⟩ หนึ่งร้อยลูกบนลายสานรอบ ๆ",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "และเป็นอยู่"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "ทับทิม"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "เก้าสิบ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "และหก"
+    },
+    {
+      "surface": "רוחה",
+      "gloss": "ตามด้านข้าง"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "ทับทิม"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "หนึ่งร้อย"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "ลายสาน"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "รอบ ๆ"
+    }
+  ],
+  "timestamp": "2026-08-20T10:14:03.158647245Z",
+  "model": "glm-5.3"
+}

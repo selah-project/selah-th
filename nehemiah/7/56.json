@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรแห่งเนทซีอาค บุตรแห่งฮาทีฟา",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "เนทซีอาค"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "ฮาทีฟา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:57.014364053Z",
+  "model": "glm-5.3"
+}

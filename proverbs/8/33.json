@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 8:33",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "จงฟังการตักเตือน และเป็นผู้มีปัญญา และอย่าปฏิเสธมัน",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "จงฟัง"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "การตักเตือน"
+    },
+    {
+      "surface": "וחכמו",
+      "gloss": "และเป็นผู้มีปัญญา"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "และอย่า"
+    },
+    {
+      "surface": "תפרעו",
+      "gloss": "ปฏิเสธมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:11:41.255143938Z",
+  "model": "glm-5.3"
+}

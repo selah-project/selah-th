@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "ทั้งสองประเสริฐกว่าหนึ่งเดียว เพราะว่ามีรางวัลที่ดีแก่เขาในการทุ่มเทของเขา",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "ทั้งสองประเสริฐ"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "ทั้งสอง"
+    },
+    {
+      "surface": "מן",
+      "gloss": "กว่า"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "หนึ่งเดียว"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "เพราะว่า"
+    },
+    {
+      "surface": "יש",
+      "gloss": "มี"
+    },
+    {
+      "surface": "להם",
+      "gloss": "แก่เขา"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "รางวัล"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ที่ดี"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "ในการทุ่มเทของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:58:14.472660209Z",
+  "model": "glm-5.3"
+}

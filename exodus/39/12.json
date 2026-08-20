@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 39,
+  "translation": "และ แถว ที่สาม เลเชม ชโบ และอัคลามาห์",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "และแถว"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "ที่สาม"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "เลเชม"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "ชโบ"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "และอัคลามาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T07:18:47.183021824Z",
+  "model": "glm-5.3"
+}

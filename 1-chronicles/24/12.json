@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 24:12",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "ลำดับที่สิบเอ็ดแก่เอลยาชีฟ ลำดับที่สิบสองแก่ยาคิม",
+  "tokens": [
+    {
+      "surface": "לאלישיב",
+      "gloss": "แก่เอลยาชีฟ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "เอ็ด"
+    },
+    {
+      "surface": "ליקים",
+      "gloss": "แก่ยาคิม"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:52:02.856034171Z",
+  "model": "glm-5.3"
+}

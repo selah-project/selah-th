@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 23:18",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "เพราะแน่นอนมี⟨อนาคต⟩ และความหวังของเจ้าจะไม่ถูกตัดขาด",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "แน่นอน"
+    },
+    {
+      "surface": "יש",
+      "gloss": "มี"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "อนาคต"
+    },
+    {
+      "surface": "ותקותך",
+      "gloss": "และความหวังของเจ้า"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "ถูกตัดขาด"
+    }
+  ],
+  "timestamp": "2026-08-20T12:21:28.869930504Z",
+  "model": "glm-5.3"
+}

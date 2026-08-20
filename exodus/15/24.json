@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "และประชาชนบ่นต่อโมเชว่า เราจะดื่มอะไร",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "และบ่น"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ประชาชน"
+    },
+    {
+      "surface": "על",
+      "gloss": "ต่อ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    },
+    {
+      "surface": "מה",
+      "gloss": "อะไร"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "เราจะดื่ม"
+    }
+  ],
+  "timestamp": "2026-08-20T07:07:59.093393208Z",
+  "model": "glm-5.3"
+}

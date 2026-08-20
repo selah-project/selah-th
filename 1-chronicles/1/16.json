@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 1:16",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "และ ⟨את⟩ ⟨the⟩ อารวาดี และ ⟨את⟩ ⟨the⟩ เศมารี และ ⟨את⟩ ⟨the⟩ ฮามัที",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "อารวาดี"
+    },
+    {
+      "surface": "הארודי",
+      "gloss": "⟨the⟩ อารวาดี"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "เศมารี"
+    },
+    {
+      "surface": "הצמרי",
+      "gloss": "⟨the⟩ เศมารี"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "ฮามัที"
+    },
+    {
+      "surface": "החמתי",
+      "gloss": "⟨the⟩ ฮามัที"
+    }
+  ],
+  "timestamp": "2026-08-20T13:36:29.881596939Z",
+  "model": "glm-5.3"
+}

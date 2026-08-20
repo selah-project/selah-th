@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 7:19",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "เพราะผัวชายไม่อยู่ในบ้านของเขา เขาเดินทางไปในทางไกล",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ไม่อยู่"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "ผัวชาย"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "ในบ้านของเขา"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "เขาเดินทางไป"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ในทาง"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ไกล"
+    }
+  ],
+  "timestamp": "2026-08-20T12:12:16.651573701Z",
+  "model": "glm-5.3"
+}

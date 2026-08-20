@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "เซรายาห์ อาซาร์ยาห์ ยิร์เมยาห์",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "เซรายาห์"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "อาซาร์ยาห์"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ยิร์เมยาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:32:14.359447412Z",
+  "model": "glm-5.3"
+}

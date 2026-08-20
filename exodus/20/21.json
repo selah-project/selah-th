@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 20:21",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "และ⟨the⟩ประชาชนยืนอยู่ห่างไกล และโมเชทัดไปถึง⟨the⟩ความมืดทึบซึ่งที่นั่นคือเอโลฮิม",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "และยืน"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ประชาชน"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "ห่างไกล"
+    },
+    {
+      "surface": "ומשה",
+      "gloss": "และโมเช"
+    },
+    {
+      "surface": "נגש",
+      "gloss": "เข้าใกล้"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "הערפל",
+      "gloss": "⟨the⟩ความมืดทึบ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ที่นั่น"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "เอโลฮิม"
+    }
+  ],
+  "timestamp": "2026-08-20T07:08:46.455622905Z",
+  "model": "glm-5.3"
+}

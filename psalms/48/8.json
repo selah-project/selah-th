@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 48:8",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 48,
+  "translation": "ด้วยลมตะวันออก ⟨พระองค์⟩ทรงทำลายเรือแตกของทารชิช",
+  "tokens": [
+    {
+      "surface": "ברוח",
+      "gloss": "ด้วยลม"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ตะวันออก"
+    },
+    {
+      "surface": "תשבר",
+      "gloss": "ทรงทำลายแตก"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "เรือ"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "ทารชิช"
+    }
+  ],
+  "timestamp": "2026-08-20T11:30:23.896665289Z",
+  "model": "glm-5.3"
+}

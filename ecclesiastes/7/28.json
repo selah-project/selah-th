@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ecclesiastes 7:28",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ซึ่ง ยังอีก ชีวิตของฉันแสวงหา และไม่พบ มนุษย์ หนึ่ง จากพัน ฉันพบ และหญิง ในทั้งหมด เหล่านี้ ไม่ ฉันพบ",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "ยังอีก"
+    },
+    {
+      "surface": "בקשה",
+      "gloss": "แสวงหา"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ชีวิตของฉัน"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ฉันพบ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "มนุษย์"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "מאלף",
+      "gloss": "จากพัน"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ฉันพบ"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "และหญิง"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ในทั้งหมด"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "เหล่านี้"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ฉันพบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:01:35.968345997Z",
+  "model": "glm-5.3"
+}

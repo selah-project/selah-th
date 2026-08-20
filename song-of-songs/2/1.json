@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "song-of-songs 2:1",
+  "book": "song-of-songs",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "ดิฉัน⟨เป็น⟩ดอกกุหลาบแห่งหาบาล ดอกลิลลี่แห่งหุบเขาทั้งหลาย",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "ดิฉัน"
+    },
+    {
+      "surface": "חבצלת",
+      "gloss": "ดอกกุหลาบ"
+    },
+    {
+      "surface": "השרון",
+      "gloss": "แห่งหาบาล"
+    },
+    {
+      "surface": "שושנת",
+      "gloss": "ดอกลิลลี่"
+    },
+    {
+      "surface": "העמקים",
+      "gloss": "หุบเขาทั้งหลาย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:49:19.294789061Z",
+  "model": "glm-5.3"
+}

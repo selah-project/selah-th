@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 13:21",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "คนบาป ความชั่วไล่ตาม และ ⟨את⟩ คนชอบธรรม ⟨เขา⟩จะทดแทนด้วยความดี",
+  "tokens": [
+    {
+      "surface": "חטאים",
+      "gloss": "คนบาป"
+    },
+    {
+      "surface": "תרדף",
+      "gloss": "ไล่ตาม"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ความชั่ว"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "คนชอบธรรม"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "คนชอบธรรม"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "จะทดแทน"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ความดี"
+    }
+  ],
+  "timestamp": "2026-08-20T12:14:49.849717143Z",
+  "model": "glm-5.3"
+}

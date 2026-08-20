@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 37:15",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 37,
+  "translation": "และเขาทำ⟨את⟩คานด้วยไม้ชิตติม และเขาหุ้มมันด้วยทอง เพื่อยก⟨את⟩โต๊ะ",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "และเขาทำ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "คาน"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "คาน"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ไม้"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ชิตติม"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "และเขาหุ้ม"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ มัน"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ทอง"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "เพื่อยก"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "โต๊ะ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "โต๊ะ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:18:45.013640596Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "และโมเชขึ้นสู่ภูเขา และเมฆปกคลุม ⟨את⟩ ภูเขา",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "และขึ้น"
+    },
+    {
+      "surface": "มשה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "אל",
+      "gloss": "สู่"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ภูเขา"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "และปกคลุม"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "เมฆ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ภูเขา"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "ภูเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:11:47.084184365Z",
+  "model": "glm-5.3"
+}

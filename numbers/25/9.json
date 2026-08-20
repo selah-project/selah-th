@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 25:9",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "และผู้ตายในภัยพิบัตินั้น ⟨มีจำนวน⟩ สี่และยี่สิบพัน",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "และเกิดเป็น"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "ผู้ตาย"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "ในภัยพิบัตินั้น"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "สี่"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "และยี่สิบ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "พัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:46:10.642383270Z",
+  "model": "glm-5.3"
+}

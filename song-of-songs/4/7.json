@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 4:7",
+  "book": "song-of-songs",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "เจ้าทั้งหมดงามด้วยกัน โอ้ที่รักของเรา และไม่มีด่างในเจ้า",
+  "tokens": [
+    {
+      "surface": "כלך",
+      "gloss": "เจ้าทั้งหมด"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "งาม"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ที่รักของเรา"
+    },
+    {
+      "surface": "ומום",
+      "gloss": "และด่าง"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ไม่มี"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ในเจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T12:50:06.015366151Z",
+  "model": "glm-5.3"
+}

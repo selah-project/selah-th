@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 10:6",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "ฮาริม เมเรโมท โอวัดยาห์",
+  "tokens": [
+    {
+      "surface": "חרם",
+      "gloss": "ฮาริม"
+    },
+    {
+      "surface": "מרמות",
+      "gloss": "เมเรโมท"
+    },
+    {
+      "surface": "עבדיה",
+      "gloss": "โอวัดยาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:31:04.421374405Z",
+  "model": "glm-5.3"
+}

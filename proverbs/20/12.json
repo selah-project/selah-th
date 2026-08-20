@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 20:12",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "หูที่ได้ยิน และตาที่เห็น ยาห์เวห์ทรงสร้างทั้งสองอย่างนั้น",
+  "tokens": [
+    {
+      "surface": "אזן",
+      "gloss": "หู"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "ที่ได้ยิน"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "และตา"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ที่เห็น"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ทรงสร้าง"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ทั้ง"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "สองอย่างนั้น"
+    }
+  ],
+  "timestamp": "2026-08-20T12:18:22.070438086Z",
+  "model": "glm-5.3"
+}

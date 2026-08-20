@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 42,
+  "translation": "และทรงรวบรวม ⟨את⟩ พวกเขาเข้าสู่ที่คุมขัง เป็นเวลาสามวัน",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "และทรงรวบรวม"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "พวกเขา"
+    },
+    {
+      "surface": "אל",
+      "gloss": "เข้าสู่"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "ที่คุมขัง"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "วัน"
+    }
+  ],
+  "timestamp": "2026-08-20T14:20:45.171455097Z",
+  "model": "glm-5.3"
+}

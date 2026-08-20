@@ -1,0 +1,95 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 4:2",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และเขาทำ ⟨את⟩ ทะเลหล่อหนึ่ง สิบศ cubit จากขอบของมันถึงขอบของมัน กลมรอบ และห้าศ cubit ความสูงของมัน และเชือกวัดสามสิบศ cubit โอบรอบ ⟨את⟩ มันไปรอบ ๆ",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "และเขาทำ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ทะเลหล่อ"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ทะเล"
+    },
+    {
+      "surface": "มוצק",
+      "gloss": "หล่อ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ศ cubit"
+    },
+    {
+      "surface": "มשפתו",
+      "gloss": "จากขอบของมัน"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "שפתו",
+      "gloss": "ขอบของมัน"
+    },
+    {
+      "surface": "עגול",
+      "gloss": "กลม"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "รอบ"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "และห้า"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ศ cubit"
+    },
+    {
+      "surface": "קומתו",
+      "gloss": "ความสูงของมัน"
+    },
+    {
+      "surface": "וקו",
+      "gloss": "และเชือกวัด"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "สามสิบ"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "ศ cubit"
+    },
+    {
+      "surface": "יסบ",
+      "gloss": "โอบรอบ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "มัน"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "รอบ ๆ"
+    }
+  ],
+  "timestamp": "2026-08-20T15:01:12.847390495Z",
+  "model": "glm-5.3"
+}

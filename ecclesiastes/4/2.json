@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และข้าพเจ้าสรรเสริญ ⟨את⟩ คนตายที่ตายไปแล้ว เหนือคนเป็นที่ยังมีชีวิตอยู่จนบัดนี้",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "และข้าพเจ้าสรรเสริญ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "ข้าพเจ้า"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "คนตาย"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "คนตาย"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "ที่แล้ว"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "ตายไป"
+    },
+    {
+      "surface": "מן",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "คนเป็น"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "המה",
+      "gloss": "พวกเขา"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "มีชีวิตอยู่"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "จนบัดนี้"
+    }
+  ],
+  "timestamp": "2026-08-20T12:59:36.713003042Z",
+  "model": "glm-5.3"
+}

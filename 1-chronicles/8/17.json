@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และเซบัดยาห์ และเมชูลลัม และฮิซกี และฮาเบรร์",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "และเซบัดยาห์"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "และเมชูลลัม"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "และฮิซกี"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "และฮาเบรร์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:41:54.316642878Z",
+  "model": "glm-5.3"
+}

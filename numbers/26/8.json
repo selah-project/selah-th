@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "และบุตรทั้งหลายของปัลลู คือ เอลีอาบ",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรทั้งหลายของ"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "ปัลลู"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "เอลีอาบ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:46:17.540984503Z",
+  "model": "glm-5.3"
+}

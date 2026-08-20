@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "แพะตัวผู้หนึ่งตัว เป็นเครื่องบูชาไถ่บาป",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "แพะขนยาวตัวผู้"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "ของแพะ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "เป็นเครื่องบูชาไถ่บาป"
+    }
+  ],
+  "timestamp": "2026-08-20T07:35:46.049348722Z",
+  "model": "glm-5.3"
+}

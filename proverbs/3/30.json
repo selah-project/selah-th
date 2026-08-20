@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "อย่าโต้เถียงกับคนโดยไร้เหตุผล ถ้าเขามิได้ทำความชั่วร้ายแก่เจ้า",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "โต้เถียง"
+    },
+    {
+      "surface": "עם",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "คน"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "โดยไร้เหตุผล"
+    },
+    {
+      "surface": "אם",
+      "gloss": "ถ้า"
+    },
+    {
+      "surface": "לא",
+      "gloss": "มิ"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "ได้ทำแก่เจ้า"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ความชั่วร้าย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:10:10.932270228Z",
+  "model": "glm-5.3"
+}

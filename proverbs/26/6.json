@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 26:6",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "ตัดเท้าทิ้ง ดื่มความรุนแรง — ⟨คือ⟩ผู้ส่งถ้อยคำโดยมือคนโง่",
+  "tokens": [
+    {
+      "surface": "מקצה",
+      "gloss": "ตัดทิ้ง"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "เท้า"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "ความรุนแรง"
+    },
+    {
+      "surface": "שתה",
+      "gloss": "ดื่ม"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ผู้ส่ง"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ถ้อยคำ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "โดยมือ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "คนโง่"
+    }
+  ],
+  "timestamp": "2026-08-20T12:22:48.814981112Z",
+  "model": "glm-5.3"
+}

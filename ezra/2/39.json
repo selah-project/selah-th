@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรของฮาริม หนึ่งพันเจ็ดสิบเจ็ด",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ฮาริม"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "หนึ่งพัน"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:19:08.967215228Z",
+  "model": "glm-5.3"
+}

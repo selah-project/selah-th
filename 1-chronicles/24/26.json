@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "บุตรของเมรารี ⟨คือ⟩ มาห์ลีและมูชี บุตรของยาอาซิยาห์ ⟨คือ⟩ เบโน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "เมรารี"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "มาห์ลี"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "และมูชี"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "ยาอาซิยาห์"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "เบโน"
+    }
+  ],
+  "timestamp": "2026-08-20T13:51:59.918762205Z",
+  "model": "glm-5.3"
+}

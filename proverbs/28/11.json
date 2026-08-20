@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 28:11",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "คนรวยฉลาดในตาของตนเอง แต่คนจนผู้เข้าใจจะค้นเขาออก",
+  "tokens": [
+    {
+      "surface": "חכם",
+      "gloss": "ฉลาด"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ในตาของตนเอง"
+    },
+    {
+      "surface": "איש",
+      "gloss": "คน"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "รวย"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "แต่คนจน"
+    },
+    {
+      "surface": "מבין",
+      "gloss": "ผู้เข้าใจ"
+    },
+    {
+      "surface": "יחקרנו",
+      "gloss": "จะค้นเขาออก"
+    }
+  ],
+  "timestamp": "2026-08-20T12:23:51.289518408Z",
+  "model": "glm-5.3"
+}

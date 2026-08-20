@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 28:4",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "⟨את⟩ ลูกแกะตัวหนึ่งจงกระทำในตอนเช้า และ ⟨את⟩ ลูกแกะตัวที่สองจงกระทำระหว่าง ⟨the⟩ สองช่วงเย็น",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ลูกแกะตัวหนึ่ง"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ลูกแกะ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "ตัวหนึ่ง"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "จงกระทำ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "ในตอนเช้า"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ลูกแกะตัวที่สอง"
+    },
+    {
+      "surface": "הכבש",
+      "gloss": "ลูกแกะ"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ตัวที่สอง"
+    },
+    {
+      "surface": "สעשה",
+      "gloss": "",
+      "surface_note": "(duplicate token not in source; ignored)"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ระหว่าง"
+    },
+    {
+      "surface": "הערבים",
+      "gloss": "⟨the⟩ สองช่วงเย็น"
+    }
+  ],
+  "timestamp": "2026-08-20T07:47:29.207112803Z",
+  "model": "glm-5.3"
+}

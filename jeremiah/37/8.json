@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 37:8",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 37,
+  "translation": "และคาสดิมจะกลับมาและรบกับเมืองนี้ และจับมันได้และเผามันด้วยไฟ",
+  "tokens": [
+    {
+      "surface": "ושבו",
+      "gloss": "และจะกลับมา"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "คาสดิม"
+    },
+    {
+      "surface": "ונלחמו",
+      "gloss": "และรบ"
+    },
+    {
+      "surface": "על",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "เมือง"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "นี้"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "และจับมันได้"
+    },
+    {
+      "surface": "ושרפה",
+      "gloss": "และเผามัน"
+    },
+    {
+      "surface": "באש",
+      "gloss": "ด้วยไฟ"
+    }
+  ],
+  "timestamp": "2026-08-20T10:03:01.782823774Z",
+  "model": "glm-5.3"
+}

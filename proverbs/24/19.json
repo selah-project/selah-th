@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 24:19",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "อย่าเร่าร้อนใจใน ⟨เรื่อง⟩ คนชั่ว อย่าอิจฉาใน ⟨เรื่อง⟩ คนอธรรม",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תתחר",
+      "gloss": "เร่าร้อนใจ"
+    },
+    {
+      "surface": "במרעים",
+      "gloss": "ในคนชั่ว"
+    },
+    {
+      "surface": "אל",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תקנא",
+      "gloss": "อิจฉา"
+    },
+    {
+      "surface": "ברשעים",
+      "gloss": "ในคนอธรรม"
+    }
+  ],
+  "timestamp": "2026-08-20T14:53:15.106825555Z",
+  "model": "glm-5.3"
+}

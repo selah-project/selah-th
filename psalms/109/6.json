@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 109:6",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 109,
+  "translation": "ตั้งคนชั่วร้ายไว้เหนือเขา และให้שטนยืนอยู่ข้างขวาเขา",
+  "tokens": [
+    {
+      "surface": "הפקד",
+      "gloss": "ตั้งไว้"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "เหนือเขา"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "คนชั่วร้าย"
+    },
+    {
+      "surface": "ושטן",
+      "gloss": "และשטน"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "ยืนอยู่"
+    },
+    {
+      "surface": "על",
+      "gloss": "ข้าง"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "ขวาเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T11:54:55.975890840Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 12:15",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "ทางของคนโง่ ⟨เป็น⟩ ตรงในตาของเขา แต่ผู้ฟังคำแนะนำ ⟨คือ⟩ คนมีปัญญา",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ทาง"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "ของคนโง่"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ตรง"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ในตาของเขา"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "แต่ผู้ฟัง"
+    },
+    {
+      "surface": "לעצה",
+      "gloss": "คำแนะนำ"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "คนมีปัญญา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:14:15.387415802Z",
+  "model": "glm-5.3"
+}

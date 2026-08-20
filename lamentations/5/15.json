@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "ความยินดีของใจเราหยุดลง การฟ้อนรำของเรากลับเป็นการไว้ทุกข์",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "หยุดลง"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "ความยินดี"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "ของใจเรา"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "กลับเป็น"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "การไว้ทุกข์"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "การฟ้อนรำของเรา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:57:31.199546752Z",
+  "model": "glm-5.3"
+}

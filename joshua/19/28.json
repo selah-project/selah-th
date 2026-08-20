@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "และเอบรอน และเรโฮบ และฮัมมอน และคานาห์ จนถึงไซดอนใหญ่",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "และเอบรอน"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "และเรโฮบ"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "และฮัมมอน"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "และคานาห์"
+    },
+    {
+      "surface": "עד",
+      "gloss": "จนถึง"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "ไซดอน"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ใหญ่"
+    }
+  ],
+  "timestamp": "2026-08-20T08:14:51.367191187Z",
+  "model": "glm-5.3"
+}

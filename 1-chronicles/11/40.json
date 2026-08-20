@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 11:40",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "อีรา ⟨the⟩ ยิทรี กาเรบ ⟨the⟩ ยิทรี",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "อีรา"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ยิทรี"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "กาเรบ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "ยิทรี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:43:27.683430397Z",
+  "model": "glm-5.3"
+}

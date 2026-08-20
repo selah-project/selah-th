@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "เบนายาห์ เบเดยาห์ เคลูไฮ",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "เบนายาห์"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "เบเดยาห์"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "เคลูไฮ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:25:20.394570413Z",
+  "model": "glm-5.3"
+}

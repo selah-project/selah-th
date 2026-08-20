@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และคนฟิลิชตีอีกเพิ่มขึ้น และได้แผ่กำลังออกในหุบเขา",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "และเพิ่มขึ้นอีก"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "อีก"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "คนฟิลิชตี"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "และแผ่กำลังออก"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ในหุบเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:47:24.445865281Z",
+  "model": "glm-5.3"
+}

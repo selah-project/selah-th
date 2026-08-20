@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "และยาห์เวห์ตรัสกับกาด ผู้เห็นเห็นนิมิตของดาวิด กล่าวว่า",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "กาด"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "ผู้เห็นเห็นนิมิต"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ของดาวิด"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T13:50:58.668893350Z",
+  "model": "glm-5.3"
+}

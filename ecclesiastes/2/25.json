@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "ด้วยว่าใครจะกิน และใครจะรีบเพลิดเพลิน ภายนอกจากฉัน",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "ด้วยว่า"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ใคร"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "จะกิน"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "และใคร"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "จะรีบเพลิดเพลิน"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ภายนอก"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "จากฉัน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:58:08.912004656Z",
+  "model": "glm-5.3"
+}

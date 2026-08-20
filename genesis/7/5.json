@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 7:5",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และโนอาห์ทำตามทุกสิ่งซึ่งยาห์เวห์ทรงบัญชาเขา",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "และทำ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "โนอาห์"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ตามทุกสิ่ง"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "צוהו",
+      "gloss": "ทรงบัญชาเขา"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T06:41:04.699905719Z",
+  "model": "glm-5.3"
+}

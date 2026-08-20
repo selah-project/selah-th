@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 68,
+  "translation": "ภูเขาของ⟨the⟩เอโลฮิมคือภูเขาบาชาน ภูเขาแห่งยอดสูงทั้งหลายคือภูเขาบาชาน",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "ภูเขา"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ของเอโลฮิม"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ภูเขา"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "บาชาน"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ภูเขา"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "ยอดสูงทั้งหลาย"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ภูเขา"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "บาชาน"
+    }
+  ],
+  "timestamp": "2026-08-20T14:51:31.801357676Z",
+  "model": "glm-5.3"
+}

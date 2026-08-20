@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรชายของบิกวาย สองพันห้าสิบหกคน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "บิกวาย"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "สองพัน"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ห้าสิบ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "และหก"
+    }
+  ],
+  "timestamp": "2026-08-20T13:19:09.107221846Z",
+  "model": "glm-5.3"
+}

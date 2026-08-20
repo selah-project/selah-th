@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 49:10",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 49,
+  "translation": "และ<he>จะมีชีวิตอยู่อีกตลอดนิรันดร์ ⟨เขา⟩จะไม่เห็น ⟨the⟩หลุมศพ",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "และจะมีชีวิตอยู่"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "อีก"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ตลอดนิรันดร์"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "เขาจะเห็น"
+    },
+    {
+      "surface": "השחת",
+      "gloss": "⟨the⟩หลุมศพ"
+    }
+  ],
+  "timestamp": "2026-08-20T11:29:33.142713246Z",
+  "model": "glm-5.3"
+}

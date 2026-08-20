@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "สิ่งนี้ด้วย ⟨he⟩ ได้เห็นแล้ว — ปัญญาภายใต้ ⟨the⟩ ดวงอาทิตย์ — และมันยิ่งใหญ่ต่อฉัน",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "ด้วย"
+    },
+    {
+      "surface": "זה",
+      "gloss": "สิ่งนี้"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "ฉันได้เห็น"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ปัญญา"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ภายใต้"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ดวงอาทิตย์"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "และยิ่งใหญ่"
+    },
+    {
+      "surface": "היא",
+      "gloss": "มัน"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ต่อฉัน"
+    }
+  ],
+  "timestamp": "2026-08-20T13:01:46.160763749Z",
+  "model": "glm-5.3"
+}

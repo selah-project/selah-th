@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "และผู้ชายหรือผู้หญิง เมื่อมีในผิวหนังเนื้อของเขา จุดสว่าง จุดสว่างสีขาว",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "และผู้ชาย"
+    },
+    {
+      "surface": "או",
+      "gloss": "หรือ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ผู้หญิง"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เมื่อ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "มี"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ในผิวหนัง"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "เนื้อของเขา"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "จุดสว่าง"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "จุดสว่าง"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "สีขาว"
+    }
+  ],
+  "timestamp": "2026-08-20T07:24:41.122622705Z",
+  "model": "glm-5.3"
+}

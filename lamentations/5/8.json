@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "ทาสทั้งหลายปกครองเหนือเรา ⟨ผู้⟩ช่วยให้พ้นไม่มีจากมือของพวกเขา",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "ทาสทั้งหลาย"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "ปกครอง"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "เหนือเรา"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "ช่วยให้พ้น"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ไม่มี"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "จากมือของพวกเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:57:30.281514210Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรหลานของอารัค เจ็ดร้อยห้าสิบเจ็ดคน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรหลานของ"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "อารัค"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "ห้าสิบ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "และเจ็ด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:18:34.870370780Z",
+  "model": "glm-5.3"
+}

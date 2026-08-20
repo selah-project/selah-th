@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และเปเลกมีชีวิตอยู่สามสิบปี และเขาให้กำเนิด ⟨את⟩ เรอู",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "และมีชีวิตอยู่"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "เปเลก"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "สามสิบ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "และเขาให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เรอู"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "เรอู"
+    }
+  ],
+  "timestamp": "2026-08-20T06:42:47.248575620Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 27:14",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 27,
+  "translation": "ม่านสิบห้าศ cubit สำหรับไหล่ด้านหนึ่ง เสาของมันสาม และฐานรองของมันสาม",
+  "tokens": [
+    {
+      "surface": "וחמש",
+      "gloss": "และห้า"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ศ cubit"
+    },
+    {
+      "surface": "קלעים",
+      "gloss": "ม่าน"
+    },
+    {
+      "surface": "לכתף",
+      "gloss": "สำหรับไหล่"
+    },
+    {
+      "surface": "עמדיהם",
+      "gloss": "เสาของมัน"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "และฐานรองของมัน"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "สาม"
+    }
+  ],
+  "timestamp": "2026-08-20T07:12:56.938775670Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 30:19",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 30,
+  "translation": "ทางของนกอินทรีในฟ้าสวรรค์ ทางของงูบนหิน ทางของเรือกลางทะเล และทางของชายกับหญิงสาว",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "ทางของ"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "นกอินทรี"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ในฟ้าสวรรค์"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ทางของ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "งู"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "บน"
+    },
+    {
+      "surface": "צור",
+      "gloss": "หิน"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "ทางของ"
+    },
+    {
+      "surface": "אניה",
+      "gloss": "เรือ"
+    },
+    {
+      "surface": "בלב",
+      "gloss": "กลาง"
+    },
+    {
+      "surface": "ים",
+      "gloss": "ทะเล"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "และทางของ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "ชาย"
+    },
+    {
+      "surface": "בעלמה",
+      "gloss": "กับหญิงสาว"
+    }
+  ],
+  "timestamp": "2026-08-20T12:25:13.831987642Z",
+  "model": "glm-5.3"
+}

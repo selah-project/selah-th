@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 12:37",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "และจากอาเชร์ ผู้ออกไปในกองทัพ ผู้จัดแถวรบสี่หมื่นคน",
+  "tokens": [
+    {
+      "surface": "ומאשר",
+      "gloss": "และจากอาเชร์"
+    },
+    {
+      "surface": "יוצאי",
+      "gloss": "ผู้ออกไป"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "ในกองทัพ"
+    },
+    {
+      "surface": "לערך",
+      "gloss": "ผู้จัดแถว"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "รบ"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "สี่สิบ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "พัน"
+    }
+  ],
+  "timestamp": "2026-08-20T13:46:59.413636376Z",
+  "model": "glm-5.3"
+}

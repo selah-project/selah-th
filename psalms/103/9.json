@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 103:9",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 103,
+  "translation": "ไม่สู้รบตลอดไป และไม่เก็บ ⟨พระพิโรธ⟩ ถึงนิรันดร์",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "ตลอดไป"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "สู้รบ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "ถึงนิรันดร์"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "เก็บ (ความพิโรธ)"
+    }
+  ],
+  "timestamp": "2026-08-20T11:49:48.260239880Z",
+  "model": "glm-5.3"
+}

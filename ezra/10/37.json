@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 10:37",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "มัททันยาห์ มัทเทนัย และยาอาซาอู",
+  "tokens": [
+    {
+      "surface": "מתניה",
+      "gloss": "มัททันยาห์"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "มัทเทนัย"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "และยาอาซาอู"
+    }
+  ],
+  "timestamp": "2026-08-20T13:24:33.439095381Z",
+  "model": "glm-5.3"
+}

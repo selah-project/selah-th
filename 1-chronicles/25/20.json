@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 25:20",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "สำหรับที่สิบสาม ชูบาเอล บุตรชายของเขาและพี่น้องของเขา สิบสองคน",
+  "tokens": [
+    {
+      "surface": "לשלשה",
+      "gloss": "สำหรับสาม"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "שובאל",
+      "gloss": "ชูบาเอล"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "บุตรชายของเขา"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "และพี่น้องของเขา"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:52:42.871845855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 18,
+  "translation": "แม้ผู้ที่หย่อนยานในงานของเขา ก็เป็นพี่น้องของนายผู้ทำลาย",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "แม้"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "หย่อนยาน"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "ในงานของเขา"
+    },
+    {
+      "surface": "אח",
+      "gloss": "พี่น้อง"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "เขา"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "ของนาย"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "ผู้ทำลาย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:17:44.072573717Z",
+  "model": "glm-5.3"
+}

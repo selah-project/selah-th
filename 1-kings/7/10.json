@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 7:10",
+  "book": "1-kings",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และฐานรากเป็นหินมีค่า หินใหญ่ หินสิบศ cubit และหินแปดศ cubit",
+  "tokens": [
+    {
+      "surface": "ומיסד",
+      "gloss": "และฐานราก"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "หิน"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "มีค่า"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "หิน"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ใหญ่"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "หินของ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ศ cubit"
+    },
+    {
+      "surface": "ואבני",
+      "gloss": "และหินของ"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "แปด"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ศ cubit"
+    }
+  ],
+  "timestamp": "2026-08-20T08:56:18.579643348Z",
+  "model": "glm-5.3"
+}

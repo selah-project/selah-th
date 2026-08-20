@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 7:15",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และพวกมันเข้ามาหาโนอาห์ สู่หีบ สองสอง ⟨the⟩ จากเนื้อทั้งปวงที่ในตัวมันมีรูฮ์แห่งชีวิต⟨the⟩",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "และเข้ามา"
+    },
+    {
+      "surface": "אל",
+      "gloss": "หา"
+    },
+    {
+      "surface": "נח",
+      "gloss": "โนอาห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "สู่"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "หีบ"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "จากทั้งปวง"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "เนื้อสัตว์"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ในตัวมัน"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ลมหายใจ\/รูฮ์"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "แห่งชีวิต"
+    }
+  ],
+  "timestamp": "2026-08-20T06:41:41.707102032Z",
+  "model": "glm-5.3"
+}

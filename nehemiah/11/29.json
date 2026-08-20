@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และที่เอน-ริมมอน และที่โซราห์ และที่ยารมูท",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "และที่เอน"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ริมมอน"
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "และที่โซราห์"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "และที่ยารมูท"
+    }
+  ],
+  "timestamp": "2026-08-20T13:33:53.613525908Z",
+  "model": "glm-5.3"
+}

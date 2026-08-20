@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 34,
+  "translation": "และโมเชผู้รับใช้ของยาห์เวห์ก็สิ้นชีวิตที่นั่น ในแผ่นดินโมอาบ ตามปากของยาห์เวห์",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "ก็สิ้นชีวิต"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ที่นั่น"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ผู้รับใช้"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ในแผ่นดิน"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "โมอาบ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ตาม"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ปาก"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:06:50.712222650Z",
+  "model": "glm-5.3"
+}

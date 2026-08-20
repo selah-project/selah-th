@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 5:4",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "น้ำของเราด้วยเงิน ⟨เรา⟩ดื่ม ไม้ของเรามาโดยมีราคา",
+  "tokens": [
+    {
+      "surface": "מימינו",
+      "gloss": "น้ำของเรา"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "ด้วยเงิน"
+    },
+    {
+      "surface": "שתינו",
+      "gloss": "เราดื่ม"
+    },
+    {
+      "surface": "עצינו",
+      "gloss": "ไม้ของเรา"
+    },
+    {
+      "surface": "במחיר",
+      "gloss": "โดยมีราคา"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "มา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:57:25.937056717Z",
+  "model": "glm-5.3"
+}

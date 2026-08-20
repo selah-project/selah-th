@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 65:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 65,
+  "translation": "แก่ผู้นำการเรียบเรียง มิซมอร ของดาวิด บทเพลง",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "แก่ผู้นำการเรียบเรียง"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "มิซมอร"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ของดาวิด"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "บทเพลง"
+    }
+  ],
+  "timestamp": "2026-08-20T11:35:45.119224928Z",
+  "model": "glm-5.3"
+}

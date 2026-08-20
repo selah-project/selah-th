@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และเขาทำสงครามกับ ⟨ה⟩ฮากรี และกับ ยิทูร และ นาฟิช และ โนดับ",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "และเขาทำ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "สงคราม"
+    },
+    {
+      "surface": "עם",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "⟨ה⟩ฮากรี"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "และยิทูร"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "และนาฟิช"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "และโนดับ"
+    }
+  ],
+  "timestamp": "2026-08-20T15:00:44.665879908Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 9:46",
+  "book": "judges",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "และเจ้าของป้อมเชเคมทั้งหมดได้ยิน และเข้าไปยังป้อมในวิหารของเอล-เบรีท",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "และได้ยิน"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "เจ้าของ"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "ป้อม"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "เชเคม"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "และเข้าไป"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ยัง"
+    },
+    {
+      "surface": "צריח",
+      "gloss": "ป้อม"
+    },
+    {
+      "surface": "בית",
+      "gloss": "วิหารของ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "เอล"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "เบรีท"
+    }
+  ],
+  "timestamp": "2026-08-20T08:21:59.998199223Z",
+  "model": "glm-5.3"
+}

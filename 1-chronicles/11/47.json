@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 11:47",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "เอลิเอล และโอเบด และยาอาซีเอล ชาว ⟨the⟩ เมโซบา",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "เอลิเอล"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "และโอเบด"
+    },
+    {
+      "surface": "ויעשיאל",
+      "gloss": "และยาอาซีเอล"
+    },
+    {
+      "surface": "המצביה",
+      "gloss": "ชาวเมโซบา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:44:17.877915509Z",
+  "model": "glm-5.3"
+}

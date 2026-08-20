@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 41,
+  "translation": "สิ่งไร้ค่าถูกเทใส่เขา และเมื่อเขานอนลงแล้ว เขาจะไม่เพิ่มลุกขึ้นอีก",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "สิ่ง"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "ไร้ค่า"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "ถูกเท"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ใส่เขา"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "และเมื่อ"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "นอนลง"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "เพิ่ม"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "ลุกขึ้น"
+    }
+  ],
+  "timestamp": "2026-08-20T11:27:04.037839976Z",
+  "model": "glm-5.3"
+}

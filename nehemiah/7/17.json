@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรแห่งอัซกัด สองพัน สามร้อย ยี่สิบสอง",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "อัซกัด"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "สองพัน"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ยี่สิบ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "และสอง"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:15.535091299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และ⟨เหล่า⟩รูปเคารพทั้งหลายจะผ่านไปสิ้นเชิง",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "และเหล่ารูปเคารพ"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "สิ้นเชิง"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "จะผ่านไป"
+    }
+  ],
+  "timestamp": "2026-08-20T09:19:01.947092771Z",
+  "model": "glm-5.3"
+}

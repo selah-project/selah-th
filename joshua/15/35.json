@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "joshua 15:35",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "ยารมูท และอาดูลลัม โสโคห์ และอาเซกะห์",
+  "tokens": [
+    {
+      "surface": "ירמות",
+      "gloss": "ยารมูท"
+    },
+    {
+      "surface": "ועדלם",
+      "gloss": "และอาดูลลัม"
+    },
+    {
+      "surface": "שוכה",
+      "gloss": "โสโคห์"
+    },
+    {
+      "surface": "ועזקה",
+      "gloss": "และอาเซกะห์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:24.678729939Z",
+  "model": "glm-5.3"
+}

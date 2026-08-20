@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ให้เราทั้งหลายยกใจของเราไปที่ฝ่ามือ ไปยังเอลในสวรรค์",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "ยกขึ้น"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "ใจของเรา"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ไปที่"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "ฝ่ามือ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ไปยัง"
+    },
+    {
+      "surface": "אל",
+      "gloss": "เอล"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "ในสวรรค์"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:04.337307810Z",
+  "model": "glm-5.3"
+}

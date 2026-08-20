@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 16:31",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 16,
+  "translation": "มงกุฎแห่งสง่าราศีคือชราภาพ ⟨มัน⟩จะพบในทางแห่งความชอบธรรม",
+  "tokens": [
+    {
+      "surface": "עטרת",
+      "gloss": "มงกุฎ"
+    },
+    {
+      "surface": "תפארת",
+      "gloss": "สง่าราศี"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ชราภาพ"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "ในทาง"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "ความชอบธรรม"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "จะพบ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:16:47.219037017Z",
+  "model": "glm-5.3"
+}

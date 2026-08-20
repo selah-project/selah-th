@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "ในวันนั้น ผู้ที่รอดพ้นจะมาถึงเจ้า เพื่อให้หูได้ยิน",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ในวัน"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "นั้น"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "จะมาถึง"
+    },
+    {
+      "surface": "הפליט",
+      "gloss": "ผู้ที่รอดพ้น"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "ถึงเจ้า"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "เพื่อให้ได้ยิน"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "หู"
+    }
+  ],
+  "timestamp": "2026-08-20T10:29:25.229768337Z",
+  "model": "glm-5.3"
+}

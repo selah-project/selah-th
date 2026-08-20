@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "ที่สิบ ชิมอี บุตรชายของเขาและพี่น้องของเขา สิบสองคน",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "ที่สิบ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "ชิมอี"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "บุตรชายของเขา"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "และพี่น้องของเขา"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:52:42.871378730Z",
+  "model": "glm-5.3"
+}

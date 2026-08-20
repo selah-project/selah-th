@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 13:9",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "แห่งตระกูลของบิญยามิน ปัลตีบุตรของราฟู",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "แห่งตระกูลของ"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "บิญยามิน"
+    },
+    {
+      "surface": "פלטי",
+      "gloss": "ปัลตี"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "רפוא",
+      "gloss": "ราฟู"
+    }
+  ],
+  "timestamp": "2026-08-20T07:39:26.776428430Z",
+  "model": "glm-5.3"
+}

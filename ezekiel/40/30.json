@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 40,
+  "translation": "และมุขเสาเหล่านั้น รอบรอบ ยาวยี่สิบห้าศอก และกว้างห้าศอก",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "และมุขเสาเหล่านั้น"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "รอบ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "รอบ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ยาว"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ห้า"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "และยี่สิบ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ศอก"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "และกว้าง"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ห้า"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ศอก"
+    }
+  ],
+  "timestamp": "2026-08-20T10:39:56.262858588Z",
+  "model": "glm-5.3"
+}

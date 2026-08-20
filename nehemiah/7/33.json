@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ชายเมืองเนโบห์อีกแห่งหนึ่ง ห้าสิบสองคน",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ชายเมือง"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "เนโบห์"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "อีกแห่งหนึ่ง"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ห้าสิบ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "และสอง"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:17.260915059Z",
+  "model": "glm-5.3"
+}

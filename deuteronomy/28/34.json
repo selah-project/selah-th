@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "และเจ้าจะเป็นคนบ้า เพราะสิ่งที่ตาทั้งสองของเจ้าเห็น",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "และเจ้าจะเป็น"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "คนบ้า"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "จากการมองเห็น"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ตาของเจ้า"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "เจ้าจะเห็น"
+    }
+  ],
+  "timestamp": "2026-08-20T08:04:07.255729929Z",
+  "model": "glm-5.3"
+}

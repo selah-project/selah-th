@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "2-samuel 23:31",
+  "book": "2-samuel",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "อาบีอัลบอนชาวอาราบาห์ อัซมาเวทชาวบาร์ฮูม",
+  "tokens": [
+    {
+      "surface": "אבי",
+      "gloss": "อาบี"
+    },
+    {
+      "surface": "עלבון",
+      "gloss": "อัลบอน"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "ชาวอาราบาห์"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "อัซมาเวท"
+    },
+    {
+      "surface": "הברחמי",
+      "gloss": "ชาวบาร์ฮูม"
+    }
+  ],
+  "timestamp": "2026-08-20T08:52:54.409928568Z",
+  "model": "glm-5.3"
+}

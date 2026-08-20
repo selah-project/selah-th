@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "แก่ผู้ควบคุมเพลง มิซมอรของดาวีด",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "แก่ผู้ควบคุมเพลง"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "มิซมอร"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ของดาวีด"
+    }
+  ],
+  "timestamp": "2026-08-20T11:20:33.115280924Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "ดูเถิด ข้าพเจ้าวางไว้ต่อเบื้องหน้าพวกท่านในวันนี้ คือพรและคำสาป",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "ดูเถิด"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ข้าพเจ้า"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "วางให้"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "ต่อเบื้องหน้าพวกท่าน"
+    },
+    {
+      "surface": "היום",
+      "gloss": "วันนี้"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "พร"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "และคำสาป"
+    }
+  ],
+  "timestamp": "2026-08-20T07:57:19.399280969Z",
+  "model": "glm-5.3"
+}

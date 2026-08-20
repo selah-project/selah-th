@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 27:20",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 27,
+  "translation": "เชโอลและอาวัดดอนไม่อิ่มเลย และดวงตาของมนุษย์ก็ไม่อิ่มเลย",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "เชโอล"
+    },
+    {
+      "surface": "ואבדה",
+      "gloss": "และอาวัดדอน"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "อิ่มเลย"
+    },
+    {
+      "surface": "ועיני",
+      "gloss": "และดวงตา"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ของมนุษย์"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "อิ่มเลย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:23:53.707851208Z",
+  "model": "glm-5.3"
+}

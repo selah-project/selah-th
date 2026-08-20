@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 22:13",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "เมื่อชายคนหนึ่งรับผู้หญิงเป็นภรรยา และเข้าไปหาเธอ แล้วเกลียดชังเธอ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เมื่อ"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "รับ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ชาย"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ผู้หญิง"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "และเข้าไป"
+    },
+    {
+      "surface": "อเลีย",
+      "gloss": "หาเธอ"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "และเกลียดชังเธอ"
+    }
+  ],
+  "timestamp": "2026-08-20T08:02:06.850513990Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "แม้เมื่อฉันร้องออกมาและร้องทุกข์ พระองค์ก็ทรงปิดกั้นคำอธิษฐานของฉัน",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "แม้"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เมื่อ"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "ฉันร้องออกมา"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "และร้องทุกข์"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "ทรงปิดกั้น"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "คำอธิษฐานของฉัน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:01.209258819Z",
+  "model": "glm-5.3"
+}

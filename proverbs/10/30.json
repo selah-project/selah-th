@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 10:30",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "צדיק לעולם בל ימוט  ורשעים לא ישכנו ארץ",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "צדיק"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "לעולם"
+    },
+    {
+      "surface": "בל",
+      "gloss": "בל"
+    },
+    {
+      "surface": "ימוט",
+      "gloss": "ימוט"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "ורשעים"
+    },
+    {
+      "surface": "לא",
+      "gloss": "לא"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ישכנו"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "ארץ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:13:19.012041252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 14:6",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และ ⟨את⟩ โฮรี ในภูเขาของเขาคือเสอีร จนถึงเอล-ปาราน ซึ่งอยู่เหนือ ⟨the⟩ ทะเลทราย",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "โฮรี"
+    },
+    {
+      "surface": "החרי",
+      "gloss": "โฮรี"
+    },
+    {
+      "surface": "בהררם",
+      "gloss": "ในภูเขาของเขา"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "เสอีร"
+    },
+    {
+      "surface": "עד",
+      "gloss": "จนถึง"
+    },
+    {
+      "surface": "איל",
+      "gloss": "เอล"
+    },
+    {
+      "surface": "פארן",
+      "gloss": "ปาราน"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "על",
+      "gloss": "อยู่เหนือ"
+    },
+    {
+      "surface": "המדבר",
+      "gloss": "ทะเลทราย"
+    }
+  ],
+  "timestamp": "2026-08-20T06:44:24.268049070Z",
+  "model": "glm-5.3"
+}

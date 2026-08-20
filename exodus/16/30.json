@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 16,
+  "translation": "และประชาชนก็พักในวันที่เจ็ด",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "และ...ก็พัก"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ประชาชน"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ในวัน"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ที่เจ็ด"
+    }
+  ],
+  "timestamp": "2026-08-20T07:08:52.704754797Z",
+  "model": "glm-5.3"
+}

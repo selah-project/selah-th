@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 29:26",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 29,
+  "translation": "และดาวิดบุตรชายของยิชายทรงครองราชย์เหนืออิสราเอลทั้งปวง",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "และดาวิด"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรชาย"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ยิชาย"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "ทรงครองราชย์"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งปวง"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "อิสราเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:55:25.568180895Z",
+  "model": "glm-5.3"
+}

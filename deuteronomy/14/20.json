@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "นกบริสุทธิ์ทุกชนิด เจ้าทั้งหลายกินได้",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ทุก"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "นก"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "บริสุทธิ์"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "เจ้ากิน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:57:20.010089625Z",
+  "model": "glm-5.3"
+}

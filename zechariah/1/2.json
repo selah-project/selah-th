@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "ยาห์เวห์ทรงพิโรธต่อบรรพบุรุษของท่านทั้งหลาย — ทรงพิโรธ",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "ทรงพิโรธ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "על",
+      "gloss": "ต่อ"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "บรรพบุรุษของท่านทั้งหลาย"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ทรงพิโรธ"
+    }
+  ],
+  "timestamp": "2026-08-20T11:06:54.687629847Z",
+  "model": "glm-5.3"
+}

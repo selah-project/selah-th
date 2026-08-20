@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "จำแล้วจำอีก และชีวิตของข้าพเจ้าก้มต่ำลงท่ามกลางตัวข้าพเจ้า",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "จำ"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "จำอีก"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "และก้มต่ำลง"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ท่ามกลางตัวข้าพเจ้า"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ชีวิตของข้าพเจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:46.791953409Z",
+  "model": "glm-5.3"
+}

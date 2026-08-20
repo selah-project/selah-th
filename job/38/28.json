@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "th",
+  "chapter": 38,
+  "translation": "ฝ้ามีบิดาหรือ หรือใครให้กำเนิดหยดน้ำค้าง",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "มีหรือ"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "แก่ฝน"
+    },
+    {
+      "surface": "אב",
+      "gloss": "บิดา"
+    },
+    {
+      "surface": "או",
+      "gloss": "หรือ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ใคร"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "หยด"
+    },
+    {
+      "surface": "טל",
+      "gloss": "น้ำค้าง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:46:26.992972332Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "ทั้งหมดนี้มาถึงแด่เนบูคัดเนสซาร์ ⟨พระราชา⟩",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "ทั้งหมดนี้"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "มาถึง"
+    },
+    {
+      "surface": "על",
+      "gloss": "แด่"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "เนบูคัดเนสซาร์"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "พระราชา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:12:48.134728164Z",
+  "model": "glm-5.3"
+}

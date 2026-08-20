@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "อย่าห้ามปากวัวที่กำลังนวดข้าวของมัน",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "ห้ามปาก"
+    },
+    {
+      "surface": "שור",
+      "gloss": "วัว"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "ในการนวดข้าวของมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T08:01:46.444061166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 5:23",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และประชาชนนี้มีใจกบฏและดื้อรั้น เขาหันหนีไปและดำเนินจากไป",
+  "tokens": [
+    {
+      "surface": "ולעם",
+      "gloss": "และประชาชนนี้"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "นี้"
+    },
+    {
+      "surface": "היה",
+      "gloss": "มี"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ใจ"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "กบฏ"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "และดื้อรั้น"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "หันหนีไป"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "และดำเนินจากไป"
+    }
+  ],
+  "timestamp": "2026-08-20T14:38:34.801220573Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และโมเชกล่าวแก่ ⟨ที่ประชุม⟩ ว่า นี่คือพระดำรัสซึ่งยาห์เวห์ทรงบัญชาให้กระทำ",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "และโมเชกล่าว"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "אל",
+      "gloss": "แก่"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "ที่ประชุม"
+    },
+    {
+      "surface": "זה",
+      "gloss": "นี่คือ"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "พระดำรัส"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ทรงบัญชา"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "ให้กระทำ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:23:19.738247714Z",
+  "model": "glm-5.3"
+}

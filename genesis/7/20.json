@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "สิบห้าศิลาจากข้างบน น้ำก็มีกำลังมากขึ้น และ⟨the⟩ภูเขาก็ถูกปกคลุม",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "ห้า"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ศิลา"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "จากข้างบน"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "มีกำลังมากขึ้น"
+    },
+    {
+      "surface": "המים",
+      "gloss": "น้ำ"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "และถูกปกคลุม"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "ภูเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T06:41:37.022130863Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "และข้าพเจ้าทูลวิงวอนต่อยาห์เวห์ในเวลานั้นว่า",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "และข้าพเจ้าทูลวิงวอน"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ต่อ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "ในเวลา"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "นั้น"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:53:12.713999382Z",
+  "model": "glm-5.3"
+}

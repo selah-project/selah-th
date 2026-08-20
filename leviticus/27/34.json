@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "leviticus 27:34",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 27,
+  "translation": "אลה המצוות אשר ציווה יהוה את משה אל בני ישראל בהר סיני",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "אลה"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "המצוות"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "אשר"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ציווה"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "มนุษย์หญิง"
+    },
+    {
+      "surface": "משה",
+      "gloss": "משה"
+    },
+    {
+      "surface": "אל",
+      "gloss": "אל"
+    },
+    {
+      "surface": "בני",
+      "gloss": "בני"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ישראל"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "בהר"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "סיני"
+    }
+  ],
+  "timestamp": "2026-08-20T07:31:55.772027479Z",
+  "model": "glm-5.3"
+}

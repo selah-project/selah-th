@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "เอลีอาฟบุตรของเขา เยโรฮัมบุตรของเขา เอลคานาห์บุตรของเขา",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "เอลีอาฟ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "เยโรฮัม"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "เอลคานาห์"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:40:39.647217819Z",
+  "model": "glm-5.3"
+}

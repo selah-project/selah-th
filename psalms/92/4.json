@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 92,
+  "translation": "บนเครื่องสายสิบ และบนพิณใหญ่ บนทำนองเบา ๆ ด้วยพิณนคราญ",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "บน"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "เครื่องสายสิบ"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "และบน"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "พิณใหญ่"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "บน"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "ทำนองเบา ๆ"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "ด้วยพิณนคราญ"
+    }
+  ],
+  "timestamp": "2026-08-20T11:48:17.179619285Z",
+  "model": "glm-5.3"
+}

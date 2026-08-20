@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "และโมเชนำ⟨את⟩⟨the⟩ชนชาติออกมาเพื่อพบ⟨the⟩เอโลฮิมจาก⟨the⟩ค่าย และพวกเขายืนตรงอยู่ที่ตีน⟨the⟩ภูเขา",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "และนำออกมา"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ชนชาติ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ชนชาติ"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "เพื่อพบ"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "⟨the⟩เอโลฮิม"
+    },
+    {
+      "surface": "מן",
+      "gloss": "จาก"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "⟨the⟩ค่าย"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "และยืนตรง"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "ที่ตีน"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨the⟩ภูเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:08:49.745454088Z",
+  "model": "glm-5.3"
+}

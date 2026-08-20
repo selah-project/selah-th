@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 25:11",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "ผลแอปเปิลทองในลวดลายเงิน คือคำที่พูดในโอกาสของมัน",
+  "tokens": [
+    {
+      "surface": "תפוחי",
+      "gloss": "ผลแอปเปิล"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ทอง"
+    },
+    {
+      "surface": "במשכיות",
+      "gloss": "ในลวดลาย"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "เงิน"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "คำ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ที่พูด"
+    },
+    {
+      "surface": "על",
+      "gloss": "ใน"
+    },
+    {
+      "surface": "אפניו",
+      "gloss": "โอกาสของมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:20:54.239676519Z",
+  "model": "glm-5.3"
+}

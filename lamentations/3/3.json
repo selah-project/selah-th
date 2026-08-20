@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 3:3",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "אך נגדי הוא שב מפנה את ידו כל היום",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "אך"
+    },
+    {
+      "surface": "בי",
+      "gloss": "נגדי"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "הוא שב"
+    },
+    {
+      "surface": "יהפך",
+      "gloss": "מפנה"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "את ידו"
+    },
+    {
+      "surface": "כל",
+      "gloss": "כל"
+    },
+    {
+      "surface": "היום",
+      "gloss": "היום"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:40.625937118Z",
+  "model": "glm-5.3"
+}

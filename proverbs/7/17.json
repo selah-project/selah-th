@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 7:17",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ฉันประพรมที่นอนของฉัน ด้วยมดยอบ อะโลสส์ และอบเชย",
+  "tokens": [
+    {
+      "surface": "נפתי",
+      "gloss": "ฉันประพรม"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "ที่นอนของฉัน"
+    },
+    {
+      "surface": "מר",
+      "gloss": "มดยอบ"
+    },
+    {
+      "surface": "אהלים",
+      "gloss": "อะโลสส์"
+    },
+    {
+      "surface": "וקנמון",
+      "gloss": "และอบเชย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:12:16.651257332Z",
+  "model": "glm-5.3"
+}

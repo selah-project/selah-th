@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 39:11",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 39,
+  "translation": "และ แถว ที่สอง โกเมน ไพลิน และยาเฮโลม",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "และแถว"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ที่สอง"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "โกเมน"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "ไพลิน"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "และยาเฮโลม"
+    }
+  ],
+  "timestamp": "2026-08-20T07:18:47.182904916Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "สำหรับยิสสาคาร์ — เนทันเอล บุตรทซูอาร์",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "สำหรับยิสสาคาร์"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "เนทันเอล"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "ทซูอาร์"
+    }
+  ],
+  "timestamp": "2026-08-20T07:32:17.081806513Z",
+  "model": "glm-5.3"
+}

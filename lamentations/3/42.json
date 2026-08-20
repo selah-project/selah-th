@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "lamentations 3:42",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "พวกเราได้ล่วงละเมิดและได้กบฏ ⟨เรา⟩— พระองค์ท่านไม่ทรงให้อภัย",
+  "tokens": [
+    {
+      "surface": "נחנו",
+      "gloss": "พวกเรา"
+    },
+    {
+      "surface": "פשענו",
+      "gloss": "ล่วงละเมิด"
+    },
+    {
+      "surface": "ומרינו",
+      "gloss": "และกบฏ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "พระองค์ท่าน"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "סלחת",
+      "gloss": "ทรงให้อภัย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:04.337529406Z",
+  "model": "glm-5.3"
+}

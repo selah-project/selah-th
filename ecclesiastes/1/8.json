@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 1:8",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "ถ้อยคำทั้งหมดล้าเหนื่อย ⟨ไม่มี⟩ ผู้ใดสามารถกล่าวได้ ตาไม่อิ่มจากการเห็น และหูไม่เต็มจากการฟัง",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "הדברים ถ้อยคำ"
+    },
+    {
+      "surface": "יגעים",
+      "gloss": "ล้าเหนื่อย"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "สามารถ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ผู้ใด\/คน"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "กล่าว"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תשבע",
+      "gloss": "อิ่ม"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ตา"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "จากการเห็น"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "תמלא",
+      "gloss": "เต็ม"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "หู"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "จากการฟัง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:58:57.930371945Z",
+  "model": "glm-5.3"
+}

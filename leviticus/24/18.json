@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 24:18",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "และผู้ปะทะชีวิตของสัตว์เลี้ยง ต้องชดใช้มัน ชีวิตแทนชีวิต",
+  "tokens": [
+    {
+      "surface": "ומכה",
+      "gloss": "และผู้ปะทะ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ชีวิต"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "ของสัตว์เลี้ยง"
+    },
+    {
+      "surface": "ישלמנה",
+      "gloss": "ต้องชดใช้มัน"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ชีวิต"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "แทน"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ชีวิต"
+    }
+  ],
+  "timestamp": "2026-08-20T07:30:08.547571530Z",
+  "model": "glm-5.3"
+}

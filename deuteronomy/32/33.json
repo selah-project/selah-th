@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 32,
+  "translation": "พิษแห่งมังกรสมุทรคือเหล้าองุ่นของเขา และพิษร้ายแรงแห่งงูแอสป์",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "พิษ"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "มังกรสมุทร"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "เหล้าองุ่นของเขา"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "และพิษร้ายแรง"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "งูแอสป์"
+    },
+    {
+      "surface": "אכזร",
+      "gloss": "ร้ายแรง"
+    }
+  ],
+  "timestamp": "2026-08-20T08:05:33.826070794Z",
+  "model": "glm-5.3"
+}

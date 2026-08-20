@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "genesis 25:29",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "และยาอาโคฟทำแกง และเอซาฟเดินมาจากทุ่งนา และเขาเหนื่อยหมดแรง",
+  "tokens": [
+    {
+      "surface": "ויזד",
+      "gloss": "และทำแกง"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "ยาอาโคฟ"
+    },
+    {
+      "surface": "נזיד",
+      "gloss": "แกง"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "และมา"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "เอซาฟ"
+    },
+    {
+      "surface": "มן",
+      "gloss": "จาก"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "ทุ่งนา"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "และเขา"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "เหนื่อยหมดแรง"
+    }
+  ],
+  "timestamp": "2026-08-20T06:48:14.057809673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "เขาขอน้ำ นางให้นม ในถาดอันประเสริฐนางนำเนยมาเสนอ",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "น้ำ"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "ขอ"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "นม"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "นางให้"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "ในถาด"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "อันประเสริฐ"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "นางนำมาเสนอ"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "เนย"
+    }
+  ],
+  "timestamp": "2026-08-20T08:19:07.617027792Z",
+  "model": "glm-5.3"
+}

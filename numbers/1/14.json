@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "แห่งกาด เอลยาซาฟบุตรเดอูเอล",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "แห่งกาด"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "เอลยาซาฟ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "เดอูเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T07:32:05.841712801Z",
+  "model": "glm-5.3"
+}

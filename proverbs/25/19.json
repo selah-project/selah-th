@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 25:19",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "ฟันหักและเท้าเคลื่อนข้อ ⟨คือ⟩ ความไว้ใจในคนทรยศในวันที่คับแค้น",
+  "tokens": [
+    {
+      "surface": "שן",
+      "gloss": "ฟัน"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "หัก"
+    },
+    {
+      "surface": "ורגל",
+      "gloss": "และเท้า"
+    },
+    {
+      "surface": "מועדת",
+      "gloss": "เคลื่อนข้อ"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "ความไว้ใจ"
+    },
+    {
+      "surface": "בוגד",
+      "gloss": "ในคนทรยศ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ในวัน"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "ที่คับแค้น"
+    }
+  ],
+  "timestamp": "2026-08-20T12:22:06.031470810Z",
+  "model": "glm-5.3"
+}

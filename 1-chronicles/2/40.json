@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และเอลอาซาห์ให้กำเนิด ⟨את⟩ ซิสมัย และซิสมัยให้กำเนิด ⟨את⟩ ชัลลูม",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "และเอลอาซาห์"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ซิสมัย"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "ซิสมัย"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "และซิสมัย"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ชัลลูม"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ชัลลูม"
+    }
+  ],
+  "timestamp": "2026-08-20T13:37:05.692261758Z",
+  "model": "glm-5.3"
+}

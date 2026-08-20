@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 1:14",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "และ ⟨את⟩ ⟨the⟩ เยบูสี และ ⟨את⟩ ⟨the⟩ อาโมรี และ ⟨את⟩ ⟨the⟩ กิรกาสี",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "เยบูสี"
+    },
+    {
+      "surface": "היבוסי",
+      "gloss": "⟨the⟩ เยบูสี"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "อาโมรี"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "⟨the⟩ อาโมรี"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "กิรกาสี"
+    },
+    {
+      "surface": "הגרגשי",
+      "gloss": "⟨the⟩ กิรกาสี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:36:29.881207957Z",
+  "model": "glm-5.3"
+}

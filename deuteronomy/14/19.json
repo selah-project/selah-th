@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และทุกสิ่งที่ตัวเล็กจิ๋วบินได้ ⟨is⟩ ไม่บริสุทธิ์แก่พวกเจ้า ห้ามกิน",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "และทุก"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "สิ่งที่ตัวเล็กจิ๋ว"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "บินได้"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "ไม่บริสุทธิ์"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "มัน"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "แก่พวกเจ้า"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "กิน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:57:20.009934421Z",
+  "model": "glm-5.3"
+}

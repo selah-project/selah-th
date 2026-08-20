@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "ตั๊กแตนจะยึดครองต้นไม้ทั้งปวงของเจ้าและผลผลิตแผ่นดินของเจ้า",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ทั้งปวง"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "ต้นไม้ของเจ้า"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "และผลผลิต"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "แผ่นดินของเจ้า"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "จะยึดครอง"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "ตั๊กแตน"
+    }
+  ],
+  "timestamp": "2026-08-20T08:03:07.002493987Z",
+  "model": "glm-5.3"
+}

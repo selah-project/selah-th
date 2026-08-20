@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 127:3",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 127,
+  "translation": "ดูเถิด บุตรชายเป็นมรดกจากยาห์เวห์ ผลแห่งครรภ์เป็นรางวัล",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "ดูเถิด"
+    },
+    {
+      "surface": "נחלת",
+      "gloss": "มรดก"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "บุตรชาย"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "รางวัล"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "ผล"
+    },
+    {
+      "surface": "הבטן",
+      "gloss": "แห่งครรภ์"
+    }
+  ],
+  "timestamp": "2026-08-20T12:02:57.808481832Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 23:1",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "ชายจะไม่รับ ⟨את⟩ ภรรยาของบิดาของเขา และจะไม่เปิดเผยชายผ้าคลุมของบิดาของเขา",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "จะไม่"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "รับ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ชาย"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ภรรยาของบิดาของเขา"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "ภรรยา"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "บิดาของเขา"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และจะไม่"
+    },
+    {
+      "surface": "יגלה",
+      "gloss": "เปิดเผย"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "ชายผ้าคลุม"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "บิดาของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T08:02:12.401343099Z",
+  "model": "glm-5.3"
+}

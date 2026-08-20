@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 10:27",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "และ ⟨את⟩ ฮาโดรัม และ ⟨את⟩ อูซาล และ ⟨את⟩ ดิกลาห์",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "ฮาโดรัม"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "ฮาโดรัม"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "อูซาล"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "อูซาล"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "ดิกลาห์"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "ดิกลาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T06:43:05.775206329Z",
+  "model": "glm-5.3"
+}

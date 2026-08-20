@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "ผู้ขยี้ตาให้ความเจ็บปวด และโง่เขลาแห่งริมฝีปากจะล้มลง",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "ผู้ขยี้"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ตา"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ให้"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "ความเจ็บปวด"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "และโง่เขลา"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "แห่งริมฝีปาก"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "จะล้มลง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:12:56.476208776Z",
+  "model": "glm-5.3"
+}

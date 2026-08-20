@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "อย่างผูกหินไว้ในหนังสติ๊ก เช่นนั้น ⟨คือ⟩ผู้ให้เกียรติแก่คนโง่",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "อย่างผูก"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "หิน"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "ในหนังสติ๊ก"
+    },
+    {
+      "surface": "כן",
+      "gloss": "เช่นนั้น"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "ผู้ให้"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "แก่คนโง่"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "เกียรติ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:22:48.815251881Z",
+  "model": "glm-5.3"
+}

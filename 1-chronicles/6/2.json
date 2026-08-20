@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "และนี่คือชื่อของบุตรชายเกอร์โชม คือ ลิบนี และชิมอี",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "และนี่คือ"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "ชื่อ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "เกอร์โชม"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "ลิบนี"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "และชิมอี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:40:42.954179600Z",
+  "model": "glm-5.3"
+}

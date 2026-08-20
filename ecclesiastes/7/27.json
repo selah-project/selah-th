@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "จงดู สิ่งนี้ ฉันพบแล้ว กล่าวว่า โคเฮเลท หนึ่งต่อหนึ่ง เพื่อค้นพบ เหตุผล",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "จงดู"
+    },
+    {
+      "surface": "זה",
+      "gloss": "สิ่งนี้"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "ฉันพบแล้ว"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "กล่าวว่า"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "โคเฮเลท"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "ต่อหนึ่ง"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "เพื่อค้นพบ"
+    },
+    {
+      "surface": "חשבון",
+      "gloss": "เหตุผล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:01:35.968165753Z",
+  "model": "glm-5.3"
+}

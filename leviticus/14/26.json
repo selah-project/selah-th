@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 14:26",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และปุโรหิษจะเทน้ำมันลงบนฝ่ามือซ้ายของตน ⟨เอง⟩",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "และจาก"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "น้ำมัน"
+    },
+    {
+      "surface": "יצק",
+      "gloss": "ปุโรหิษจะเท"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ปุโรหิษ"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "כף",
+      "gloss": "ฝ่ามือ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ของปุโรหิษ"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "ซ้าย"
+    }
+  ],
+  "timestamp": "2026-08-20T07:25:51.766027834Z",
+  "model": "glm-5.3"
+}

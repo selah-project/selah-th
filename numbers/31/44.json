@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "และโคหกวางหกหมื่นสามหมื่น",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "และโคหกวาง"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "หก"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "และสามสิบ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "พัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:49:03.470443768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nahum 3:2",
+  "book": "nahum",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "เสียงแส้ และเสียงล้อกราดเวลา และม้าก้าวโดด และรถรบสะบัดก้าว",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "เสียง"
+    },
+    {
+      "surface": "שוט",
+      "gloss": "แส้"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "และเสียง"
+    },
+    {
+      "surface": "רעש",
+      "gloss": "กราดเวลา"
+    },
+    {
+      "surface": "אופן",
+      "gloss": "ล้อ"
+    },
+    {
+      "surface": "วסוס",
+      "gloss": "และม้า"
+    },
+    {
+      "surface": "דהר",
+      "gloss": "ก้าวโดด"
+    },
+    {
+      "surface": "ומרכבה",
+      "gloss": "และรถรบ"
+    },
+    {
+      "surface": "מרקדה",
+      "gloss": "สะบัดก้าว"
+    }
+  ],
+  "timestamp": "2026-08-20T14:47:17.182914955Z",
+  "model": "glm-5.3"
+}

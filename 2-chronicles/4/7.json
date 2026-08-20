@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-chronicles 4:7",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และเขาทำ ⟨את⟩ -menorah ทองคำสิบดวงตามกฎของมัน และเขาวางไว้ในพระวิหารห้าดวงทางขวา และห้าดวงทางซ้าย",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "และเขาทำ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "menorah ทองคำ"
+    },
+    {
+      "surface": "מנרות",
+      "gloss": "menorah"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ทองคำ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "כמשפטם",
+      "gloss": "ตามกฎของมัน"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "และเขาวางไว้"
+    },
+    {
+      "surface": "בהיכל",
+      "gloss": "ในพระวิหาร"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ห้า"
+    },
+    {
+      "surface": "מימין",
+      "gloss": "ทางขวา"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "และห้า"
+    },
+    {
+      "surface": "משמאול",
+      "gloss": "ทางซ้าย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:57:55.702497539Z",
+  "model": "glm-5.3"
+}

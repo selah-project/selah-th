@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "และถ้าผื่นหนองลุกลามในผิวหนังหลังจากการชำระของเขา",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "และถ้า"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "ลุกลาม"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "จะลุกลาม"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "ผื่นหนอง"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "ในผิวหนัง"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "หลังจาก"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "การชำระของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:24:40.958304709Z",
+  "model": "glm-5.3"
+}

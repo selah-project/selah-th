@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 12:36",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "และจากชาวดาน ผู้จัดแถวรบ ยี่สิบแปดพัน และหกร้อย",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "และจาก"
+    },
+    {
+      "surface": "הדני",
+      "gloss": "ชาวดาน"
+    },
+    {
+      "surface": "ערכי",
+      "gloss": "ผู้จัดแถวรบ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "สงคราม"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ยี่สิบ"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "และแปด"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "และหก"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:46:42.435381687Z",
+  "model": "glm-5.3"
+}

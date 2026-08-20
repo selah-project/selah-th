@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "ดีกว่าที่เจ้าจะไม่ปฏิญาณ กว่าที่จะปฏิญาณแล้วไม่ชำระให้สมบูรณ์",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ดีกว่า"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "เจ้าปฏิญาณ"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "กว่าที่จะปฏิญาณแล้ว"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "ชำระให้สมบูรณ์"
+    }
+  ],
+  "timestamp": "2026-08-20T12:59:47.758885485Z",
+  "model": "glm-5.3"
+}

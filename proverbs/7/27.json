@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "หนทางแห่งเชโอลคือบ้านของนาง ที่ลงไปสู่ห้องชั้นในของความตาย",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "หนทางแห่ง"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "เชโอล"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "บ้านของนาง"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "ที่ลงไป"
+    },
+    {
+      "surface": "אל",
+      "gloss": "สู่"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "ห้องชั้นในของ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ความตาย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:11:37.753080316Z",
+  "model": "glm-5.3"
+}

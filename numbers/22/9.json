@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "และเอโลฮิมทรงมายังบิลอัม และตรัสว่า ผู้คนเหล่านี้ที่อยู่กับท่านคือใคร",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "และทรงมา"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "เอโลฮิม"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ยัง"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "บิลอัม"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "และตรัสว่า"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ใคร"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "⟨the⟩ ผู้คน"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "เหล่านี้"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "กับท่าน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:44:55.160385628Z",
+  "model": "glm-5.3"
+}

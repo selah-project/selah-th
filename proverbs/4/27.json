@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 4:27",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "อย่าเอนไปขวาหรือซ้าย จงถอนเท้าเจ้าให้พ้นจากความชั่วร้าย",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תט",
+      "gloss": "เอนไป"
+    },
+    {
+      "surface": "ימין",
+      "gloss": "ขวา"
+    },
+    {
+      "surface": "ושמאול",
+      "gloss": "หรือซ้าย"
+    },
+    {
+      "surface": "הסר",
+      "gloss": "จงถอน"
+    },
+    {
+      "surface": "רגלך",
+      "gloss": "เท้าเจ้า"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "ให้พ้นจากความชั่วร้าย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:09:07.149576321Z",
+  "model": "glm-5.3"
+}

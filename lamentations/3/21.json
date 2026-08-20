@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "สิ่งนี้ฉันหวนคืนสู่ใจของฉัน เหตุนี้ฉันจึงมีความหวัง",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "สิ่งนี้"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "หวนคืน"
+    },
+    {
+      "surface": "אל",
+      "gloss": "สู่"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "ใจของฉัน"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหตุ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "นี้"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "มีความหวัง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:04.244150471Z",
+  "model": "glm-5.3"
+}

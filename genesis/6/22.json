@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 6:22",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "และโนอาหทำตามทั้งปวงซึ่งเอโลฮิมทรงบัญชา ⟨את⟩ เขา เช่นนั้นเขาทำ",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "และเขาทำ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "โนอาห"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "ตามทั้งปวง"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ทรงบัญชา"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "เขา"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "เอโลฮิม"
+    },
+    {
+      "surface": "כן",
+      "gloss": "เช่นนั้น"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "เขาทำ"
+    }
+  ],
+  "timestamp": "2026-08-20T06:40:42.818890744Z",
+  "model": "glm-5.3"
+}

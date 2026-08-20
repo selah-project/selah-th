@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 7:4",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และยาห์เวห์ตรัสถึงโมเซกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויאมר",
+      "gloss": "และทรงตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเซ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:36:28.817269725Z",
+  "model": "glm-5.3"
+}

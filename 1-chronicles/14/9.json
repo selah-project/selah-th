@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และคนฟีลิสทีมา และก็แผ่ประชากันในหุบเขาราฟาอิม",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "และคนฟีลิสที"
+    },
+    {
+      "surface": "באו",
+      "gloss": "มา"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "และแผ่ประชากัน"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "ในหุบเขา"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "ราฟาอิม"
+    }
+  ],
+  "timestamp": "2026-08-20T13:46:44.830875752Z",
+  "model": "glm-5.3"
+}

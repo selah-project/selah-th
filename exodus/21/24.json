@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "ตาแทนตา ฟันแทนฟัน มือแทนมือ เท้าแทนเท้า",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "ตา"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "แทน"
+    },
+    {
+      "surface": "עין",
+      "gloss": "ตา"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ฟัน"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "แทน"
+    },
+    {
+      "surface": "שן",
+      "gloss": "ฟัน"
+    },
+    {
+      "surface": "יד",
+      "gloss": "มือ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "แทน"
+    },
+    {
+      "surface": "יד",
+      "gloss": "มือ"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "เท้า"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "แทน"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "เท้า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:10:44.607302429Z",
+  "model": "glm-5.3"
+}

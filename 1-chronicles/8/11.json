@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และจากฮูชิมเขาให้กำเนิด ⟨את⟩ อาบีทูบ และ⟨את⟩ เอลปาอัล",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "และจากฮูชิม"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "เขาให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "อาบีทูบ"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "อาบีทูบ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "เอลปาอัล"
+    },
+    {
+      "surface": "אลפעל",
+      "gloss": "เอลปาอัล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:41:30.027550148Z",
+  "model": "glm-5.3"
+}

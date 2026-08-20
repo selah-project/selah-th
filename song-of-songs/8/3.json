@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 8:3",
+  "book": "song-of-songs",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "ซ้ายของเขาใต้ศีรษะของฉัน และขวาของเขาโอบกอดฉัน",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "ซ้ายของเขา"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ใต้"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "ศีรษะของฉัน"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "และขวาของเขา"
+    },
+    {
+      "surface": "תחבקני",
+      "gloss": "โอบกอดฉัน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:51:23.129571032Z",
+  "model": "glm-5.3"
+}

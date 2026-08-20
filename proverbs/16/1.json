@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 16:1",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 16,
+  "translation": "ของมนุษย์คือการจัดการแห่งใจ และจากยาห์เวห์คือคำตอบแห่งลิ้น",
+  "tokens": [
+    {
+      "surface": "לאדם",
+      "gloss": "ของมนุษย์"
+    },
+    {
+      "surface": "מערכי",
+      "gloss": "การจัดการ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ใจ"
+    },
+    {
+      "surface": "ומיהוה",
+      "gloss": "และจากยาห์เวห์"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "คำตอบ"
+    },
+    {
+      "surface": "ลשון",
+      "gloss": "ลิ้น"
+    }
+  ],
+  "timestamp": "2026-08-20T12:16:38.298225761Z",
+  "model": "glm-5.3"
+}

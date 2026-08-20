@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "เหตุนั้นมือทุกคู่จะอ่อนแรง และใจของมนุษย์ทุกดวงจะละลาย",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "เหตุ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "นั้น"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทุก"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "มือ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "จะอ่อนแรง"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "และทุก"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "ใจ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "ของมนุษย์"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "จะละลาย"
+    }
+  ],
+  "timestamp": "2026-08-20T09:22:44.567991679Z",
+  "model": "glm-5.3"
+}

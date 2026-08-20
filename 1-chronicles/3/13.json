@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 3:13",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "อาฮัซบุตรของเขา คิซกียาฮูบุตรของเขา เมนัชเชห์บุตรของเขา",
+  "tokens": [
+    {
+      "surface": "אחז",
+      "gloss": "อาฮัซ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "คิซกียาฮู"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "เมนัชเชห์"
+    },
+    {
+      "surface": "บנו",
+      "gloss": "บุตรของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:38:59.683309022Z",
+  "model": "glm-5.3"
+}

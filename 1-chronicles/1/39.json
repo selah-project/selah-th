@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 1:39",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "และบุตรชายของโลทาน: โฮรี และโฮมาม และทิมนาห์เป็นน้องสาวของโลทาน",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรชายของ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "โลทาน"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "โฮรี"
+    },
+    {
+      "surface": "והומם",
+      "gloss": "และโฮมาม"
+    },
+    {
+      "surface": "ואחות",
+      "gloss": "และน้องสาวของ"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "โลทาน"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "ทิมนาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:36:01.123832120Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 3:29",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "และเราอยู่ในหุบเขา เฝ้ามองเบธเปออร์",
+  "tokens": [
+    {
+      "surface": "ונשב",
+      "gloss": "และเราอยู่"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ในหุบเขา"
+    },
+    {
+      "surface": "מול",
+      "gloss": "เฝ้ามอง"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบธ"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "เปออร์"
+    }
+  ],
+  "timestamp": "2026-08-20T07:53:03.263421827Z",
+  "model": "glm-5.3"
+}

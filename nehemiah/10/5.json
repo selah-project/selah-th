@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "ฮัตทูช เชวันยาห์ มัลลูค",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "ฮัตทูช"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "เชวันยาห์"
+    },
+    {
+      "surface": "מלוך",
+      "gloss": "มัลลูค"
+    }
+  ],
+  "timestamp": "2026-08-20T13:31:04.421111931Z",
+  "model": "glm-5.3"
+}

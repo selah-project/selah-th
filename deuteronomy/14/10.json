@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และทุกสิ่งซึ่งไม่มีครีบและเกล็ดแก่มัน เจ้าจะไม่กิน มันเป็นสิ่งไม่สะอาดแก่เจ้า",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "และทุกสิ่ง"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ไม่มี"
+    },
+    {
+      "surface": "לו",
+      "gloss": "แก่มัน"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "ครีบ"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "และเกล็ด"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "เจ้าจะกิน"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "สิ่งไม่สะอาด"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "มันเป็น"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "แก่เจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:57:15.201554174Z",
+  "model": "glm-5.3"
+}

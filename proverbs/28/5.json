@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 28:5",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "คนชั่วไม่เข้าใจความชอบธรรม แต่ผู้แสวงหายาห์เวห์เข้าใจทุกสิ่ง",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "คน"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ชั่ว"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "เข้าใจ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "ความชอบธรรม"
+    },
+    {
+      "surface": "ומבקשי",
+      "gloss": "และผู้แสวงหา"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "יבינו",
+      "gloss": "เข้าใจ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทุกสิ่ง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:23:29.481414597Z",
+  "model": "glm-5.3"
+}

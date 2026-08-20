@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และบรรดาชายทั้งหมดแห่งยิสราเอลมาประชุมต่อพระราชาในเทศกาลนั้น คือเดือนที่เจ็ด",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "และประชุม"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ต่อ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "พระราชา"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ชาย"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ยิสราเอล"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "ในเทศกาล"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "นั้นคือ"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "เดือน"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ที่เจ็ด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:59:59.316864691Z",
+  "model": "glm-5.3"
+}

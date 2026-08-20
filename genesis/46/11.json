@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 46:11",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 46,
+  "translation": "และบุตรชายของเลวี: เกิร์โชน เคฮัท และเมรารี",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรชายของ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "เลวี"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "เกิร์โชน"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "เคฮัท"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "และเมรารี"
+    }
+  ],
+  "timestamp": "2026-08-20T06:58:49.453894864Z",
+  "model": "glm-5.3"
+}

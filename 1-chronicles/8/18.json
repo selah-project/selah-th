@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และยิชเมราย และยิซลียาห์ และโยบาบ บุตรของเอลปาอาล",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "และยิชเมราย"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "และยิซลียาห์"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "และโยบาบ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "เอลปาอาล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:41:54.316870444Z",
+  "model": "glm-5.3"
+}

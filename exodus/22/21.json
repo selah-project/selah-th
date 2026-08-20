@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "ทุกคน หม้ายและเด็กกำพร้า ⟨เขาทั้งหลาย⟩ อย่ากดขี้พวกเขา",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ทุกคน"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "หม้าย"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "และเด็กกำพร้า"
+    },
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "กดขี้พวกเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:10:38.492849938Z",
+  "model": "glm-5.3"
+}

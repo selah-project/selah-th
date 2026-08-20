@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "และมิชมา และดูมาห์ และมัสซา",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "และมิชมา"
+    },
+    {
+      "surface": "วדומה",
+      "gloss": "และดูมาห์"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "และมัสซา"
+    }
+  ],
+  "timestamp": "2026-08-20T06:48:38.885868102Z",
+  "model": "glm-5.3"
+}

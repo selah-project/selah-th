@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 25:15",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "ฮาดัด และเทมา เยทูร์ นาฟีช และเคเดมาห์",
+  "tokens": [
+    {
+      "surface": "חדד",
+      "gloss": "ฮาดัด"
+    },
+    {
+      "surface": "ותימא",
+      "gloss": "และเทมา"
+    },
+    {
+      "surface": "יטור",
+      "gloss": "เยทูร์"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "นาฟีช"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "และเคเดมาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T06:48:38.886061922Z",
+  "model": "glm-5.3"
+}

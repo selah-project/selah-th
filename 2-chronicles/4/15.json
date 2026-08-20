@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "⟨את⟩ ทะเลหนึ่ง และ ⟨את⟩ วัวสิบสองตัวใต้มัน",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ทะเลหนึ่ง"
+    },
+    {
+      "surface": "הים",
+      "gloss": "ทะเล"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "วאת",
+      "gloss": "⟨את⟩",
+      "marks": "วัวสิบสองตัว"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "วัว"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "ใต้มัน"
+    }
+  ],
+  "timestamp": "2026-08-20T13:58:39.410111314Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 4:25",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "ชัลลุมบุตรของเขา มิบซัมบุตรของเขา มิชมาบุตรของเขา",
+  "tokens": [
+    {
+      "surface": "שלם",
+      "gloss": "ชัลลุม"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    },
+    {
+      "surface": "מבשם",
+      "gloss": "มิบซัม"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "มิชมา"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:40:03.705852980Z",
+  "model": "glm-5.3"
+}

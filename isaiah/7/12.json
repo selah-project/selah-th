@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 7:12",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "แต่อาคาสกล่าวว่า เราจะไม่ขอ และเราจะไม่ทดสอบ ⟨את⟩ ยาห์เวห์",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "และกล่าวว่า"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "อาคาส"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "אשאל",
+      "gloss": "เราจะขอ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "אנסה",
+      "gloss": "เราจะทดสอบ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ยาห์เวห์"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T09:20:12.824877234Z",
+  "model": "glm-5.3"
+}

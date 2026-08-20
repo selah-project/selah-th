@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 44,
+  "translation": "และหลังจากการชำระของเขา เจ็ดวัน ⟨เขา⟩จะนับให้แก่เขา",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "และหลังจาก"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "การชำระของเขา"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "วัน"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "นับ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "แก่เขา"
+    }
+  ],
+  "timestamp": "2026-08-20T10:42:26.062152998Z",
+  "model": "glm-5.3"
+}

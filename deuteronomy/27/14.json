@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 27,
+  "translation": "และคนเลวีจะตอบและกล่าวถึงทุกคนของอิสราเอล เสียงดัง",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "และจะตอบ"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "คนเลวี"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "และจะกล่าว"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทุก"
+    },
+    {
+      "surface": "איש",
+      "gloss": "คน"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "อิสราเอล"
+    },
+    {
+      "surface": "קול",
+      "gloss": "เสียง"
+    },
+    {
+      "surface": "רם",
+      "gloss": "ดัง"
+    }
+  ],
+  "timestamp": "2026-08-20T08:02:58.070649607Z",
+  "model": "glm-5.3"
+}

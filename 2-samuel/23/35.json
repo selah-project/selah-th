@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "เฮทโรชาวคาร์เมลี ปาอาไรชาวอาร์บี",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "เฮทโร"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "ชาวคาร์เมลี"
+    },
+    {
+      "surface": "פערי",
+      "gloss": "ปาอาไร"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "ชาวอาร์บี"
+    }
+  ],
+  "timestamp": "2026-08-20T08:52:51.120205035Z",
+  "model": "glm-5.3"
+}

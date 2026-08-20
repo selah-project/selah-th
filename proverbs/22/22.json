@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "อย่าปล้นคนขัดสน เพราะเขาขัดสน และอย่าบดขยี้คนยากจนในประตูเมือง",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "ปล้น"
+    },
+    {
+      "surface": "דל",
+      "gloss": "คนขัดสน"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "דל",
+      "gloss": "เขาขัดสน"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "เขา"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "และอย่า"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "บดขยี้"
+    },
+    {
+      "surface": "עני",
+      "gloss": "คนยากจน"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "ในประตูเมือง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:20:26.361649678Z",
+  "model": "glm-5.3"
+}

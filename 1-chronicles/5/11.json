@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และบุตรชายของกาดอาศัยอยู่ตรงข้ามกับเขา ในแผ่นดินบาชาน จนถึงซัลคัฮ",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรชายของ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "กาด"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "ตรงข้ามกับเขา"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "อาศัยอยู่"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "ในแผ่นดิน"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "บาชาน"
+    },
+    {
+      "surface": "עד",
+      "gloss": "จนถึง"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "ซัลคัฮ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:39:59.106442011Z",
+  "model": "glm-5.3"
+}

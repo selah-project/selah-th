@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 30:14",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 30,
+  "translation": "เพราะדวร์นี้ใกล้เจ้ายิ่งนัก อยู่ในปากเจ้าและในใจเจ้า เพื่อกระทำมัน",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "ใกล้"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "เจ้า"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "דวร์"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "ยิ่งนัก"
+    },
+    {
+      "surface": "בפיך",
+      "gloss": "ในปากเจ้า"
+    },
+    {
+      "surface": "ובלבבך",
+      "gloss": "และในใจเจ้า"
+    },
+    {
+      "surface": "לעשתו",
+      "gloss": "เพื่อกระทำมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T08:05:02.721064963Z",
+  "model": "glm-5.3"
+}

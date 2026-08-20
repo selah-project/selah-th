@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 30:11",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 30,
+  "translation": "มีชั่วคนรุ่นหนึ่ง สาปบิดาของตน และ⟨את⟩มารดาของตนไม่อวยพร",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "ชั่วคนรุ่น"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "บิดาของตน"
+    },
+    {
+      "surface": "יקלל",
+      "gloss": "สาป"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "มารดาของตน"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "มารดาของตน"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "อวยพร"
+    }
+  ],
+  "timestamp": "2026-08-20T12:23:55.101513055Z",
+  "model": "glm-5.3"
+}

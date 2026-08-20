@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 35:1",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 35,
+  "translation": "และยาห์เวห์ตรัสกับโมเช ในที่ราบแห่งโมอาบ ริมแม่น้ำยาร์เดน ตรงข้ามเยรีโค ว่า",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "בערבת",
+      "gloss": "ในที่ราบ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "โมอาบ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ริม"
+    },
+    {
+      "surface": "ירדן",
+      "gloss": "ยาร์เดน"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "เยรีโค"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:51:10.862361340Z",
+  "model": "glm-5.3"
+}

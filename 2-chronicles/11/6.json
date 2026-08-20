@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และทรงสร้าง ⟨את⟩ เบทเลเคม และ ⟨את⟩ เอทาม และ ⟨את⟩ เทโคอา",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "และทรงสร้าง"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เบทเลเคม"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบท"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "เลเคม"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "เอทาม"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "เอทาม"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "เทโคอา"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "เทโคอา"
+    }
+  ],
+  "timestamp": "2026-08-20T14:00:59.555065537Z",
+  "model": "glm-5.3"
+}

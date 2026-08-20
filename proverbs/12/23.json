@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 12:23",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "คนหลักแหลมปิดบังความรู้ แต่ใจของคนโง่ร้องประกาศความเขลา",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "คน"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "หลักแหลม"
+    },
+    {
+      "surface": "כסה",
+      "gloss": "ปิดบัง"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ความรู้"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "แต่ใจ"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "ของคนโง่"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "ร้องประกาศ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "ความเขลา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:13:42.786149751Z",
+  "model": "glm-5.3"
+}

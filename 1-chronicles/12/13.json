@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "โยฮานัน คนที่แปด เอลซาบัด คนที่เก้า",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "โยฮานัน"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "คนที่แปด"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "เอลซาบัด"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "คนที่เก้า"
+    }
+  ],
+  "timestamp": "2026-08-20T13:47:08.747807101Z",
+  "model": "glm-5.3"
+}

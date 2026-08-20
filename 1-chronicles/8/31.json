@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และเกดอร์ และอาหิโย และเศคัร",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "และเกดอร์"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "และอาหิโย"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "และเศคัร"
+    }
+  ],
+  "timestamp": "2026-08-20T13:42:58.322806394Z",
+  "model": "glm-5.3"
+}

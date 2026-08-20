@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "สำหรับเผ่าดาน อาคีเอเซอร์ บุตรอัมมีชัดดาย",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "สำหรับเผ่าดาน"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "อาคีเอเซอร์"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "อัมมีชัดดาย"
+    }
+  ],
+  "timestamp": "2026-08-20T07:32:08.801573923Z",
+  "model": "glm-5.3"
+}

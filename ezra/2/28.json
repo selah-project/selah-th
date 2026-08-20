@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "ชายแห่งเบธ-เอลและฮาอัย สองร้อยยี่สิบสาม",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "ชายแห่ง"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบธ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "เอล"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "และฮาอัย"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "สองร้อย"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ยี่สิบ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "และสาม"
+    }
+  ],
+  "timestamp": "2026-08-20T13:18:37.184721245Z",
+  "model": "glm-5.3"
+}

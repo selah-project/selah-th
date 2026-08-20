@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 30:1",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 30,
+  "translation": "และพระดำรัสของยาห์เวห์มาถึงข้าพเจ้าว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็น\/มาถึง"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "พระดำรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ถึงข้าพเจ้า"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T10:32:44.535540653Z",
+  "model": "glm-5.3"
+}

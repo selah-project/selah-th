@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "และอัฟราฮัมกล่าวว่า ข้าพเจ้าจะสาบาน",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "และกล่าว"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "อัฟราฮัม"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ข้าพเจ้า"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "จะสาบาน"
+    }
+  ],
+  "timestamp": "2026-08-20T06:47:02.034437293Z",
+  "model": "glm-5.3"
+}

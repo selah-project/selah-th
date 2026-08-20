@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "ดวงอาทิตย์ออกเหนือ ⟨ה⟩ แผ่นดินโลก และโลตเข้ามาถึงโซอาร์",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "ดวงอาทิตย์"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "ออก"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "แผ่นดินโลก"
+    },
+    {
+      "surface": "วלוט",
+      "gloss": "และโลต"
+    },
+    {
+      "surface": "בא",
+      "gloss": "เข้ามาถึง"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "โซอาร์"
+    }
+  ],
+  "timestamp": "2026-08-20T06:46:01.271269163Z",
+  "model": "glm-5.3"
+}

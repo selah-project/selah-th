@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 10:21",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "มักปิอัช เมชูลลัม เฮซีร์",
+  "tokens": [
+    {
+      "surface": "מגפיעש",
+      "gloss": "มักปิอัช"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "เมชูลลัม"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "เฮซีร์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:32:29.108578621Z",
+  "model": "glm-5.3"
+}

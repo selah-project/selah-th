@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "ยาห์เวห์ เอโลฮิมของเรา ทรงตัดพันธกรณีกับเรา ที่โฮเรบ",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "เอโลฮิมของเรา"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "ทรงตัด"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "กับเรา"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "พันธกรณี"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ที่โฮเรบ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:53:39.495240654Z",
+  "model": "glm-5.3"
+}

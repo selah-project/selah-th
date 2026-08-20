@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 11:33",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "ฮัตซอร์ รามาห์ กิตตาอิม",
+  "tokens": [
+    {
+      "surface": "חצור",
+      "gloss": "ฮัตซอร์"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "รามาห์"
+    },
+    {
+      "surface": "גתים",
+      "gloss": "กิตตาอิม"
+    }
+  ],
+  "timestamp": "2026-08-20T13:34:28.069020923Z",
+  "model": "glm-5.3"
+}

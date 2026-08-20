@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 24:29",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "แก่คีช ⟨כ 对于⟩บุตรชายของคีชคือเยรัคเมเอล",
+  "tokens": [
+    {
+      "surface": "לקיש",
+      "gloss": "แก่คีช"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "קיש",
+      "gloss": "คีช"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "เยรัคเมเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:53:34.235364608Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "ezra 2:54",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรแห่งเนทซีอัค บุตรแห่งคาทีฟา",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "เนทซีอัค"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "คาทีฟา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:21:16.082911238Z",
+  "model": "glm-5.3"
+}

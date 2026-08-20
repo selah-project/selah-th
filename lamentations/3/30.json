@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ให้เขายื่นแก้มแก่ผู้ที่ตีเขา ให้เขาอิ่มด้วยความอับอาย",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "ให้ยื่น"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "แก่ผู้ที่ตีเขา"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "แก้ม"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "ให้อิ่ม"
+    },
+    {
+      "surface": "בחרפה",
+      "gloss": "ด้วยความอับอาย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:55:08.847240514Z",
+  "model": "glm-5.3"
+}

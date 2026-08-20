@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 5:38",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และอาฮีทูบให้กำเนิด ⟨את⟩ ซาโดค และซาโดคให้กำเนิด ⟨את⟩ ชัลลูม",
+  "tokens": [
+    {
+      "surface": "ואחיטוב",
+      "gloss": "และอาฮีทูบ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ซาโดค"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "ซาโดค"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "และซาโดค"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ชัลลูม"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "ชัลลูม"
+    }
+  ],
+  "timestamp": "2026-08-20T13:38:59.116966333Z",
+  "model": "glm-5.3"
+}

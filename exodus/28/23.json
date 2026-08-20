@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 28:23",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "และเจ้าจะทำบน ⟨the⟩ เฮเชน สองวงแหวนทองคำ และเจ้าจะวาง ⟨את⟩ สองวงแหวนนั้น บนสองปลายของ ⟨the⟩ เฮเชน",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "และเจ้าจะทำ"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "⟨the⟩ เฮเชน"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "טבעות",
+      "gloss": "วงแหวน"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ทองคำ"
+    },
+    {
+      "surface": "ונתת",
+      "gloss": "และเจ้าจะวาง"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "สองวงแหวนนั้น"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "הטבעות",
+      "gloss": "วงแหวนนั้น"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "שני",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ปลาย"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "⟨the⟩ เฮเชน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:13:37.719331131Z",
+  "model": "glm-5.3"
+}

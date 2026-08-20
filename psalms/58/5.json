@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 58,
+  "translation": "พิษของเขาเหมือนพิษของงูร้าย เหมือนองค์งูเห่าหูหนวกที่ปิดหู ⟨ของมัน⟩",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "พิษ"
+    },
+    {
+      "surface": "למו",
+      "gloss": "ของเขา"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "เหมือน"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "พิษ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "งูร้าย"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "เหมือน"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "งูเห่า"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "หูหนวก"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "ปิด"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "หู"
+    }
+  ],
+  "timestamp": "2026-08-20T14:50:45.982132897Z",
+  "model": "glm-5.3"
+}

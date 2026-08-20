@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 38:22",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 38,
+  "translation": "และเบซาเลล บุตรอูรี บุตรฮูร์ จากตระกูลเผ่ายehudาห์ ทำ ⟨את⟩ ทุกสิ่งซึ่งยาห์เวห์ทรงบัญชา ⟨את⟩ โมเช",
+  "tokens": [
+    {
+      "surface": "ובצלאל",
+      "gloss": "และเบซาเลล"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "อูรี"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "חור",
+      "gloss": "ฮูร์"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "จากตระกูลเผ่า"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ยehudาห์"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ทำ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ทุกสิ่ง"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทุกสิ่ง"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ทรงบัญชา"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "โมเช"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    }
+  ],
+  "timestamp": "2026-08-20T07:18:39.238664708Z",
+  "model": "glm-5.3"
+}

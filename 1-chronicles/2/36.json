@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 2:36",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และอัตไทให้กำเนิด ⟨את⟩ นาทาน และนาทานให้กำเนิด ⟨את⟩ ซาบาด",
+  "tokens": [
+    {
+      "surface": "ועתי",
+      "gloss": "และอัตไท"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "นาทาน"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "นาทาน"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "และนาทาน"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ซาบาด"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "ซาบาด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:37:32.884869879Z",
+  "model": "glm-5.3"
+}

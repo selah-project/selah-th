@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 3:9",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ชาวซีโดนเรียกภูเขาเฮรมอนว่า ซิรยอน และคนอาโมรีเรียก⟨มัน⟩ว่า สเนียร์",
+  "tokens": [
+    {
+      "surface": "צידנים",
+      "gloss": "ชาวซีโดน"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "เรียก"
+    },
+    {
+      "surface": "לחרמון",
+      "gloss": "ภูเขาเฮรมอน"
+    },
+    {
+      "surface": "שרין",
+      "gloss": "ซิรยอน"
+    },
+    {
+      "surface": "והאמרי",
+      "gloss": "และคนอาโมรี"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "เรียก"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨มัน⟩"
+    },
+    {
+      "surface": "שניר",
+      "gloss": "สเนียร์"
+    }
+  ],
+  "timestamp": "2026-08-20T07:53:12.771122753Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 12:5",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "มียามิน มาอัดยาห์ บิลกาห์",
+  "tokens": [
+    {
+      "surface": "מימין",
+      "gloss": "มียามิน"
+    },
+    {
+      "surface": "מעדיה",
+      "gloss": "มาอัดยาห์"
+    },
+    {
+      "surface": "בלגה",
+      "gloss": "บิลกาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:34:07.243326128Z",
+  "model": "glm-5.3"
+}

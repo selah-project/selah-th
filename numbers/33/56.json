@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 33:56",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 33,
+  "translation": "และจะเป็นว่า ตามที่เราคิดจะทำแก่เขา เราจะทำแก่พวกท่าน",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "และจะเป็นว่า"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ตามที่"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "เราคิด"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "จะทำ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "แก่เขา"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "เราจะทำ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "แก่พวกท่าน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:51:07.322922567Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 1:1",
+  "book": "malachi",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "ภาระแห่งพระวจนะของยาห์เวห์ ถึงอิสราเอล โดยมือของมัลอาคี",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "ภาระ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "พระวจนะ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "อิสราเอล"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "โดยมือ"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "มัลอาคี"
+    }
+  ],
+  "timestamp": "2026-08-20T11:12:12.526655273Z",
+  "model": "glm-5.3"
+}

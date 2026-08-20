@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 10:29",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "מעוז (ที่มั่น) แก่ ⟨ה⟩תמים ⟨הוא⟩ דרך יהוה  אבל מחתה (אבדן) לפועלי און",
+  "tokens": [
+    {
+      "surface": "מעוז",
+      "gloss": "ที่มั่น"
+    },
+    {
+      "surface": "לתם",
+      "gloss": "לתמים"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "דרך"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "של יהוה"
+    },
+    {
+      "surface": "ומחתה",
+      "gloss": "ומחתה"
+    },
+    {
+      "surface": "לפעלי",
+      "gloss": "לפועלי"
+    },
+    {
+      "surface": "און",
+      "gloss": "און"
+    }
+  ],
+  "timestamp": "2026-08-20T12:13:19.011813386Z",
+  "model": "glm-5.3"
+}

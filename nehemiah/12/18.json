@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "แห่งบิลกาห์ ชัมมูอา; แห่งเชมายาห์ เยโฮนาทาน",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "แห่งบิลกาห์"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "ชัมมูอา"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "แห่งเชมายาห์"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "เยโฮนาทาน"
+    }
+  ],
+  "timestamp": "2026-08-20T13:34:02.462254617Z",
+  "model": "glm-5.3"
+}

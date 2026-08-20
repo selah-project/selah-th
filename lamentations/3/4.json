@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "הוא בלה את בשרי ואת עורי שיבר את עצמותיי",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "הוא בלה"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "את בשרי"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "ואת עורי"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "שיבר"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "את עצמותיי"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:40.626053237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 17,
+  "translation": "และโมเชทำตามซึ่งยาห์เวห์ทรงบัญชา ⟨את⟩ เขา ฉะนั้นเขาทำ",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "และทำ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "ตามซึ่ง"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "ทรงบัญชา"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ เขา",
+      "marks": "โมเช"
+    },
+    {
+      "surface": "כן",
+      "gloss": "ฉะนั้น"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "เขาทำ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:42:39.560950681Z",
+  "model": "glm-5.3"
+}

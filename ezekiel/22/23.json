@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 22:23",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "และพระดำรัสของยาห์เวห์มาถึงเรากล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเกิดขึ้น"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "พระดำรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ถึงเรา"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T10:27:19.528124947Z",
+  "model": "glm-5.3"
+}

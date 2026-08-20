@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-kings 17:8",
+  "book": "1-kings",
+  "lang": "th",
+  "chapter": 17,
+  "translation": "และพระดำรัสของยาห์เวห์มาถึงเขาว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และต่อมา"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "พระดำรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "มาถึงเขา"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "ว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T09:02:43.662964454Z",
+  "model": "glm-5.3"
+}

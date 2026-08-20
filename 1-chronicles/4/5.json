@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และอัชชูร์ บิดาแห่งเทโคอา มีภรรยาสองคน คือเฮลาห์และนาอาราห์",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "และอัชชูร์"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "บิดาแห่ง"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "เทโคอา"
+    },
+    {
+      "surface": "היו",
+      "gloss": "มี"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "ภรรยา"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "เฮลาห์"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "และนาอาราห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:39:06.556509799Z",
+  "model": "glm-5.3"
+}

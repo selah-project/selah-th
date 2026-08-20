@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "ผู้ที่รักความสำราญจะเป็นคนขัดสน ผู้ที่รักเหล้าองุ่นและน้ำมันจะไม่ร่ำรวย",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ผู้ที่"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "ขัดสน"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "รัก"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "ความสำราญ"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "รัก"
+    },
+    {
+      "surface": "יין",
+      "gloss": "เหล้าองุ่น"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "และน้ำมัน"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "ร่ำรวย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:19:30.887833870Z",
+  "model": "glm-5.3"
+}

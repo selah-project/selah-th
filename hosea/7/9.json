@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "hosea 7:9",
+  "book": "hosea",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "คนต่างด้าวกินกำลังของเขา และเขาไม่รู้ แม้ผมหงอกก็โรยลงบนเขา และเขาไม่รู้",
+  "tokens": [
+    {
+      "surface": "אכלו",
+      "gloss": "กิน"
+    },
+    {
+      "surface": "זרים",
+      "gloss": "คนต่างด้าว"
+    },
+    {
+      "surface": "כחו",
+      "gloss": "กำลังของเขา"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "และเขา"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "รู้"
+    },
+    {
+      "surface": "גם",
+      "gloss": "แม้"
+    },
+    {
+      "surface": "שיבה",
+      "gloss": "ผมหงอก"
+    },
+    {
+      "surface": "זרקה",
+      "gloss": "โรยลง"
+    },
+    {
+      "surface": "בו",
+      "gloss": "บนเขา"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "และเขา"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "รู้"
+    }
+  ],
+  "timestamp": "2026-08-20T10:48:38.573057335Z",
+  "model": "glm-5.3"
+}

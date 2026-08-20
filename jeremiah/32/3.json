@@ -1,0 +1,102 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "jeremiah 32:3",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 32,
+  "translation": "אשר כלאו צדקיהו מלך יהודה לאמר מדוע אתה נבא לאמר כה אמר יהוה הנני נתן את העיר הזאת ביד מלך בבל ולכדה",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "אשר"
+    },
+    {
+      "surface": "כלאו",
+      "gloss": "כלאו"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "צדקיהו"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ยาฮודה"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "לאמר"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "מדוע"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "אתה"
+    },
+    {
+      "surface": "נבא",
+      "gloss": "נבא"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "לאמר"
+    },
+    {
+      "surface": "כה",
+      "gloss": "כה"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "אמר"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "יהוה"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "הנני"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "נתן"
+    },
+    {
+      "surface": "את",
+      "gloss": "את",
+      "marks": "เมืองนี้"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "העיר"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "הזאת"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ביד"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "בבל"
+    },
+    {
+      "surface": "ולכדה",
+      "gloss": "ולכדה"
+    }
+  ],
+  "timestamp": "2026-08-20T09:59:47.045549818Z",
+  "model": "glm-5.3"
+}

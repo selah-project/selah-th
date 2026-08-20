@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "และโมเชได้ฟัง และมันเป็นที่พอใจในสายตาของเขา",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "และท่านได้ฟัง"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "และเป็นที่พอใจ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "ในสายตาของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:22:58.218236368Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "และมัลอัคของยาห์เวห์กำชับยะโฮชูอาว่า",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "และกำชับ"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "มัลอัคของ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "ยะโฮชูอา"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T11:09:43.838661141Z",
+  "model": "glm-5.3"
+}

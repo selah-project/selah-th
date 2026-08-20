@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "สำหรับเผ่าบินยามิน อาวีดาน บุตรกิดโอนี",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "สำหรับเผ่าบินยามิน"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "อาวีดาน"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "กิดโอนี"
+    }
+  ],
+  "timestamp": "2026-08-20T07:32:08.801466423Z",
+  "model": "glm-5.3"
+}

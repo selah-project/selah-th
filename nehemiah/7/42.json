@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรชายของฮาริม หนึ่งพันสิบเจ็ด",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ฮาริม"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "หนึ่งพัน"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:17.619539125Z",
+  "model": "glm-5.3"
+}

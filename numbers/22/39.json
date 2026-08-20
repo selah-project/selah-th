@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "บิลอัมจึงไปกับบาลาก และทั้งสองมาถึงคิรยาท-ฮุตโซท",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "และเดินทางไป"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "บิลอัม"
+    },
+    {
+      "surface": "עם",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "บาลาก"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "และพวกเขามาถึง"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "คิรยาท"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "ฮุตโซท"
+    }
+  ],
+  "timestamp": "2026-08-20T07:45:25.536391606Z",
+  "model": "glm-5.3"
+}

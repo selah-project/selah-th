@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "อาหิยามบุตรชายของซาการ์คนฮารารี เอลีฟาลบุตรชายของอูร",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "อาหิยาม"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "ซาการ์"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "คนฮารารี"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "เอลีฟาล"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "อูร"
+    }
+  ],
+  "timestamp": "2026-08-20T13:44:27.600243270Z",
+  "model": "glm-5.3"
+}

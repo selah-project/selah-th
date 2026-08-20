@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "แล้วมีกษัตริย์องค์ใหม่ทรงลุกขึ้นเหนือมิทสรายิม ผู้ไม่รู้จัก ⟨את⟩ โยเซฟ",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "และทรงลุกขึ้น"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "กษัตริย์"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "ใหม่"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "มิทสรายิม"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ผู้ที่"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "รู้จัก"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "โยเซฟ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "โยเซฟ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:01:22.191027742Z",
+  "model": "glm-5.3"
+}

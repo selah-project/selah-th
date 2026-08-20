@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 112:7",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 112,
+  "translation": "เขาจะไม่กลัวข่าวร้าย ใจของเขามั่นคง วางใจในยาห์เวห์",
+  "tokens": [
+    {
+      "surface": "משמועה",
+      "gloss": "ข่าวร้าย"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "ร้าย"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "กลัว"
+    },
+    {
+      "surface": "נכון",
+      "gloss": "มั่นคง"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "ใจของเขา"
+    },
+    {
+      "surface": "בטח",
+      "gloss": "วางใจ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ในยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T14:51:46.914706096Z",
+  "model": "glm-5.3"
+}

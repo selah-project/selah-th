@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "lamentations 3:24",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ยาห์เวห์คือส่วนแบ่งของฉัน ชีวิตของฉันกล่าว เหตุนี้ฉันจึกคอยหวังในพระองค์",
+  "tokens": [
+    {
+      "surface": "חלקי",
+      "gloss": "ส่วนแบ่งของฉัน"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "กล่าว"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "ชีวิตของฉัน"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหตุ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "นี้"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "คอยหวัง"
+    },
+    {
+      "surface": "לו",
+      "gloss": "ในพระองค์"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:04.244720402Z",
+  "model": "glm-5.3"
+}

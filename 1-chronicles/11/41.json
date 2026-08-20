@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "อูริยาห์ชาวฮิตไทต์ เศบาดบุตรชายของอัคลาย",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "อูริยาห์"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "ชาวฮิตไทต์"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "เศบาด"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรชาย"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "อัคลาย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:43:22.475347019Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 137:2",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 137,
+  "translation": "บนต้นหลิ่มท่ามกลางมัน เราแขวนพิณของเราไว้",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "ערבים",
+      "gloss": "ต้นหลิ่ม"
+    },
+    {
+      "surface": "בתוכה",
+      "gloss": "ท่ามกลางมัน"
+    },
+    {
+      "surface": "תלינו",
+      "gloss": "เราแขวน"
+    },
+    {
+      "surface": "כנרותינו",
+      "gloss": "พิณของเรา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:04:52.498429946Z",
+  "model": "glm-5.3"
+}

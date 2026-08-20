@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 17,
+  "translation": "และเป็นไปว่าในคืนนั้น พระวจนะของเอโลฮิมมาถึงนาทานกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็นไปว่า"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "ในคืน"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "นั้น"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "มาถึง"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "พระวจนะ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "ของเอโลฮิม"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "นาทาน"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T13:50:19.655087700Z",
+  "model": "glm-5.3"
+}

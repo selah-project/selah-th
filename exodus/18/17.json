@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 18,
+  "translation": "และพ่อสัสสุระของโมเชกล่าวกับเขาว่า สิ่ง ⟨that⟩ เจ้าทำอยู่นั้นไม่ดี",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "และกล่าว"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "พ่อสัสสุระ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "ของโมเช"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "กับเขา"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "ดี"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "สิ่งนั้น"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨that⟩"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "เจ้า"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ทำ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:09:34.198288362Z",
+  "model": "glm-5.3"
+}

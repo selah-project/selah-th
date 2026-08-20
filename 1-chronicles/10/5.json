@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "ผู้หอบถืออาวุธของเขาเห็นว่าชาอูลตายแล้ว เขาก็ตกลงไปบนดาบเช่นกัน และตาย",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "เห็น"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ผู้หอบถือ"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "อาวุธของเขา"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ว่า"
+    },
+    {
+      "surface": "מת",
+      "gloss": "ตายแล้ว"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "ชาอูล"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ก็ตกลงไป"
+    },
+    {
+      "surface": "גם",
+      "gloss": "เช่นกัน"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "เขา"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "ดาบ"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "และตาย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:45:36.875804338Z",
+  "model": "glm-5.3"
+}

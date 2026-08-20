@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "เยฮูดาห์ และบินยามิน และเชมายาห์ และเยรเมยาห์",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "เยฮูดาห์"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "และบินยามิน"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "และเชมายาห์"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "และเยรเมยาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:33:37.464236845Z",
+  "model": "glm-5.3"
+}

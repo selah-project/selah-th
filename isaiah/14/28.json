@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "ในปีแห่งความตายของกษัตริย์อาคัส ก็บังเกิดภาระนี้ขึ้น",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "ในปี"
+    },
+    {
+      "surface": "מות",
+      "gloss": "แห่งความตาย"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "ของกษัตริย์"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "อาคัส"
+    },
+    {
+      "surface": "ฮיה",
+      "gloss": "ก็บังเกิดขึ้น"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "ภาระ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "นี้"
+    }
+  ],
+  "timestamp": "2026-08-20T09:23:20.275921449Z",
+  "model": "glm-5.3"
+}

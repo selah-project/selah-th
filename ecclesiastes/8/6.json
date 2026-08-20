@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "เพราะแก่ทุกประสงค์มีเวลาและการพิพากษา เพราะความชั่วร้ายของมนุษย์มากอยู่เหนือเขา",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "แก่ทุก"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "ประสงค์"
+    },
+    {
+      "surface": "יש",
+      "gloss": "มี"
+    },
+    {
+      "surface": "עת",
+      "gloss": "เวลา"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "และการพิพากษา"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "ความชั่วร้าย"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "ของมนุษย์"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "มาก"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "อยู่เหนือเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:02:10.937729031Z",
+  "model": "glm-5.3"
+}

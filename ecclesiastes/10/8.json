@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "ผู้ใดขุดหลุมย่อมตกลงไปในมัน และผู้ใดทำลายรั้ว งูย่อมกัดเขา",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "ผู้ขุด"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "หลุม"
+    },
+    {
+      "surface": "בו",
+      "gloss": "ลงไปในมัน"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ย่อมตก"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "และผู้ทำลาย"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "รั้ว"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "ย่อมกัดเขา"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "งู"
+    }
+  ],
+  "timestamp": "2026-08-20T13:01:01.355142233Z",
+  "model": "glm-5.3"
+}

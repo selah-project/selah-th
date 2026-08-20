@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 18:4",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 18,
+  "translation": "ונשחת הכלי אשר עשה מהחמר ביד היוצר ושב ויעשהו כלי אחר כאשר ישר בעיני היוצר לעשות",
+  "tokens": [
+    {
+      "surface": "ונשחת",
+      "gloss": "ונשחת"
+    },
+    {
+      "surface": "הכלי",
+      "gloss": "הכלי"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "אשר"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "הוא"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "עשה"
+    },
+    {
+      "surface": "בחמר",
+      "gloss": "מהחמר"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ביד"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "של היוצר"
+    },
+    {
+      "surface": "ושב",
+      "gloss": "ושב"
+    },
+    {
+      "surface": "ויעשהו",
+      "gloss": "ויעשהו"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "כלי"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "אחר"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "כאשר"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "ישר"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "בעיני"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "של היוצר"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "לעשות"
+    }
+  ],
+  "timestamp": "2026-08-20T09:52:25.218122854Z",
+  "model": "glm-5.3"
+}

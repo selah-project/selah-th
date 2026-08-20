@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 21:1",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "และนี่คือ ⟨the⟩ มิชปาติม ซึ่งเจ้าจะวางไว้เบื้องหน้าพวกเขา",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "และนี่คือ"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "⟨the⟩ มิชปาติม"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "เจ้าจะวาง"
+    },
+    {
+      "surface": "לפניהם",
+      "gloss": "เบื้องหน้าพวกเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:11:08.988552638Z",
+  "model": "glm-5.3"
+}

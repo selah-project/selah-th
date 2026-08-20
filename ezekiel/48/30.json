@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 48:30",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 48,
+  "translation": "และนี่คือ ทางออกของ ⟨the⟩ เมือง จากด้านทิศเหนือ ห้า ร้อย และสี่ พัน วัด",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "และนี่คือ"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "ทางออก"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "ของ ⟨the⟩ เมือง"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "จากด้าน"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "ทิศเหนือ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ห้า"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "และสี่"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "วัด"
+    }
+  ],
+  "timestamp": "2026-08-20T10:45:15.063006417Z",
+  "model": "glm-5.3"
+}

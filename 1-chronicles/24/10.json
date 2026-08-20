@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "ลำดับที่เจ็ดแก่ฮักโคส ลำดับที่แปดแก่อาวิยาห์",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "แก่ฮักโคส"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ลำดับที่เจ็ด"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "แก่อาวิยาห์"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ลำดับที่แปด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:52:02.855707541Z",
+  "model": "glm-5.3"
+}

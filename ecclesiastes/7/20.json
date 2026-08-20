@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "เพราะไม่มีมนุษย์ผู้ชอบธรรมเลยบนแผ่นดินโลก ผู้ทำสิ่งที่ดีและไม่ทำบาป",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "มนุษย์"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ไม่มี"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ผู้ชอบธรรม"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "บนแผ่นดินโลก"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ผู้ที่"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "ทำ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "สิ่งที่ดี"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "ทำบาป"
+    }
+  ],
+  "timestamp": "2026-08-20T13:01:57.513489849Z",
+  "model": "glm-5.3"
+}

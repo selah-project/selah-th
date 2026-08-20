@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "และฝ่ายอีรา ฮะยาอีรี ก็ ⟨เป็น⟩ ปุโรหิต แก่ดาวิด",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "และฝ่าย"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "อีรา"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "ฮะยาอีรี"
+    },
+    {
+      "surface": "היה",
+      "gloss": "เป็น"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "ปุโรหิต"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "แก่ดาวิด"
+    }
+  ],
+  "timestamp": "2026-08-20T08:49:18.608866626Z",
+  "model": "glm-5.3"
+}

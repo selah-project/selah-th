@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "ชัมโมท ชาวฮาโรรี เคเลทซ์ ชาวเปโลนี",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "ชัมโมท"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "ชาวฮาโรรี"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "เคเลทซ์"
+    },
+    {
+      "surface": "הפלוני",
+      "gloss": "ชาวเปโลนี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:43:44.286418166Z",
+  "model": "glm-5.3"
+}

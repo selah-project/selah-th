@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 37:10",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 37,
+  "translation": "และเขาทำ ⟨את⟩ โต๊ะ จากไม้ชิตติม ยาวสองศ cubit กว้างหนึ่งศ cubit และสูงหนึ่งศ cubit กับครึ่ง",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "และเขาทำ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "โต๊ะ"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "โต๊ะ"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "ไม้ของ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ชิตติม"
+    },
+    {
+      "surface": "אמתים",
+      "gloss": "สองศ cubit"
+    },
+    {
+      "surface": "ארכו",
+      "gloss": "ความยาวของมัน"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "และหนึ่งศ cubit"
+    },
+    {
+      "surface": "רחבו",
+      "gloss": "ความกว้างของมัน"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "และหนึ่งศ cubit"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "และครึ่ง"
+    },
+    {
+      "surface": "קמתו",
+      "gloss": "ความสูงของมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:17:58.779424785Z",
+  "model": "glm-5.3"
+}

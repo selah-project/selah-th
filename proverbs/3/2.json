@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 3:2",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "เพราะความยาวนานของวัน และปีแห่งชีวิต และสันติสุข จะเพิ่มแก่เจ้า",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ความยาวนาน"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "ของวัน"
+    },
+    {
+      "surface": "ושנות",
+      "gloss": "และปี"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "แห่งชีวิต"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "และสันติสุข"
+    },
+    {
+      "surface": "יוסיפו",
+      "gloss": "จะเพิ่ม"
+    },
+    {
+      "surface": "לך",
+      "gloss": "แก่เจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T12:09:51.406999535Z",
+  "model": "glm-5.3"
+}

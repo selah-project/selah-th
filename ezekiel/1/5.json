@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 1:5",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "และจากกลางสิ่งนั้น ⟨มี⟩ similarity ของสัตว์มีชีวิตสี่ตัว และนี่คือรูปลักษณ์ของมัน ⟨มี⟩ likeness ของมนุษย์สำหรับมันทั้งหลาย",
+  "tokens": [],
+  "timestamp": "2026-08-20T10:13:49.896490996Z",
+  "model": "glm-5.3"
+}

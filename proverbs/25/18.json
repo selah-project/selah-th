@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 25:18",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "ค้อนทุบและดาบและลูกศรคม ⟨เขาคือ⟩ ผู้ที่ให้การเท็จใส่ร้ายเพื่อนของตน",
+  "tokens": [
+    {
+      "surface": "מפיץ",
+      "gloss": "ค้อนทุบ"
+    },
+    {
+      "surface": "וחרב",
+      "gloss": "และดาบ"
+    },
+    {
+      "surface": "וחץ",
+      "gloss": "และลูกศร"
+    },
+    {
+      "surface": "שנון",
+      "gloss": "คม"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ผู้ที่"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "ให้การ"
+    },
+    {
+      "surface": "ברעהו",
+      "gloss": "ใส่ร้ายเพื่อนของเขา"
+    },
+    {
+      "surface": "עד",
+      "gloss": "การ"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "เท็จ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:22:06.031308272Z",
+  "model": "glm-5.3"
+}

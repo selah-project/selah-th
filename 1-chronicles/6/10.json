@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 6:10",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "และบุตรทั้งหลายของเอลคานาห์คือ อามาซาย และอาฮีโมท",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรทั้งหลายของ"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "เอลคานาห์"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "อามาซาย"
+    },
+    {
+      "surface": "ואחימות",
+      "gloss": "และอาฮีโมท"
+    }
+  ],
+  "timestamp": "2026-08-20T13:40:39.646981045Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 16:1",
+  "book": "job",
+  "lang": "th",
+  "chapter": 16,
+  "translation": "ฝ่ายอิยยโอบทูลตอบและกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "ทูลตอบ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "อิยยโอบ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "และกล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T12:35:51.161506540Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "song-of-songs 2:6",
+  "book": "song-of-songs",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "ซ้ายของเขา ⟨อยู่⟩ใต้ศีรษะของฉัน และขวาของเขาโอบกอดฉัน",
+  "tokens": [
+    {
+      "surface": "שמאלו",
+      "gloss": "ซ้ายของเขา"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ใต้"
+    },
+    {
+      "surface": "ลראשי",
+      "gloss": "ศีรษะของฉัน"
+    },
+    {
+      "surface": "וימינו",
+      "gloss": "และขวาของเขา"
+    },
+    {
+      "surface": "תחบקני",
+      "gloss": "โอบกอดฉัน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:49:43.701999001Z",
+  "model": "glm-5.3"
+}

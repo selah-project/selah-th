@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 21:25",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "รอยไหม้แทนรอยไหม้ บาดแผลแทนบาดแผล รอยฟกช้ำแทนรอยฟกช้ำ",
+  "tokens": [
+    {
+      "surface": "כויה",
+      "gloss": "รอยไหม้"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "แทน"
+    },
+    {
+      "surface": "כויה",
+      "gloss": "รอยไหม้"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "บาดแผล"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "แทน"
+    },
+    {
+      "surface": "פצע",
+      "gloss": "บาดแผล"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "รอยฟกช้ำ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "แทน"
+    },
+    {
+      "surface": "חבורה",
+      "gloss": "รอยฟกช้ำ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:10:26.852539734Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 16,
+  "translation": "เพราะเหตุนั้น โสเภณีเอ๋ย จงฟังพระวจนะของยาห์เวห์",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "เพราะเหตุนั้น"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "โสเภณีเอ๋ย"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "จงฟัง"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "พระวจนะ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T10:21:45.290849133Z",
+  "model": "glm-5.3"
+}

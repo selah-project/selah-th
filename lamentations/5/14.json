@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "ผู้เฒ่าเว้นจากประตูเมือง หนุ่มๆ เว้นจากการดนตรีของเขา",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "ผู้เฒ่า"
+    },
+    {
+      "surface": "משער",
+      "gloss": "จากประตูเมือง"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "เว้น\/หยุด"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "หนุ่มๆ"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "จากการดนตรีของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:57:31.199411406Z",
+  "model": "glm-5.3"
+}

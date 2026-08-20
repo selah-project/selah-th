@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "ezra 2:53",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรแห่งบาร์โคส บุตรแห่งซีสรา บุตรแห่งเทมัค",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "ברקוס",
+      "gloss": "บาร์โคส"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "סיסרא",
+      "gloss": "ซีสรา"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "תמח",
+      "gloss": "เทมัค"
+    }
+  ],
+  "timestamp": "2026-08-20T13:21:16.082670236Z",
+  "model": "glm-5.3"
+}

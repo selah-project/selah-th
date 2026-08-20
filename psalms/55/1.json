@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 55:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 55,
+  "translation": "แก่ผู้ำ-double",
+  "tokens": [],
+  "timestamp": "2026-08-20T11:32:41.308770511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และเอโนชมีชีวิตอยู่เก้าสิบปี และให้กำเนิด ⟨את⟩ เคนัน",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "มีชีวิตอยู่"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "เอโนช"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "เก้าสิบ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เคนัน"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "เคนัน"
+    }
+  ],
+  "timestamp": "2026-08-20T06:40:10.363686356Z",
+  "model": "glm-5.3"
+}

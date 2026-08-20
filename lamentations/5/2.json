@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 5:2",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "มรดกของเรา ⟨ได้⟩กลับเป็นของคนต่างด้าว บ้านของเรา ⟨เป็น⟩ของคนแปลกหน้า",
+  "tokens": [
+    {
+      "surface": "נחלתנו",
+      "gloss": "มรดกของเรา"
+    },
+    {
+      "surface": "נהפכה",
+      "gloss": "กลับเป็น"
+    },
+    {
+      "surface": "לזרים",
+      "gloss": "คนต่างด้าว"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "บ้านของเรา"
+    },
+    {
+      "surface": "לנכרים",
+      "gloss": "คนแปลกหน้า"
+    }
+  ],
+  "timestamp": "2026-08-20T12:57:25.936669978Z",
+  "model": "glm-5.3"
+}

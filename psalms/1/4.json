@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "ไม่เป็นเช่นนั้น ⟨สำหรับ⟩คนชั่ว หากแต่เหมือนแกลบซึ่งลมพัดมันไป",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "כן",
+      "gloss": "เป็นเช่นนั้น"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "คนชั่ว"
+    },
+    {
+      "surface": "כי",
+      "gloss": "หากแต่"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "เหมือนแกลบ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "พัดมันไป"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ลม"
+    }
+  ],
+  "timestamp": "2026-08-20T11:15:52.641272394Z",
+  "model": "glm-5.3"
+}

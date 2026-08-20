@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "และโนอาห์ให้กำเนิดบุตรชายสามคน ⟨את⟩ เชม ⟨את⟩ ฮัม และ ⟨את⟩ เยเฟท",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "และให้กำเนิด"
+    },
+    {
+      "surface": "נח",
+      "gloss": "โนอาห์"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "บุตรชาย"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เชม"
+    },
+    {
+      "surface": "שם",
+      "gloss": "เชม"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ฮัม"
+    },
+    {
+      "surface": "חם",
+      "gloss": "ฮัม"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "เยเฟท"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "เยเฟท"
+    }
+  ],
+  "timestamp": "2026-08-20T06:41:07.921312227Z",
+  "model": "glm-5.3"
+}

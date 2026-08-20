@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 81:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 81,
+  "translation": "แก่ผู้ขับรำนำ ตามทำนองกิททิท ⟨สดุดี⟩ ของอาสาฟ",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "แก่ผู้ขับรำนำ"
+    },
+    {
+      "surface": "על",
+      "gloss": "ตามทำนอง"
+    },
+    {
+      "surface": "הגתית",
+      "gloss": "กิททิท"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "ของอาสาฟ"
+    }
+  ],
+  "timestamp": "2026-08-20T11:43:01.467965889Z",
+  "model": "glm-5.3"
+}

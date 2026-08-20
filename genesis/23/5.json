@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 23:5",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "และบรรดาบุตรแห่งเคททรงตอบ ⟨את⟩ อัฟราฮัม กล่าวแก่เขาว่า",
+  "tokens": [
+    {
+      "surface": "ויענו",
+      "gloss": "และตอบ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "חת",
+      "gloss": "เคท"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "อัฟราฮัม"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "อัฟราฮัม"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    },
+    {
+      "surface": "לו",
+      "gloss": "แก่เขา"
+    }
+  ],
+  "timestamp": "2026-08-20T06:46:49.959879546Z",
+  "model": "glm-5.3"
+}

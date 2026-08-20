@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "เพียงแต่ ⟨את⟩ โลหิตของมันอย่ากิน บนแผ่นดินเจ้าจงเทมันทิ้งเหมือนน้ำ",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "เพียงแต่"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "โลหิตของมัน"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "โลหิตของมัน"
+    },
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "เจ้ากิน"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "แผ่นดิน"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "เจ้าเทมันทิ้ง"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "เหมือนน้ำ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:58:29.279700622Z",
+  "model": "glm-5.3"
+}

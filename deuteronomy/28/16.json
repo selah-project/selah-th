@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "ถูกแช่งสาปเจ้าอยู่ในเมือง และถูกแช่งสาปเจ้าอยู่ในทุ่งนา",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "ถูกแช่งสาป"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "เจ้า"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "ในเมือง"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "และถูกแช่งสาป"
+    },
+    {
+      "surface": "อัตตา",
+      "gloss": "เจ้า"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "ในทุ่งนา"
+    }
+  ],
+  "timestamp": "2026-08-20T08:04:04.715841273Z",
+  "model": "glm-5.3"
+}

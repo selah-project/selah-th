@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 28:24",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "และเจ้าจะวาง ⟨את⟩ สองเชือกถักของทองคำนั้น บนสองวงแหวนนั้น ณ ปลายของ ⟨the⟩ เฮเชน",
+  "tokens": [
+    {
+      "surface": "ונתתה",
+      "gloss": "และเจ้าจะวาง"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "สองเชือกถัก"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "עבתת",
+      "gloss": "เชือกถัก"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ทองคำนั้น"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "הטבעת",
+      "gloss": "วงแหวนนั้น"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ณ"
+    },
+    {
+      "surface": "קצות",
+      "gloss": "ปลาย"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "⟨the⟩ เฮเชน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:13:37.719476855Z",
+  "model": "glm-5.3"
+}

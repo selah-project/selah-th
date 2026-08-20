@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "และเขากล่าวว่า ฉันเป็นผู้รับใช้ของอัฟราฮัม",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "และเขากล่าว"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ผู้รับใช้"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "อัฟราฮัม"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "ฉัน"
+    }
+  ],
+  "timestamp": "2026-08-20T06:49:00.419575375Z",
+  "model": "glm-5.3"
+}

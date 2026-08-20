@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 8:4",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และหีบกับมาพักในเดือนที่เจ็ด ในวันที่สิบเจ็ดแห่งเดือน บนภูเขาแห่งอารารัต",
+  "tokens": [
+    {
+      "surface": "ותנח",
+      "gloss": "และกับมาพัก"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "หีบ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "ในเดือน"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ที่เจ็ด"
+    },
+    {
+      "surface": "בשבעה",
+      "gloss": "ในเจ็ด"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "วัน"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "แห่งเดือน"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "הרי",
+      "gloss": "ภูเขา"
+    },
+    {
+      "surface": "אררט",
+      "gloss": "อารารัต"
+    }
+  ],
+  "timestamp": "2026-08-20T06:41:55.203465879Z",
+  "model": "glm-5.3"
+}

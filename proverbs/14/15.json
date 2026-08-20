@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 14:15",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "คนเขลาเชื่อทุกคำ แต่คนมีไหวพริบเข้าใจทางเดินของตน",
+  "tokens": [
+    {
+      "surface": "פתי",
+      "gloss": "คนเขลา"
+    },
+    {
+      "surface": "ยאמין",
+      "gloss": "เชื่อ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "ทุก"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "คำ"
+    },
+    {
+      "surface": "וערום",
+      "gloss": "แต่คนมีไหวพริบ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "เข้าใจ"
+    },
+    {
+      "surface": "לאשרו",
+      "gloss": "ทางเดินของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:15:03.204763809Z",
+  "model": "glm-5.3"
+}

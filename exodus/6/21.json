@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "และบุตรชายของยิทสฮาร์ คือโคราห์ นาเเปก และซิครี",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรชายของ"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ยิทสฮาร์"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "โคราห์"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "และนาเเปก"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "และซิครี"
+    }
+  ],
+  "timestamp": "2026-08-20T07:03:39.663683829Z",
+  "model": "glm-5.3"
+}

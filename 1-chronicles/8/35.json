@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และบุตรชายของมีกาห์ ⟨are⟩ ปีโทน และเมเลค และทาอาเรอา และอาคาซ",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรชาย"
+    },
+    {
+      "surface": "มיכה",
+      "gloss": "มีกาห์"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ปีโทน"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "และเมเลค"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "และทาอาเรอา"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "และอาคาซ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:43:31.409242355Z",
+  "model": "glm-5.3"
+}

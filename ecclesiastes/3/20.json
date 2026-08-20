@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ทั้งปวงเดินไปสู่ที่หนึ่ง ทั้งปวงเป็นมาจากผงคลีดิน และทั้งปวงหวนคืนสู่ผงคลีดิน",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "ทั้งปวง"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "เดินไป"
+    },
+    {
+      "surface": "אל",
+      "gloss": "สู่"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "ทั้งปวง"
+    },
+    {
+      "surface": "היה",
+      "gloss": "เป็นมา"
+    },
+    {
+      "surface": "מן",
+      "gloss": "จาก"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ผงคลีดิน"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "และทั้งปวง"
+    },
+    {
+      "surface": "שב",
+      "gloss": "หวนคืน"
+    },
+    {
+      "surface": "אל",
+      "gloss": "สู่"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "ผงคลีดิน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:59:03.802423569Z",
+  "model": "glm-5.3"
+}

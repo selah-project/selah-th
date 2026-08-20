@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "ezra 2:47",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรแห่งกิดเดล บุตรแห่งกาฮาร์ บุตรแห่งเรอายาห์",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "กิดเดล"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "גחר",
+      "gloss": "กาฮาร์"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "เรอายาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:21:11.948598100Z",
+  "model": "glm-5.3"
+}

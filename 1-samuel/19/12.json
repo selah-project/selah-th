@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-samuel 19:12",
+  "book": "1-samuel",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "และมีคัลหย่อนดาวีดลงตามหน้าต่าง และเขาไปและหนีและรอดมา",
+  "tokens": [
+    {
+      "surface": "ותרד",
+      "gloss": "และหย่อนลง"
+    },
+    {
+      "surface": "מיכל",
+      "gloss": "มีคัล"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ดาวีด"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "ดาวีด"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "ตาม"
+    },
+    {
+      "surface": "החלון",
+      "gloss": "หน้าต่าง"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "และไป"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "และหนี"
+    },
+    {
+      "surface": "וימלט",
+      "gloss": "และรอด"
+    }
+  ],
+  "timestamp": "2026-08-20T08:36:01.913637004Z",
+  "model": "glm-5.3"
+}

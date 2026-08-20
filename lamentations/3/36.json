@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "เพื่อกลับคำมนุษย์ในคดีความของเขา — อาโดนายมิได้ทรงเห็นชอบ",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "เพื่อกลับคำ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "มนุษย์"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "ในคดีความของเขา"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "อาโดนาย"
+    },
+    {
+      "surface": "לא",
+      "gloss": "มิได้"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "ทรงเห็นชอบ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:21.082440606Z",
+  "model": "glm-5.3"
+}

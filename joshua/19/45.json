@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "และยีฮูด และเบเน-เบราค์ และกัท-ริมโมน",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "และยีฮูด"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "และเบเน"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "เบราค์"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "และกัท"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "ริมโมน"
+    }
+  ],
+  "timestamp": "2026-08-20T08:15:16.301873448Z",
+  "model": "glm-5.3"
+}

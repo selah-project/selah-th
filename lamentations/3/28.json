@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ให้เขานั่งอยู่โดดเดี่ยวและนิ่งเงียบ เพราะมันถูกวางไว้บนตัวเขา",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "ให้เขานั่ง"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "โดดเดี่ยว"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "และนิ่งเงียบ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "ถูกวางไว้"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "บนตัวเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:55:15.331913492Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "ฝูงแพะแกะและวัว ทั้งหมด และทั้งสัตว์แห่งทุ่งนา",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "ฝูงแพะแกะ"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "และวัว"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "และทั้ง"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "สัตว์"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "แห่งทุ่งนา"
+    }
+  ],
+  "timestamp": "2026-08-20T11:16:22.718716844Z",
+  "model": "glm-5.3"
+}

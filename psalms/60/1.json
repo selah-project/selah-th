@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 60:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 60,
+  "translation": "แก่ผู้วิญญาณ เพลง ซูชัน-เอดุต มิคทัม ของดาวิด เพื่อสอน",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "แก่ผู้วิญญาณ"
+    },
+    {
+      "surface": "על",
+      "gloss": "เพลง"
+    },
+    {
+      "surface": "שושן",
+      "gloss": "ซูชัน"
+    },
+    {
+      "surface": "עדות",
+      "gloss": "เอดุต"
+    },
+    {
+      "surface": "מכתם",
+      "gloss": "มิคทัม"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ของดาวิด"
+    },
+    {
+      "surface": "ללמד",
+      "gloss": "เพื่อสอน"
+    }
+  ],
+  "timestamp": "2026-08-20T11:34:37.412553967Z",
+  "model": "glm-5.3"
+}

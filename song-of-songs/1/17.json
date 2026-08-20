@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "song-of-songs 1:17",
+  "book": "song-of-songs",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "คานของบ้านเราเป็นไม้สนซีดาร์ และแผ่นผนังของเราเป็นไม้ไซเปรส",
+  "tokens": [
+    {
+      "surface": "קרות",
+      "gloss": "คาน"
+    },
+    {
+      "surface": "בתינו",
+      "gloss": "บ้านเรา"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "ไม้สนซีดาร์"
+    },
+    {
+      "surface": "רחיטנו",
+      "gloss": "แผ่นผนังของเรา"
+    },
+    {
+      "surface": "ברותים",
+      "gloss": "ไม้ไซเปรส"
+    }
+  ],
+  "timestamp": "2026-08-20T12:48:15.734560307Z",
+  "model": "glm-5.3"
+}

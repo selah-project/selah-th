@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 27,
+  "translation": "การตักเตือนที่เปิดเผยดีกว่าความรักที่ซ่อนไว้",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ดีกว่า"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "การตักเตือน"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "ที่เปิดเผย"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "จากความรัก"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "ที่ซ่อนไว้"
+    }
+  ],
+  "timestamp": "2026-08-20T14:53:36.712463212Z",
+  "model": "glm-5.3"
+}

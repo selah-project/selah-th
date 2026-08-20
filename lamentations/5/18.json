@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "เพราะภูเขาไทซิโยน ⟨ที่⟩กลายเป็นที่รกร้าง สุนักจากัดเดินไปมาบนนั้น",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ภูเขา"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "ไทซิโยน"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "กลายเป็นที่รกร้าง"
+    },
+    {
+      "surface": "שועלים",
+      "gloss": "สุนักจากัด"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "เดินไปมา"
+    },
+    {
+      "surface": "בו",
+      "gloss": "บนนั้น"
+    }
+  ],
+  "timestamp": "2026-08-20T12:57:31.195947503Z",
+  "model": "glm-5.3"
+}

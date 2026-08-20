@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 12:3",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "ชีคันยาห์ เรคุม เมเรโมท",
+  "tokens": [
+    {
+      "surface": "שכניה",
+      "gloss": "ชีคันยาห์"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "เรคุม"
+    },
+    {
+      "surface": "מרמת",
+      "gloss": "เมเรโมท"
+    }
+  ],
+  "timestamp": "2026-08-20T13:33:55.054682316Z",
+  "model": "glm-5.3"
+}

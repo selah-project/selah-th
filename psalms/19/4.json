@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "ไม่มีวาจา และไม่มีถ้อยคำ โดยปราศจาก ⟨being⟩ เสียงของทั้งหลายถูกฟัง",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "ไม่มี"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "วาจา"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "และไม่มี"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "ถ้อยคำ"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "โดยปราศจาก"
+    },
+    {
+      "surface": "נשมע",
+      "gloss": "ถูกฟัง"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "เสียงของทั้งหลาย"
+    }
+  ],
+  "timestamp": "2026-08-20T11:20:16.361761190Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "อย่าคบหา ⟨את⟩ ผู้มีโทสะ และ⟨את⟩ ชายผู้เดือดพล่านอย่าเข้าไปหา",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "คบหา"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ผู้มีโทสะ"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "ผู้มี"
+    },
+    {
+      "surface": "אף",
+      "gloss": "โทสะ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "ชายผู้เดือดพล่าน"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ชายผู้"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "เดือดพล่าน"
+    },
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "เข้าไปหา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:20:26.362015263Z",
+  "model": "glm-5.3"
+}

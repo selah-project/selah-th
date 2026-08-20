@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "และลาสามหมื่นห้าร้อยตัว",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "และลา"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "สามสิบ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "หนึ่งพัน"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "และห้า"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    }
+  ],
+  "timestamp": "2026-08-20T07:48:28.829440079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "เพราะผู้ที่พบเรา พบชีวิต และได้รับความโปรดปรานจากยาห์เวห์",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "ผู้ที่พบเรา"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "พบ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ชีวิต"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "และได้รับ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "ความโปรดปราน"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "จากยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T12:11:41.255519192Z",
+  "model": "glm-5.3"
+}

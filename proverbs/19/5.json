@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 19:5",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "พยานแห่งความเท็จจะไม่รอดพ้นโทษ และผู้พ่นเนรมิตคำมุสาจะไม่รอดพ้น",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "พยาน"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "ความเท็จ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "รอดพ้นโทษ"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "และผู้พ่นเนรมิต"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "คำมุสา"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "รอดพ้น"
+    }
+  ],
+  "timestamp": "2026-08-20T12:18:45.739919440Z",
+  "model": "glm-5.3"
+}

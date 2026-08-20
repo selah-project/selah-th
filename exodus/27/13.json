@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 27,
+  "translation": "และความกว้างของลาน ⟨ที่⟩ ด้านตะวันออก ทางทิศตะวันรุ่ง จะเป็นห้าสิบศ cubit",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "และความกว้าง"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "ของลาน"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "⟨ที่⟩ ด้าน"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "ตะวันออก"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "ทางทิศตะวันรุ่ง"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ห้าสิบ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ศ cubit"
+    }
+  ],
+  "timestamp": "2026-08-20T07:12:56.938449505Z",
+  "model": "glm-5.3"
+}

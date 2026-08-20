@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 6:2",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "และเอโลฮิมตรัสแก่โมเช และตรัสกับเขาว่า เราคือยาห์เวห์",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "เอโลฮิม"
+    },
+    {
+      "surface": "אל",
+      "gloss": "แก่"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "และตรัส"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "กับเขา"
+    },
+    {
+      "surface": "אני",
+      "gloss": "เรา"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T07:04:18.296346640Z",
+  "model": "glm-5.3"
+}

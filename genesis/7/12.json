@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และฝนก็ตกอยู่บนแผ่นดินโลก สี่สิบวันและสี่สิบคืน",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็นไป"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "ฝน"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "แผ่นดินโลก"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "สี่สิบ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "วัน"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "และสี่สิบ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "คืน"
+    }
+  ],
+  "timestamp": "2026-08-20T06:41:24.780728308Z",
+  "model": "glm-5.3"
+}

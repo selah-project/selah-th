@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "psalms 105:31",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 105,
+  "translation": "พระองค์ตรัส และฝูงแมลงวันก็มา เหาในทั้งเขตแดนของเขา",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "ตรัส"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "และ...มา"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "ฝูงแมลงวัน"
+    },
+    {
+      "surface": "כנים",
+      "gloss": "เหา"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "ในทั้ง"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "เขตแดนของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T11:53:01.512095427Z",
+  "model": "glm-5.3"
+}

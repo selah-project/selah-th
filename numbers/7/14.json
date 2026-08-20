@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 7:14",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ทัพพี ⟨אחת⟩ หนึ่ง สิบเชเขลทอง เต็มด้วยเครื่องหอม",
+  "tokens": [
+    {
+      "surface": "כף",
+      "gloss": "ทัพพี"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ทอง"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "เต็ม"
+    },
+    {
+      "surface": "קטרת",
+      "gloss": "เครื่องหอม"
+    }
+  ],
+  "timestamp": "2026-08-20T07:35:46.049039227Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "จากบุตรของบานี: มาอะดัย อัมรัม และอูเอล",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "จากบุตรของ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บานี"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "มาอะดัย"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "อัมรัม"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "และอูเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T13:25:20.394439036Z",
+  "model": "glm-5.3"
+}

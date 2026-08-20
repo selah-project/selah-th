@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 21:6",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "และדับารของยาห์เวห์มาถึงข้าพเจ้ากล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็นว่า"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ดับาร (พระดำรัส)"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ถึงข้าพเจ้า"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T10:26:29.842010843Z",
+  "model": "glm-5.3"
+}

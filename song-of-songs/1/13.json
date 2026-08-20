@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "ถุงมดยอบของดอดי⟨คือ⟩ของฉัน เขาพักแรมระหว่างเต้านมทั้งสองของฉัน",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "ถุงมดยอบ"
+    },
+    {
+      "surface": "המר",
+      "gloss": "มดยอบ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "ดอดิของฉัน"
+    },
+    {
+      "surface": "לי",
+      "gloss": "แก่ฉัน"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ระหว่าง"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "เต้านมทั้งสองของฉัน"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "เขาพักแรม"
+    }
+  ],
+  "timestamp": "2026-08-20T12:48:48.654273657Z",
+  "model": "glm-5.3"
+}

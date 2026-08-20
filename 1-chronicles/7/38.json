@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 7:38",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และบุตรชายของเยเทอร์ คือเยฟุนเนห์ และปิสปาห์ และอาราห์",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรชายของ"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "เยเทอร์"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "เยฟุนเนห์"
+    },
+    {
+      "surface": "ופספה",
+      "gloss": "และปิสปาห์"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "และอาราห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:42:27.242064626Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และถัดจากเขา คือกับบาย ซัลลาย เก้าร้อยยี่สิบแปดคน",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "และถัดจากเขา"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "กับบาย"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "ซัลลาย"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "เก้า"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ยี่สิบ"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "และแปด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:33:58.865386857Z",
+  "model": "glm-5.3"
+}

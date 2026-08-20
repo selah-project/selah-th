@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 48,
+  "translation": "เพลง เพลงสรรเสริญ แก่บุตรของโคราห์",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "เพลง"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "เพลงสรรเสริญ"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "แก่บุตรของ"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "โคราห์"
+    }
+  ],
+  "timestamp": "2026-08-20T11:30:47.021317717Z",
+  "model": "glm-5.3"
+}

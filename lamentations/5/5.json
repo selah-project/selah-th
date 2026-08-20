@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 5:5",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "บนคอของเรา ⟨เรา⟩ถูกไล่ตาม เราทุกข์ยากล้า ไม่มีการพักผ่อนสำหรับเรา",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "צוארנו",
+      "gloss": "คอของเรา"
+    },
+    {
+      "surface": "נרדפנו",
+      "gloss": "เราถูกไล่ตาม"
+    },
+    {
+      "surface": "יגענו",
+      "gloss": "เราทุกข์ยากล้า"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "הונח",
+      "gloss": "มีการพักผ่อน"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "สำหรับเรา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:57:30.280981123Z",
+  "model": "glm-5.3"
+}

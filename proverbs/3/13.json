@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 3:13",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ความสุขแด่มนุษย์ผู้พบ ⟨the⟩ ปัญญา และแด่มนุษย์ผู้ได้มาซึ่ง ⟨the⟩ ความเข้าใจ",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "ความสุขแด่"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "มนุษย์"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "ผู้พบ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ปัญญา"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "และมนุษย์"
+    },
+    {
+      "surface": "יפיק",
+      "gloss": "ผู้ได้มาซึ่ง"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "ความเข้าใจ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:09:43.566433323Z",
+  "model": "glm-5.3"
+}

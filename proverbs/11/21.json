@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 11:21",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "มือจับมือ ความชั่วจะไม่พ้นโทษ แต่เชื้อสายของคนชอบธรรมจะรอดพ้น",
+  "tokens": [
+    {
+      "surface": "יד",
+      "gloss": "มือ"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "กับมือ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "พ้นโทษ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ความชั่ว"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "และเชื้อสาย"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "ของคนชอบธรรม"
+    },
+    {
+      "surface": "נמלט",
+      "gloss": "รอดพ้น"
+    }
+  ],
+  "timestamp": "2026-08-20T12:14:00.923546576Z",
+  "model": "glm-5.3"
+}

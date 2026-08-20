@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 92,
+  "translation": "ผู้ชายถือตัวเหมือนสัตว์ไม่รู้ และคนโง่ไม่เข้าใจ ⟨את⟩ สิ่งนี้",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "ผู้ชาย"
+    },
+    {
+      "surface": "בער",
+      "gloss": "ถือตัวเหมือนสัตว์"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "รู้"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "และคนโง่"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "เข้าใจ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "สิ่งนี้"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "สิ่งนี้"
+    }
+  ],
+  "timestamp": "2026-08-20T11:48:42.853748964Z",
+  "model": "glm-5.3"
+}

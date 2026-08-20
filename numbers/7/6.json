@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 7:6",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "โมเชจึงรับ ⟨את⟩ รถเข็นและ⟨את⟩ วัว และให้สิ่งเหล่านั้นแก่คนเลวี",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "และรับ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "รถเข็น"
+    },
+    {
+      "surface": "העגלת",
+      "gloss": "รถเข็น"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "วัว"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "วัว"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "และให้"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "แก่คนเลวี"
+    },
+    {
+      "surface": "אל",
+      "gloss": "แก่"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "คนเลวี"
+    }
+  ],
+  "timestamp": "2026-08-20T07:35:59.600668824Z",
+  "model": "glm-5.3"
+}

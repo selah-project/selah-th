@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 21:28",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "พยานเท็จจะพินาศ แต่คนที่ฟังจะพูดสืบไปเป็นนิตย์",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "พยาน"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "เท็จ"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "จะพินาศ"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "แต่คนที่"
+    },
+    {
+      "surface": "שומע",
+      "gloss": "ฟัง"
+    },
+    {
+      "surface": "לנצח",
+      "gloss": "สืบไปเป็นนิตย์"
+    },
+    {
+      "surface": "ידבר",
+      "gloss": "จะพูด"
+    }
+  ],
+  "timestamp": "2026-08-20T12:19:28.364785738Z",
+  "model": "glm-5.3"
+}

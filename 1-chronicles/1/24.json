@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "เชม อาร์ปักชาด เชลาห์",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "เชม"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "อาร์ปักชาด"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "เชลาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:35:55.963199192Z",
+  "model": "glm-5.3"
+}

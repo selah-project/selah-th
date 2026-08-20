@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และเขารออีกเจ็ดวันอื่น และเพิ่มที่จะส่ง ⟨את⟩ นกพิราบออกจากหีบ",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "และเขารอ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "อีก"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "วัน"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "อื่น"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "และเพิ่มที่จะ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "ส่ง"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "นกพิราบ"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "นกพิราบ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "จาก"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "หีบ"
+    }
+  ],
+  "timestamp": "2026-08-20T06:41:14.595152367Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "และในวันที่แปด เนื้อหนังปลายเปลือกของเขาจะถูกสุหนัต",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "และในวัน"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "ที่แปด"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "จะถูกสุหนัต"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "เนื้อหนัง"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "ปลายเปลือกของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:24:12.503727413Z",
+  "model": "glm-5.3"
+}

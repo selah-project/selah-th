@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "hosea 8:3",
+  "book": "hosea",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "ยิสราเอลทิ้งสิ่งที่ดี ศัตรูจะไล่ตามเขา",
+  "tokens": [
+    {
+      "surface": "זנח",
+      "gloss": "ทิ้ง"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ยิสราเอล"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "สิ่งที่ดี"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ศัตรู"
+    },
+    {
+      "surface": "ירדפו",
+      "gloss": "จะไล่ตามเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T10:49:50.641561748Z",
+  "model": "glm-5.3"
+}

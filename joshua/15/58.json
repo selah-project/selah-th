@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "joshua 15:58",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "ฮัลฮูล เบท-ซูร์ และเกดอร์",
+  "tokens": [
+    {
+      "surface": "חלחול",
+      "gloss": "ฮัลฮูล"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบท"
+    },
+    {
+      "surface": "צור",
+      "gloss": "ซูร์"
+    },
+    {
+      "surface": "וגדור",
+      "gloss": "และเกดอร์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:08.050309982Z",
+  "model": "glm-5.3"
+}

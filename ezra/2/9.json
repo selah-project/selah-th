@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรชายของซัคคาย เจ็ดร้อยหกสิบคน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "ซัคคาย"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "และหกสิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:18:48.390835851Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 31:22",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "เว้นแต่ ⟨את⟩ ทองคำ และ ⟨את⟩ เงิน ⟨את⟩ ทองสำริด ⟨את⟩ เหล็ก ⟨את⟩ ดีบุก และ ⟨את⟩ ตะกั่ว",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "เว้นแต่"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ทองคำ"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "ทองคำ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "เงิน"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "เงิน"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ทองสำริด"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ทองสำริด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เหล็ก"
+    },
+    {
+      "surface": "הברזל",
+      "gloss": "เหล็ก"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ดีบุก"
+    },
+    {
+      "surface": "הבדיל",
+      "gloss": "ดีบุก"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "ตะกั่ว"
+    },
+    {
+      "surface": "העפרת",
+      "gloss": "ตะกั่ว"
+    }
+  ],
+  "timestamp": "2026-08-20T07:48:49.933786714Z",
+  "model": "glm-5.3"
+}

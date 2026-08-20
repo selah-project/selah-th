@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 29:19",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 29,
+  "translation": "ด้วยถ้อยคำทาสจะไม่ถูกตักเตือน เพราะแม้เขาเข้าใจ ก็ไม่มีคำตอบ",
+  "tokens": [
+    {
+      "surface": "בדברים",
+      "gloss": "ด้วยถ้อยคำ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יוסר",
+      "gloss": "จะถูกตักเตือน"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ทาส"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "เขาเข้าใจ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "และไม่มี"
+    },
+    {
+      "surface": "מענה",
+      "gloss": "คำตอบ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:24:24.233496938Z",
+  "model": "glm-5.3"
+}

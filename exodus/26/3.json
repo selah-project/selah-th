@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 26:3",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "ห้าผืนม่าลจงเป็นผูก joined ผู้หนึ่งกับพี่น้องของนาง และอีกห้าผืนม่าล joined ผู้หนึ่งกับพี่น้องของนาง",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "ห้า"
+    },
+    {
+      "surface": "היריעת",
+      "gloss": "ผืนม่าล"
+    },
+    {
+      "surface": "תהיין",
+      "gloss": "จงเป็น"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "ผูก joined"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ผู้หนึ่ง (สตรี)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "พี่น้องของนาง"
+    },
+    {
+      "surface": "ויריעת",
+      "gloss": "และผืนม่าล"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "ผูก joined"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "ผู้หนึ่ง (สตรี)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "אחתה",
+      "gloss": "พี่น้องของนาง"
+    }
+  ],
+  "timestamp": "2026-08-20T14:24:29.333478673Z",
+  "model": "glm-5.3"
+}

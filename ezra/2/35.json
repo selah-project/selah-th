@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรชายแห่งเสนาอาห์ สามพันหกร้อยสามสิบ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายแห่ง"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "เสนาอาห์"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "และหก"
+    },
+    {
+      "surface": "มאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "และสามสิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:18:45.455208604Z",
+  "model": "glm-5.3"
+}

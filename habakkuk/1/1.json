@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "⟨นี่คือ⟩ภาระซึ่งחาวาคุกผู้เผยพระวจนะเห็นในนิมิต",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "ภาระ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "เห็นในนิมิต"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "חาวาคุก"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "ผู้เผยพระวจนะ"
+    }
+  ],
+  "timestamp": "2026-08-20T14:46:48.793278569Z",
+  "model": "glm-5.3"
+}

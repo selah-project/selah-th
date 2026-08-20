@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "ในวันแรก ⟨เป็น⟩การชุมนุมศักดิ์สิทธิ์ งานที่ใช้แรงงานทั้งปวง อย่าทำ",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "ในวัน"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "แรก"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "การชุมนุม"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "ศักดิ์สิทธิ์"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งปวง"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "งาน"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "ที่ใช้แรงงาน"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "จงทำ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:30:31.945501698Z",
+  "model": "glm-5.3"
+}

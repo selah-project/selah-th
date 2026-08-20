@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 15:4",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "และดาวิดทรงรวบรวม ⟨את⟩ บุตรชายของอาฮารอน และ ⟨את⟩ คนเลวี",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "และรวบรวม"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ดาวิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "บุตรชายของอาฮารอน"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "อาฮารอน"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "คนเลวี"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "คนเลวี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:48:03.120054438Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 10:41",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "อาซาเรล เชเลมียาห์ เชมารียาห์",
+  "tokens": [
+    {
+      "surface": "עזראל",
+      "gloss": "อาซาเรล"
+    },
+    {
+      "surface": "ושלמיהו",
+      "gloss": "และเชเลมียาห์"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "เชมารียาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:26:06.297317705Z",
+  "model": "glm-5.3"
+}

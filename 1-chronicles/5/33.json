@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 5:33",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "เมราโยทกำเนิด ⟨את⟩ อามารยาห์ และอามารยาห์กำเนิด ⟨את⟩ อาหิทูบ",
+  "tokens": [
+    {
+      "surface": "מריות",
+      "gloss": "เมราโยท"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "อามารยาห์"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "อามารยาห์"
+    },
+    {
+      "surface": "วאמריה",
+      "gloss": "และอามารยาห์"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "อาหิทูบ"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "อาหิทูบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:40:16.253939367Z",
+  "model": "glm-5.3"
+}

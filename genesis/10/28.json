@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "และ ⟨את⟩ โอวัล และ ⟨את⟩ อาบีมาเอล และ ⟨את⟩ เชบา",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "โอวัล"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "โอวัล"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "อาบีมาเอล"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "อาบีมาเอล"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "เชบา"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "เชบา"
+    }
+  ],
+  "timestamp": "2026-08-20T06:43:05.775399969Z",
+  "model": "glm-5.3"
+}

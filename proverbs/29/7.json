@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 29:7",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 29,
+  "translation": "ผู้ชอบธรรมรู้ ⟨את⟩ คดีความของคนยากจน ฝ่ายคนชั่วไม่เข้าใจความรู้",
+  "tokens": [
+    {
+      "surface": "ידע",
+      "gloss": "รู้"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "ผู้ชอบธรรม"
+    },
+    {
+      "surface": "דין",
+      "gloss": "คดีความ"
+    },
+    {
+      "surface": "דלים",
+      "gloss": "คนยากจน"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "คนชั่ว"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "เข้าใจ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ความรู้"
+    }
+  ],
+  "timestamp": "2026-08-20T14:53:31.153677681Z",
+  "model": "glm-5.3"
+}

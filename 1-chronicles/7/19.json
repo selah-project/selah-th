@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 7:19",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และบุตรชายของเชมีดาคือ อาห์ยาน และเชเคม และลิกฮี และอานีอัม",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "และเป็น"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "שמידע",
+      "gloss": "เชมีดา"
+    },
+    {
+      "surface": "אחין",
+      "gloss": "อาห์ยาน"
+    },
+    {
+      "surface": "ושכם",
+      "gloss": "และเชเคม"
+    },
+    {
+      "surface": "ולקחי",
+      "gloss": "และลิกฮี"
+    },
+    {
+      "surface": "ואניעם",
+      "gloss": "และอานีอัม"
+    }
+  ],
+  "timestamp": "2026-08-20T13:42:32.313846537Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 48,
+  "translation": "และติดชายแดนรูเบน จากทิศตะวันออกจนถึงทิศตะวันตก ยูดาห์หนึ่งส่วน",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "และติด"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "ชายแดน"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "รูเบน"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "จากทิศ"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "ตะวันออก"
+    },
+    {
+      "surface": "עד",
+      "gloss": "จนถึง"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ทิศ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "ตะวันตก"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ยูดาห์"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่งส่วน"
+    }
+  ],
+  "timestamp": "2026-08-20T10:44:39.585427403Z",
+  "model": "glm-5.3"
+}

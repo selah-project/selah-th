@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "exodus 25:5",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "และหนังแระที่ย้อมแดง และหนังทาฮัช และไม้ชิตติม",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "และหนัง"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "แระ"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "ที่ย้อมแดง"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "และหนัง"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "ทาฮัช"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "และไม้"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "ชิตติม"
+    }
+  ],
+  "timestamp": "2026-08-20T07:12:06.856310975Z",
+  "model": "glm-5.3"
+}

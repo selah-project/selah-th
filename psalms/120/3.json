@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 120:3",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 120,
+  "translation": "จะให้อะไรแก่เจ้า และจะเพิ่มอะไรแก่เจ้า โอ้ ลิ้นอันทรยศ",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "อะไร"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "จะให้"
+    },
+    {
+      "surface": "לך",
+      "gloss": "แก่เจ้า"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "และอะไร"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "จะเพิ่ม"
+    },
+    {
+      "surface": "לך",
+      "gloss": "แก่เจ้า"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ลิ้น"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "อันทรยศ"
+    }
+  ],
+  "timestamp": "2026-08-20T14:52:26.476886028Z",
+  "model": "glm-5.3"
+}

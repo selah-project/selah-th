@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 21:31",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "ไม่ว่าจะขุนบุตรชาย หรือขุนบุตรสาว ตามกฎ ⟨ที่⟩นี้จะกระทำแก่เขา",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "หรือ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรชาย"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "มันขุน"
+    },
+    {
+      "surface": "או",
+      "gloss": "หรือ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "บุตรสาว"
+    },
+    {
+      "surface": "יגח",
+      "gloss": "มันขุน"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "ตามกฎ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "นี้"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "จะกระทำ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "แก่เขา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:11:00.230693772Z",
+  "model": "glm-5.3"
+}

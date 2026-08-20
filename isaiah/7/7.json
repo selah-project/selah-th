@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ดังนี้ กล่าวว่า อาโดนาย ยาห์เวห์ จะไม่ตั้งอยู่ และจะไม่เป็นขึ้น",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ดังนี้"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "กล่าวว่า"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "อาโดนาย"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "จะตั้งอยู่"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "จะเป็นขึ้น"
+    }
+  ],
+  "timestamp": "2026-08-20T09:20:10.343430624Z",
+  "model": "glm-5.3"
+}

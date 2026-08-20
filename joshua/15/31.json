@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "และซิกลาก และมัดมันนาห์ และซันซันนาห์",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "และซิกลาก"
+    },
+    {
+      "surface": "ומדמנה",
+      "gloss": "และมัดมันนาห์"
+    },
+    {
+      "surface": "וסנסנה",
+      "gloss": "และซันซันนาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:13:31.994294442Z",
+  "model": "glm-5.3"
+}

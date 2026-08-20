@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 101:4",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 101,
+  "translation": "ใจ อันบิดเบือน จะหันไปจากฉัน ความชั่วร้าย ไม่ ฉันจะรู้จัก",
+  "tokens": [
+    {
+      "surface": "לבב",
+      "gloss": "ใจ"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "อันบิดเบือน"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "จะหันไป"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "จากฉัน"
+    },
+    {
+      "surface": "רע",
+      "gloss": "ความชั่วร้าย"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "ฉันจะรู้จัก"
+    }
+  ],
+  "timestamp": "2026-08-20T11:50:19.449766167Z",
+  "model": "glm-5.3"
+}

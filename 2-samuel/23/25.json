@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 23:25",
+  "book": "2-samuel",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "ชัมมาห์ הฮารโฑรี อาลีคาห์ הฮารโฑรี",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "ชัมมาห์"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ชาวฮารอด"
+    },
+    {
+      "surface": "אליקא",
+      "gloss": "อาลีคาห์"
+    },
+    {
+      "surface": "החרדי",
+      "gloss": "ชาวฮารอด"
+    }
+  ],
+  "timestamp": "2026-08-20T08:52:51.068210538Z",
+  "model": "glm-5.3"
+}

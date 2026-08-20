@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรชายแห่งเยรีโฆ สามร้อยสี่สิบห้า",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายแห่ง"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "เยรีโฆ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "มאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "อรבעים",
+      "gloss": "สี่สิบ"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "และห้า"
+    }
+  ],
+  "timestamp": "2026-08-20T13:18:45.455081926Z",
+  "model": "glm-5.3"
+}

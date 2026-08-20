@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 11:30",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และซาราย ⟨เป็น⟩ หมัน ไม่มีบุตรแก่นาง",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "และ⟨เป็น⟩"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "ซาราย"
+    },
+    {
+      "surface": "עקרה",
+      "gloss": "หมัน"
+    },
+    {
+      "surface": "אין",
+      "gloss": "ไม่มี"
+    },
+    {
+      "surface": "לה",
+      "gloss": "แก่นาง"
+    },
+    {
+      "surface": "ולד",
+      "gloss": "บุตร"
+    }
+  ],
+  "timestamp": "2026-08-20T06:44:08.513461778Z",
+  "model": "glm-5.3"
+}

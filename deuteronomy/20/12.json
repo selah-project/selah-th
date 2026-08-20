@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 20:12",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "และถ้ามันไม่ยอมสงบศึกกับเจ้า แต่กระทำสงครามกับเจ้า เจ้าจะล้อมมันไว้",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "และถ้า"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תשלים",
+      "gloss": "ยอมสงบศึก"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "กับเจ้า"
+    },
+    {
+      "surface": "ועשתה",
+      "gloss": "แต่กระทำ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "กับเจ้า"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "สงคราม"
+    },
+    {
+      "surface": "וצרת",
+      "gloss": "และเจ้าจะล้อม"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "มันไว้"
+    }
+  ],
+  "timestamp": "2026-08-20T08:00:24.144872928Z",
+  "model": "glm-5.3"
+}

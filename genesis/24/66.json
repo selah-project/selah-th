@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "และผู้รับใช้เล่าให้ยิทสฮักฟัง ⟨את⟩ ทุกสิ่งที่เขาได้ทำ",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "และเขาเล่า"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "ผู้รับใช้"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "แก่ยิทสฮัก"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ทุกสิ่ง"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทุก"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "สิ่งทั้งหลาย"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "เขาได้ทำ"
+    }
+  ],
+  "timestamp": "2026-08-20T06:49:11.315309683Z",
+  "model": "glm-5.3"
+}

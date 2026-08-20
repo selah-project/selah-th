@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "เจ้านาย⟨บางคน⟩ถูกแขวนคอด้วยมือ⟨ของเขา⟩ หน้าของผู้ชราไม่ได้รับการยกย่อง",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "เจ้านาย"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "ด้วยมือ⟨ของเขา⟩"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "ถูกแขวนคอ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "หน้า"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "ผู้ชรา"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "ได้รับการยกย่อง"
+    }
+  ],
+  "timestamp": "2026-08-20T12:57:32.565047758Z",
+  "model": "glm-5.3"
+}

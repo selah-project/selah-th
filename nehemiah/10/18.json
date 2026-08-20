@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "อาเตร ฮิซกียาห์ อัซซูร์",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "อาเตร"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "ฮิซกียาห์"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "อัซซูร์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:32:40.235861781Z",
+  "model": "glm-5.3"
+}

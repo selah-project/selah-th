@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 19:27",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "เจ้าทั้งหลายอย่าโกนขอบศีรษะของเจ้า และอย่าทำลาย ⟨את⟩ ขอบเคราของเจ้า",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תקפו",
+      "gloss": "เจ้าโกน"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ขอบ"
+    },
+    {
+      "surface": "ראשכם",
+      "gloss": "ศีรษะของเจ้า"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และอย่า"
+    },
+    {
+      "surface": "תשחית",
+      "gloss": "ทำลาย"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ขอบเคราของเจ้า"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "ขอบ"
+    },
+    {
+      "surface": "זקנך",
+      "gloss": "เคราของเจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:28:42.003048305Z",
+  "model": "glm-5.3"
+}

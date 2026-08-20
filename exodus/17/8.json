@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 17,
+  "translation": "และอามาเลขมา และสู้รบกับยิสราเอล ที่เรฟีดีม",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "และมา"
+    },
+    {
+      "surface": "עמלק",
+      "gloss": "อามาเลข"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "และสู้รบ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ยิสราเอล"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "ที่เรฟีดีม"
+    }
+  ],
+  "timestamp": "2026-08-20T07:08:58.531667403Z",
+  "model": "glm-5.3"
+}

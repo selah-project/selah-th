@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 40:14",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 40,
+  "translation": "และท่านทำ ⟨את⟩ เสาอิลิม หกสิบศึก และถึงเสาอิลของลาน ประตูรอบรอบ",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "และท่านทำ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เสาอิลิม"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "เสาอิลิม"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "หกสิบ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ศึก"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "และถึง"
+    },
+    {
+      "surface": "איל",
+      "gloss": "เสาอิล"
+    },
+    {
+      "surface": "ฮาชาร",
+      "gloss": "ของลาน"
+    },
+    {
+      "surface": " השער",
+      "gloss": "ประตู"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "รอบ"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "รอบ"
+    }
+  ],
+  "timestamp": "2026-08-20T10:40:19.365884710Z",
+  "model": "glm-5.3"
+}

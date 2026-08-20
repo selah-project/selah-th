@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 28,
+  "translation": "และแถวที่สอง โนเฟค ซัปปีร์ และยาฮาโลม",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "และแถว"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ที่สอง"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "โนเฟค"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "ซัปปีร์"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "และยาฮาโลม"
+    }
+  ],
+  "timestamp": "2026-08-20T07:13:08.017825223Z",
+  "model": "glm-5.3"
+}

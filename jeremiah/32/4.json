@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 32:4",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 32,
+  "translation": "וצדקיהו מלך יהודה לא ימלט מיד הכשדים כי הנתן ינתן ביד מלך בבל ודבר פיו עם פיו ועיניו את עינו תראינה",
+  "tokens": [
+    {
+      "surface": "וצדקיהו",
+      "gloss": "וצדקיהו"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "ยาฮודה"
+    },
+    {
+      "surface": "לא",
+      "gloss": "לא"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ימלט"
+    },
+    {
+      "surface": "מיד",
+      "gloss": "מיד"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "הכשדים"
+    },
+    {
+      "surface": "כי",
+      "gloss": "כי"
+    },
+    {
+      "surface": "הנתן",
+      "gloss": "הנתן"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "ינתן"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "ביד"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "מלך"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "בבל"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "ודבר"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "פיו"
+    },
+    {
+      "surface": "עם",
+      "gloss": "עם"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "פיו"
+    },
+    {
+      "surface": "ועיניו",
+      "gloss": "ועיניו"
+    },
+    {
+      "surface": "את",
+      "gloss": "את",
+      "marks": "עינו"
+    },
+    {
+      "surface": "עינו",
+      "gloss": "עינו"
+    },
+    {
+      "surface": "תראינה",
+      "gloss": "תראינה"
+    }
+  ],
+  "timestamp": "2026-08-20T09:59:47.047198284Z",
+  "model": "glm-5.3"
+}

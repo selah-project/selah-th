@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และเสรูกมีชีวิต สามสิบปี และให้กำเนิด ⟨את⟩ นาโฮร์",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "และมีชีวิต"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "เสรูก"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "สามสิบ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "และให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "นาโฮร์"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "นาโฮร์"
+    }
+  ],
+  "timestamp": "2026-08-20T06:42:48.604175926Z",
+  "model": "glm-5.3"
+}

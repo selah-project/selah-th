@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และถ้อยคำของยาห์เวห์แห่งกองทัพมาถึงฉัน กล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเกิดขึ้น"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ถ้อยคำ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "แห่งกองทัพ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ถึงฉัน"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T11:09:23.917317306Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 25:15",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "ในวงแหวนแห่งหีบนั้น ไม้คานจะอยู่ จะไม่ถูกถอดออกจากมัน",
+  "tokens": [
+    {
+      "surface": "בטבעת",
+      "gloss": "ในวงแหวน"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "ของหีบ"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "จะอยู่"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "ไม้คาน"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יסרו",
+      "gloss": "จะถูกถอดออกไป"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "จากมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:12:22.786470716Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 8:25",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และยิฟเดียห์ และเปนูเอล บุตรชายของชาชาก",
+  "tokens": [
+    {
+      "surface": "ויפדיה",
+      "gloss": "และยิฟเดียห์"
+    },
+    {
+      "surface": "ופניאל",
+      "gloss": "และเปนูเอล"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "ชาชาก"
+    }
+  ],
+  "timestamp": "2026-08-20T13:42:18.942840135Z",
+  "model": "glm-5.3"
+}

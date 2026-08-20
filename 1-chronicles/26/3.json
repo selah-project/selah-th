@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 26:3",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "เอลาม ที่ห้า เยโฮฮานัน ที่หก เอลิเยโฮเอนัย ที่เจ็ด",
+  "tokens": [
+    {
+      "surface": "עילם",
+      "gloss": "เอลาม"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "ที่ห้า"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "เยโฮฮานัน"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ที่หก"
+    },
+    {
+      "surface": "אליהועיני",
+      "gloss": "เอลิเยโฮเอนัย"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "ที่เจ็ด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:54:05.793711905Z",
+  "model": "glm-5.3"
+}

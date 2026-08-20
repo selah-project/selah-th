@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 23:10",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "อย่าเลื่อนเขตแดนโบราณ และอย่าเข้าไปในทุ่งนาของเด็กกำพร้า",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "เลื่อน"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "เขตแดน"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "โบราณ"
+    },
+    {
+      "surface": "ובשדי",
+      "gloss": "และในทุ่งนาของ"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "เด็กกำพร้า"
+    },
+    {
+      "surface": "אל",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "เข้าไป"
+    }
+  ],
+  "timestamp": "2026-08-20T12:21:01.701150562Z",
+  "model": "glm-5.3"
+}

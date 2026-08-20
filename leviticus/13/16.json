@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "หรือถ้าเนื้อดิบนั้นกลับคืน และเปลี่ยนไปเป็นสีขาว เขาจะเข้ามาหาปุโรหิต",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "หรือ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ถ้า"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "กลับคืน"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "เนื้อ"
+    },
+    {
+      "surface": "החי",
+      "gloss": "ดิบนั้น"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "และเปลี่ยนไปเป็น"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "สีขาว"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "และเข้ามา"
+    },
+    {
+      "surface": "אל",
+      "gloss": "หา"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "ปุโรหิต"
+    }
+  ],
+  "timestamp": "2026-08-20T07:24:43.113503038Z",
+  "model": "glm-5.3"
+}

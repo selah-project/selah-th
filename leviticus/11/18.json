@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 11:18",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และ ⟨את⟩ นกทินเชเมท และ ⟨את⟩ นกคาอัท และ ⟨את⟩ นกราคาม",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "นกทินเชเมท"
+    },
+    {
+      "surface": "התנשמת",
+      "gloss": "นกทินเชเมท"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "นกคาอัท"
+    },
+    {
+      "surface": "הקאת",
+      "gloss": "นกคาอัท"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "นกราคาม"
+    },
+    {
+      "surface": "הרחם",
+      "gloss": "นกราคาม"
+    }
+  ],
+  "timestamp": "2026-08-20T07:23:20.969878461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "เพียงแต่จงยืนหยัด เพื่อไม่กิน ⟨the⟩ เลือด เพราะ ⟨the⟩ เลือดคือ ⟨the⟩ ชีวิต และเจ้าจะไม่กิน ⟨the⟩ ชีวิตพร้อมกับ ⟨the⟩ เนื้อ",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "เพียงแต่"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "จงยืนหยัด"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "เพื่อไม่"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "กิน"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "⟨the⟩ เลือด"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "⟨the⟩ เลือด"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "คือ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨the⟩ ชีวิต"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "เจ้าจะกิน"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "⟨the⟩ ชีวิต"
+    },
+    {
+      "surface": "עם",
+      "gloss": "พร้อมกับ"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "⟨the⟩ เนื้อ"
+    }
+  ],
+  "timestamp": "2026-08-20T07:58:23.641498667Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 31:6",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "תְּהִלּוֹת אֲסַפְּרֶנּוּ לְךָ, כִּי גָּדֹל אַתָּה וְעוֹשֵׂה פְלָאוֹת",
+  "tokens": [
+    {
+      "surface": "אגילה",
+      "gloss": ""
+    },
+    {
+      "surface": "ואשמחה",
+      "gloss": ""
+    },
+    {
+      "surface": "בחסדך",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "ראית",
+      "gloss": "⟨את⟩"
+    },
+    {
+      "surface": "את",
+      "gloss": "",
+      "marks": ""
+    },
+    {
+      "surface": "עניי",
+      "gloss": ""
+    },
+    {
+      "surface": "ידעת",
+      "gloss": ""
+    },
+    {
+      "surface": "בצרות",
+      "gloss": ""
+    },
+    {
+      "surface": "נפשי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-20T11:23:10.472277953Z",
+  "model": "glm-5.3"
+}

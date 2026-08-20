@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 10:32",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "שפתי צדיק ידעון רצון  ופי רשעים תהפכות",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "שפתי"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "צדיק"
+    },
+    {
+      "surface": "ידעון",
+      "gloss": "ידעון"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "רצון"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "ופי"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "רשעים"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "תהפכות"
+    }
+  ],
+  "timestamp": "2026-08-20T12:13:19.012412648Z",
+  "model": "glm-5.3"
+}

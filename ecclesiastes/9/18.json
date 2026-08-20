@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "ปัญญาดีกว่าเครื่องสงคราม และคนทำบาปคนเดียวทำลายความดีไว้มากมาย",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "ดีกว่า"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ปัญญา"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "กว่าเครื่อง"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "สงคราม"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "และคนทำบาป"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "คนเดียว"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "ทำลาย"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "ความดี"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "มากมาย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:59:58.393411410Z",
+  "model": "glm-5.3"
+}

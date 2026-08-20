@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 84:8",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 84,
+  "translation": "เขาทั้งหลายดำเนินจากกำลังไปสู่กำลัง จะปรากฏต่อเอโลฮิมในซีโอน",
+  "tokens": [
+    {
+      "surface": "ילכו",
+      "gloss": "ดำเนิน"
+    },
+    {
+      "surface": "מחיל",
+      "gloss": "จากกำลัง"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ไปสู่"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "กำลัง"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "จะปรากฏต่อ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ต่อ"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "เอโลฮิม"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "ในซีโอน"
+    }
+  ],
+  "timestamp": "2026-08-20T11:45:50.112073336Z",
+  "model": "glm-5.3"
+}

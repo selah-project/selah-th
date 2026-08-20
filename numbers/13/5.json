@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 13:5",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "แห่งตระกูลของชิมออน ชาฟัท บุตรของโฮรี",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "แห่งตระกูลของ"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "ชิมออน"
+    },
+    {
+      "surface": "שפט",
+      "gloss": "ชาฟัท"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "חורי",
+      "gloss": "โฮรี"
+    }
+  ],
+  "timestamp": "2026-08-20T07:39:54.755136140Z",
+  "model": "glm-5.3"
+}

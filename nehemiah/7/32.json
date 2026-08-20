@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "คนแห่งเบธ-เอล และ ⟨the⟩ อาไอ หนึ่งร้อยยี่สิบสามคน",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "คนแห่ง"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบธ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "เอล"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "และอาไอ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "หนึ่งร้อย"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "ยี่สิบ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "และสาม"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:40.816355270Z",
+  "model": "glm-5.3"
+}

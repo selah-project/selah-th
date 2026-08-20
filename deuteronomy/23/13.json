@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "และจะมีที่หนึ่งเป็นของเจ้าอยู่ภายนอกค่าย และเจ้าจะออกไปที่นั่นข้างนอก",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "และที่"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "จะมี"
+    },
+    {
+      "surface": "לך",
+      "gloss": "เป็นของเจ้า"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "ภายนอก"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "ค่าย"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "และเจ้าจะออกไป"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "ที่นั่น"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "ข้างนอก"
+    }
+  ],
+  "timestamp": "2026-08-20T08:01:34.413269389Z",
+  "model": "glm-5.3"
+}

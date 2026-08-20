@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "และเขาหุ้ม ⟨את⟩ เครูบทั้งสองด้วยทองคำ",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "และเขาหุ้ม"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เครูบทั้งสอง"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "เครูบทั้งสอง"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ทองคำ"
+    }
+  ],
+  "timestamp": "2026-08-20T08:57:28.010993408Z",
+  "model": "glm-5.3"
+}

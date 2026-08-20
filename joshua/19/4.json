@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "และเอลโทลาด และเบธูล และฮอร์มาห์",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "และเอลโทลาด"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "และเบธูล"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "และฮอร์มาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:14:19.677180430Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "พาชฮูร์ อามาร์ยาห์ มัลกียาห์",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "พาชฮูร์"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "อามาร์ยาห์"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "มัลกียาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:32:14.359573579Z",
+  "model": "glm-5.3"
+}

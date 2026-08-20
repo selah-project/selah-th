@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 27,
+  "translation": "สาปแช่งผู้ที่นอนกับสัตว์ทุกชนิด และประชาชนทั้งปวงจงกล่าวว่า อาเมน",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "สาปแช่ง"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "ผู้ที่นอนกับ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทุกชนิด"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "สัตว์"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "และ...กล่าวว่า"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งปวง"
+    },
+    {
+      "surface": "העם",
+      "gloss": "ประชาชน"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "อาเมน"
+    }
+  ],
+  "timestamp": "2026-08-20T08:03:04.673784442Z",
+  "model": "glm-5.3"
+}

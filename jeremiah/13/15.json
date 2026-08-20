@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "จงฟัง และจงเงี่ยหู อย่าทะนง เพราะยาห์เวห์ตรัสแล้ว",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "จงฟัง"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "และจงเงี่ยหู"
+    },
+    {
+      "surface": "אל",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "ทะนง"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ตรัสแล้ว"
+    }
+  ],
+  "timestamp": "2026-08-20T09:48:29.761948573Z",
+  "model": "glm-5.3"
+}

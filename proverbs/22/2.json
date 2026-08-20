@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "คนรวยและคนจนพบปะกัน ผู้กระทำทั้งปวงคือ ยาห์เวห์",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "คนรวย"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "และคนจน"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "พบปะกัน"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "ผู้กระทำ"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ทั้งปวงของเขา"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    }
+  ],
+  "timestamp": "2026-08-20T12:20:11.384806890Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 5:19",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "จงระลึก ถึงฉัน เอโลฮิมของฉัน เพื่อความดี ถึง ทั้งหมด ซึ่ง ฉันได้กระทำ เหนือ ⟨the⟩ประชาชน ⟨the⟩นี้",
+  "tokens": [
+    {
+      "surface": "זכרה",
+      "gloss": "จงระลึก"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ถึงฉัน"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "เอโลฮิมของฉัน"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "เพื่อความดี"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ถึงทั้งหมด"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "ฉันได้กระทำ"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ประชาชน"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨the⟩นี้"
+    }
+  ],
+  "timestamp": "2026-08-20T13:28:11.934271145Z",
+  "model": "glm-5.3"
+}

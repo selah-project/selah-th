@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 31:9",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "และยิ่ซคิยาฮูทรงไต่ถามแก่ ⟨the⟩ ปุโรหิตและ ⟨the⟩ คนเลวี ถึง ⟨the⟩ กองสะสมนั้น",
+  "tokens": [
+    {
+      "surface": "וידרש",
+      "gloss": "และทรงไต่ถาม"
+    },
+    {
+      "surface": "יחזקיהו",
+      "gloss": "ยิ่ซคิยาฮู"
+    },
+    {
+      "surface": "על",
+      "gloss": "แก่"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ปุโรหิต"
+    },
+    {
+      "surface": "והלוים",
+      "gloss": "และคนเลวี"
+    },
+    {
+      "surface": "על",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "הערמות",
+      "gloss": "กองสะสมนั้น"
+    }
+  ],
+  "timestamp": "2026-08-20T14:16:03.041503914Z",
+  "model": "glm-5.3"
+}

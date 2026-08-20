@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 22:6",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "จงอบรมเด็กตามหนทางของเขา แม้เมื่อเขาแก่ตัวลงก็จะไม่หลุดจากหนทางนั้น",
+  "tokens": [
+    {
+      "surface": "חנך",
+      "gloss": "จงอบรม"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "เด็ก"
+    },
+    {
+      "surface": "על",
+      "gloss": "ตาม"
+    },
+    {
+      "surface": "פי",
+      "gloss": "ปาก\/ทางของ"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "หนทางของเขา"
+    },
+    {
+      "surface": "גם",
+      "gloss": "แม้"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เมื่อ"
+    },
+    {
+      "surface": "יזקין",
+      "gloss": "เขาแก่ตัวลง"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יסור",
+      "gloss": "จะหลุด"
+    },
+    {
+      "surface": "ממנה",
+      "gloss": "จากหนทางนั้น"
+    }
+  ],
+  "timestamp": "2026-08-20T12:20:13.182355190Z",
+  "model": "glm-5.3"
+}

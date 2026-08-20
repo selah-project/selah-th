@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ไกลเหลือเกิน สิ่งที่เป็นมาแล้ว และลึก ลึกเหลือกว่า ใครเลยจะค้นพบมันได้",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "ไกลเหลือเกิน"
+    },
+    {
+      "surface": "מה",
+      "gloss": "เหลือกว่า"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "ที่เป็นมาแล้ว"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "และลึก"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "ลึก"
+    },
+    {
+      "surface": "מי",
+      "gloss": "ใคร"
+    },
+    {
+      "surface": "ימצאנו",
+      "gloss": "จะค้นพบมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T13:00:42.245038041Z",
+  "model": "glm-5.3"
+}

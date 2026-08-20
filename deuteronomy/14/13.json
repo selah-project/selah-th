@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 14:13",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และนกราอาห์ และ⟨את⟩นกอียาห์ และนกดียาห์ตามชนิดของมัน",
+  "tokens": [
+    {
+      "surface": "והראה",
+      "gloss": "และนกราอาห์"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "นกอียาห์"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "นกอียาห์"
+    },
+    {
+      "surface": "והדיה",
+      "gloss": "และนกดียาห์"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "ตามชนิดของมัน"
+    }
+  ],
+  "timestamp": "2026-08-20T14:28:37.296454269Z",
+  "model": "glm-5.3"
+}

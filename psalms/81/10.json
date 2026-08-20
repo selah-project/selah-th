@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 81,
+  "translation": "อย่าให้มีเอลอื่นในท่าน แลอย่าก้มกราบต่อเอลต่างถิ่น",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "มี"
+    },
+    {
+      "surface": "בך",
+      "gloss": "ในท่าน"
+    },
+    {
+      "surface": "אל",
+      "gloss": "เอล"
+    },
+    {
+      "surface": "זר",
+      "gloss": "อื่น\/ต่างถิ่น"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "แลอย่า"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "ก้มกราบ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "ต่อเอล"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ต่างถิ่น"
+    }
+  ],
+  "timestamp": "2026-08-20T11:42:14.202036963Z",
+  "model": "glm-5.3"
+}

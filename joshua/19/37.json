@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "และเคเดช และเอดเรอี และเอน-ฮาซอร์",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "และเคเดช"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "และเอดเรอี"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "และเอน"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "ฮาซอร์"
+    }
+  ],
+  "timestamp": "2026-08-20T08:14:48.082572431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 10:16",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "บุนนี อัซกัด เบวาย",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุนนี"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "อัซกัด"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "เบวาย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:33:20.392990606Z",
+  "model": "glm-5.3"
+}

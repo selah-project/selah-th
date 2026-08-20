@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "และลาหนึ่งหมื่นหกพันตัว",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "และลา"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "หนึ่ง"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "และหกสิบ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "พัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:48:26.236724613Z",
+  "model": "glm-5.3"
+}

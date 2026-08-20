@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "และเป็นไปว่า หลังจากภัยพิบัตินั้น",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "และเป็นไปว่า"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "หลังจาก"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "ภัยพิบัตินั้น"
+    }
+  ],
+  "timestamp": "2026-08-20T07:46:12.537402689Z",
+  "model": "glm-5.3"
+}

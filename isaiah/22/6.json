@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 22:6",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "และเอลามถือธนูใบ กับรถรบมนุษย์ ม้าพันธุ์ และคีร์เปิดโล่",
+  "tokens": [
+    {
+      "surface": "ועילם",
+      "gloss": "และเอลาม"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ถือ"
+    },
+    {
+      "surface": "אשפה",
+      "gloss": "ธนูใบ"
+    },
+    {
+      "surface": "ברכב",
+      "gloss": "กับรถรบ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "มนุษย์"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ม้าพันธุ์"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "และคีร์"
+    },
+    {
+      "surface": "ערה",
+      "gloss": "เปิด"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "โล่"
+    }
+  ],
+  "timestamp": "2026-08-20T09:25:23.408249223Z",
+  "model": "glm-5.3"
+}

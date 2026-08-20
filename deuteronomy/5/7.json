@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "อย่าให้มีแก่ท่านเอโลฮิมอื่น ๆ เหนือพระพักตร์ของฉัน",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "จะมี\/จะเป็น"
+    },
+    {
+      "surface": "לך",
+      "gloss": "แก่ท่าน"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "เอโลฮิม"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "อื่น ๆ"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "พระพักตร์"
+    }
+  ],
+  "timestamp": "2026-08-20T07:53:45.587829515Z",
+  "model": "glm-5.3"
+}

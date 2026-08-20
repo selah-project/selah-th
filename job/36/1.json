@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 36:1",
+  "book": "job",
+  "lang": "th",
+  "chapter": 36,
+  "translation": "และเอลีฮูทรงเพิ่ม ⟨คำ⟩ และทรงกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "และเพิ่ม"
+    },
+    {
+      "surface": "אליהוא",
+      "gloss": "เอลีฮู"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "และกล่าว"
+    }
+  ],
+  "timestamp": "2026-08-20T12:44:40.361819751Z",
+  "model": "glm-5.3"
+}

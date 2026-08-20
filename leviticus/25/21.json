@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 25:21",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "และเราจะบัญชา ⟨את⟩ พร ⟩ blessing ของเรา",
+  "tokens": [],
+  "timestamp": "2026-08-20T07:30:11.369066768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "และชื่อของบุตรสาวอาเชร์ ⟨คือ⟩ เซราห์",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "และชื่อของ"
+    },
+    {
+      "surface": "בת",
+      "gloss": "บุตรสาว"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "อาเชร์"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "เซราห์"
+    }
+  ],
+  "timestamp": "2026-08-20T07:46:58.296296352Z",
+  "model": "glm-5.3"
+}

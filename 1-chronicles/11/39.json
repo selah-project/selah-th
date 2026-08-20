@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 11:39",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "เซเลค ⟨the⟩ อัมโมนี นัชไร ⟨the⟩ เบโรที ผู้ถือศาสตรา ของ โยอาบ บุตร เซรุยาห์",
+  "tokens": [
+    {
+      "surface": "צלק",
+      "gloss": "เซเลค"
+    },
+    {
+      "surface": "העמוני",
+      "gloss": "อัมโมนี"
+    },
+    {
+      "surface": "נחרי",
+      "gloss": "นัชไร"
+    },
+    {
+      "surface": "הברתי",
+      "gloss": "เบโรที"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "ผู้ถือ"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ศาสตรา"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "โยอาบ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "เซรุยาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:43:27.683298148Z",
+  "model": "glm-5.3"
+}

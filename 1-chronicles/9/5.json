@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "และจากคนชีโลนี อาซายาห์บุตรหัวปี และบุตรชายของเขา",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "และจาก"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "คนชีโลนี"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "อาซายาห์"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "บุตรหัวปี"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "และบุตรชายของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:44:48.377712863Z",
+  "model": "glm-5.3"
+}

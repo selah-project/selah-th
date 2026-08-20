@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 23:1",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "ชีวิตของซาราห์ยาวนานร้องปี และยี่สิบปี และเจ็ดปี — ปีแห่งชีวิตของซาราห์",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "และเป็น"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ชีวิต"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ซาราห์"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "และยี่สิบ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "และเจ็ด"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "שני",
+      "gloss": "ปีแห่ง"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "ชีวิต"
+    },
+    {
+      "surface": "שרה",
+      "gloss": "ซาราห์"
+    }
+  ],
+  "timestamp": "2026-08-20T06:46:50.724498200Z",
+  "model": "glm-5.3"
+}

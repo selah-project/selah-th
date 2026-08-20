@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "ซาโดก บุตรของเขา อาหิมาอัส บุตรของเขา",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "ซาโดก"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "อาหิมาอัส"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:41:45.163325405Z",
+  "model": "glm-5.3"
+}

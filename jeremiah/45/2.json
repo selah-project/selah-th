@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 45,
+  "translation": "ดังนี้ ยาห์เวห์ เอโลฮิมแห่งยิสราเอลตรัสเกี่ยวกับเจ้า โอบารุค",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "ดังนี้"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "เอโลฮิม"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ยิสราเอล"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "เกี่ยวกับเจ้า"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "บารุค"
+    }
+  ],
+  "timestamp": "2026-08-20T10:07:22.184233187Z",
+  "model": "glm-5.3"
+}

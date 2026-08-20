@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "אָ֗ז תָּ֭בִין יִרְאַ֣ת יְהוָ֑ה וְדַ֖עַת אֱלֹהִ֣ים תִּמְצָֽא",
+  "tokens": [],
+  "timestamp": "2026-08-20T12:08:12.579087129Z",
+  "model": "glm-5.3"
+}

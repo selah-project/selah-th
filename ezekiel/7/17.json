@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ทุกมือจะอ่อนแรง และทุกเข่าจะไหลเป็นน้ำ",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ทุก"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "มือ"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "จะอ่อนแรง"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "และทุก"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "เข่า"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "จะไหล"
+    },
+    {
+      "surface": "מים",
+      "gloss": "น้ำ"
+    }
+  ],
+  "timestamp": "2026-08-20T10:17:01.841765925Z",
+  "model": "glm-5.3"
+}

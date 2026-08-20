@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-samuel 22:11",
+  "book": "2-samuel",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "และพระองค์ทรงครองคันรูบและทรงเหาะ และทรงปรากฏบนปีกแห่งลม",
+  "tokens": [
+    {
+      "surface": "וירכב",
+      "gloss": "และทรงครอง"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "כרוב",
+      "gloss": "คันรูบ"
+    },
+    {
+      "surface": "ויעף",
+      "gloss": "และทรงเหาะ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "และทรงปรากฏ"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "כנפי",
+      "gloss": "ปีกแห่ง"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ลม"
+    }
+  ],
+  "timestamp": "2026-08-20T08:50:03.029319551Z",
+  "model": "glm-5.3"
+}

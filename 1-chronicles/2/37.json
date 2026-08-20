@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และซาบัดให้กำเนิด ⟨את⟩ เอฟลาล และเอฟลาลให้กำเนิด ⟨את⟩ โอเวด",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "และซาบัด"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เอฟลาล"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "เอฟลาล"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "และเอฟลาล"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "โอเวด"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "โอเวด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:37:05.691728494Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "ดูสิ ที่รักของฉัน⟨เจ้า⟩งดงาม ดูสิ ⟨เจ้า⟩งดงาม ดวงตาของเจ้า⟨เหมือน⟩นกพิราบ",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "ดูสิ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "งดงาม"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "ที่รักของฉัน"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "ดูสิ"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "งดงาม"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "ดวงตาของเจ้า"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "นกพิราบ"
+    }
+  ],
+  "timestamp": "2026-08-20T12:48:48.654645491Z",
+  "model": "glm-5.3"
+}

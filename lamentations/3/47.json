@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ความหวาดกลัวและกับดัก ⟨has become⟩ เป็นของเรา ⟨are⟩ ความพินาศและความแตกสลาย",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "ความหวาดกลัว"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "และกับดัก"
+    },
+    {
+      "surface": "היה",
+      "gloss": "เป็นมาถึง"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "แก่เรา"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "ความพินาศ"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "และความแตกสลาย"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:01.090899247Z",
+  "model": "glm-5.3"
+}

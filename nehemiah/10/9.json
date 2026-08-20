@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "มาอัซยาห์ บิลกัย เชมายาห์ — เหล่านี้คือปุโรหิต",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "มาอัซยาห์"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "บิลกัย"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "เชมายาห์"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "เหล่านี้"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "ปุโรหิต"
+    }
+  ],
+  "timestamp": "2026-08-20T13:32:29.333932450Z",
+  "model": "glm-5.3"
+}

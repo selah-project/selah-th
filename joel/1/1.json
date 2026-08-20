@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "พระดำรัสของยาห์เวห์ ซึ่งได้มาถึงโยเอล บุตรของเปทูเอล",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "พระดำรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "היה",
+      "gloss": "ได้เป็นมา"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "โยเอล"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "เปทูเอล"
+    }
+  ],
+  "timestamp": "2026-08-20T10:51:04.399736078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "และกาดเข้ามาหาดาวิด และกล่าวกับเขาว่า ดังนี้ยาห์เวห์ตรัสว่า จงรับเอาสำหรับตัวเจ้า",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "และเข้ามา"
+    },
+    {
+      "surface": "גד",
+      "gloss": "กาด"
+    },
+    {
+      "surface": "אל",
+      "gloss": "หา"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ดาวิด"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "และกล่าว"
+    },
+    {
+      "surface": "לו",
+      "gloss": "กับเขา"
+    },
+    {
+      "surface": "כה",
+      "gloss": "ดังนี้"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "ตรัส"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "จงรับเอา"
+    },
+    {
+      "surface": "לך",
+      "gloss": "สำหรับตัวเจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T13:50:58.669263836Z",
+  "model": "glm-5.3"
+}

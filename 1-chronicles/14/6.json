@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และโนกาห์ และเนเเฟก และยาฟียา",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "และโนกาห์"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "และเนเเฟก"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "และยาฟียา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:47:16.436886451Z",
+  "model": "glm-5.3"
+}

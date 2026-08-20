@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "เชทโร ⟨the⟩ คารเมลี นาอะไร บุตร เอสบาย",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "เชทโร"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "คารเมลี"
+    },
+    {
+      "surface": "นערי",
+      "gloss": "นาอะไร"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "เอสบาย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:43:27.682891652Z",
+  "model": "glm-5.3"
+}

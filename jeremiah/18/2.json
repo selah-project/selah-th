@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 18:2",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 18,
+  "translation": "קום וירדת אל בית היוצר ושם אשמיעך את ⟨את⟩ דברי",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "קום"
+    },
+    {
+      "surface": "וירדת",
+      "gloss": "וירדת"
+    },
+    {
+      "surface": "בית",
+      "gloss": "בית"
+    },
+    {
+      "surface": "היוצר",
+      "gloss": "של היוצר"
+    },
+    {
+      "surface": "וישמה",
+      "gloss": "וישמה"
+    },
+    {
+      "surface": "אשמיעך",
+      "gloss": "אשמיעך"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ דברי",
+      "marks": "דברי"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "דברי"
+    }
+  ],
+  "timestamp": "2026-08-20T09:52:25.217522379Z",
+  "model": "glm-5.3"
+}

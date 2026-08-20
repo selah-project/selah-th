@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 31:1",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "ถ้อยคำของเลมูเอล กษัตริย์ ภาระซึ่งแม่ของเขาได้สั่งสอนเขา",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "ถ้อยคำของ"
+    },
+    {
+      "surface": "למואל",
+      "gloss": "เลมูเอล"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "กษัตริย์"
+    },
+    {
+      "surface": "משא",
+      "gloss": "ภาระ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "יסרתו",
+      "gloss": "ได้สั่งสอนเขา"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "แม่ของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:25:43.829477491Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "ดีแก่ชายที่เขาแบกแอกในวัยเยาว์ของตน",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ดี"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "แก่ชาย"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "เขาแบก"
+    },
+    {
+      "surface": "על",
+      "gloss": "แอก"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "ในวัยเยาว์ของตน"
+    }
+  ],
+  "timestamp": "2026-08-20T12:55:15.331762505Z",
+  "model": "glm-5.3"
+}

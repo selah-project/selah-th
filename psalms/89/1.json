@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 89:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 89,
+  "translation": "บทสอนใจ ของเอตาน ฮาเอซราฮี",
+  "tokens": [
+    {
+      "surface": "משכיל",
+      "gloss": "บทสอนใจ"
+    },
+    {
+      "surface": "לאיתן",
+      "gloss": "ของเอตาน"
+    },
+    {
+      "surface": "האזרחי",
+      "gloss": "ฮาเอซราฮี"
+    }
+  ],
+  "timestamp": "2026-08-20T11:46:07.046655190Z",
+  "model": "glm-5.3"
+}

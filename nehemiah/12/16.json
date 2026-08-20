@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 12:16",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "แห่งอิดโด เซคาร์ยาห์ แห่งกิมเนโทน มาเชูลัม",
+  "tokens": [
+    {
+      "surface": "לעדיא",
+      "gloss": "แห่งอิดโด"
+    },
+    {
+      "surface": "זכריה",
+      "gloss": "เซคาร์ยาห์"
+    },
+    {
+      "surface": "לגנתון",
+      "gloss": "แห่งกิมเนโทน"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "มาเชูลัม"
+    }
+  ],
+  "timestamp": "2026-08-20T13:33:14.625666057Z",
+  "model": "glm-5.3"
+}

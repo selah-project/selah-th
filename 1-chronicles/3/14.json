@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 3:14",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "อามอนบุตรของเขา โยชียาฮูบุตรของเขา",
+  "tokens": [
+    {
+      "surface": "אמון",
+      "gloss": "อามอน"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    },
+    {
+      "surface": "יאשיהו",
+      "gloss": "โยชียาฮู"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "บุตรของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T13:38:59.683499515Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 11:9",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และ ⟨את⟩ อาโดรายิม และ ⟨את⟩ ลาคีช และ ⟨את⟩ อาเซคาห์",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "อาโดรายิม"
+    },
+    {
+      "surface": "אדורים",
+      "gloss": "อาโดรายิม"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "ลาคีช"
+    },
+    {
+      "surface": "לכיש",
+      "gloss": "ลาคีช"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "อาเซคาห์"
+    },
+    {
+      "surface": "עזקה",
+      "gloss": "อาเซคาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T14:01:14.706683190Z",
+  "model": "glm-5.3"
+}

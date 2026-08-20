@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-chronicles 2:51",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "ซัลมา บิดาแห่งเบท-เลเเฮม ฮาเรฟ บิดาแห่งเบท-กาเดร",
+  "tokens": [
+    {
+      "surface": "שלמא",
+      "gloss": "ซัลมา"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "บิดาแห่ง"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบท"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "เลเเฮม"
+    },
+    {
+      "surface": "חרף",
+      "gloss": "ฮาเรฟ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "บิดาแห่ง"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบท"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "กาเดร"
+    }
+  ],
+  "timestamp": "2026-08-20T13:37:09.868692449Z",
+  "model": "glm-5.3"
+}

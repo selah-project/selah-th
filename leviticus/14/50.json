@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และเขาจะฆ่า ⟨את⟩ นกตัวหนึ่ง ในภาชนะดินเผา เหนือน้ำที่มีชีวิต",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "และเขาจะฆ่า"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "นกตัวหนึ่ง"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "นก"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "ตัวหนึ่ง"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ใน"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "ภาชนะ"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "ดินเผา"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "น้ำ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "ที่มีชีวิต"
+    }
+  ],
+  "timestamp": "2026-08-20T07:25:40.020220885Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ความขุ่นเคืองดีกว่าเสียงหัวเราะ เพราะในความมืดหม่นของพักตร์ ใจจะได้ดี",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ดีกว่า"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "ความขุ่นเคือง"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "กว่าเสียงหัวเราะ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะ"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "ในความมืดหม่น"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "ของพักตร์"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "จะได้ดี"
+    },
+    {
+      "surface": "לב",
+      "gloss": "ใจ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:01:48.164356206Z",
+  "model": "glm-5.3"
+}

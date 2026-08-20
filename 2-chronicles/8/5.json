@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 8:5",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และเขาสร้าง ⟨את⟩ เบตโฮรอนบน และ ⟨את⟩ เบตโฮรอนล่าง เมืองต้านทานมีกำแพง ประตู และาน",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "และเขาสร้าง"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เบตโฮรอนบน"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบต"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "โฮรอน"
+    },
+    {
+      "surface": "העליון",
+      "gloss": "บน"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ ⟨את⟩",
+      "marks": "เบตโฮรอนล่าง"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบต"
+    },
+    {
+      "surface": "חורון",
+      "gloss": "โฮรอน"
+    },
+    {
+      "surface": "התחתון",
+      "gloss": "ล่าง"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "เมือง"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "ต้านทาน"
+    },
+    {
+      "surface": "חומות",
+      "gloss": "กำแพง"
+    },
+    {
+      "surface": "דלתים",
+      "gloss": "ประตู"
+    },
+    {
+      "surface": "ובריח",
+      "gloss": "และาน"
+    }
+  ],
+  "timestamp": "2026-08-20T14:03:36.896671055Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรของเครอส บุตรของซีอาฮา บุตรของปาโดน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "เครอส"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "ซีอาฮา"
+    },
+    {
+      "surface": "בนי",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "ปาโดน"
+    }
+  ],
+  "timestamp": "2026-08-20T13:21:07.956004802Z",
+  "model": "glm-5.3"
+}

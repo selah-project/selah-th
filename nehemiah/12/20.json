@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "แห่งซัลไล คัลไล; แห่งอาโมก เอเบอร์",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "แห่งซัลไล"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "คัลไล"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "แห่งอาโมก"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "เอเบอร์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:34:02.462470400Z",
+  "model": "glm-5.3"
+}

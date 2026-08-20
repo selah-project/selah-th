@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 20:29",
+  "book": "judges",
+  "lang": "th",
+  "chapter": 20,
+  "translation": "ฝ่ายยิสราเอลตั้งคนซุ่มโจมตีไว้รอบเมืองกิบอาห์",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "และตั้ง"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ยิสราเอล"
+    },
+    {
+      "surface": "ארבים",
+      "gloss": "คนซุ่มโจมตี"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ต่อ"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "กิบอาห์"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "รอบ"
+    }
+  ],
+  "timestamp": "2026-08-20T08:27:42.001100531Z",
+  "model": "glm-5.3"
+}

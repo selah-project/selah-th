@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 11:22",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "แหวนทองคำในจมูกหมู คือหญิงที่สวยแต่ผินจากความรอบรู้",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "แหวนจมูก"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "ทองคำ"
+    },
+    {
+      "surface": "באף",
+      "gloss": "ในจมูก"
+    },
+    {
+      "surface": "חזיר",
+      "gloss": "ของหมู"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "หญิง"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "สวย"
+    },
+    {
+      "surface": "וסרת",
+      "gloss": "และผิน"
+    },
+    {
+      "surface": "טעם",
+      "gloss": "จากความรอบรู้"
+    }
+  ],
+  "timestamp": "2026-08-20T12:14:00.923791264Z",
+  "model": "glm-5.3"
+}

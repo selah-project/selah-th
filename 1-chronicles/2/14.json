@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 2:14",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "เนทันเอลเป็นคนที่สี่ รัดดัยเป็นคนที่ห้า",
+  "tokens": [
+    {
+      "surface": "נתנאל",
+      "gloss": "เนทันเอล"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "คนที่สี่"
+    },
+    {
+      "surface": "רדי",
+      "gloss": "รัดดัย"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "คนที่ห้า"
+    }
+  ],
+  "timestamp": "2026-08-20T13:37:45.126887143Z",
+  "model": "glm-5.3"
+}

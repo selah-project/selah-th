@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "อันข้าพเจ้า โคเฮเลท เคยเป็นกษัตริย์เหนือยิสราเอล ในเยรูชาลายิม",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "อันข้าพเจ้า"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "โคเฮเลท"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "เคยเป็น"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "กษัตริย์"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ยิสราเอล"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "ในเยรูชาลายิม"
+    }
+  ],
+  "timestamp": "2026-08-20T14:56:22.171994091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 36:8",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 36,
+  "translation": "และเอซาฟทรงอาศัยในภูเขาเสอีร์ เอซาฟคือเอโดม",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "และทรงอาศัย"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "เอซาฟ"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "ในภูเขา"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "เสอีร์"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "เอซาฟ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "คือ"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "เอโดม"
+    }
+  ],
+  "timestamp": "2026-08-20T06:54:10.111580622Z",
+  "model": "glm-5.3"
+}

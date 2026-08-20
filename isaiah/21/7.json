@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 21:7",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 21,
+  "translation": "และเขาเห็นรถรบ คู่ม้า รถของลา รถของอูฐ และเขาตั้งใจฟัง ฟังอย่างตั้งใจยิ่ง",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "และเขาเห็น"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "รถรบ"
+    },
+    {
+      "surface": "צמד",
+      "gloss": "คู่"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "ม้า"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "รถ"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "ลา"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "รถ"
+    },
+    {
+      "surface": "גמל",
+      "gloss": "อูฐ"
+    },
+    {
+      "surface": "והקשיב",
+      "gloss": "และตั้งใจฟัง"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "ฟังตั้งใจ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ยิ่ง"
+    },
+    {
+      "surface": "קשב",
+      "gloss": "ฟังตั้งใจ"
+    }
+  ],
+  "timestamp": "2026-08-20T09:25:03.613845666Z",
+  "model": "glm-5.3"
+}

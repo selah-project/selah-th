@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 41:14",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 41,
+  "translation": "และความกว้าง หน้า הבית แลהגזרה ไปทางตะวันออก หนึ่งร้อยศอก",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "และความกว้าง"
+    },
+    {
+      "surface": "פני",
+      "gloss": "หน้า"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "הบית"
+    },
+    {
+      "surface": "והגזרה",
+      "gloss": "แลהגזרה"
+    },
+    {
+      "surface": "לקדים",
+      "gloss": "ไปทางตะวันออก"
+    },
+    {
+      "surface": "มאה",
+      "gloss": "หนึ่งร้อย"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ศอก"
+    }
+  ],
+  "timestamp": "2026-08-20T10:41:37.430859352Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 29:24",
+  "book": "jeremiah",
+  "lang": "th",
+  "chapter": 29,
+  "translation": "และถึง เชมายาหู ชาวเนฮาลัม เจ้าจะกล่าว กล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "และถึง"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "เชมายาหู"
+    },
+    {
+      "surface": "הנחלמי",
+      "gloss": "ชาวเนฮาลัม"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "เจ้าจะกล่าว"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "กล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T09:58:01.941986875Z",
+  "model": "glm-5.3"
+}

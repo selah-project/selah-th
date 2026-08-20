@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "judges 9:39",
+  "book": "judges",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "และกัลออกไปข้างหน้าผู้นำชาวเชเคม และต่อสู้กับอาบีเมเลk",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "และออกไป"
+    },
+    {
+      "surface": "געל",
+      "gloss": "กัล"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ข้างหน้า"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "ผู้นำ"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "เชเคม"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "และต่อสู้"
+    },
+    {
+      "surface": "באבימלך",
+      "gloss": "กับอาบีเมเลk"
+    }
+  ],
+  "timestamp": "2026-08-20T08:21:03.788416448Z",
+  "model": "glm-5.3"
+}

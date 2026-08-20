@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรของฮาริม สามร้อยยี่สิบ",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ฮาริม"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "ยี่สิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:19:29.367574597Z",
+  "model": "glm-5.3"
+}

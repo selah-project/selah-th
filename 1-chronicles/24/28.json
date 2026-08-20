@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "แห่งมาห์ลี ⟨คือ⟩ เอลาซาร์ และเขาไม่มีบุตรชาย",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "แห่งมาห์ลี"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "เอลาซาร์"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "และไม่"
+    },
+    {
+      "surface": "היה",
+      "gloss": "มีแก่เขา"
+    },
+    {
+      "surface": "לו",
+      "gloss": "แก่เขา"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "บุตรชาย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:51:59.919031643Z",
+  "model": "glm-5.3"
+}

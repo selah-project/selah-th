@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "th",
+  "chapter": 42,
+  "translation": "ตรงหน้าด้านยาวร้อยศอก ⟨คือ⟩ ทางเข้าด้านทิศเหนือ และความกว้างห้าสิบศอก",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "ตรง"
+    },
+    {
+      "surface": "פני",
+      "gloss": "หน้า"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ด้านยาว"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ศอก"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ทางเข้า"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "ด้านทิศเหนือ"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "และความกว้าง"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ห้าสิบ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "ศอก"
+    }
+  ],
+  "timestamp": "2026-08-20T10:41:02.384434132Z",
+  "model": "glm-5.3"
+}

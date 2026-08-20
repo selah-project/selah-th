@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 18,
+  "translation": "ฝ่ายอาบีชัย บุตรของเซรุยาห์ ประหาร ⟨את⟩ เอโดม ในหุบเขาเกลือ สิบแปดพัน",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "ฝ่ายอาบีชัย"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "เซรุยาห์"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "ประหาร"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เอโดม"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "เอโดม"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "ในหุบเขา"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "เกลือ"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "แปด"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "พัน"
+    }
+  ],
+  "timestamp": "2026-08-20T13:49:55.515534014Z",
+  "model": "glm-5.3"
+}

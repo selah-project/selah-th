@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "บุตรของอุสซิเอลคือมีคาห์หัวหน้า และยิชชิยาห์ที่สอง",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "อุสซิเอล"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "มีคาห์"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "หัวหน้า"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "และยิชชิยาห์"
+    },
+    {
+      "surface": "השני",
+      "gloss": "ที่สอง"
+    }
+  ],
+  "timestamp": "2026-08-20T13:52:52.603021296Z",
+  "model": "glm-5.3"
+}

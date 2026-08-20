@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 19:20",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "และยาห์เวห์เสด็จลงมาบนภูเขาสีนย ถึงยอด⟨the⟩ภูเขา และยาห์เวห์ทรงเรียกโมเชไปยังยอด⟨the⟩ภูเขา และโมเชขึ้นไป",
+  "tokens": [
+    {
+      "surface": "וירד",
+      "gloss": "และเสด็จลงมา"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "הר",
+      "gloss": "ภูเขา"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "สีนย"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ยอด"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨the⟩ภูเขา"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "และทรงเรียก"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "למשה",
+      "gloss": "โมเช"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ไปยัง"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "ยอด"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨the⟩ภูเขา"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "และขึ้นไป"
+    },
+    {
+      "surface": "משה",
+      "gloss": "โมเช"
+    }
+  ],
+  "timestamp": "2026-08-20T07:08:49.746141923Z",
+  "model": "glm-5.3"
+}

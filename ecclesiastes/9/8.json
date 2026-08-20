@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "ในทุกเวลา เสื้อผ้าของเจ้าจงเป็นสีขาว และน้ำมันเหนือศีรษะของเจ้าอย่าให้ขาด",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ในทุก"
+    },
+    {
+      "surface": "עת",
+      "gloss": "เวลา"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "จงเป็น"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "เสื้อผ้าของเจ้า"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "สีขาว"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "และน้ำมัน"
+    },
+    {
+      "surface": "על",
+      "gloss": "เหนือ"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "ศีรษะของเจ้า"
+    },
+    {
+      "surface": "אל",
+      "gloss": "อย่า"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "ให้ขาด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:01:58.693671245Z",
+  "model": "glm-5.3"
+}

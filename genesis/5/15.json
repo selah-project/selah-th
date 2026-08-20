@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และมาฮาลาเลลมีชีวิตห้าปี และหกสิบปี และเขาให้กำเนิด ⟨את⟩ ยาเรด",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "มีชีวิต"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "มาฮาลาเลล"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ห้า"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "และหกสิบ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "และเขาให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ยาเรด"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ยาเรด"
+    }
+  ],
+  "timestamp": "2026-08-20T06:40:35.513186067Z",
+  "model": "glm-5.3"
+}

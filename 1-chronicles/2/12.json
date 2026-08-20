@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "และโบอัซให้กำเนิด ⟨את⟩ โอเบด และโอเบดให้กำเนิด ⟨את⟩ ยิชัย",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "และโบอัซ"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "โอเบด"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "โอเบด"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "และโอเบด"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "ให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ยิชัย"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "ยิชัย"
+    }
+  ],
+  "timestamp": "2026-08-20T13:37:06.938416272Z",
+  "model": "glm-5.3"
+}

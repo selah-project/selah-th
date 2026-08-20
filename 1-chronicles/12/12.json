@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 12:12",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "อัทไท ⟨เป็น⟩ ที่หก เอลีเอล ⟨เป็น⟩ ที่เจ็ด",
+  "tokens": [
+    {
+      "surface": "עתי",
+      "gloss": "อัทไท"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "ที่หก"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "เอลีเอล"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "ที่เจ็ด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:44:29.470921435Z",
+  "model": "glm-5.3"
+}

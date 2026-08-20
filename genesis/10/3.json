@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "และบุตรชายของโกเมร คือ อัชเคนาส รีฟัท และโทการมาห์",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรชายของ"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "โกเมร"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "อัชเคนาส"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "และรีฟัท"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "และโทการมาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T06:41:55.277391480Z",
+  "model": "glm-5.3"
+}

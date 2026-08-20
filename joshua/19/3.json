@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "joshua 19:3",
+  "book": "joshua",
+  "lang": "th",
+  "chapter": 19,
+  "translation": "และฮาซาร์ชูอัล และบาลาห์ และเอเซม",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "และฮาซาร์"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "ชูอัล"
+    },
+    {
+      "surface": "ובלה",
+      "gloss": "และบาลาห์"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "และเอเซม"
+    }
+  ],
+  "timestamp": "2026-08-20T08:14:19.677044023Z",
+  "model": "glm-5.3"
+}

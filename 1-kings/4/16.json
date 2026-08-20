@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "บาอานา บุตรของฮูชัย ในอาเชอร์ และในอาโลท",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "บาอานา"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "ฮูชัย"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "ในอาเชอร์"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "และในอาโลท"
+    }
+  ],
+  "timestamp": "2026-08-20T08:55:01.810938291Z",
+  "model": "glm-5.3"
+}

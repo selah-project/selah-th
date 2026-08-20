@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 118,
+  "translation": "ดี ⟨it is⟩ ที่จะลี้ภัยในยาห์เวห์ กว่าไว้วางใจในมนุษย์",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ดี"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "ที่จะลี้ภัย"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "ในยาห์เวห์"
+    },
+    {
+      "surface": "מבטח",
+      "gloss": "กว่าไว้วางใจ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "ในมนุษย์"
+    }
+  ],
+  "timestamp": "2026-08-20T11:56:30.280712816Z",
+  "model": "glm-5.3"
+}

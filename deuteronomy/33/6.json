@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 33,
+  "translation": "ขอเรอูเบนมีชีวิตและอย่าให้ตาย และขอคนของเขาเป็นจำนวน",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "ขอมีชีวิต"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "เรอูเบน"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "และอย่า"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "ตาย"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "และขอเป็น"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "คนของเขา"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "จำนวน"
+    }
+  ],
+  "timestamp": "2026-08-20T08:06:34.242369788Z",
+  "model": "glm-5.3"
+}

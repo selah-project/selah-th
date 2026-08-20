@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 31:33",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 31,
+  "translation": "และโคสองหมื่นเจ็ดพันตัว",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "และโค"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "และเจ็ดสิบ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "พัน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:48:26.236443481Z",
+  "model": "glm-5.3"
+}

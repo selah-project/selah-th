@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "ยิรมียาฮู คนที่สิบ มัคบันนาย คนที่สิบเอ็ด",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "ยิรมียาฮู"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "คนที่สิบ"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "มัคบันนาย"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "คนที่สิบ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "เอ็ด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:47:08.748030459Z",
+  "model": "glm-5.3"
+}

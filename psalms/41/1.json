@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 41,
+  "translation": "แก่ผู้ควบคุมเพลง เพลงสรรเสริญของดาวีด",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "แก่ผู้ควบคุมเพลง"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "เพลงสรรเสริญ"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ของดาวีด"
+    }
+  ],
+  "timestamp": "2026-08-20T11:27:46.742410111Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "บุตรแห่งบิกวัย สองพัน หกสิบเจ็ด",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรแห่ง"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "บิกวัย"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "สองพัน"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "หกสิบ"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "และเจ็ด"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:15.535429632Z",
+  "model": "glm-5.3"
+}

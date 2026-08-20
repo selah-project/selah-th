@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 32,
+  "translation": "และบุตรชายของกาดสร้าง ⟨את⟩ ดีโบน และ⟨את⟩ อาทารอท และ⟨את⟩ อาโรเอร",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "และสร้าง"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "גד",
+      "gloss": "กาด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ดีโบน"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "ดีโบน"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "อาทารอท"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "อาทารอท"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "อาโรเอร"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "อาโรเอร"
+    }
+  ],
+  "timestamp": "2026-08-20T07:49:35.058073723Z",
+  "model": "glm-5.3"
+}

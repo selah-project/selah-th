@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "ริมฝีปากจะจุมพิต แก่ผู้ตอบกลับคำพูดอันตรงไปตรงมา",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "ริมฝีปาก"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "จะจุมพิต"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "ผู้ตอบกลับ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "คำพูด"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "อันตรงไปตรงมา"
+    }
+  ],
+  "timestamp": "2026-08-20T12:21:25.892903227Z",
+  "model": "glm-5.3"
+}

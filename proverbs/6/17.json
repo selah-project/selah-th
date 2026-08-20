@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 6:17",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "ตาที่ยกสูง ลิ้นที่มุสา และมือที่ทำหลั่งเลือดผู้บริสุทธิ์",
+  "tokens": [
+    {
+      "surface": "עינים",
+      "gloss": "ตา"
+    },
+    {
+      "surface": "רמות",
+      "gloss": "ที่ยกสูง"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "ลิ้น"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "มุสา"
+    },
+    {
+      "surface": "וידים",
+      "gloss": "และมือ"
+    },
+    {
+      "surface": "שפכות",
+      "gloss": "ที่หลั่ง"
+    },
+    {
+      "surface": "דם",
+      "gloss": "เลือด"
+    },
+    {
+      "surface": "נקי",
+      "gloss": "ผู้บริสุทธิ์"
+    }
+  ],
+  "timestamp": "2026-08-20T12:10:59.583687288Z",
+  "model": "glm-5.3"
+}

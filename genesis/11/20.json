@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และเรอูมีชีวิตอยู่สองสิบสามปี และเขาให้กำเนิด ⟨את⟩ เสรูก",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "และมีชีวิตอยู่"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "เรอู"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "และสามสิบ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "และเขาให้กำเนิด"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "เสรูก"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "เสรูก"
+    }
+  ],
+  "timestamp": "2026-08-20T06:42:47.249057013Z",
+  "model": "glm-5.3"
+}

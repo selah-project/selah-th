@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 10:31",
+  "book": "isaiah",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "มัดเมนาห์หนีสำรวจ ชาวเกบิมเก็บตัวหนีไปซ่อน",
+  "tokens": [
+    {
+      "surface": "נדדה",
+      "gloss": "หนีสำรวจ"
+    },
+    {
+      "surface": "מדמנה",
+      "gloss": "มัดเมนาห์"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "ชาว"
+    },
+    {
+      "surface": "הגבים",
+      "gloss": "เกบิม"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "เก็บตัวหนีไป"
+    }
+  ],
+  "timestamp": "2026-08-20T09:22:53.450787705Z",
+  "model": "glm-5.3"
+}

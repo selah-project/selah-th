@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "มัลลุก ฮาริม บาอานาห์",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "มัลลุก"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "ฮาริม"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "บาอานาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:32:35.124896613Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 25:1",
+  "book": "job",
+  "lang": "th",
+  "chapter": 25,
+  "translation": "แล้วบิลดัดชูฮีตอบและกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "แล้วตอบ"
+    },
+    {
+      "surface": "בלדד",
+      "gloss": "บิลดัด"
+    },
+    {
+      "surface": "השחי",
+      "gloss": "ชูฮี"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "และกล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T12:39:30.344068864Z",
+  "model": "glm-5.3"
+}

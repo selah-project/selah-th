@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 8:5",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 8,
+  "translation": "และเกรา และเชฟูฟาน และฮูราม",
+  "tokens": [
+    {
+      "surface": "וגרא",
+      "gloss": "และเกรา"
+    },
+    {
+      "surface": "ושפופן",
+      "gloss": "และเชฟูฟาน"
+    },
+    {
+      "surface": "וחורם",
+      "gloss": "และฮูราม"
+    }
+  ],
+  "timestamp": "2026-08-20T13:42:07.576685609Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 106:19",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 106,
+  "translation": "เขาทำลูกวัวที่โฮเรบ และโค้งกราบต่อรูปหล่อ",
+  "tokens": [
+    {
+      "surface": "יעשו",
+      "gloss": "เขาทำ"
+    },
+    {
+      "surface": "עגל",
+      "gloss": "ลูกวัว"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "ที่โฮเรบ"
+    },
+    {
+      "surface": "וישתחוו",
+      "gloss": "และโค้งกราบ"
+    },
+    {
+      "surface": "למסכה",
+      "gloss": "ต่อรูปหล่อ"
+    }
+  ],
+  "timestamp": "2026-08-20T11:53:20.010997893Z",
+  "model": "glm-5.3"
+}

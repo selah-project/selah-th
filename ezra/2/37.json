@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรของอิมเมอร์ หนึ่งพันห้าสิบสอง",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรของ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "อิมเมอร์"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "หนึ่งพัน"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ห้าสิบ"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "สอง"
+    }
+  ],
+  "timestamp": "2026-08-20T13:19:08.966862207Z",
+  "model": "glm-5.3"
+}

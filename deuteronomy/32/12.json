@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 32,
+  "translation": "ยาห์เวห์ทรงนำเขาโดยลำพัง และไม่มีเอลต่างถิ่นอยู่กับเขา",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "โดยลำพัง"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "ทรงนำเขา"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "และไม่มี"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "อยู่กับเขา"
+    },
+    {
+      "surface": "אל",
+      "gloss": "เอล"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "ต่างถิ่น"
+    }
+  ],
+  "timestamp": "2026-08-20T08:05:34.009953881Z",
+  "model": "glm-5.3"
+}

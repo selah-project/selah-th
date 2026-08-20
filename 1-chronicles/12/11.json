@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 12:11",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "มิชมันนาห์ ⟨เป็น⟩ ที่สี่ ยิร์มะยาห์ ⟨เป็น⟩ ที่ห้า",
+  "tokens": [
+    {
+      "surface": "משמנה",
+      "gloss": "มิชมันนาห์"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "ที่สี่"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "ยิร์มะยาห์"
+    },
+    {
+      "surface": "החמשי",
+      "gloss": "ที่ห้า"
+    }
+  ],
+  "timestamp": "2026-08-20T13:44:29.470796390Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "⟨את⟩ אותי הוא נהג והוליך אל החושך ולא אור",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩ אותי"
+    },
+    {
+      "surface": "נהג",
+      "gloss": "נהג"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "והוליך"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "אל החושך"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "ולא"
+    },
+    {
+      "surface": "אור",
+      "gloss": "אור"
+    }
+  ],
+  "timestamp": "2026-08-20T12:54:40.625792834Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 12:1",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "แก่ผู้ขับบรรเลง ทับที่เสมินิท บทเพลงของดาวิด",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "แก่ผู้ขับบรรเลง"
+    },
+    {
+      "surface": "על",
+      "gloss": "ทับที่"
+    },
+    {
+      "surface": "השמינית",
+      "gloss": "เสมินิท"
+    },
+    {
+      "surface": "มזמור",
+      "gloss": "บทเพลง"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "ของดาวיד"
+    }
+  ],
+  "timestamp": "2026-08-20T14:49:24.688615520Z",
+  "model": "glm-5.3"
+}

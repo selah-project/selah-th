@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 14:30",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "และเขาจะทำ ⟨את⟩ ตัวหนึ่งจากนกเขาหรือจากลูกพื้น ตามที่มือของเขาจะหาได้",
+  "tokens": [
+    {
+      "surface": "ועשה",
+      "gloss": "และเขาจะทำ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ตัวหนึ่ง"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "ตัวหนึ่ง"
+    },
+    {
+      "surface": "מן",
+      "gloss": "จาก"
+    },
+    {
+      "surface": "התרים",
+      "gloss": "นกเขา"
+    },
+    {
+      "surface": "או",
+      "gloss": "หรือ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "จาก"
+    },
+    {
+      "surface": "בני",
+      "gloss": "ลูก"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "พื้น"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "จากที่"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "จะหาได้"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "มือของเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:24:42.536000430Z",
+  "model": "glm-5.3"
+}

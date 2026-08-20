@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 15:3",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 15,
+  "translation": "ในทุกที่นั้น ตาของยาห์เวห์ทอดสูอง เฝ้าดูคนชั่วและคนดี",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "ในทุก"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ที่"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "ตาของ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "צפות",
+      "gloss": "เฝ้าดู"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "คนชั่ว"
+    },
+    {
+      "surface": "וטובים",
+      "gloss": "และคนดี"
+    }
+  ],
+  "timestamp": "2026-08-20T12:16:53.299481508Z",
+  "model": "glm-5.3"
+}

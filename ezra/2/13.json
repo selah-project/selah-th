@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezra 2:13",
+  "book": "ezra",
+  "lang": "th",
+  "chapter": 2,
+  "translation": "บุตรชายของอาโดนิคัม หกร้อยหกสิบหกคน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "אדניקם",
+      "gloss": "อาโดนิคัม"
+    },
+    {
+      "surface": "שש",
+      "gloss": "หก"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "หกสิบ"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "และหก"
+    }
+  ],
+  "timestamp": "2026-08-20T13:19:09.107017426Z",
+  "model": "glm-5.3"
+}

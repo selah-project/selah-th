@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 4:14",
+  "book": "1-kings",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "อาหีนาดับ บุตรของอิดโด มีมาหานาอิม",
+  "tokens": [
+    {
+      "surface": "אחינדב",
+      "gloss": "อาหีนาดับ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "עדא",
+      "gloss": "อิดโด"
+    },
+    {
+      "surface": "מחנימה",
+      "gloss": "มาหานาอิม"
+    }
+  ],
+  "timestamp": "2026-08-20T08:55:01.810654476Z",
+  "model": "glm-5.3"
+}

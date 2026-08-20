@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 42:23",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 42,
+  "translation": "และพวกเขาไม่รู้ว่าโยเซฟเข้าใจ เพราะว่าผู้แปลอยู่ระหว่างพวกเขา",
+  "tokens": [
+    {
+      "surface": "והם",
+      "gloss": "และพวกเขา"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ידעו",
+      "gloss": "รู้"
+    },
+    {
+      "surface": "כי",
+      "gloss": "ว่า"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "เข้าใจ"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "โยเซฟ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "เพราะว่า"
+    },
+    {
+      "surface": "המליץ",
+      "gloss": "ผู้แปล"
+    },
+    {
+      "surface": "בינתם",
+      "gloss": "ระหว่างพวกเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T06:57:51.716608662Z",
+  "model": "glm-5.3"
+}

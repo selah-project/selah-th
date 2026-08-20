@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 23:7",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "แก่คนเกรชโนนี คือ ลาดานและชิมอี",
+  "tokens": [
+    {
+      "surface": "לגרשני",
+      "gloss": "แก่คนเกรชโนนี"
+    },
+    {
+      "surface": "ลעדן",
+      "gloss": "ลาดาน"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "และชิมอี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:52:06.355962899Z",
+  "model": "glm-5.3"
+}

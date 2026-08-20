@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 89:23",
+  "book": "psalms",
+  "lang": "th",
+  "chapter": 89,
+  "translation": "ศัตรูจะไม่กดขี่ ⟨את⟩ เขา และบุตรแห่งความอธรรมจะไม่ข่มเหงเขา",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "จะกดขี่"
+    },
+    {
+      "surface": "אויב",
+      "gloss": "ศัตรู"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨את⟩ เขา",
+      "marks": "เขา"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "และบุตร"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "แห่งความอธรรม"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "יעננו",
+      "gloss": "จะข่มเหงเขา"
+    }
+  ],
+  "timestamp": "2026-08-20T11:46:12.279060175Z",
+  "model": "glm-5.3"
+}

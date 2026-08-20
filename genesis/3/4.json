@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 3,
+  "translation": "งูกล่าวแก่หญิงนั้นว่า พวกเจ้าจะไม่ตายเด็ดขาด",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "กล่าว"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "งู"
+    },
+    {
+      "surface": "אל",
+      "gloss": "แก่"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "หญิงนั้น"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "מות",
+      "gloss": "ตาย"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "พวกเจ้าจะตาย"
+    }
+  ],
+  "timestamp": "2026-08-20T06:39:53.065084329Z",
+  "model": "glm-5.3"
+}

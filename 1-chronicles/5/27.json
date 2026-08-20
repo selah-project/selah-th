@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "บุตรชายทั้งหลายของเลวี คือเกเรชอน เคฮัท และเมรารี",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายทั้งหลายของ"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "เลวี"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "เกเรชอน"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "เคฮัท"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "และเมรารี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:40:06.568930969Z",
+  "model": "glm-5.3"
+}

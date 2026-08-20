@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 36:11",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 36,
+  "translation": "และบุตรชายของเอลีฟัสคือ: เทมาน โอมาร์ เซโฟ กาทัม และเคนัส",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "และเป็น"
+    },
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "เอลีฟัส"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "เทมาน"
+    },
+    {
+      "surface": "אומר",
+      "gloss": "โอมาร์"
+    },
+    {
+      "surface": "צפו",
+      "gloss": "เซโฟ"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "และกาทัม"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "และเคนัส"
+    }
+  ],
+  "timestamp": "2026-08-20T06:53:58.277890779Z",
+  "model": "glm-5.3"
+}

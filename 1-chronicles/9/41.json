@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "และบุตรชายของมีคาห์ คือ ปิโธน และเมเลค และทาห์เรอาห์",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรชายของ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "มีคาห์"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "ปิโธน"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "และเมเลค"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "และทาห์เรอาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:45:01.270156159Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "nehemiah 12:6",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 12,
+  "translation": "เชมายาห์ และโยยาริบ เยดายาห์",
+  "tokens": [
+    {
+      "surface": "שמעיה",
+      "gloss": "เชมายาห์"
+    },
+    {
+      "surface": "ויויריב",
+      "gloss": "และโยยาริบ"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "เยดายาห์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:34:07.243506832Z",
+  "model": "glm-5.3"
+}

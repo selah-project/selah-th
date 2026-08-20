@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 9:20",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "และพวกเขาวาง ⟨את⟩ ไขมันไว้บนอก และเขาเผา ⟨את⟩ ไขมันบนแท่นบูชา",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "และพวกเขาวาง"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ไขมัน"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ไขมัน"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "החזות",
+      "gloss": "อก"
+    },
+    {
+      "surface": "ויקטר",
+      "gloss": "และเขาเผา"
+    },
+    {
+      "surface": "החלבים",
+      "gloss": "ไขมัน"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "บนแท่นบูชา"
+    }
+  ],
+  "timestamp": "2026-08-20T07:22:35.419860141Z",
+  "model": "glm-5.3"
+}

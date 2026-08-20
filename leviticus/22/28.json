@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "leviticus 22:28",
+  "book": "leviticus",
+  "lang": "th",
+  "chapter": 22,
+  "translation": "และโคหรือฝูงแกะ ⟨את⟩ มันและ⟨את⟩ ลูกของมัน พวกเจ้าจะอย่าฆ่าในวันเดียวกัน",
+  "tokens": [
+    {
+      "surface": "ושור",
+      "gloss": "และโค"
+    },
+    {
+      "surface": "או",
+      "gloss": "หรือ"
+    },
+    {
+      "surface": "שה",
+      "gloss": "ฝูงแกะ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "มัน"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "และ⟨את⟩",
+      "marks": "ลูกของมัน"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "ลูกของมัน"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תשחטו",
+      "gloss": "พวกเจ้าจะฆ่า"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "ในวัน"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "เดียว"
+    }
+  ],
+  "timestamp": "2026-08-20T07:29:10.806084403Z",
+  "model": "glm-5.3"
+}

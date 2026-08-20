@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 5,
+  "translation": "และ≤วัน≥ทั้งหมดของเอโนชเป็นเก้าร้อยห้าปี และเขาสิ้นชีวิต",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "เป็น"
+    },
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "วันทั้งหลายของ"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "เอโนช"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ห้า"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "และเก้า"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "และสิ้นชีวิต"
+    }
+  ],
+  "timestamp": "2026-08-20T06:40:10.364817423Z",
+  "model": "glm-5.3"
+}

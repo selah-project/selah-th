@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "proverbs 14:19",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 14,
+  "translation": "คนชั่วก้มลงต่อพลังคนดี และคนอธรรม ณ ประตูของคนชอบธรรม",
+  "tokens": [
+    {
+      "surface": "שחו",
+      "gloss": "ก้มลง"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "คนชั่ว"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "ต่อพลัง"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "คนดี"
+    },
+    {
+      "surface": "ורשעים",
+      "gloss": "และคนอธรรม"
+    },
+    {
+      "surface": "על",
+      "gloss": "ณ"
+    },
+    {
+      "surface": "שערי",
+      "gloss": "ประตูของ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "คนชอบธรรม"
+    }
+  ],
+  "timestamp": "2026-08-20T12:15:04.770173874Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 26,
+  "translation": "เหล่านี้คือตระกูลของชาวชิเมโอนี สองหมื่นสองพันสองร้อย",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "เหล่านี้"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "ตระกูล"
+    },
+    {
+      "surface": "השמעני",
+      "gloss": "ชาวชิเมโอนี"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "และยี่สิบ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "และร้อย"
+    }
+  ],
+  "timestamp": "2026-08-20T14:26:09.185925823Z",
+  "model": "glm-5.3"
+}

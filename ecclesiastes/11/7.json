@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "และแสงสว่างนั้นหวาน และดีแก่ดวงตาที่จะเห็น ⟨את⟩ ดวงอาทิตย์",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "และหวาน"
+    },
+    {
+      "surface": "האור",
+      "gloss": "แสงสว่าง"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "และดี"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "แก่ดวงตา"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "ที่จะเห็น"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ดวงอาทิตย์"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "ดวงอาทิตย์"
+    }
+  ],
+  "timestamp": "2026-08-20T13:03:03.096310574Z",
+  "model": "glm-5.3"
+}

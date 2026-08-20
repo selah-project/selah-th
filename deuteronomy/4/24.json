@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 4:24",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "เพราะว่ายาห์เวห์เอโลฮิมของท่านนั้น คือไฟที่เผาผลาญ เอลผู้หวงแหน",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะว่า"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "ยาห์เวห์"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "เอโลฮิมของท่าน"
+    },
+    {
+      "surface": "אש",
+      "gloss": "ไฟ"
+    },
+    {
+      "surface": "אכלה",
+      "gloss": "ที่เผาผลาญ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "คือ\/พระองค์นั้น"
+    },
+    {
+      "surface": "אל",
+      "gloss": "เอล"
+    },
+    {
+      "surface": "קנא",
+      "gloss": "ผู้หวงแหน"
+    }
+  ],
+  "timestamp": "2026-08-20T07:54:34.516547667Z",
+  "model": "glm-5.3"
+}

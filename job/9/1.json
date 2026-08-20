@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 9:1",
+  "book": "job",
+  "lang": "th",
+  "chapter": 9,
+  "translation": "แล้วอียอบทูลตอบและกล่าวว่า",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "และทูลตอบ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "อียอบ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "และกล่าวว่า"
+    }
+  ],
+  "timestamp": "2026-08-20T12:30:25.281519909Z",
+  "model": "glm-5.3"
+}

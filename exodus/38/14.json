@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 38:14",
+  "book": "exodus",
+  "lang": "th",
+  "chapter": 38,
+  "translation": "ม่านหนึ่งฝั่งสิบห้าศ肘 ถึงไหล่ เสาของมันสาม และฐานรากของมันสาม",
+  "tokens": [
+    {
+      "surface": "קלעים",
+      "gloss": "ม่าน"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "ห้า"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "สิบ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "ศ肘"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "הכתף",
+      "gloss": "ไหล่"
+    },
+    {
+      "surface": "עמודיהם",
+      "gloss": "เสาของมัน"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "ואדניהם",
+      "gloss": "และฐานรากของมัน"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "สาม"
+    }
+  ],
+  "timestamp": "2026-08-20T07:18:22.149823673Z",
+  "model": "glm-5.3"
+}

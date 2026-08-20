@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "ทั้งชุมนุม ⟨is⟩ รวมกันดั่งหนึ่งเดียว สี่หมื่นสองพันสามร้อยหกสิบ",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "ทั้งหมด"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "ชุมนุม"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "รวมกันดั่งหนึ่งเดียว"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "สี่"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "หมื่น"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "สาม"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "และหกสิบ"
+    }
+  ],
+  "timestamp": "2026-08-20T13:31:03.022602872Z",
+  "model": "glm-5.3"
+}

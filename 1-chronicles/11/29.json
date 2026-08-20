@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 11:29",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 11,
+  "translation": "สิบเคยี ชาวฮูชัต อีไลยี ชาวอาโฮฮัต",
+  "tokens": [
+    {
+      "surface": "סבכי",
+      "gloss": "สิบเคยี"
+    },
+    {
+      "surface": "החשתי",
+      "gloss": "ชาวฮูชัต"
+    },
+    {
+      "surface": "עילי",
+      "gloss": "อีไลยี"
+    },
+    {
+      "surface": "האחוחי",
+      "gloss": "ชาวอาโฮฮัต"
+    }
+  ],
+  "timestamp": "2026-08-20T13:44:44.798781511Z",
+  "model": "glm-5.3"
+}

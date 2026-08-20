@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "คนแห่งคีรยัท-เยอาริม คือเฟียราห์ และเบเอโรท เจ็ดร้อยสี่สิบสามคน",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "คนแห่ง"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "คีรยัท"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "เยอาริม"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "เฟียราห์"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "และเบเอโรท"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "เจ็ด"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "สี่สิบ"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "และสาม"
+    }
+  ],
+  "timestamp": "2026-08-20T13:30:40.815869999Z",
+  "model": "glm-5.3"
+}

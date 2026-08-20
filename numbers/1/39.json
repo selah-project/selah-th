@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 1:39",
+  "book": "numbers",
+  "lang": "th",
+  "chapter": 1,
+  "translation": "ผู้ถูกนับของเผ่าดาน หกหมื่นสองพันเจ็ดร้อย",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "ผู้ถูกนับของ"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "เผ่า"
+    },
+    {
+      "surface": "דן",
+      "gloss": "ดาน"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "สอง"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "และหกสิบ"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "พัน"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "และเจ็ด"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    }
+  ],
+  "timestamp": "2026-08-20T07:32:26.419225857Z",
+  "model": "glm-5.3"
+}

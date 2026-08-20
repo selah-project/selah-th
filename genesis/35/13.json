@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 35:13",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 35,
+  "translation": "และเอโลฮิมทรงขึ้นจากเหนือเขา ณ สถาน⟨the⟩ที่ซึ่งพระองค์ตรัสกับ ⟨את⟩ เขา",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "และทรงขึ้น"
+    },
+    {
+      "surface": "מעליו",
+      "gloss": "จากเหนือเขา"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "เอโลฮิม"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ณ สถานที่"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "ตรัส"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "เขา"
+    }
+  ],
+  "timestamp": "2026-08-20T06:53:36.206041312Z",
+  "model": "glm-5.3"
+}

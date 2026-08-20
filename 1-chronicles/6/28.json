@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "บุตรยาฮัท บุตรเกเรชม บุตรเลวี",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "ยาฮัท"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "เกเรชม"
+    },
+    {
+      "surface": "בן",
+      "gloss": "บุตร"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "เลวี"
+    }
+  ],
+  "timestamp": "2026-08-20T13:41:43.562447254Z",
+  "model": "glm-5.3"
+}

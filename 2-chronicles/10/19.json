@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-chronicles 10:19",
+  "book": "2-chronicles",
+  "lang": "th",
+  "chapter": 10,
+  "translation": "ฝ่ายยิสราเอลกบฏต่อเชื้อสายของดาวิดจนถึงวันนี้",
+  "tokens": [
+    {
+      "surface": "ויפשעו",
+      "gloss": "ฝ่าย...กบฏ"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "ยิสราเอล"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "ต่อเชื้อสายของ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "ดาวิด"
+    },
+    {
+      "surface": "עד",
+      "gloss": "จนถึง"
+    },
+    {
+      "surface": "היום",
+      "gloss": "วัน"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "นี้"
+    }
+  ],
+  "timestamp": "2026-08-20T14:01:13.341069231Z",
+  "model": "glm-5.3"
+}

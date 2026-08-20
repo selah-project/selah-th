@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 4,
+  "translation": "และบุตรของเฮลาห์ คือเซเรท ยิทซ์ฮาร์ และเอทนาน",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "และบุตรของ"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "เฮลาห์"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "เซเรท"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "ยิทซ์ฮาร์"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "และเอทนาน"
+    }
+  ],
+  "timestamp": "2026-08-20T13:39:06.556998506Z",
+  "model": "glm-5.3"
+}

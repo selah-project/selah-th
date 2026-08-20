@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 6:28",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "หรือว่าถ้าชายคนหนึ่งเดินบนถ่านไฟ และเท้าของเขาจะไม่ถูกลวกหรือ",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "ถ้า"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "เดิน"
+    },
+    {
+      "surface": "איש",
+      "gloss": "ชายคนหนึ่ง"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "הגחלים",
+      "gloss": "ถ่านไฟ"
+    },
+    {
+      "surface": "ורגליו",
+      "gloss": "และเท้าของเขา"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תכוינה",
+      "gloss": "ถูกลวก"
+    }
+  ],
+  "timestamp": "2026-08-20T12:11:57.250381986Z",
+  "model": "glm-5.3"
+}

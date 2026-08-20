@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "และถ้อยคำเหล่านี้ ซึ่ง ⟨เรา⟩ ⟨אנכי⟩ บัญชาเจ้าในวันนี้ จะอยู่บนใจของเจ้า",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "และจะเป็น"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "ถ้อยคำ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "เหล่านี้"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨אנכי⟩ ข้า"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "บัญชาเจ้า"
+    },
+    {
+      "surface": "היום",
+      "gloss": "ในวันนี้"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "ใจของเจ้า"
+    }
+  ],
+  "timestamp": "2026-08-20T07:53:55.988162526Z",
+  "model": "glm-5.3"
+}

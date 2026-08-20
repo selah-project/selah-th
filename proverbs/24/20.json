@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 24:20",
+  "book": "proverbs",
+  "lang": "th",
+  "chapter": 24,
+  "translation": "เพราะว่าไม่มีอนาคตแก่คนชั่ว ตะเกียงของคนอธรรมจะดับสูญ",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "เพราะว่า"
+    },
+    {
+      "surface": "לא",
+      "gloss": "ไม่"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "มี"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "อนาคต"
+    },
+    {
+      "surface": "לרע",
+      "gloss": "แก่คนชั่ว"
+    },
+    {
+      "surface": "נר",
+      "gloss": "ตะเกียง"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "ของคนอธรรม"
+    },
+    {
+      "surface": "ידעך",
+      "gloss": "จะดับสูญ"
+    }
+  ],
+  "timestamp": "2026-08-20T14:53:15.107101254Z",
+  "model": "glm-5.3"
+}

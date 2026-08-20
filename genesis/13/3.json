@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 13:3",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 13,
+  "translation": "และเขาเดินทางเป็นขั้น ๆ ของเขา จากเนเกบ จนถึงเบท เอล ถึง⟨the⟩สถานที่ซึ่งเต็นท์ของเขา ⟨had been⟩ ที่นั่นแต่เดิม ระหว่างเบท เอลกับฮะอี",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "และเขาเดินทาง"
+    },
+    {
+      "surface": "למסעיו",
+      "gloss": "เป็นขั้น ๆ ของเขา"
+    },
+    {
+      "surface": "מנגב",
+      "gloss": "จากเนเกบ"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "จนถึง"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบท"
+    },
+    {
+      "surface": "אל",
+      "gloss": "เอล"
+    },
+    {
+      "surface": "עד",
+      "gloss": "ถึง"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "⟨the⟩สถานที่"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "ซึ่ง"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨had been⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "ที่นั่น"
+    },
+    {
+      "surface": "אהלה",
+      "gloss": "เต็นท์ของเขา"
+    },
+    {
+      "surface": "בתחלה",
+      "gloss": "แต่เดิม"
+    },
+    {
+      "surface": "בין",
+      "gloss": "ระหว่าง"
+    },
+    {
+      "surface": "בית",
+      "gloss": "เบท"
+    },
+    {
+      "surface": "אל",
+      "gloss": "เอล"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "กับ"
+    },
+    {
+      "surface": "העי",
+      "gloss": "ฮะอี"
+    }
+  ],
+  "timestamp": "2026-08-20T06:43:30.104069922Z",
+  "model": "glm-5.3"
+}

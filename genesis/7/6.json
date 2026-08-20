@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "th",
+  "chapter": 7,
+  "translation": "และโนอาห์เป็นโอรสอายุหกร้อยปี และהมาบูลเป็นน้ำท่วมบนแผ่นดินโลก",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "และโนอาห์"
+    },
+    {
+      "surface": "בן",
+      "gloss": "โอรส"
+    },
+    {
+      "surface": "שש",
+      "gloss": "หก"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "ร้อย"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "ปี"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "และהมาบูล"
+    },
+    {
+      "surface": "היה",
+      "gloss": "เป็น"
+    },
+    {
+      "surface": "מים",
+      "gloss": "น้ำ"
+    },
+    {
+      "surface": "על",
+      "gloss": "บน"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "แผ่นดินโลก"
+    }
+  ],
+  "timestamp": "2026-08-20T06:41:04.700412763Z",
+  "model": "glm-5.3"
+}

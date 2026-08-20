@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "th",
+  "chapter": 23,
+  "translation": "บุตรชายของเคฮาท: อัมราม ยิทฮาร์ เฮวรอน และอุสซีเอล สี่คน",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "บุตรชายของ"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "เคฮาท"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "อัมราม"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "ยิทฮาร์"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "เฮวรอน"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "และอุสซีเอล"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "สี่"
+    }
+  ],
+  "timestamp": "2026-08-20T13:52:07.707177366Z",
+  "model": "glm-5.3"
+}

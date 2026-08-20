@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "th",
+  "chapter": 6,
+  "translation": "การเห็นของดวงตาดีกว่าการท่องเที่ยวไปของנephesh นี่ก็เป็นเฮเวลและการเลี้ยงแกะลมพร้อมกัน",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "ดีกว่า"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "การเห็น"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "ของดวงตา"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "การท่องเที่ยวไป"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "ของชีวิต"
+    },
+    {
+      "surface": "גם",
+      "gloss": "ก็"
+    },
+    {
+      "surface": "זה",
+      "gloss": "นี่"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "เฮเวล"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "และการเลี้ยงแกะ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "ลม"
+    }
+  ],
+  "timestamp": "2026-08-20T13:01:59.782778313Z",
+  "model": "glm-5.3"
+}
