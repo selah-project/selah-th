@@ -5,25 +5,25 @@
   "book": "1-chronicles",
   "lang": "th",
   "chapter": 11,
-  "translation": "อีรา ⟨the⟩ ยิทรี กาเรบ ⟨the⟩ ยิทรี",
+  "translation": "อิรา ⟨ה⟩ยิทรี การเบบ ⟨ה⟩ยิทรี",
   "tokens": [
     {
       "surface": "עירא",
-      "gloss": "อีรา"
+      "gloss": "อิรา"
     },
     {
       "surface": "היתרי",
-      "gloss": "ยิทรี"
+      "gloss": "⟨ה⟩ยิทรี"
     },
     {
       "surface": "גרב",
-      "gloss": "กาเรบ"
+      "gloss": "การเบบ"
     },
     {
       "surface": "היתרי",
-      "gloss": "ยิทรี"
+      "gloss": "⟨ה⟩ยิทรี"
     }
   ],
-  "timestamp": "2026-08-20T13:43:27.683430397Z",
+  "timestamp": "2026-08-24T04:44:28.579615252Z",
   "model": "glm-5.3"
 }

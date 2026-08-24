@@ -5,36 +5,36 @@
   "book": "1-chronicles",
   "lang": "th",
   "chapter": 1,
-  "translation": "และ ⟨את⟩ ⟨the⟩ เยบูสี และ ⟨את⟩ ⟨the⟩ อาโมรี และ ⟨את⟩ ⟨the⟩ กิรกาสี",
+  "translation": "และ ⟨את⟩ คนเยบูสี และ ⟨את⟩ คนเอโมรี และ ⟨את⟩ คนกิรกาชี",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "และ ⟨את⟩",
-      "marks": "เยบูสี"
+      "gloss": "⟨את⟩",
+      "marks": "คนเยบูสี"
     },
     {
       "surface": "היבוסי",
-      "gloss": "⟨the⟩ เยบูสี"
+      "gloss": "คนเยบูสี"
     },
     {
       "surface": "ואת",
-      "gloss": "และ ⟨את⟩",
-      "marks": "อาโมรี"
+      "gloss": "⟨את⟩",
+      "marks": "คนเอโมรี"
     },
     {
       "surface": "האמרי",
-      "gloss": "⟨the⟩ อาโมรี"
+      "gloss": "คนเอโมรี"
     },
     {
       "surface": "ואת",
-      "gloss": "และ ⟨את⟩",
-      "marks": "กิรกาสี"
+      "gloss": "⟨את⟩",
+      "marks": "คนกิรกาชี"
     },
     {
       "surface": "הגרגשי",
-      "gloss": "⟨the⟩ กิรกาสี"
+      "gloss": "คนกิรกาชี"
     }
   ],
-  "timestamp": "2026-08-20T13:36:29.881207957Z",
+  "timestamp": "2026-08-24T04:42:54.204544517Z",
   "model": "glm-5.3"
 }

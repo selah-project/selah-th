@@ -5,18 +5,18 @@
   "book": "1-chronicles",
   "lang": "th",
   "chapter": 11,
-  "translation": "เชทโร ⟨the⟩ คารเมลี นาอะไร บุตร เอสบาย",
+  "translation": "เชทโร ⟨ה⟩คารเมลี นาอะไร บุตร เอซบาย",
   "tokens": [
     {
       "surface": "חצרו",
       "gloss": "เชทโร"
     },
     {
-      "surface": "הכרמלי",
-      "gloss": "คารเมลี"
+      "surface": "הכרมלי",
+      "gloss": "⟨ה⟩คารเมลี"
     },
     {
-      "surface": "นערי",
+      "surface": "נערי",
       "gloss": "นาอะไร"
     },
     {
@@ -25,9 +25,9 @@
     },
     {
       "surface": "אזבי",
-      "gloss": "เอสบาย"
+      "gloss": "เอซบาย"
     }
   ],
-  "timestamp": "2026-08-20T13:43:27.682891652Z",
+  "timestamp": "2026-08-24T04:44:28.579174549Z",
   "model": "glm-5.3"
 }

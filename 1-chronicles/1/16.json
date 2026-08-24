@@ -5,36 +5,36 @@
   "book": "1-chronicles",
   "lang": "th",
   "chapter": 1,
-  "translation": "และ ⟨את⟩ ⟨the⟩ อารวาดี และ ⟨את⟩ ⟨the⟩ เศมารี และ ⟨את⟩ ⟨the⟩ ฮามัที",
+  "translation": "และ ⟨את⟩ คนอารวาดี และ ⟨את⟩ คนเซมารี และ ⟨את⟩ คนฮามัที",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "และ ⟨את⟩",
-      "marks": "อารวาดี"
+      "gloss": "⟨את⟩",
+      "marks": "คนอารวาดี"
     },
     {
       "surface": "הארודי",
-      "gloss": "⟨the⟩ อารวาดี"
+      "gloss": "คนอารวาดี"
     },
     {
       "surface": "ואת",
-      "gloss": "และ ⟨את⟩",
-      "marks": "เศมารี"
+      "gloss": "⟨את⟩",
+      "marks": "คนเซมารี"
     },
     {
       "surface": "הצמרי",
-      "gloss": "⟨the⟩ เศมารี"
+      "gloss": "คนเซมารี"
     },
     {
       "surface": "ואת",
-      "gloss": "และ ⟨את⟩",
-      "marks": "ฮามัที"
+      "gloss": "⟨את⟩",
+      "marks": "คนฮามัที"
     },
     {
       "surface": "החמתי",
-      "gloss": "⟨the⟩ ฮามัที"
+      "gloss": "คนฮามัที"
     }
   ],
-  "timestamp": "2026-08-20T13:36:29.881596939Z",
+  "timestamp": "2026-08-24T04:42:54.204925664Z",
   "model": "glm-5.3"
 }

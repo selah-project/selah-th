@@ -5,36 +5,36 @@
   "book": "1-chronicles",
   "lang": "th",
   "chapter": 1,
-  "translation": "และ ⟨את⟩ ⟨the⟩ ฮิววี และ ⟨את⟩ ⟨the⟩ อารคี และ ⟨את⟩ ⟨the⟩ ซินี",
+  "translation": "และ ⟨את⟩ คนฮิวี และ ⟨את⟩ คนอารคี และ ⟨את⟩ คนซีนี",
   "tokens": [
     {
       "surface": "ואת",
-      "gloss": "และ ⟨את⟩",
-      "marks": "ฮิววี"
+      "gloss": "⟨את⟩",
+      "marks": "คนฮิวี"
     },
     {
       "surface": "החוי",
-      "gloss": "⟨the⟩ ฮิววี"
+      "gloss": "คนฮิวี"
     },
     {
       "surface": "ואת",
-      "gloss": "และ ⟨את⟩",
-      "marks": "อารคี"
+      "gloss": "⟨את⟩",
+      "marks": "คนอารคี"
     },
     {
       "surface": "הערקי",
-      "gloss": "⟨the⟩ อารคี"
+      "gloss": "คนอารคี"
     },
     {
       "surface": "ואת",
-      "gloss": "และ ⟨את⟩",
-      "marks": "ซินี"
+      "gloss": "⟨את⟩",
+      "marks": "คนซีนี"
     },
     {
       "surface": "הסיני",
-      "gloss": "⟨the⟩ ซินี"
+      "gloss": "คนซีนี"
     }
   ],
-  "timestamp": "2026-08-20T13:36:29.881420483Z",
+  "timestamp": "2026-08-24T04:42:54.204782433Z",
   "model": "glm-5.3"
 }

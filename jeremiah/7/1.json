@@ -5,41 +5,42 @@
   "book": "jeremiah",
   "lang": "th",
   "chapter": 7,
-  "translation": "הדברת אשר היה אל ירמיהו ⟨את⟩ מאת יהוה לאמר",
+  "translation": "พระดำรัสซึ่งมาถึงเยอร์มียาฮูจาก ⟨את⟩ ยาห์เวห์ กล่าวว่า",
   "tokens": [
     {
       "surface": "הדבר",
-      "gloss": "הדברת"
+      "gloss": "พระดำรัส"
     },
     {
       "surface": "אשר",
-      "gloss": "אשר"
+      "gloss": "ซึ่ง"
     },
     {
       "surface": "היה",
-      "gloss": "היה"
+      "gloss": "มาถึง\/เป็น"
     },
     {
       "surface": "אל",
-      "gloss": "אל"
+      "gloss": "ถึง"
     },
     {
       "surface": "ירמיהו",
-      "gloss": "ירמיהו"
+      "gloss": "เยอร์มียาฮู"
     },
     {
       "surface": "מאת",
-      "gloss": "⟨את⟩ מאת"
+      "gloss": "⟨את⟩",
+      "marks": "จากยาห์เวห์"
     },
     {
       "surface": "יהוה",
-      "gloss": "יהוה"
+      "gloss": "ยาห์เวห์"
     },
     {
       "surface": "לאמר",
-      "gloss": "לאמר"
+      "gloss": "กล่าวว่า"
     }
   ],
-  "timestamp": "2026-08-20T22:11:23.356165727Z",
+  "timestamp": "2026-08-24T04:15:12.712175945Z",
   "model": "glm-5.3"
 }

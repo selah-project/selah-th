@@ -5,101 +5,101 @@
   "book": "leviticus",
   "lang": "th",
   "chapter": 17,
-  "translation": "and does not bring it to the entrance of the Tent of Meeting, to present an offering before Yahweh, before the tabernacle of Yahweh — blood shall be reckoned to that man; he has shed blood, and that man shall be cut off from among his people",
+  "translation": "และไม่ได้นำมันมายังประตูท้องพระโรงแห่งการประชุม เพื่อถวายเครื่องบูชาแด่ยาห์เวห์ต่อพระพักตร์พำนักแห่งยาห์เวห์ — โลหิตจะถูกลงแก่ผู้ชายคนนั้น เขาได้เทโลหิต และผู้ชายคนนั้นจะถูกตัดขาดจากท่ามกลางประชาชนของเขา",
   "tokens": [
     {
       "surface": "ואל",
-      "gloss": "and to"
+      "gloss": "และยัง"
     },
     {
       "surface": "פתח",
-      "gloss": "the entrance of"
+      "gloss": "ประตู"
     },
     {
       "surface": "אהל",
-      "gloss": "the Tent of"
+      "gloss": "ท้องพระโรง"
     },
     {
       "surface": "מועד",
-      "gloss": "Meeting"
+      "gloss": "แห่งการประชุม"
     },
     {
       "surface": "לא",
-      "gloss": "not"
+      "gloss": "ไม่ได้"
     },
     {
       "surface": "הביאו",
-      "gloss": "bring it"
+      "gloss": "นำมันมา"
     },
     {
       "surface": "להקריב",
-      "gloss": "to present"
+      "gloss": "เพื่อถวาย"
     },
     {
       "surface": "קרבן",
-      "gloss": "an offering"
+      "gloss": "เครื่องบูชา"
     },
     {
       "surface": "ליהוה",
-      "gloss": "to Yahweh"
+      "gloss": "แด่ยาห์เวห์"
     },
     {
       "surface": "לפני",
-      "gloss": "before"
+      "gloss": "ต่อพระพักตร์"
     },
     {
       "surface": "משכן",
-      "gloss": "the tabernacle of"
+      "gloss": "พำนัก"
     },
     {
       "surface": "יהוה",
-      "gloss": "Yahweh"
+      "gloss": "ยาห์เวห์"
     },
     {
       "surface": "דם",
-      "gloss": "blood"
+      "gloss": "โลหิต"
     },
     {
-      "surface": "יחשב",
-      "gloss": "shall be reckoned"
+      "surface": "יחשบ",
+      "gloss": "จะถูกลงแก่"
     },
     {
       "surface": "לאיש",
-      "gloss": "to that man"
+      "gloss": "แก่ผู้ชาย"
     },
     {
       "surface": "ההוא",
-      "gloss": "that"
+      "gloss": "คนนั้น"
     },
     {
       "surface": "דם",
-      "gloss": "blood"
+      "gloss": "โลหิต"
     },
     {
       "surface": "שפך",
-      "gloss": "he has shed"
+      "gloss": "เขาได้เท"
     },
     {
       "surface": "ונכרת",
-      "gloss": "and shall be cut off"
+      "gloss": "และจะถูกตัดขาด"
     },
     {
       "surface": "האיש",
-      "gloss": "that man"
+      "gloss": "ผู้ชาย"
     },
     {
       "surface": "ההוא",
-      "gloss": "that"
+      "gloss": "คนนั้น"
     },
     {
       "surface": "מקרב",
-      "gloss": "from the midst of"
+      "gloss": "จากท่ามกลาง"
     },
     {
       "surface": "עמו",
-      "gloss": "his people"
+      "gloss": "ประชาชนของเขา"
     }
   ],
-  "timestamp": "2026-08-20T14:23:14.612935229Z",
+  "timestamp": "2026-08-24T03:32:40.582149649Z",
   "model": "glm-5.3"
 }

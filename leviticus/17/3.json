@@ -5,77 +5,77 @@
   "book": "leviticus",
   "lang": "th",
   "chapter": 17,
-  "translation": " Anyone from the house of Israel who slaughters an ox, or a lamb, or a goat within the camp, or who slaughters ⟨it⟩ outside the camp",
+  "translation": "ผู้ชายใดก็ตามจากวงศ์วานยิสราเอล ผู้ซึ่งเชือดวัว หรือลูกแกะ หรือแพะ ในค่าย หรือผู้ซึ่งเชือดนอกค่าย",
   "tokens": [
     {
       "surface": "איש",
-      "gloss": "Anyone"
+      "gloss": "ผู้ชาย"
     },
     {
       "surface": "איש",
-      "gloss": "anyone"
+      "gloss": "ใดก็ตาม"
     },
     {
       "surface": "מבית",
-      "gloss": "from the house of"
+      "gloss": "จากวงศ์วาน"
     },
     {
       "surface": "ישראל",
-      "gloss": "Yisrael"
+      "gloss": "ยิสราเอล"
     },
     {
       "surface": "אשר",
-      "gloss": "who"
+      "gloss": "ผู้ซึ่ง"
     },
     {
       "surface": "ישחט",
-      "gloss": "slaughters"
+      "gloss": "เชือด"
     },
     {
       "surface": "שור",
-      "gloss": "an ox"
+      "gloss": "วัว"
     },
     {
       "surface": "או",
-      "gloss": "or"
+      "gloss": "หรือ"
     },
     {
       "surface": "כשב",
-      "gloss": "a lamb"
+      "gloss": "ลูกแกะ"
     },
     {
       "surface": "או",
-      "gloss": "or"
+      "gloss": "หรือ"
     },
     {
       "surface": "עז",
-      "gloss": "a goat"
+      "gloss": "แพะ"
     },
     {
       "surface": "במחנה",
-      "gloss": "within the camp"
+      "gloss": "ในค่าย"
     },
     {
       "surface": "או",
-      "gloss": "or"
+      "gloss": "หรือ"
     },
     {
       "surface": "אשר",
-      "gloss": "who"
+      "gloss": "ผู้ซึ่ง"
     },
     {
       "surface": "ישחט",
-      "gloss": "slaughters"
+      "gloss": "เชือด"
     },
     {
       "surface": "מחוץ",
-      "gloss": "outside"
+      "gloss": "นอก"
     },
     {
       "surface": "למחנה",
-      "gloss": "of the camp"
+      "gloss": "ค่าย"
     }
   ],
-  "timestamp": "2026-08-20T14:23:14.612145377Z",
+  "timestamp": "2026-08-24T03:32:40.581958876Z",
   "model": "glm-5.3"
 }
