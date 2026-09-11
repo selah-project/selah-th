@@ -62,3 +62,8 @@
 และคำพยาน ทีมดูแลเทียบข้อเสนอกับฮีบรู กับกฎ กับแหล่งอ้างอิง
 และกับการเรียงคำ — อาจยอมรับ แก้ร่วมกับท่าน รอหลักฐานเพิ่ม
 หรือปฏิเสธพร้อมเหตุผล ข้อความคือสิ่งที่ถูกประเมิน ไม่ใช่ตัวบุคคล
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
